@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Badvanced_search_expanded%5D=true</id>
     <title>Otomoto</title>
-    <updated>2023-11-17T21:09:35.920Z</updated>
+    <updated>2023-11-17T21:28:17.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html"/>
         <updated>2023-11-17T21:09:35.234Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 SW, Active, Pierwszy właściciel, serwisowany, stan idealny  ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html"/>
+        <updated>2023-11-17T21:09:35.275Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU  ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8]]></title>
@@ -123,13 +130,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-vat23-xenon-led-panorama-bezwypadek-ID6FLF3m.html"/>
         <updated>2023-11-17T21:09:35.268Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT Line VAT23% Xenon Led Panorama Bezwypadek  ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html"/>
-        <updated>2023-11-17T21:09:35.275Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU  ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
