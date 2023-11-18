@@ -14,7 +14,7 @@ waitUntil = "load"
 [NoFluffJobs]
 url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
 entrySelector = "a.posting-list-item"
-titleSelector = "h3.title"
+titleSelector = "h3.posting-title__position"
 linkSelector = "a.posting-list-item[href]"
 contentSelector = ["span.company", "span.salary", "common-posting-item-tag span"]
 waitUntil = "load"
