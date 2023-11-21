@@ -7,7 +7,7 @@ entrySelector = "article.ooa-1t80gpj.ev7e6t818"
 titleSelector = "h1 > a"
 # titleSelector = "h1 a[href]"
 linkSelector = "h1 > a[href]"
-contentSelector = [".ev7e6t88.ooa-17thc3y.er34gjf0", "dd data-parameter[mileage]", "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj", "h3.ev7e6t82.ooa-bz4efo.er34gjf0" ]
+contentSelector = [".ev7e6t88.ooa-17thc3y.er34gjf0", "dd data-parameter[mileage]", "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj", "h3.ev7e6t82.ooa-bz4efo.er34gjf0", "p.e1aiyq9b0.ooa-1i4y99d.er34gjf0"]
 dateSelector = "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj"
 waitUntil = "load"
 
@@ -15,7 +15,7 @@ waitUntil = "load"
 url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
 entrySelector = "a.posting-list-item"
 titleSelector = "h3.posting-title__position"
-linkSelector = "a.posting-list-item[href]"
+linkSelector = "*"
 contentSelector = ["span.company", "span.salary", "common-posting-item-tag span"]
 waitUntil = "load"
 
@@ -23,9 +23,9 @@ waitUntil = "load"
 url = [ "https://justjoin.it/all-locations/admin/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time",
 "https://justjoin.it/all-locations/devops/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time"
 ]
-# entrySelector = "div.css-2crog7"
-entrySelector = "div[data-index]"
+entrySelector = "div.css-1iq2gw3"
+# entrySelector = "div[data-index]"
 titleSelector = "h2.css-16gpjqw"
-linkSelector = "a.css-4lqp8g[href]"
+linkSelector = "a.css-4lqp8g"
 contentSelector = ["div.css-ldh1c9 > span", "div.css-68pppj > span", "div.css-1b2ga3v", "div.css-yicj0q"]
-waitUntil = "load"
+waitUntil = "networkidle"
