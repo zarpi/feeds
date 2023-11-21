@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-21T05:33:20.497Z</updated>
+    <updated>2023-11-21T17:36:14.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8 (Otomoto)]]></title>
@@ -12,11 +12,18 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT LINE Vat23% Panorama Xenon Led Kamera Tempomat Bezwypadek   128 535]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html"/>
+        <updated>2023-11-17T21:09:35.275Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam Peugeot 508 SW   99 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 225 EAT8 GT (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-hybrid-phev-225-eat8-gt-ID6G0acd.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-hybrid-phev-225-eat8-gt-ID6G0acd.html"/>
-        <updated>2023-11-19T17:33:01.618Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 225 KM • Peugeot 508 SW Hybrid PHEV 225 EAT8 GT   127 700]]></content>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-hybrid-phev-225-eat8-gt-okazja-ID6G0acd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-hybrid-phev-225-eat8-gt-okazja-ID6G0acd.html"/>
+        <updated>2023-11-21T17:35:59.800Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 225 KM • Peugeot 508 SW Hybrid PHEV 225 EAT8 GT Okazja!   127 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Active S&S EAT8 (Otomoto)]]></title>
@@ -24,6 +31,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html"/>
         <updated>2023-11-17T21:09:35.234Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 SW, Active, Pierwszy właściciel, serwisowany, stan idealny   96 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-fulled-komforty-kamera-martwepole-parkasist-laneasist-puretech-ID6FYTs9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-fulled-komforty-kamera-martwepole-parkasist-laneasist-puretech-ID6FYTs9.html"/>
+        <updated>2023-11-17T21:09:35.276Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT FulLed Komforty Kamera MartwePole ParkAsist LaneAsist PureTech   99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
@@ -79,7 +93,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html"/>
         <updated>2023-11-17T21:09:35.275Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU   100 900]]></content>
+        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU   99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8 (Otomoto)]]></title>
@@ -131,374 +145,353 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • FVAT 23%_Salon Polska_Pełna opcja_1 Właściciel_180 KM_Full LED_Masaże   104 715]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-180ps-allure-skora-ledy-niski-przebieg-aso20-wzor-ID6FZFg9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-180ps-allure-skora-ledy-niski-przebieg-aso20-wzor-ID6FZFg9.html"/>
-        <updated>2023-11-17T21:09:35.247Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 180ps !! ALLURE ! SKÓRA ! LEDY ! Niski Przebieg ! Aso20 ! Wzór   88 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html"/>
-        <updated>2023-11-17T21:09:35.275Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam Peugeot 508 SW   99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-fulled-komforty-kamera-martwepole-parkasist-laneasist-puretech-ID6FYTs9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-fulled-komforty-kamera-martwepole-parkasist-laneasist-puretech-ID6FYTs9.html"/>
-        <updated>2023-11-17T21:09:35.276Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT FulLed Komforty Kamera MartwePole ParkAsist LaneAsist PureTech   99 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.071Z</updated>
+        <updated>2023-11-21T17:36:07.788Z</updated>
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hybrid Cloud Demand Manager (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.072Z</updated>
+        <updated>2023-11-21T17:36:07.789Z</updated>
         <content type="html"><![CDATA[ 17 000  – 25 000  PLN Azure]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer + Azure Remote (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.077Z</updated>
+        <updated>2023-11-21T17:36:07.790Z</updated>
         <content type="html"><![CDATA[ 30 240  – 35 280  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.085Z</updated>
+        <updated>2023-11-21T17:36:07.790Z</updated>
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Software Engineer/DevOps (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.089Z</updated>
+        <updated>2023-11-21T17:36:07.791Z</updated>
         <content type="html"><![CDATA[ 9 500  – 17 000  PLN Python]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.091Z</updated>
+        <updated>2023-11-21T17:36:07.792Z</updated>
         <content type="html"><![CDATA[ 13 700  – 20 000  PLN Java]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👉AWS and Azure DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.092Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 31 000  PLN AWS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.093Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 30 240  PLN Python]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.094Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 35 280  PLN Java]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Senior AWS DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.095Z</updated>
-        <content type="html"><![CDATA[ 7 224  – 7 896  USD Node.js]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Software Engineer (Cloud) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.096Z</updated>
+        <updated>2023-11-21T17:36:07.792Z</updated>
         <content type="html"><![CDATA[ 13 000  – 21 000  PLN Python]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure DevOps Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.097Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 30 240  PLN Azure]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior AWS DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.098Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 40 000  PLN Python]]></content>
+        <updated>2023-11-21T17:36:07.794Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 30 240  PLN Python]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Lead (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.152Z</updated>
+        <updated>2023-11-21T17:36:07.805Z</updated>
         <content type="html"><![CDATA[ 26 000  – 30 000  PLN Ansible]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps (Infrastructure) Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Remote Senior AWS DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.153Z</updated>
-        <content type="html"><![CDATA[ 25 500  – 30 000  PLN AWS]]></content>
+        <updated>2023-11-21T17:36:07.807Z</updated>
+        <content type="html"><![CDATA[ 7 224  – 7 896  USD Node.js]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (GCP) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.154Z</updated>
+        <updated>2023-11-21T17:36:07.808Z</updated>
         <content type="html"><![CDATA[ 20 000  – 24 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Azure Synapse Administrator (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[👉AWS and Azure DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.155Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 32 000  PLN Azure]]></content>
+        <updated>2023-11-21T17:36:07.809Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 31 000  PLN AWS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Tech Lead (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Senior AWS DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.156Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 38 640  PLN ]]></content>
+        <updated>2023-11-21T17:36:07.809Z</updated>
+        <content type="html"><![CDATA[ 30 000  – 40 000  PLN Python]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer with AWS (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.157Z</updated>
+        <updated>2023-11-21T17:36:07.809Z</updated>
         <content type="html"><![CDATA[ 15 000  – 23 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Remote Devops Engineer (Kubernetes expert) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.158Z</updated>
+        <updated>2023-11-21T17:36:07.810Z</updated>
         <content type="html"><![CDATA[ 5 500  – 8 000  USD kubernetes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps (Infrastructure) Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.811Z</updated>
+        <content type="html"><![CDATA[ 25 500  – 30 000  PLN AWS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Tech Lead (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.812Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 38 640  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.813Z</updated>
+        <content type="html"><![CDATA[ 21 840  – 30 240  PLN Azure]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.814Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 35 280  PLN Java]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Continuous Delivery Engineer (DevSecOps) (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.815Z</updated>
+        <content type="html"><![CDATA[ 5 000  – 7 000  EUR Java]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT Infrastructure and Virtualization Engineer 492 (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.159Z</updated>
+        <updated>2023-11-21T17:36:07.819Z</updated>
         <content type="html"><![CDATA[ 16 800  – 23 520  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps/Administrator (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.160Z</updated>
+        <updated>2023-11-21T17:36:07.820Z</updated>
         <content type="html"><![CDATA[ 20 160  – 24 360  PLN Ansible]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Continuous Delivery Engineer (DevSecOps) (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.161Z</updated>
-        <content type="html"><![CDATA[ 5 000  – 7 000  EUR Java]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Administrator DevOps (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.162Z</updated>
-        <content type="html"><![CDATA[ 10 000  – 15 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Mid DevOps - Docker Swarm (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.163Z</updated>
-        <content type="html"><![CDATA[ 7 000  – 12 000  PLN Docker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.169Z</updated>
-        <content type="html"><![CDATA[ 8 000  – 11 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Workday Integration Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.171Z</updated>
-        <content type="html"><![CDATA[ 21 000  – 27 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devops Engineer (Python) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.176Z</updated>
+        <updated>2023-11-21T17:36:07.821Z</updated>
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Administrator DevOps (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.822Z</updated>
+        <content type="html"><![CDATA[ 10 000  – 15 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Engineering Manager - SRE (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.823Z</updated>
+        <content type="html"><![CDATA[ 35 000  – 42 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.825Z</updated>
+        <content type="html"><![CDATA[ 8 000  – 11 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Azure Synapse Administrator (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.826Z</updated>
+        <content type="html"><![CDATA[ 30 000  – 32 000  PLN Azure]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.827Z</updated>
+        <content type="html"><![CDATA[ 27 000  – 31 000  PLN Jenkins]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer with AWS (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.176Z</updated>
+        <updated>2023-11-21T17:36:07.828Z</updated>
         <content type="html"><![CDATA[ 19 840  – 28 760  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.178Z</updated>
+        <updated>2023-11-21T17:36:07.829Z</updated>
         <content type="html"><![CDATA[ 14 000  – 22 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.178Z</updated>
+        <updated>2023-11-21T17:36:07.830Z</updated>
         <content type="html"><![CDATA[ 16 000  – 20 000  PLN K8s]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Senior Workday Integration Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.178Z</updated>
-        <content type="html"><![CDATA[ 27 000  – 31 000  PLN Jenkins]]></content>
+        <updated>2023-11-21T17:36:07.831Z</updated>
+        <content type="html"><![CDATA[ 21 000  – 27 000  PLN AWS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[IBM Cloud Platform Architect (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.178Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 6 800  USD GCP]]></content>
+        <updated>2023-11-21T17:36:07.832Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 36 120  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[DevOps Engineer (OpenShift/Kubernetes) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.179Z</updated>
-        <content type="html"><![CDATA[ 10 320  – 19 160  PLN Python]]></content>
+        <updated>2023-11-21T17:36:07.833Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 30 240  PLN Kubernetes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer with Python (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.180Z</updated>
+        <updated>2023-11-21T17:36:07.834Z</updated>
         <content type="html"><![CDATA[ 18 000  – 26 000  PLN Python]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Engineering Manager - SRE (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.181Z</updated>
-        <content type="html"><![CDATA[ 35 000  – 42 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.182Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.186Z</updated>
-        <content type="html"><![CDATA[ 13 550  – 19 000  PLN Jenkins]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Senior MacOS Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.187Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 27 000  PLN MacOS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://zarpi.github.io/feeds/all.xml</id>
-        <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.188Z</updated>
-        <content type="html"><![CDATA[ 20 160  – 30 240  PLN Jenkins]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Application Support Specialist (Senior SRE) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.192Z</updated>
+        <updated>2023-11-21T17:36:07.835Z</updated>
         <content type="html"><![CDATA[ 16 500  – 23 000  PLN Python]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lead Application Support Specialist (Lead SRE) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.193Z</updated>
+        <updated>2023-11-21T17:36:07.836Z</updated>
         <content type="html"><![CDATA[ 23 000  – 29 500  PLN Fullstack]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lead Application Support Specialist (Lead SRE) (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.195Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 29 500  PLN Python]]></content>
+        <updated>2023-11-21T17:36:07.837Z</updated>
+        <content type="html"><![CDATA[ 13 550  – 19 000  PLN Jenkins]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (Hadoop) (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.196Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 080  PLN Hadoop]]></content>
+        <updated>2023-11-21T17:36:07.838Z</updated>
+        <content type="html"><![CDATA[ 10 320  – 19 160  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.840Z</updated>
+        <content type="html"><![CDATA[ 20 160  – 30 240  PLN Jenkins]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.841Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 31 000  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.842Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.843Z</updated>
+        <content type="html"><![CDATA[ 6 500  – 6 800  USD GCP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps (NoFluffJobs)]]></title>
+        <id>https://zarpi.github.io/feeds/all.xml</id>
+        <link href="https://zarpi.github.io/feeds/all.xml"/>
+        <updated>2023-11-21T17:36:07.844Z</updated>
+        <content type="html"><![CDATA[ 21 840  – 26 040  PLN Windows]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.203Z</updated>
+        <updated>2023-11-21T17:36:07.845Z</updated>
         <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.204Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 31 000  PLN Python]]></content>
+        <updated>2023-11-21T17:36:07.846Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 30 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System Administrator/Devops, Wrocław (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.204Z</updated>
+        <updated>2023-11-21T17:36:07.847Z</updated>
         <content type="html"><![CDATA[ 4 286  – 5 753  USD ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Junior DevOps (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Remote Mid DevOps - Docker Swarm (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.204Z</updated>
-        <content type="html"><![CDATA[ 15 120  – 21 840  PLN ]]></content>
+        <updated>2023-11-21T17:36:07.848Z</updated>
+        <content type="html"><![CDATA[ 7 000  – 12 000  PLN Docker]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote MacOS Architect ( Expert ) (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Remote Senior MacOS Engineer (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.204Z</updated>
-        <content type="html"><![CDATA[ 28 000  – 34 000  PLN MacOS]]></content>
+        <updated>2023-11-21T17:36:07.849Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 27 000  PLN MacOS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[SENIOR DEVOPS ENGINEER (#973) (NoFluffJobs)]]></title>
         <id>https://zarpi.github.io/feeds/all.xml</id>
         <link href="https://zarpi.github.io/feeds/all.xml"/>
-        <updated>2023-11-21T05:33:14.204Z</updated>
-        <content type="html"><![CDATA[ 14 000  – 18 000  PLN K8s]]></content>
+        <updated>2023-11-21T17:36:07.851Z</updated>
+        <content type="html"><![CDATA[ 6 500  – 6 800  USD Python]]></content>
     </entry>
 </feed>
