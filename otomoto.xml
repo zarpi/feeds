@@ -1,65 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.otomoto.pl/osobowe/peugeot/508--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Badvanced_search_expanded%5D=true</id>
+    <id>https://www.otomoto.pl/osobowe/peugeot/508--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-11-24T05:33:45.562Z</updated>
+    <updated>2023-11-24T15:00:46.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html"/>
-        <updated>2023-11-17T21:09:35.275Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam Peugeot 508 SW 77 000 km Benzyna Automatyczna 2019 Głogoczów (Małopolskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html"/>
-        <updated>2023-11-17T21:09:35.275Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU 76 000 km Benzyna Automatyczna 2019 Cieszyn (Śląskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-ID6FLtFe.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-ID6FLtFe.html"/>
-        <updated>2023-11-23T05:33:00.038Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% 95 634 km Benzyna Automatyczna 2019 Poznań (Wielkopolskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Active S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html"/>
-        <updated>2023-11-17T21:09:35.234Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 SW, Active, Pierwszy właściciel, serwisowany, stan idealny 52 000 km Benzyna Automatyczna 2020 Kąty Wrocławskie (Dolnośląskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-zarejestrowany-ID6FYKVk.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-zarejestrowany-ID6FYKVk.html"/>
-        <updated>2023-11-18T17:32:43.140Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • mały przebieg zarejestrowany 39 000 km Benzyna Automatyczna 2020 Słupca (Wielkopolskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-automat-eat8-14-opcji-dodatkowych-fv23-od-ria-ID6FRoQO.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-automat-eat8-14-opcji-dodatkowych-fv23-od-ria-ID6FRoQO.html"/>
-        <updated>2023-11-17T21:09:35.240Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 180KM | AUTOMAT EAT8 | 14 Opcji dodatkowych! | FV23 od RiA 64 462 km Benzyna Automatyczna 2019 Grudziądz (Kujawsko-pomorskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
-        <updated>2023-11-17T21:09:35.243Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Crossway S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-fvat-23-salon-polska-pelna-opcja-1-wlasciciel-180-km-full-led-masaze-ID6FYIL2.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-fvat-23-salon-polska-pelna-opcja-1-wlasciciel-180-km-full-led-masaze-ID6FYIL2.html"/>
-        <updated>2023-11-17T21:09:35.245Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • FVAT 23%_Salon Polska_Pełna opcja_1 Właściciel_180 KM_Full LED_Masaże 92 100 km Benzyna Automatyczna 2019 Mysłowice (Śląskie) ]]></content>
+        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1wl-polski-panorama-7osobowy-full-led-acc-fv23-ID6FZoWA.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1wl-polski-panorama-7osobowy-full-led-acc-fv23-ID6FZoWA.html"/>
+        <updated>2023-11-17T21:09:35.248Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1WŁ Polski Panorama 7osobowy Full LED ACC FV23% 75 000 km Benzyna Automatyczna 2019 Gdańsk (Pomorskie) ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8]]></title>
@@ -69,11 +20,18 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT FulLed Komforty Kamera MartwePole ParkAsist LaneAsist PureTech 90 000 km Benzyna Automatyczna 2019 Paczków (Opolskie) ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Allure S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1wl-polski-panorama-7osobowy-full-led-acc-fv23-ID6FZoWA.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1wl-polski-panorama-7osobowy-full-led-acc-fv23-ID6FZoWA.html"/>
-        <updated>2023-11-17T21:09:35.248Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1WŁ Polski Panorama 7osobowy Full LED ACC FV23% 75 000 km Benzyna Automatyczna 2019 Gdańsk (Pomorskie) ]]></content>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-zarejestrowany-ID6FYKVk.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-zarejestrowany-ID6FYKVk.html"/>
+        <updated>2023-11-18T17:32:43.140Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • mały przebieg zarejestrowany 39 000 km Benzyna Automatyczna 2020 Słupca (Wielkopolskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Crossway S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-fvat-23-salon-polska-pelna-opcja-1-wlasciciel-180-km-full-led-masaze-ID6FYIL2.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-fvat-23-salon-polska-pelna-opcja-1-wlasciciel-180-km-full-led-masaze-ID6FYIL2.html"/>
+        <updated>2023-11-17T21:09:35.245Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • FVAT 23%_Salon Polska_Pełna opcja_1 Właściciel_180 KM_Full LED_Masaże 92 100 km Benzyna Automatyczna 2019 Mysłowice (Śląskie) ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
@@ -84,17 +42,45 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html"/>
-        <updated>2023-11-17T21:09:35.250Z</updated>
-        <content type="html"><![CDATA[1 600 cm3 • 225 KM • ZAMIANA+GT Line+Fot z Masażami+Nawigacja+Panorama+Kamera+Zarej. w PL 34 000 km Benzyna Automatyczna 2020 Gniezno (Wielkopolskie) ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-181km-benzyna-kombi-allure-fv23-dostepna-gwar-do3lat-ID6FV8hf.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-181km-benzyna-kombi-allure-fv23-dostepna-gwar-do3lat-ID6FV8hf.html"/>
         <updated>2023-11-17T21:09:35.252Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 181 KM • 1.6 PureTech 181KM benzyna kombi Allure, FV23%, Dostępna GWAR. do3lat 39 953 km Benzyna Automatyczna 2021 Swarzędz (Wielkopolskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sprzedam-peugeot-508-sw-ID6FWgEu.html"/>
+        <updated>2023-11-17T21:09:35.275Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam Peugeot 508 SW 77 000 km Benzyna Automatyczna 2019 Głogoczów (Małopolskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Active S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-active-pierwszy-wlasciciel-serwisowany-stan-idealny-ID6FUwtv.html"/>
+        <updated>2023-11-17T21:09:35.234Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 SW, Active, Pierwszy właściciel, serwisowany, stan idealny 52 000 km Benzyna Automatyczna 2020 Kąty Wrocławskie (Dolnośląskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-180ps-skora-navi-virtual-kamera-keyless-blis-led-pamieci-masaze-ful-ID6FUr3L.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-180ps-skora-navi-virtual-kamera-keyless-blis-led-pamieci-masaze-ful-ID6FUr3L.html"/>
+        <updated>2023-11-17T21:09:35.240Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT 180PS Skóra Navi Virtual Kamera KeyLess Blis Led Pamięci Masaże FUL 54 000 km Benzyna Automatyczna 2019 Warszawa (Mazowieckie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech First Edition S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-polski-salon-pierwszy-wlasciciel-ID6FSYg6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-polski-salon-pierwszy-wlasciciel-ID6FSYg6.html"/>
+        <updated>2023-11-24T15:00:24.628Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 225 KM • polski salon, pierwszy właściciel 72 200 km Benzyna Automatyczna 2019 Warszawa (Mazowieckie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-181km-automat-8-biegow-i-kokpit-navi-przebieg-ladny-z-domu-ID6FSwYv.html"/>
+        <updated>2023-11-17T21:09:35.275Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 181 KM • GT-Line,181KM,AUTOMAT 8 biegów, I-kokpit,NAVI, PRZEBIEG! Ładny, z DOMU 76 000 km Benzyna Automatyczna 2019 Cieszyn (Śląskie) ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8]]></title>
@@ -104,11 +90,32 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 GT Line !! Salon PL, 1 właściciel !! autaniszowe.pl !! 64 600 km Benzyna Automatyczna 2019 Radwanice (Dolnośląskie) ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 508]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-automat-eat8-14-opcji-dodatkowych-fv23-od-ria-ID6FRoQO.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-automat-eat8-14-opcji-dodatkowych-fv23-od-ria-ID6FRoQO.html"/>
+        <updated>2023-11-17T21:09:35.240Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 180KM | AUTOMAT EAT8 | 14 Opcji dodatkowych! | FV23 od RiA 64 462 km Benzyna Automatyczna 2019 Grudziądz (Kujawsko-pomorskie) ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-amps-eat8-ID6FNywb.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-amps-eat8-ID6FNywb.html"/>
         <updated>2023-11-17T21:09:35.276Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 128 000 km Benzyna Automatyczna 2020 Gliwice (Śląskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-ID6FLtFe.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-ID6FLtFe.html"/>
+        <updated>2023-11-23T05:33:00.038Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% 95 634 km Benzyna Automatyczna 2019 Poznań (Wielkopolskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html"/>
+        <updated>2023-11-17T21:09:35.250Z</updated>
+        <content type="html"><![CDATA[1 600 cm3 • 225 KM • ZAMIANA+GT Line+Fot z Masażami+Nawigacja+Panorama+Kamera+Zarej. w PL 34 000 km Benzyna Automatyczna 2020 Gniezno (Wielkopolskie) ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8]]></title>
@@ -118,10 +125,10 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 PureTech GT Line Biała Perła 138 000 km Benzyna Automatyczna 2019 Szczecin (Zachodniopomorskie) ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-180ps-skora-navi-virtual-kamera-keyless-blis-led-pamieci-masaze-ful-ID6FUr3L.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-180ps-skora-navi-virtual-kamera-keyless-blis-led-pamieci-masaze-ful-ID6FUr3L.html"/>
-        <updated>2023-11-17T21:09:35.240Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • GT 180PS Skóra Navi Virtual Kamera KeyLess Blis Led Pamięci Masaże FUL 54 000 km Benzyna Automatyczna 2019 Warszawa (Mazowieckie) ]]></content>
+        <title type="html"><![CDATA[Peugeot 508]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
+        <updated>2023-11-17T21:09:35.243Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) ]]></content>
     </entry>
 </feed>
