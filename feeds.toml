@@ -9,7 +9,7 @@ entrySelector = "article.ooa-1t80gpj.ev7e6t818"
 titleSelector = "h1 > a"
 # titleSelector = "h1 a[href]"
 linkSelector = "h1 > a[href]"
-contentSelector = [".ev7e6t88.ooa-17thc3y.er34gjf0", 'dd[data-parameter="mileage"]', 'dd[data-parameter="fuel_type"]',  'dd[data-parameter="gearbox"]', 'dd[data-parameter="year"]', "p.ooa-gmxnzj", "p.ev7e6t82.ooa-bz4efo.er34gjf0"]
+contentSelector = [".ev7e6t88.ooa-17thc3y.er34gjf0", 'dd[data-parameter="mileage"]', 'dd[data-parameter="fuel_type"]',  'dd[data-parameter="gearbox"]', 'dd[data-parameter="year"]', "p.ooa-gmxnzj", "p.ev7e6t82.ooa-bz4efo.er34gjf0", "h3.offer-price__number"]
 dateSelector = "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj"
 waitUntil = "load"
 
