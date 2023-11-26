@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-11-25T21:25:35.213Z</updated>
+    <updated>2023-11-26T05:33:20.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-kupiony-w-polsce-serwisowany-u-dealera-ID6FVW30.html"/>
         <updated>2023-11-25T14:00:10.994Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Pierwszy właściciel, Kupiony w Polsce , serwisowany u dealera 44 000 km Benzyna Automatyczna 2019 Elbląg (Warmińsko-mazurskie) 122 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-13-1-6-puretech-180-km-gt-line-automat-i-wl-gwarancja-fv-23-ID6FVpVO.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-13-1-6-puretech-180-km-gt-line-automat-i-wl-gwarancja-fv-23-ID6FVpVO.html"/>
-        <updated>2023-11-25T14:00:10.995Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • #13# 1.6 PureTech 180 KM GT LINE AUTOMAT / I wł. / GWARANCJA / FV 23% 61 645 km Benzyna Automatyczna 2020 Legnica (Dolnośląskie) 119 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
