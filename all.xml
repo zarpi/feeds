@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-28T17:33:41.532Z</updated>
+    <updated>2023-11-29T05:33:35.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 (Otomoto)]]></title>
@@ -213,6 +213,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
         <updated>2023-11-17T21:09:35.243Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) 116 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-audi-q5-premium-plus-ID6G1ITa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-audi-q5-premium-plus-ID6G1ITa.html"/>
+        <updated>2023-11-29T05:33:11.510Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2020 Audi Q5 Premium Plus 47 211 km Benzyna Automatyczna 2020 Świeszyno (Zachodniopomorskie) 89 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -432,11 +439,11 @@
         <content type="html"><![CDATA[1 984 cm3 • 252 KM • Quattro ! 2.0 TFSI Automat ! Stan Idealny ! 33 000 km Benzyna Automatyczna 2019 Trzebinia (Małopolskie) 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic advanced (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-2-0-benzyna-hybryd-serwis-jak-nowa-faktura-vat-23-ID6FXqw9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-2-0-benzyna-hybryd-serwis-jak-nowa-faktura-vat-23-ID6FXqw9.html"/>
-        <updated>2023-11-25T14:00:14.985Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 150 KM • 2.0 benzyna + hybryd serwis jak nowa FAKTURA vat 23% 39 000 km Benzyna Automatyczna 2021 Jastrzębie-Zdrój (Śląskie) 129 900]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-fv-23-serwisowany-ID6G1JJ0.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-fv-23-serwisowany-ID6G1JJ0.html"/>
+        <updated>2023-11-29T05:33:15.960Z</updated>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Salon Polska , FV 23% serwisowany 93 000 km Benzyna Automatyczna 2020 Bydgoszcz (Kujawsko-pomorskie) 125 460]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 Geartronic R-Design (Otomoto)]]></title>
@@ -654,13 +661,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b5-b-awd-ultimate-bright-fv23-okazja-ID6FYS0f.html"/>
         <updated>2023-11-25T14:00:18.713Z</updated>
         <content type="html"><![CDATA[1 969 cm3 • 250 KM • B5 B AWD Ultimate Bright FV23% Okazja! 8 847 km Benzyna Automatyczna 2022 Gaj (Małopolskie) 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-163km-automat-navi-asyst-pasa-rozp-znakow-kamera-fv23-ID6FYJ1Q.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-163km-automat-navi-asyst-pasa-rozp-znakow-kamera-fv23-ID6FYJ1Q.html"/>
-        <updated>2023-11-28T05:33:15.463Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • 1.5 163KM Automat, Navi, Asyst. Pasa, Rozp. Znaków, Kamera, FV23% 53 000 km Benzyna Automatyczna 2019 Mysłowice (Śląskie) 126 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Managed Cloud Engineer with Azure (NoFluffJobs)]]></title>
