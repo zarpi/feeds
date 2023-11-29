@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-11-29T05:33:35.905Z</updated>
+    <updated>2023-11-29T17:33:40.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-s-eat8-180km-f-vat-23-ID6G1Qsc.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-s-eat8-180km-f-vat-23-ID6G1Qsc.html"/>
+        <updated>2023-11-29T17:33:12.972Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 180KM F-Vat 23% 46 497 km Benzyna Automatyczna 2021 Łódź (Łódzkie) 129 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-allurepack-faktura-vat-23-salon-pl-serwis-aso-gwarancja-ID6G1B4Z.html</id>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180km GPF Allure Salon PL I Właściciel ASO 42 TYS FV23% 42 000 km Benzyna Automatyczna 2019 Lipno (Kujawsko-pomorskie) 123 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF Allure S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-kupiony-w-polsce-serwisowany-u-dealera-ID6FVW30.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-kupiony-w-polsce-serwisowany-u-dealera-ID6FVW30.html"/>
-        <updated>2023-11-25T14:00:10.994Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Pierwszy właściciel, Kupiony w Polsce , serwisowany u dealera 44 000 km Benzyna Automatyczna 2019 Elbląg (Warmińsko-mazurskie) 122 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 508]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180-km-eat8-salon-pl-serwis-aso-fv-23-ID6FWltQ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180-km-eat8-salon-pl-serwis-aso-fv-23-ID6FWltQ.html"/>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam-dodatkowo -Położona powłoka Ceramiczna. 37 000 km Benzyna Automatyczna 2019 Zgierz (Łódzkie) 116 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF Crossway S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-1-6-puretech-gpf-crossway-s-s-eat8-opony-zimowe-f-vat-ID6FNRaM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-1-6-puretech-gpf-crossway-s-s-eat8-opony-zimowe-f-vat-ID6FNRaM.html"/>
-        <updated>2023-11-25T14:00:11.010Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 3008 1.6 PURETECH GPF CROSSWAY S&S EAT8, opony zimowe F. Vat. 111 000 km Benzyna Automatyczna 2019 Warszawa (Mazowieckie) 96 899]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-amps-eat8-ID6FNywb.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-allure-pack-s-amps-eat8-ID6FNywb.html"/>
@@ -214,6 +207,27 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
         <updated>2023-11-17T21:09:35.243Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) 116 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-150km-mhevs-line-s-tronic-kamera-keyless-virtual-tempomat-ID6G1VIY.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-150km-mhevs-line-s-tronic-kamera-keyless-virtual-tempomat-ID6G1VIY.html"/>
+        <updated>2023-11-29T17:33:17.543Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • 35 TFSI 150KM mHEV S Line S tronic Kamera/Keyless/Virtual/Tempomat 69 500 km Benzyna Automatyczna 2019 Poznań (Wielkopolskie) 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV Advanced S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-advanced-salon-pl-gwarancja-ID6G1WPB.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-advanced-salon-pl-gwarancja-ID6G1WPB.html"/>
+        <updated>2023-11-29T17:33:17.582Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Advanced, Salon PL, Gwarancja 54 000 km Benzyna Automatyczna 2021 Bydgoszcz (Kujawsko-pomorskie) 116 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-premium-plus-45-benzyna-4x4-automat-ID6G1Sgo.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-premium-plus-45-benzyna-4x4-automat-ID6G1Sgo.html"/>
+        <updated>2023-11-29T17:33:17.594Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 204 KM • 2023 AUDI Q5 PREMIUM PLUS 45 / Benzyna / 4x4 / Automat 10 719 km Benzyna Automatyczna 2023 Tarnów (Małopolskie) 108 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic]]></title>
@@ -416,28 +430,35 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-premium-plus-45-ID6FYqXR.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-premium-plus-45-ID6FYqXR.html"/>
         <updated>2023-11-25T14:00:14.971Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2023 Premium Plus 45 6 373 km Benzyna Automatyczna 2023 Warszawa (Mazowieckie) 100 000]]></content>
+        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2023 Premium Plus 45 6 373 km Benzyna Automatyczna 2023 Warszawa (Mazowieckie) 100 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-premium-40-benzyna-4x4-automat-ID6FYk9Z.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-premium-40-benzyna-4x4-automat-ID6FYk9Z.html"/>
-        <updated>2023-11-25T14:00:14.972Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2023 AUDI Q5 PREMIUM 40 / Benzyna / 4x4 / Automat 3 492 km Benzyna Automatyczna 2023 Gdańsk (Pomorskie) 119 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic Momentum Pro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-t5-2-0-awd-solar-kamery-4x4-ID6G1UVa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-t5-2-0-awd-solar-kamery-4x4-ID6G1UVa.html"/>
+        <updated>2023-11-29T17:33:21.459Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 247 KM • xc40 T5 2.0 AWD Solar Kamery 4x4 27 000 km Benzyna Automatyczna 2022 Kobyłka (Mazowieckie) 108 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-40-tfsi-s-lilne-ID6FY25L.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-40-tfsi-s-lilne-ID6FY25L.html"/>
-        <updated>2023-11-25T14:00:14.984Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 190 KM • Audi A4 40 TFSI S-Lilne 30 800 km Benzyna Automatyczna 2019 Kraków (Małopolskie) 118 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-naped-na-wszystkie-kola-wersja-momentum-digital-zegary-top-ID6G1UNJ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-naped-na-wszystkie-kola-wersja-momentum-digital-zegary-top-ID6G1UNJ.html"/>
+        <updated>2023-11-29T17:33:21.467Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 247 KM • 4x4 napęd na wszystkie koła * wersja Momentum * digital zegary * TOP 18 903 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 124 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2-0-tfsi-automat-stan-idealny-ID6FXMZS.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2-0-tfsi-automat-stan-idealny-ID6FXMZS.html"/>
-        <updated>2023-11-26T17:32:43.232Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 252 KM • Quattro ! 2.0 TFSI Automat ! Stan Idealny ! 33 000 km Benzyna Automatyczna 2019 Trzebinia (Małopolskie) 129 900]]></content>
+        <title type="html"><![CDATA[Volvo V90 T4 Momentum]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-tempomat-skora-grzana-kanapa-fotele-park-assist-ID6G1Q5I.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-tempomat-skora-grzana-kanapa-fotele-park-assist-ID6G1Q5I.html"/>
+        <updated>2023-11-29T17:33:21.467Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 190 KM • 2.0T4 8AT Momentum PRO Tempomat Skóra Grzana Kanapa Fotele Park Assist 136 300 km Benzyna Automatyczna 2019 Łajski (Mazowieckie) 102 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ver-t3-ID6G1Mkq.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ver-t3-ID6G1Mkq.html"/>
+        <updated>2023-11-29T17:33:21.467Z</updated>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • volvo xc-40 ver-t3 103 032 km Benzyna Automatyczna 2019 Janki (Mazowieckie) 124 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
@@ -629,38 +650,10 @@
         <content type="html"><![CDATA[1 969 cm3 • 250 KM • 2.0 Turbo Benzyna 247 KM 9 000 km Benzyna Automatyczna 2022 Tarnów (Małopolskie) 99 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V60 B5 B Inscription]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-fv23-gwarancja-serwisowa-pakiet-light-81300-netto-ID6FZ9hU.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-fv23-gwarancja-serwisowa-pakiet-light-81300-netto-ID6FZ9hU.html"/>
-        <updated>2023-11-25T14:00:18.706Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 250 KM • SALON POLSKA/ FV23%/Gwarancja Serwisowa/ Pakiet LIGHT/ 81 300 NETTO 139 264 km Benzyna Automatyczna 2019 Rybnik (Śląskie) 99 999]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-2020-pierwszy-wlasciciel-ID6FZ8eC.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-2020-pierwszy-wlasciciel-ID6FZ8eC.html"/>
         <updated>2023-11-25T14:00:18.708Z</updated>
         <content type="html"><![CDATA[1 477 cm3 • 163 KM • Volvo XC-40 T3, 2020, pierwszy właściciel 62 000 km Benzyna Automatyczna 2019 Chorzów (Śląskie) 120 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T4 Geartronic Momentum Pro]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-led-kamery-asistenty-190km-fwd-serwisowane-automat-ID6FYYhS.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-led-kamery-asistenty-190km-fwd-serwisowane-automat-ID6FYYhS.html"/>
-        <updated>2023-11-25T14:00:18.710Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 190 KM • Led/Kamery/Asistenty/190KM/FWD/Serwisowane/Automat 54 300 km Benzyna Automatyczna 2020 Warszawa (Mazowieckie) 128 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T5 Geartronic Momentum Pro]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-2019r-naped-4x4-2-0-benzyna-250-km-stan-idealny-ID6FYVfR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-2019r-naped-4x4-2-0-benzyna-250-km-stan-idealny-ID6FYVfR.html"/>
-        <updated>2023-11-25T14:00:18.711Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 250 KM • Volvo xc 60 2019r. napęd 4x4 2.0 benzyna 250 KM stan idealny 26 000 km Benzyna Automatyczna 2019 Brzostówiec (Lubelskie) 125 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Bright]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b5-b-awd-ultimate-bright-fv23-okazja-ID6FYS0f.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b5-b-awd-ultimate-bright-fv23-okazja-ID6FYS0f.html"/>
-        <updated>2023-11-25T14:00:18.713Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 250 KM • B5 B AWD Ultimate Bright FV23% Okazja! 8 847 km Benzyna Automatyczna 2022 Gaj (Małopolskie) 119 900]]></content>
     </entry>
 </feed>
