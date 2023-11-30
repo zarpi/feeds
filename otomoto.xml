@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-11-30T05:33:35.234Z</updated>
+    <updated>2023-11-30T17:33:51.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-puretech-180km-gpf-allure-salon-pl-i-wlasciciel-aso-42-tys-fv23-ID6FXaFb.html"/>
         <updated>2023-11-25T14:00:10.993Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180km GPF Allure Salon PL I Właściciel ASO 42 TYS FV23% 42 000 km Benzyna Automatyczna 2019 Lipno (Kujawsko-pomorskie) 123 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-jak-nowy-508-ii-sw-z-lpg-ID6FVIIv.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-jak-nowy-508-ii-sw-z-lpg-ID6FVIIv.html"/>
+        <updated>2023-11-30T17:33:24.542Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Jak nowy 508 II SW Z LPG 37 800 km Benzyna Automatyczna 2019 Łódź (Łódzkie) 108 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508]]></title>
@@ -230,6 +237,13 @@
         <content type="html"><![CDATA[1 984 cm3 • 204 KM • 2023 AUDI Q5 PREMIUM PLUS 45 / Benzyna / 4x4 / Automat 10 719 km Benzyna Automatyczna 2023 Tarnów (Małopolskie) 108 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 40 TFSI Sport S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-190km-s-line-s-tronic-1wl-salon-pl-bezwypadkowy-serwis-aso-ID6G1QGt.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-190km-s-line-s-tronic-1wl-salon-pl-bezwypadkowy-serwis-aso-ID6G1QGt.html"/>
+        <updated>2023-11-30T17:33:28.923Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 190 KM • 190KM, S-Line, S-Tronic, 1wł, Salon PL, Bezwypadkowy, Serwis ASO 107 392 km Benzyna Automatyczna 2019 Zabrze (Śląskie) 119 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-audi-q5-premium-plus-ID6G1ITa.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-audi-q5-premium-plus-ID6G1ITa.html"/>
@@ -339,7 +353,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-lift-2-0-tfsi-benzyna-hybryda-bananowe-skory-ID6FZRmg.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-lift-2-0-tfsi-benzyna-hybryda-bananowe-skory-ID6FZRmg.html"/>
         <updated>2023-11-25T14:00:14.954Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Lift 2.0 TFSi Benzyna Hybryda - Bananowe Skóry ! 35 000 km Benzyna Automatyczna 2021 Bełchatów (Łódzkie) 93 900]]></content>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Lift 2.0 TFSi Benzyna Hybryda - Bananowe Skóry ! 35 000 km Benzyna Automatyczna 2021 Bełchatów (Łódzkie) 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 40 TFSI Sport S tronic]]></title>
@@ -354,13 +368,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6FZKzS.html"/>
         <updated>2023-11-25T14:00:14.957Z</updated>
         <content type="html"><![CDATA[1 984 cm3 • 150 KM • Avant 35 TFSI 150 KM / SalonPL ASO 77 671 km Benzyna Automatyczna 2020 Poznań (Wielkopolskie) 124 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-a-u-t-o-m-a-t-navi-panorama-4-x-4-ID6FZDN5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-a-u-t-o-m-a-t-navi-panorama-4-x-4-ID6FZDN5.html"/>
-        <updated>2023-11-25T14:00:14.958Z</updated>
-        <content type="html"><![CDATA[2 000 cm3 • 245 KM • A U T O M A T Navi Panorama 4 x 4 50 052 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 125 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5]]></title>
@@ -448,10 +455,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V90 T4 Momentum]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-tempomat-skora-grzana-kanapa-fotele-park-assist-ID6G1Q5I.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-tempomat-skora-grzana-kanapa-fotele-park-assist-ID6G1Q5I.html"/>
-        <updated>2023-11-29T17:33:21.467Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 190 KM • 2.0T4 8AT Momentum PRO Tempomat Skóra Grzana Kanapa Fotele Park Assist 136 300 km Benzyna Automatyczna 2019 Łajski (Mazowieckie) 102 900]]></content>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-gratis-pakiet-serwisowy-o-wartosci-1200-zl-ID6G1Q5I.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-2-0t4-8at-momentum-pro-gratis-pakiet-serwisowy-o-wartosci-1200-zl-ID6G1Q5I.html"/>
+        <updated>2023-11-30T17:33:33.148Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 190 KM • 2.0T4 8AT Momentum PRO GRATIS! Pakiet Serwisowy o wartości 1200 zł! 136 300 km Benzyna Automatyczna 2019 Łajski (Mazowieckie) 102 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3]]></title>
