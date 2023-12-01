@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T05:33:38.955Z</updated>
+    <updated>2023-12-01T17:33:26.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
@@ -163,7 +163,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-sprzedam-dodatkowo-polozona-powloka-ceramiczna-ID6FP6Nt.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-sprzedam-dodatkowo-polozona-powloka-ceramiczna-ID6FP6Nt.html"/>
         <updated>2023-11-25T14:00:11.009Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam-dodatkowo -Położona powłoka Ceramiczna. 37 000 km Benzyna Automatyczna 2019 Zgierz (Łódzkie) 116 500]]></content>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Sprzedam-dodatkowo -Położona powłoka Ceramiczna. 37 000 km Benzyna Automatyczna 2019 Zgierz (Łódzkie) 116 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 (Otomoto)]]></title>
@@ -213,6 +213,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
         <updated>2023-11-17T21:09:35.243Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) 116 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-pakiet-czern-tempomat-fotele-sportowe-webasto-ID6G2gUX.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-pakiet-czern-tempomat-fotele-sportowe-webasto-ID6G2gUX.html"/>
+        <updated>2023-12-01T17:33:05.802Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Pakiet czerń Tempomat Fotele sportowe Webasto 64 876 km Benzyna Automatyczna 2019 Gdynia (Pomorskie) 119 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -369,7 +376,7 @@
         <content type="html"><![CDATA[1 984 cm3 • 190 KM • S-line virtual rotor matrix oled masaże navi radary kamera FV23% 65 000 km Benzyna Automatyczna 2020 Pawłowice (Śląskie) 124 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6FZKzS.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6FZKzS.html"/>
         <updated>2023-11-25T14:00:14.957Z</updated>
@@ -425,18 +432,32 @@
         <content type="html"><![CDATA[1 984 cm3 • 190 KM • 2.0 TFSI // S line // S TRONIC // KAMERA 45 559 km Benzyna Automatyczna 2019 Bydgoszcz (Kujawsko-pomorskie) 119 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-gd600th-35-tfsi-s-tronic-salon-pl-fv23-vat-ID6FYKEG.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-gd600th-35-tfsi-s-tronic-salon-pl-fv23-vat-ID6FYKEG.html"/>
-        <updated>2023-11-25T14:00:14.967Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 150 KM • GD600TH # 35 TFSI S tronic # Salon PL # FV23%VAT! 73 984 km Benzyna Automatyczna 2019 Klaudyn (Mazowieckie) 119 850]]></content>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-reflektory-led-kamera-cofania-salon-pl-f-vat-23-gwarancja-ID6FYNie.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-reflektory-led-kamera-cofania-salon-pl-f-vat-23-gwarancja-ID6FYNie.html"/>
+        <updated>2023-12-01T17:33:05.874Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Reflektory LED Kamera cofania Salon PL F-VAT 23% Gwarancja 62 138 km Benzyna Automatyczna 2021 Modlnica (Małopolskie) 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-45-quattro-2-0l-ID6FYDdp.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-45-quattro-2-0l-ID6FYDdp.html"/>
-        <updated>2023-11-25T14:00:14.970Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 204 KM • Premium Plus 45 Quattro 2.0L 2 135 km Benzyna Automatyczna 2022 Dziekanów Polski (Mazowieckie) 123 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-promocja-akcesoria-gratis-xc40-t3-gwarancja-producenta-salon-pl-fv23-ID6G2gsK.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-promocja-akcesoria-gratis-xc40-t3-gwarancja-producenta-salon-pl-fv23-ID6G2gsK.html"/>
+        <updated>2023-12-01T17:33:10.064Z</updated>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • promocja. Akcesoria gratis! XC40 T3 Gwarancja Producenta Salon PL FV23 67 550 km Benzyna Automatyczna 2020 Płock (Mazowieckie) 127 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-5173km-4x4-mamery-360-panorama-ID6G2fhu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-5173km-4x4-mamery-360-panorama-ID6G2fhu.html"/>
+        <updated>2023-12-01T17:33:10.066Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 250 KM • 5173km 4X4 mamery 360,Panorama 5 173 km Benzyna Automatyczna 2023 Karczew (Mazowieckie) 109 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-nowy-model-ID6G2bwE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-nowy-model-ID6G2bwE.html"/>
+        <updated>2023-12-01T17:33:10.068Z</updated>
+        <content type="html"><![CDATA[2 000 cm3 • 250 KM • nowy model 15 000 km Benzyna Automatyczna 2023 Rudzienice (Warmińsko-mazurskie) 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
@@ -457,7 +478,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-naped-na-wszystkie-kola-wersja-momentum-digital-zegary-top-ID6G1UNJ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-naped-na-wszystkie-kola-wersja-momentum-digital-zegary-top-ID6G1UNJ.html"/>
         <updated>2023-11-29T17:33:21.467Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 247 KM • 4x4 napęd na wszystkie koła * wersja Momentum * digital zegary * TOP 18 903 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 124 000]]></content>
+        <content type="html"><![CDATA[1 969 cm3 • 247 KM • 4x4 napęd na wszystkie koła * wersja Momentum * digital zegary * TOP 18 903 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 119 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V90 T4 Momentum (Otomoto)]]></title>
@@ -478,7 +499,14 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-fv-23-serwisowany-ID6G1JJ0.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-fv-23-serwisowany-ID6G1JJ0.html"/>
         <updated>2023-11-29T05:33:15.960Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Salon Polska , FV 23% serwisowany 93 000 km Benzyna Automatyczna 2020 Bydgoszcz (Kujawsko-pomorskie) 125 460]]></content>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Salon Polska , FV 23% serwisowany 93 000 km Benzyna Automatyczna 2020 Bydgoszcz (Kujawsko-pomorskie) 123 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T4 Geartronic Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-europa-skora-automatic-ID6G1JyS.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-europa-skora-automatic-ID6G1JyS.html"/>
+        <updated>2023-12-01T17:33:10.076Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 190 KM • Europa skóra Automatic 100 000 km Benzyna Automatyczna 2019 Szamotuły (Wielkopolskie) 99 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 Geartronic R-Design (Otomoto)]]></title>
@@ -517,10 +545,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-uszkodzony-ID6G17SN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-uszkodzony-ID6G17SN.html"/>
-        <updated>2023-11-25T21:09:49.619Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 190 KM • volvo XC60 salon polska uszkodzony 109 000 km Benzyna Automatyczna 2019 Kraków (Małopolskie) 119 000]]></content>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-mozliwa-zamiana-uszkodzony-ID6G17SN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-mozliwa-zamiana-uszkodzony-ID6G17SN.html"/>
+        <updated>2023-12-01T17:33:10.125Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 190 KM • volvo XC60 salon polska możliwa zamiana uszkodzony 109 000 km Benzyna Automatyczna 2019 Kraków (Małopolskie) 119 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
@@ -569,7 +597,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-2020-t5-awd-momentum-ID6G0MRe.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-2020-t5-awd-momentum-ID6G0MRe.html"/>
         <updated>2023-11-25T14:00:18.685Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 247 KM • Volvo XC40 2020 T5 AWD Momentum 28 000 km Benzyna Automatyczna 2020 Grójec (Mazowieckie) 130 000]]></content>
+        <content type="html"><![CDATA[1 969 cm3 • 247 KM • Volvo XC40 2020 T5 AWD Momentum 28 000 km Benzyna Automatyczna 2020 Grójec (Mazowieckie) 128 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T5 GPF AWD Momentum (Otomoto)]]></title>
@@ -635,32 +663,11 @@
         <content type="html"><![CDATA[1 477 cm3 • 163 KM • Volvo Xc40 T3 Momentum Pro aut Ogrz Fotele Navi Salonpl Vat23 76 321 km Benzyna Automatyczna 2019 Modlniczka (Małopolskie) 119 799]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5t-163km-ID6FZlFl.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5t-163km-ID6FZlFl.html"/>
-        <updated>2023-11-25T14:00:18.701Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • 1.5T/163KM 63 700 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 122 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5t-163km-ID6FZlbq.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5t-163km-ID6FZlbq.html"/>
-        <updated>2023-11-25T14:00:18.702Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • 1.5T /163KM 64 400 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 122 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-full-led-skora-awd-panorama-ID6FZh4y.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-full-led-skora-awd-panorama-ID6FZh4y.html"/>
-        <updated>2023-11-25T14:00:18.704Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 247 KM • Full Led Skóra AWD Panorama 25 000 km Benzyna Automatyczna 2020 Dęblin (Lubelskie) 124 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-turbo-benzyna-247-km-ID6FZ9F0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-turbo-benzyna-247-km-ID6FZ9F0.html"/>
-        <updated>2023-11-25T14:00:18.705Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 250 KM • 2.0 Turbo Benzyna 247 KM 9 000 km Benzyna Automatyczna 2022 Tarnów (Małopolskie) 99 000]]></content>
+        <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo</id>
+        <link href="https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo"/>
+        <updated>2023-11-21T19:44:57.064Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 18 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Managed Cloud Engineer with Azure (NoFluffJobs)]]></title>
@@ -668,13 +675,6 @@
         <link href="https://nofluffjobs.com/job/managed-cloud-engineer-with-azure-nordcloud-remote"/>
         <updated>2023-11-27T17:33:19.886Z</updated>
         <content type="html"><![CDATA[ 13 000  – 16 000  PLN Azure]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo</id>
-        <link href="https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo"/>
-        <updated>2023-11-21T19:44:57.064Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 18 000  PLN AWS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hybrid Cloud Demand Manager (NoFluffJobs)]]></title>
@@ -727,17 +727,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-intellias-remote</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-intellias-remote"/>
-        <updated>2023-11-21T19:44:57.073Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 30 240  PLN Python]]></content>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-intellias-remote-j6znis8q</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-intellias-remote-j6znis8q"/>
+        <updated>2023-12-01T17:33:16.270Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN Python]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc-y8xl0xz9</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc-y8xl0xz9"/>
-        <updated>2023-11-30T17:33:39.421Z</updated>
-        <content type="html"><![CDATA[ 27 000  – 31 000  PLN Jenkins]]></content>
+        <title type="html"><![CDATA[Azure Cloud Architect (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/azure-cloud-architect-nordcloud-remote-1</id>
+        <link href="https://nofluffjobs.com/job/azure-cloud-architect-nordcloud-remote-1"/>
+        <updated>2023-11-29T17:33:29.628Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Backend Developer with Node.js (NoFluffJobs)]]></title>
@@ -754,18 +754,18 @@
         <content type="html"><![CDATA[ 38 000  – 42 000  PLN DevOps]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Lead (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
-        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
-        <updated>2023-11-27T17:33:19.915Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 30 000  PLN Ansible]]></content>
+        <title type="html"><![CDATA[Senior Azure DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-azure-devops-engineer-idemia-poland-r-d-remote-vyf7obmf</id>
+        <link href="https://nofluffjobs.com/job/senior-azure-devops-engineer-idemia-poland-r-d-remote-vyf7obmf"/>
+        <updated>2023-11-29T17:33:29.617Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 33 600  PLN Azure]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Synapse Administrator (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/azure-synapse-administrator-nordcloud-remote</id>
-        <link href="https://nofluffjobs.com/job/azure-synapse-administrator-nordcloud-remote"/>
-        <updated>2023-11-29T17:33:29.633Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 32 000  PLN Azure]]></content>
+        <title type="html"><![CDATA[Senior Continuous Delivery Engineer (DevSecOps) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-continuous-delivery-engineer-devsecops-sfox-remote-1</id>
+        <link href="https://nofluffjobs.com/job/senior-continuous-delivery-engineer-devsecops-sfox-remote-1"/>
+        <updated>2023-11-24T15:00:34.646Z</updated>
+        <content type="html"><![CDATA[ 5 000  – 7 000  EUR Java]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps (Infrastructure) Engineer (NoFluffJobs)]]></title>
@@ -782,11 +782,11 @@
         <content type="html"><![CDATA[ 28 560  – 35 280  PLN Java]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer with AWS (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-with-aws-wonga-pl-warszawa</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-with-aws-wonga-pl-warszawa"/>
-        <updated>2023-11-25T17:33:05.125Z</updated>
-        <content type="html"><![CDATA[ 15 000  – 23 000  PLN AWS]]></content>
+        <title type="html"><![CDATA[DevOps/Administrator (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-administrator-ness-solution-remote</id>
+        <link href="https://nofluffjobs.com/job/devops-administrator-ness-solution-remote"/>
+        <updated>2023-11-25T17:33:05.119Z</updated>
+        <content type="html"><![CDATA[ 20 160  – 24 360  PLN Ansible]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (GCP) (NoFluffJobs)]]></title>
@@ -796,48 +796,6 @@
         <content type="html"><![CDATA[ 20 000  – 24 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa</id>
-        <link href="https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa"/>
-        <updated>2023-11-29T17:33:29.606Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 35 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps/Administrator (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-administrator-ness-solution-remote</id>
-        <link href="https://nofluffjobs.com/job/devops-administrator-ness-solution-remote"/>
-        <updated>2023-11-25T17:33:05.119Z</updated>
-        <content type="html"><![CDATA[ 20 160  – 24 360  PLN Ansible]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Azure DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-azure-devops-engineer-idemia-poland-r-d-remote-vyf7obmf</id>
-        <link href="https://nofluffjobs.com/job/senior-azure-devops-engineer-idemia-poland-r-d-remote-vyf7obmf"/>
-        <updated>2023-11-29T17:33:29.617Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 33 600  PLN Azure]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Cloud Architect (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/azure-cloud-architect-nordcloud-remote-1</id>
-        <link href="https://nofluffjobs.com/job/azure-cloud-architect-nordcloud-remote-1"/>
-        <updated>2023-11-29T17:33:29.628Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 28 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Continuous Delivery Engineer (DevSecOps) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-continuous-delivery-engineer-devsecops-sfox-remote-1</id>
-        <link href="https://nofluffjobs.com/job/senior-continuous-delivery-engineer-devsecops-sfox-remote-1"/>
-        <updated>2023-11-24T15:00:34.646Z</updated>
-        <content type="html"><![CDATA[ 5 000  – 7 000  EUR Java]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/junior-cloud-engineer-endysoft-remote</id>
-        <link href="https://nofluffjobs.com/job/junior-cloud-engineer-endysoft-remote"/>
-        <updated>2023-11-29T17:33:29.613Z</updated>
-        <content type="html"><![CDATA[ 8 000  – 11 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Administrator DevOps (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/administrator-devops-osrodek-przetwarzania-informacji-pib-warszawa</id>
         <link href="https://nofluffjobs.com/job/administrator-devops-osrodek-przetwarzania-informacji-pib-warszawa"/>
@@ -845,53 +803,11 @@
         <content type="html"><![CDATA[ 10 000  – 15 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Workday Integration Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-workday-integration-engineer-softserve-remote-qahtsb1j</id>
-        <link href="https://nofluffjobs.com/job/senior-workday-integration-engineer-softserve-remote-qahtsb1j"/>
-        <updated>2023-11-29T17:33:29.642Z</updated>
-        <content type="html"><![CDATA[ 14 000  – 22 000  PLN AWS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-adaptiq-remote-1</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-adaptiq-remote-1"/>
-        <updated>2023-11-29T17:33:29.626Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 6 800  USD GCP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa"/>
-        <updated>2023-11-29T17:33:29.637Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer with AWS (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-cloud-engineer-with-aws-digital-hub-warsaw-at-bayer-warsaw-iud87pey</id>
-        <link href="https://nofluffjobs.com/job/senior-cloud-engineer-with-aws-digital-hub-warsaw-at-bayer-warsaw-iud87pey"/>
-        <updated>2023-11-29T17:33:29.645Z</updated>
-        <content type="html"><![CDATA[ 19 840  – 28 760  PLN AWS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/site-reliability-engineer-nobl9-remote-1</id>
-        <link href="https://nofluffjobs.com/job/site-reliability-engineer-nobl9-remote-1"/>
-        <updated>2023-11-29T17:33:29.621Z</updated>
-        <content type="html"><![CDATA[ 16 000  – 20 000  PLN K8s]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer with Python (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-cloud-engineer-with-python-digital-hub-warsaw-at-bayer-warsaw</id>
-        <link href="https://nofluffjobs.com/job/senior-cloud-engineer-with-python-digital-hub-warsaw-at-bayer-warsaw"/>
-        <updated>2023-11-29T17:33:29.649Z</updated>
-        <content type="html"><![CDATA[ 18 000  – 26 000  PLN Python]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps SAP Commerce (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-sap-commerce-avenga-remote</id>
-        <link href="https://nofluffjobs.com/job/devops-sap-commerce-avenga-remote"/>
-        <updated>2023-11-29T17:33:29.625Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 28 560  PLN Azure]]></content>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc-y8xl0xz9</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc-y8xl0xz9"/>
+        <updated>2023-11-30T17:33:39.421Z</updated>
+        <content type="html"><![CDATA[ 27 000  – 31 000  PLN Jenkins]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IBM Cloud Platform Architect (NoFluffJobs)]]></title>
@@ -901,39 +817,39 @@
         <content type="html"><![CDATA[ 28 560  – 36 120  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SRE Team Leader (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/sre-team-leader-hsbc-technology-poland-krakow-1</id>
-        <link href="https://nofluffjobs.com/job/sre-team-leader-hsbc-technology-poland-krakow-1"/>
-        <updated>2023-11-30T05:33:22.101Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 29 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior Workday Integration Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-workday-integration-engineer-softserve-remote-qahtsb1j</id>
+        <link href="https://nofluffjobs.com/job/senior-workday-integration-engineer-softserve-remote-qahtsb1j"/>
+        <updated>2023-11-29T17:33:29.642Z</updated>
+        <content type="html"><![CDATA[ 14 000  – 22 000  PLN AWS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Mid DevOps - Docker Swarm (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-mid-devops-docker-swarm-e-file-sp-k-</id>
-        <link href="https://nofluffjobs.com/job/remote-mid-devops-docker-swarm-e-file-sp-k-"/>
-        <updated>2023-11-29T17:33:29.656Z</updated>
-        <content type="html"><![CDATA[ 7 000  – 12 000  PLN Docker]]></content>
+        <title type="html"><![CDATA[DevOps Engineer with AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-with-aws-wonga-pl-warszawa</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-with-aws-wonga-pl-warszawa"/>
+        <updated>2023-11-25T17:33:05.125Z</updated>
+        <content type="html"><![CDATA[ 15 000  – 23 000  PLN AWS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Application Support Specialist (Senior SRE) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-application-support-specialist-senior-sre-thomson-reuters-gdansk</id>
-        <link href="https://nofluffjobs.com/job/senior-application-support-specialist-senior-sre-thomson-reuters-gdansk"/>
-        <updated>2023-11-29T17:33:29.631Z</updated>
-        <content type="html"><![CDATA[ 16 500  – 23 000  PLN Python]]></content>
+        <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/junior-cloud-engineer-endysoft-remote</id>
+        <link href="https://nofluffjobs.com/job/junior-cloud-engineer-endysoft-remote"/>
+        <updated>2023-11-29T17:33:29.613Z</updated>
+        <content type="html"><![CDATA[ 8 000  – 11 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-orange-polska-warszawa-1</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-orange-polska-warszawa-1"/>
-        <updated>2023-11-29T17:33:29.641Z</updated>
-        <content type="html"><![CDATA[ 10 320  – 19 160  PLN Python]]></content>
+        <title type="html"><![CDATA[DevOps Lead (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
+        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
+        <updated>2023-11-27T17:33:19.915Z</updated>
+        <content type="html"><![CDATA[ 26 000  – 30 000  PLN Ansible]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lead Application Support Specialist (Lead SRE) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/lead-application-support-specialist-lead-sre-thomson-reuters-gdansk-1</id>
-        <link href="https://nofluffjobs.com/job/lead-application-support-specialist-lead-sre-thomson-reuters-gdansk-1"/>
-        <updated>2023-11-29T17:33:29.650Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 29 500  PLN Fullstack]]></content>
+        <title type="html"><![CDATA[Azure Synapse Administrator (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/azure-synapse-administrator-nordcloud-remote</id>
+        <link href="https://nofluffjobs.com/job/azure-synapse-administrator-nordcloud-remote"/>
+        <updated>2023-11-29T17:33:29.633Z</updated>
+        <content type="html"><![CDATA[ 30 000  – 32 000  PLN Azure]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -943,11 +859,53 @@
         <content type="html"><![CDATA[ 13 550  – 19 000  PLN Jenkins]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Production Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-2</id>
-        <link href="https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-2"/>
-        <updated>2023-11-30T17:33:39.462Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 17 000  PLN Jenkins]]></content>
+        <title type="html"><![CDATA[Senior Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa</id>
+        <link href="https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa"/>
+        <updated>2023-11-29T17:33:29.606Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 35 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa"/>
+        <updated>2023-11-29T17:33:29.637Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/site-reliability-engineer-nobl9-remote-1</id>
+        <link href="https://nofluffjobs.com/job/site-reliability-engineer-nobl9-remote-1"/>
+        <updated>2023-11-29T17:33:29.621Z</updated>
+        <content type="html"><![CDATA[ 16 000  – 20 000  PLN K8s]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-orange-polska-warszawa-1</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-orange-polska-warszawa-1"/>
+        <updated>2023-11-29T17:33:29.641Z</updated>
+        <content type="html"><![CDATA[ 10 320  – 19 160  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps SAP Commerce (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-sap-commerce-avenga-remote-9bmjgszd</id>
+        <link href="https://nofluffjobs.com/job/devops-sap-commerce-avenga-remote-9bmjgszd"/>
+        <updated>2023-12-01T17:33:16.306Z</updated>
+        <content type="html"><![CDATA[ 30 240  – 38 640  PLN Azure]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-adaptiq-remote-1</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-adaptiq-remote-1"/>
+        <updated>2023-11-29T17:33:29.626Z</updated>
+        <content type="html"><![CDATA[ 6 500  – 6 800  USD GCP]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-ideasoft-warszawa-eaopgjse</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-ideasoft-warszawa-eaopgjse"/>
+        <updated>2023-12-01T17:33:16.309Z</updated>
+        <content type="html"><![CDATA[ 15 800  – 31 600  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Container Platform Engineer/Kubernetes Engineer (NoFluffJobs)]]></title>
@@ -957,6 +915,48 @@
         <content type="html"><![CDATA[ 20 000  – 25 000  PLN Kubernetes]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Senior Application Support Specialist (Senior SRE) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-application-support-specialist-senior-sre-thomson-reuters-gdansk</id>
+        <link href="https://nofluffjobs.com/job/senior-application-support-specialist-senior-sre-thomson-reuters-gdansk"/>
+        <updated>2023-11-29T17:33:29.631Z</updated>
+        <content type="html"><![CDATA[ 16 500  – 23 000  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer with Python (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-cloud-engineer-with-python-digital-hub-warsaw-at-bayer-warsaw</id>
+        <link href="https://nofluffjobs.com/job/senior-cloud-engineer-with-python-digital-hub-warsaw-at-bayer-warsaw"/>
+        <updated>2023-11-29T17:33:29.649Z</updated>
+        <content type="html"><![CDATA[ 18 000  – 26 000  PLN Python]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer with AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-cloud-engineer-with-aws-digital-hub-warsaw-at-bayer-warsaw-iud87pey</id>
+        <link href="https://nofluffjobs.com/job/senior-cloud-engineer-with-aws-digital-hub-warsaw-at-bayer-warsaw-iud87pey"/>
+        <updated>2023-11-29T17:33:29.645Z</updated>
+        <content type="html"><![CDATA[ 19 840  – 28 760  PLN AWS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lead Application Support Specialist (Lead SRE) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/lead-application-support-specialist-lead-sre-thomson-reuters-gdansk-1</id>
+        <link href="https://nofluffjobs.com/job/lead-application-support-specialist-lead-sre-thomson-reuters-gdansk-1"/>
+        <updated>2023-11-29T17:33:29.650Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 29 500  PLN Fullstack]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Production Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-2</id>
+        <link href="https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-2"/>
+        <updated>2023-11-30T17:33:39.462Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 17 000  PLN Jenkins]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Production Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1</id>
+        <link href="https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1"/>
+        <updated>2023-11-29T17:33:29.646Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 17 000  PLN Jenkins]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/senior-devops-engineer-grid-dynamics-krakow-2</id>
         <link href="https://nofluffjobs.com/job/senior-devops-engineer-grid-dynamics-krakow-2"/>
@@ -964,11 +964,11 @@
         <content type="html"><![CDATA[ 23 000  – 31 000  PLN Python]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-avenga-warszawa-2</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-avenga-warszawa-2"/>
-        <updated>2023-11-30T17:33:39.466Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 29 400  PLN ]]></content>
+        <title type="html"><![CDATA[Expert DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/expert-devops-engineer-ing-bank-slaski-spolka-akcyjna-warszawa-2</id>
+        <link href="https://nofluffjobs.com/job/expert-devops-engineer-ing-bank-slaski-spolka-akcyjna-warszawa-2"/>
+        <updated>2023-11-30T17:33:39.479Z</updated>
+        <content type="html"><![CDATA[ 14 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lead DevOps Engineer (NoFluffJobs)]]></title>
@@ -985,18 +985,18 @@
         <content type="html"><![CDATA[ 23 000  – 29 500  PLN Python]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SENIOR DEVOPS ENGINEER (#973) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-973-n-ix-remote</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-973-n-ix-remote"/>
-        <updated>2023-11-30T17:33:39.470Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 6 800  USD Python]]></content>
+        <title type="html"><![CDATA[SRE Team Leader (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/sre-team-leader-hsbc-technology-poland-krakow-1</id>
+        <link href="https://nofluffjobs.com/job/sre-team-leader-hsbc-technology-poland-krakow-1"/>
+        <updated>2023-11-30T05:33:22.101Z</updated>
+        <content type="html"><![CDATA[ 26 000  – 29 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Production Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1</id>
-        <link href="https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1"/>
-        <updated>2023-11-29T17:33:29.646Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 17 000  PLN Jenkins]]></content>
+        <title type="html"><![CDATA[Remote Mid DevOps - Docker Swarm (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-mid-devops-docker-swarm-e-file-sp-k-</id>
+        <link href="https://nofluffjobs.com/job/remote-mid-devops-docker-swarm-e-file-sp-k-"/>
+        <updated>2023-11-29T17:33:29.656Z</updated>
+        <content type="html"><![CDATA[ 7 000  – 12 000  PLN Docker]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Production Engineering Specialist (NoFluffJobs)]]></title>
@@ -1006,10 +1006,10 @@
         <content type="html"><![CDATA[ 11 000  – 15 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expert DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/expert-devops-engineer-ing-bank-slaski-spolka-akcyjna-warszawa-2</id>
-        <link href="https://nofluffjobs.com/job/expert-devops-engineer-ing-bank-slaski-spolka-akcyjna-warszawa-2"/>
-        <updated>2023-11-30T17:33:39.479Z</updated>
-        <content type="html"><![CDATA[ 14 000  – 28 000  PLN ]]></content>
+        <title type="html"><![CDATA[Junior DevOps (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/junior-devops-pentacomp-systemy-informatyczne-remote-1</id>
+        <link href="https://nofluffjobs.com/job/junior-devops-pentacomp-systemy-informatyczne-remote-1"/>
+        <updated>2023-12-01T17:33:16.340Z</updated>
+        <content type="html"><![CDATA[ 15 120  – 21 840  PLN ]]></content>
     </entry>
 </feed>
