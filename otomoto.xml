@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-11-30T17:33:51.007Z</updated>
+    <updated>2023-12-01T05:33:38.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -214,6 +214,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-180km-allure-salon-polska-fv-23-navi-ID6FgZdX.html"/>
         <updated>2023-11-17T21:09:35.243Z</updated>
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • 1.6 PureTech 180KM Allure Salon Polska FV 23% Navi 92 406 km Benzyna Automatyczna 2019 Złotniki (Wielkopolskie) 116 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-2023r-lift-ID6G2aNz.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-2023r-lift-ID6G2aNz.html"/>
+        <updated>2023-12-01T05:33:18.413Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2.0 TFSI Benzyna Quattro 2023r LIFT 3 972 km Benzyna Automatyczna 2023 Warszawa (Mazowieckie) 109 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic]]></title>
@@ -433,11 +440,11 @@
         <content type="html"><![CDATA[1 984 cm3 • 204 KM • Premium Plus 45 Quattro 2.0L 2 135 km Benzyna Automatyczna 2022 Dziekanów Polski (Mazowieckie) 123 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-premium-plus-45-ID6FYqXR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-premium-plus-45-ID6FYqXR.html"/>
-        <updated>2023-11-25T14:00:14.971Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 265 KM • 2023 Premium Plus 45 6 373 km Benzyna Automatyczna 2023 Warszawa (Mazowieckie) 100 500]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-pro-automat-nawigacja-salon-pl-1-wlasciciel-bezwypadkowy-ID6G2aMM.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-pro-automat-nawigacja-salon-pl-1-wlasciciel-bezwypadkowy-ID6G2aMM.html"/>
+        <updated>2023-12-01T05:33:22.610Z</updated>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Momentum PRO Automat Nawigacja Salon PL 1 właściciel bezwypadkowy 61 000 km Benzyna Automatyczna 2019 Gdańsk (Pomorskie) 121 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic Momentum Pro]]></title>
@@ -655,12 +662,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-turbo-benzyna-247-km-ID6FZ9F0.html"/>
         <updated>2023-11-25T14:00:18.705Z</updated>
         <content type="html"><![CDATA[1 969 cm3 • 250 KM • 2.0 Turbo Benzyna 247 KM 9 000 km Benzyna Automatyczna 2022 Tarnów (Małopolskie) 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-2020-pierwszy-wlasciciel-ID6FZ8eC.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-2020-pierwszy-wlasciciel-ID6FZ8eC.html"/>
-        <updated>2023-11-25T14:00:18.708Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Volvo XC-40 T3, 2020, pierwszy właściciel 62 000 km Benzyna Automatyczna 2019 Chorzów (Śląskie) 120 000]]></content>
     </entry>
 </feed>
