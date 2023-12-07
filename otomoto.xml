@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-12-07T05:33:23.820Z</updated>
+    <updated>2023-12-07T17:34:39.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-180-km-automat-allure-krajowy-bezpwyoadkowy-podgrzewana-szyba-fv23-ID6G36T5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-180-km-automat-allure-krajowy-bezpwyoadkowy-podgrzewana-szyba-fv23-ID6G36T5.html"/>
+        <updated>2023-12-07T17:33:38.519Z</updated>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • 180 KM Automat Allure Krajowy Bezpwyoadkowy Podgrzewana szyba FV23% 100 000 km Benzyna Automatyczna 2019 Mysłowice (Śląskie) 86 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT Pack S&S EAT8]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-kamery-skora-nawi-masaze-ful-led-el-klapa-alarm-blis-line-assist-ID6G2VSt.html</id>
@@ -157,7 +164,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-gt-line-salon-pl-1-wlasciciel-autaniszowe-pl-ID6FRSga.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-gt-line-salon-pl-1-wlasciciel-autaniszowe-pl-ID6FRSga.html"/>
         <updated>2023-11-25T14:00:11.002Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 GT Line !! Salon PL, 1 właściciel !! autaniszowe.pl !! 64 600 km Benzyna Automatyczna 2019 Radwanice (Dolnośląskie) 118 999]]></content>
+        <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 GT Line !! Salon PL, 1 właściciel !! autaniszowe.pl !! 64 600 km Benzyna Automatyczna 2019 Radwanice (Dolnośląskie) 114 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 Crossway]]></title>
@@ -209,6 +216,34 @@
         <content type="html"><![CDATA[1 598 cm3 • 180 KM • Peugeot 508 PureTech GT Line Biała Perła 138 000 km Benzyna Automatyczna 2019 Szczecin (Zachodniopomorskie) 86 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 2.0 TFSI S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b9-19r-sline-2-0b-quattro-ID6G32Bu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b9-19r-sline-2-0b-quattro-ID6G32Bu.html"/>
+        <updated>2023-12-07T17:33:43.087Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 252 KM • Audi a4 b9, 19r sline 2.0b, quattro 106 200 km Benzyna Automatyczna 2019 Mszana Dolna (Małopolskie) 119 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 40 TFSI mHEV S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40-tfsi-190km-stronic-ambiente-hak-led-czujniki-parkowania-ID6G30qN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40-tfsi-190km-stronic-ambiente-hak-led-czujniki-parkowania-ID6G30qN.html"/>
+        <updated>2023-12-07T17:33:43.088Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 190 KM • Avant 40 TFSI 190KM Stronic Ambiente/Hak/LED/Czujniki Parkowania 72 089 km Benzyna Automatyczna 2020 Poznań (Wielkopolskie) 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6G30qe.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6G30qe.html"/>
+        <updated>2023-12-07T17:33:43.089Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Avant 35 TFSI 150 KM / SalonPL ASO 77 671 km Benzyna Automatyczna 2020 Poznań (Wielkopolskie) 112 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI Sport S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salonpl-1wl-benzyna-s-tronic-matrixled-virtualcockpit-aso-vat23-ID6G2XEL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salonpl-1wl-benzyna-s-tronic-matrixled-virtualcockpit-aso-vat23-ID6G2XEL.html"/>
+        <updated>2023-12-07T17:33:43.090Z</updated>
+        <content type="html"><![CDATA[1 984 cm3 • 150 KM • SalonPL 1wł. BENZYNA S TRONIC MatrixLed VirtualCockpit ASO Vat23% 63 000 km Benzyna Automatyczna 2020 Mysłowice (Śląskie) 117 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Allroad]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-45tfsi-mildhybrid-quattro-salonpl-serwis-aso-bezwypadkowy-bixenon-fv23-ID6G2EEb.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-45tfsi-mildhybrid-quattro-salonpl-serwis-aso-bezwypadkowy-bixenon-fv23-ID6G2EEb.html"/>
@@ -228,27 +263,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-a6-avant-europa-340ps-mildhybrid-sline-matrix-acc-fvat23-ID6G2t99.html"/>
         <updated>2023-12-05T17:33:19.997Z</updated>
         <content type="html"><![CDATA[2 995 cm3 • 340 KM • a6 avant europa 340ps mildhybrid sline matrix acc fvat23 80 000 km Benzyna Automatyczna 2019 Polkowice (Dolnośląskie) 119 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 40 TFSI mHEV S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40-tfsi-190km-stronic-ambiente-hak-led-czujniki-parkowania-ID6G2rDI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40-tfsi-190km-stronic-ambiente-hak-led-czujniki-parkowania-ID6G2rDI.html"/>
-        <updated>2023-12-04T17:33:20.032Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 190 KM • Avant 40 TFSI 190KM Stronic Ambiente/Hak/LED/Czujniki Parkowania 72 089 km Benzyna Automatyczna 2020 Poznań (Wielkopolskie) 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6G2rA0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-150-km-salonpl-aso-ID6G2rA0.html"/>
-        <updated>2023-12-04T17:33:20.034Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 150 KM • Avant 35 TFSI 150 KM / SalonPL ASO 77 671 km Benzyna Automatyczna 2020 Poznań (Wielkopolskie) 118 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-204km-quattro-s-tronic-s-line-ID6G2iis.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-204km-quattro-s-tronic-s-line-ID6G2iis.html"/>
-        <updated>2023-12-02T05:32:55.237Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 204 KM • 40 TFSI 204KM Quattro S Tronic S-line 32 400 km Benzyna Automatyczna 2022 Rawicz (Wielkopolskie) 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic]]></title>
@@ -426,13 +440,6 @@
         <content type="html"><![CDATA[1 984 cm3 • 204 KM • premium Plus Quattro 2.0L 48 629 km Benzyna Automatyczna 2020 Dziekanów Polski (Mazowieckie) 91 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-s-line-premium-plus-2-0-benzyna-mhev-265km-4x4-ID6FZtMm.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-s-line-premium-plus-2-0-benzyna-mhev-265km-4x4-ID6FZtMm.html"/>
-        <updated>2023-12-06T17:33:30.481Z</updated>
-        <content type="html"><![CDATA[1 984 cm3 • 265 KM • S Line Premium Plus 2.0 benzyna +mHev 265KM 4X4 14 000 km Benzyna Automatyczna 2022 Tarnów (Małopolskie) 129 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-pl-salon-gwarancja-akcesoriagratis-drywa-gdynia-ID6G2VpY.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-pl-salon-gwarancja-akcesoriagratis-drywa-gdynia-ID6G2VpY.html"/>
@@ -514,7 +521,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-nowy-model-ID6G2bwE.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-nowy-model-ID6G2bwE.html"/>
         <updated>2023-12-01T17:33:10.068Z</updated>
-        <content type="html"><![CDATA[2 000 cm3 • 250 KM • nowy model 15 000 km Benzyna Automatyczna 2023 Rudzienice (Warmińsko-mazurskie) 129 000]]></content>
+        <content type="html"><![CDATA[2 000 cm3 • 250 KM • nowy model 15 000 km Benzyna Automatyczna 2023 Rudzienice (Warmińsko-mazurskie) 126 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
