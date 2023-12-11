@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-12-10T17:33:53.493Z</updated>
+    <updated>2023-12-11T05:33:37.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -454,6 +454,13 @@
         <content type="html"><![CDATA[1 984 cm3 • 190 KM • S-line virtual rotor matrix oled masaże navi radary kamera FV23% 65 000 km Benzyna Automatyczna 2020 Pawłowice (Śląskie) 124 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Inscription]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-b-awd-inscription-fv23-okazja-ID6G3A2G.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-b-awd-inscription-fv23-okazja-ID6G3A2G.html"/>
+        <updated>2023-12-11T05:33:18.147Z</updated>
+        <content type="html"><![CDATA[1 969 cm3 • 250 KM • B5 B AWD Inscription FV23% Okazja! 39 964 km Benzyna Automatyczna 2021 Gaj (Małopolskie) 119 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-xc60-b5-awd-11-870km-lift-niegroznie-uszkodzony-jak-nowy-ID6G3y7C.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-xc60-b5-awd-11-870km-lift-niegroznie-uszkodzony-jak-nowy-ID6G3y7C.html"/>
@@ -669,12 +676,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-mild-hybrid-211km-martwe-pola-acc-kamera-full-led-asystent-pasa-grzana-ID6G1bdC.html"/>
         <updated>2023-11-26T17:32:47.468Z</updated>
         <content type="html"><![CDATA[1 969 cm3 • 197 KM • Mild Hybrid 211km Martwe pola ACC Kamera Full Led Asystent pasa Grzana 51 580 km Benzyna Automatyczna 2021 Zbąszynek (Lubuskie) 99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-mozliwa-zamiana-uszkodzony-ID6G17SN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-salon-polska-mozliwa-zamiana-uszkodzony-ID6G17SN.html"/>
-        <updated>2023-12-01T17:33:10.125Z</updated>
-        <content type="html"><![CDATA[1 969 cm3 • 190 KM • volvo XC60 salon polska możliwa zamiana uszkodzony 109 000 km Benzyna Automatyczna 2019 Kraków (Małopolskie) 119 000]]></content>
     </entry>
 </feed>
