@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2019?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2023-12-17T17:33:30.916Z</updated>
+    <updated>2023-12-18T05:33:33.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-ID6G4chG.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-ID6G4chG.html"/>
         <updated>2023-12-15T17:32:52.430Z</updated>
-        <content type="html"><![CDATA[1 598 cm3 • 181 KM • Peugeot 5008 113 000 km Benzyna Automatyczna 2019 Legionowo (Mazowieckie) 110 000]]></content>
+        <content type="html"><![CDATA[1 598 cm3 • 181 KM • Peugeot 5008 113 000 km Benzyna Automatyczna 2019 Legionowo (Mazowieckie) 105 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
@@ -433,6 +433,13 @@
         <content type="html"><![CDATA[1 984 cm3 • 150 KM • Nowe AUDI z Niemiec 24 km Benzyna Automatyczna 2023 Spalice (Dolnośląskie) 114 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-ID6G4l72.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-ID6G4l72.html"/>
+        <updated>2023-12-18T05:33:15.767Z</updated>
+        <content type="html"><![CDATA[1 477 cm3 • 163 KM • Volvo XC40 73 000 km Benzyna Automatyczna 2020 Sierosław (Wielkopolskie) 129 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V90 T5 R-Design]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-desing-full-wersja-super-stan-zamiana-ID6G4jlx.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-desing-full-wersja-super-stan-zamiana-ID6G4jlx.html"/>
@@ -648,12 +655,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-naped-na-wszystkie-kola-wersja-momentum-digital-zegary-top-ID6G1UNJ.html"/>
         <updated>2023-11-29T17:33:21.467Z</updated>
         <content type="html"><![CDATA[1 969 cm3 • 247 KM • 4x4 napęd na wszystkie koła * wersja Momentum * digital zegary * TOP 18 903 km Benzyna Automatyczna 2019 Nowy Sącz (Małopolskie) 119 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ver-t3-ID6G1Mkq.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ver-t3-ID6G1Mkq.html"/>
-        <updated>2023-11-29T17:33:21.467Z</updated>
-        <content type="html"><![CDATA[1 477 cm3 • 163 KM • volvo xc-40 ver-t3 103 032 km Benzyna Automatyczna 2019 Janki (Mazowieckie) 119 899]]></content>
     </entry>
 </feed>
