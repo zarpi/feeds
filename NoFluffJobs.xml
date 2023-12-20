@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2023-12-20T05:33:15.318Z</updated>
+    <updated>2023-12-20T17:33:15.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[ 7 224  – 7 896  USD DevOps]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4</id>
-        <link href="https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4"/>
-        <updated>2023-12-06T17:33:39.455Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 28 560  PLN DevOps]]></content>
+        <title type="html"><![CDATA[Remote DevOps Engineer with AWS]]></title>
+        <id>https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity</id>
+        <link href="https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity"/>
+        <updated>2023-12-07T17:34:26.137Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 30 240  PLN DevOps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer]]></title>
@@ -83,25 +83,25 @@
         <content type="html"><![CDATA[ 13 700  – 20 000  PLN DevOps]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4</id>
+        <link href="https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4"/>
+        <updated>2023-12-06T17:33:39.455Z</updated>
+        <content type="html"><![CDATA[ 21 840  – 28 560  PLN DevOps]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos"/>
+        <updated>2023-12-18T05:33:22.105Z</updated>
+        <content type="html"><![CDATA[ 10 000  – 20 000  PLN DevOps]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Remote Lead Cloud Engineer (AWS)]]></title>
         <id>https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu</id>
         <link href="https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu"/>
         <updated>2023-12-15T17:33:07.107Z</updated>
         <content type="html"><![CDATA[ 36 960  – 40 320  PLN DevOps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Lead]]></title>
-        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
-        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
-        <updated>2023-12-19T17:33:28.019Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 30 000  PLN DevOps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps/Administrator]]></title>
-        <id>https://nofluffjobs.com/job/devops-administrator-ness-solution-remote</id>
-        <link href="https://nofluffjobs.com/job/devops-administrator-ness-solution-remote"/>
-        <updated>2023-12-13T05:33:56.943Z</updated>
-        <content type="html"><![CDATA[ 20 160  – 24 360  PLN DevOps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[ 20 000  – 24 000  PLN DevOps]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (Azure / .NET) - Allegro Pay]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
-        <updated>2023-12-19T17:33:28.025Z</updated>
-        <content type="html"><![CDATA[ 12 300  – 17 600  PLN DevOps]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer (Azure / .NET)- Allegro Pay]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
+        <updated>2023-12-20T17:32:58.157Z</updated>
+        <content type="html"><![CDATA[ 16 100  – 23 200  PLN DevOps]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos"/>
-        <updated>2023-12-18T05:33:22.105Z</updated>
-        <content type="html"><![CDATA[ 10 000  – 20 000  PLN DevOps]]></content>
+        <title type="html"><![CDATA[DevOps Lead]]></title>
+        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
+        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
+        <updated>2023-12-19T17:33:28.019Z</updated>
+        <content type="html"><![CDATA[ 26 000  – 30 000  PLN DevOps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Lead]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ 9 000  – 12 000  USD DevOps]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote DevOps Engineer with AWS]]></title>
-        <id>https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity</id>
-        <link href="https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity"/>
-        <updated>2023-12-07T17:34:26.137Z</updated>
+        <title type="html"><![CDATA[Remote DevOps Engineer with Azure]]></title>
+        <id>https://nofluffjobs.com/job/remote-devops-engineer-with-azure-objectivity-sfkojo1j</id>
+        <link href="https://nofluffjobs.com/job/remote-devops-engineer-with-azure-objectivity-sfkojo1j"/>
+        <updated>2023-12-20T17:32:58.161Z</updated>
         <content type="html"><![CDATA[ 23 520  – 30 240  PLN DevOps]]></content>
     </entry>
 </feed>
