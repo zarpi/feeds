@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-10T17:33:35.429Z</updated>
+    <updated>2024-01-11T05:33:59.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw (NoFluffJobs)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[ 25 200  – 33 600  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa</id>
-        <link href="https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa"/>
-        <updated>2023-12-21T05:33:19.007Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 35 000  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Lead (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
+        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
+        <updated>2024-01-10T17:33:23.711Z</updated>
+        <content type="html"><![CDATA[ 26 000  – 30 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[ 9 000  – 12 000  USD ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remote DevOps Engineer with AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity</id>
+        <link href="https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity"/>
+        <updated>2023-12-07T17:34:26.137Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azure DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4</id>
         <link href="https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-4"/>
@@ -89,18 +96,11 @@
         <content type="html"><![CDATA[ 21 840  – 28 560  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Lead Cloud Engineer (AWS) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu</id>
-        <link href="https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu"/>
-        <updated>2023-12-15T17:33:07.107Z</updated>
-        <content type="html"><![CDATA[ 36 960  – 40 320  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Lead (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw</id>
-        <link href="https://nofluffjobs.com/job/devops-lead-falck-it-poland-warsaw"/>
-        <updated>2024-01-10T17:33:23.711Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 30 000  PLN ]]></content>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos"/>
+        <updated>2023-12-18T05:33:22.105Z</updated>
+        <content type="html"><![CDATA[ 10 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
@@ -117,11 +117,11 @@
         <content type="html"><![CDATA[ 16 000  – 20 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Infrastructure (DevOps) Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto</id>
-        <link href="https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto"/>
-        <updated>2024-01-08T17:33:06.408Z</updated>
-        <content type="html"><![CDATA[ 25 500  – 30 000  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineers (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri</id>
+        <link href="https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri"/>
+        <updated>2024-01-10T17:33:23.727Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remote DevOps Engineer with Azure (NoFluffJobs)]]></title>
@@ -131,25 +131,25 @@
         <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Engineer (Azure / .NET) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/software-engineer-azure-net-allegro-warszawa</id>
-        <link href="https://nofluffjobs.com/job/software-engineer-azure-net-allegro-warszawa"/>
-        <updated>2024-01-10T17:33:23.722Z</updated>
-        <content type="html"><![CDATA[ 12 300  – 17 600  PLN ]]></content>
+        <title type="html"><![CDATA[Remote Lead Cloud Engineer (AWS) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu</id>
+        <link href="https://nofluffjobs.com/job/remote-lead-cloud-engineer-aws-7n-rezesqgu"/>
+        <updated>2023-12-15T17:33:07.107Z</updated>
+        <content type="html"><![CDATA[ 36 960  – 40 320  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-exorigo-upos"/>
-        <updated>2023-12-18T05:33:22.105Z</updated>
-        <content type="html"><![CDATA[ 10 000  – 20 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa</id>
+        <link href="https://nofluffjobs.com/job/senior-platform-engineer-raiffeisen-tech-warszawa"/>
+        <updated>2023-12-21T05:33:19.007Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 35 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-pko-finat-remote-h0lh4ncx</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-pko-finat-remote-h0lh4ncx"/>
-        <updated>2024-01-10T17:33:23.725Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 31 080  PLN ]]></content>
+        <title type="html"><![CDATA[Senior Infrastructure (DevOps) Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto</id>
+        <link href="https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto"/>
+        <updated>2024-01-08T17:33:06.408Z</updated>
+        <content type="html"><![CDATA[ 25 500  – 30 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Administrator Linux (NoFluffJobs)]]></title>
@@ -159,53 +159,11 @@
         <content type="html"><![CDATA[ 13 440  – 16 800  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineers (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri</id>
-        <link href="https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri"/>
-        <updated>2024-01-10T17:33:23.727Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote DevOps Engineer with AWS (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity</id>
-        <link href="https://nofluffjobs.com/job/remote-devops-engineer-with-aws-objectivity"/>
-        <updated>2023-12-07T17:34:26.137Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Software Engineer (Azure / .NET) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-software-engineer-azure-net-allegro-warszawa</id>
-        <link href="https://nofluffjobs.com/job/senior-software-engineer-azure-net-allegro-warszawa"/>
-        <updated>2024-01-08T17:33:06.411Z</updated>
-        <content type="html"><![CDATA[ 16 100  – 23 200  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa-qeo2boml</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa-qeo2boml"/>
-        <updated>2024-01-10T17:33:23.732Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lead Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/lead-cloud-engineer-ework-group-remote-1</id>
-        <link href="https://nofluffjobs.com/job/lead-cloud-engineer-ework-group-remote-1"/>
-        <updated>2024-01-10T17:33:23.737Z</updated>
-        <content type="html"><![CDATA[ 6 720  – 7 896  EUR ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid IT Admin (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/mid-it-admin-link-group-warsaw-w8vtotgx</id>
-        <link href="https://nofluffjobs.com/job/mid-it-admin-link-group-warsaw-w8vtotgx"/>
-        <updated>2024-01-10T17:33:23.739Z</updated>
-        <content type="html"><![CDATA[ 15 120  – 19 320  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Cloud Infrastructure Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-cloud-infrastructure-engineer-winged-it-fjwksf8q</id>
-        <link href="https://nofluffjobs.com/job/remote-cloud-infrastructure-engineer-winged-it-fjwksf8q"/>
-        <updated>2024-01-10T17:33:23.740Z</updated>
-        <content type="html"><![CDATA[ 7 000  – 10 500  USD ]]></content>
+        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/platform-engineer-avenga-warszawa</id>
+        <link href="https://nofluffjobs.com/job/platform-engineer-avenga-warszawa"/>
+        <updated>2024-01-11T05:33:49.246Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 35 280  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer - 100% remote (NoFluffJobs)]]></title>
@@ -215,53 +173,11 @@
         <content type="html"><![CDATA[ 28 560  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (Azure / .NET)- Allegro Pay (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
-        <updated>2024-01-10T17:33:23.742Z</updated>
+        <title type="html"><![CDATA[Senior Software Engineer (Azure / .NET) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-software-engineer-azure-net-allegro-warszawa</id>
+        <link href="https://nofluffjobs.com/job/senior-software-engineer-azure-net-allegro-warszawa"/>
+        <updated>2024-01-08T17:33:06.411Z</updated>
         <content type="html"><![CDATA[ 16 100  – 23 200  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-sollers-consulting-warsaw</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-sollers-consulting-warsaw"/>
-        <updated>2024-01-10T17:33:23.743Z</updated>
-        <content type="html"><![CDATA[ 13 550  – 19 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Senior) Security Architect (Cloud) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-security-architect-cloud-european-investment-bank-warsaw</id>
-        <link href="https://nofluffjobs.com/job/senior-security-architect-cloud-european-investment-bank-warsaw"/>
-        <updated>2024-01-10T17:33:23.745Z</updated>
-        <content type="html"><![CDATA[ 6 184  – 12 368  EUR ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior VMWare Engineer - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-vmware-engineer-remote-link-group</id>
-        <link href="https://nofluffjobs.com/job/senior-vmware-engineer-remote-link-group"/>
-        <updated>2024-01-10T17:33:23.746Z</updated>
-        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud Migration Architect (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc</id>
-        <link href="https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc"/>
-        <updated>2024-01-10T17:33:23.747Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-devops-engineer-infoprojekt</id>
-        <link href="https://nofluffjobs.com/job/remote-devops-engineer-infoprojekt"/>
-        <updated>2024-01-10T17:33:23.760Z</updated>
-        <content type="html"><![CDATA[ 14 500  – 19 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (Azure / .NET) - Allegro Pay (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
-        <updated>2024-01-10T17:33:23.760Z</updated>
-        <content type="html"><![CDATA[ 12 300  – 17 600  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Devops Engineer (NoFluffJobs)]]></title>
@@ -272,10 +188,136 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/cloud-engineer-pko-finat-remote-h0lh4ncx</id>
+        <link href="https://nofluffjobs.com/job/cloud-engineer-pko-finat-remote-h0lh4ncx"/>
+        <updated>2024-01-10T17:33:23.725Z</updated>
+        <content type="html"><![CDATA[ 21 840  – 31 080  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Systems and Tools Administration Specialist (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/it-systems-and-tools-administration-specialist-fundacja-lekarze-bez-granic-warszawa-rt2umgaj</id>
+        <link href="https://nofluffjobs.com/job/it-systems-and-tools-administration-specialist-fundacja-lekarze-bez-granic-warszawa-rt2umgaj"/>
+        <updated>2024-01-11T05:33:49.254Z</updated>
+        <content type="html"><![CDATA[ 8 899  – 11 260  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-ing-bank-slaski-spolka-akcyjna-katowice-1</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-ing-bank-slaski-spolka-akcyjna-katowice-1"/>
+        <updated>2024-01-11T05:33:49.255Z</updated>
+        <content type="html"><![CDATA[ 11 000  – 22 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Cloud Infrastructure Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-cloud-infrastructure-engineer-winged-it-fjwksf8q</id>
+        <link href="https://nofluffjobs.com/job/remote-cloud-infrastructure-engineer-winged-it-fjwksf8q"/>
+        <updated>2024-01-10T17:33:23.740Z</updated>
+        <content type="html"><![CDATA[ 7 000  – 10 500  USD ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (Azure / .NET) - Allegro Pay (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
+        <updated>2024-01-10T17:33:23.760Z</updated>
+        <content type="html"><![CDATA[ 12 300  – 17 600  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer z AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa-qeo2boml</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-z-aws-link-group-warszawa-qeo2boml"/>
+        <updated>2024-01-10T17:33:23.732Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/cloud-engineer-unit8-wroclaw-l44dr7z8</id>
         <link href="https://nofluffjobs.com/job/cloud-engineer-unit8-wroclaw-l44dr7z8"/>
         <updated>2024-01-10T17:33:23.761Z</updated>
         <content type="html"><![CDATA[ 20 000  – 28 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid IT Admin (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/mid-it-admin-link-group-warsaw-w8vtotgx</id>
+        <link href="https://nofluffjobs.com/job/mid-it-admin-link-group-warsaw-w8vtotgx"/>
+        <updated>2024-01-10T17:33:23.739Z</updated>
+        <content type="html"><![CDATA[ 15 120  – 19 320  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-mlops-engineer-avenga-remote-1</id>
+        <link href="https://nofluffjobs.com/job/senior-mlops-engineer-avenga-remote-1"/>
+        <updated>2024-01-11T05:33:49.263Z</updated>
+        <content type="html"><![CDATA[ 27 720  – 31 080  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-devops-engineer-infoprojekt</id>
+        <link href="https://nofluffjobs.com/job/remote-devops-engineer-infoprojekt"/>
+        <updated>2024-01-10T17:33:23.760Z</updated>
+        <content type="html"><![CDATA[ 14 500  – 19 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineer (Azure / .NET) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/software-engineer-azure-net-allegro-warszawa</id>
+        <link href="https://nofluffjobs.com/job/software-engineer-azure-net-allegro-warszawa"/>
+        <updated>2024-01-10T17:33:23.722Z</updated>
+        <content type="html"><![CDATA[ 12 300  – 17 600  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-sollers-consulting-warsaw</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-sollers-consulting-warsaw"/>
+        <updated>2024-01-10T17:33:23.743Z</updated>
+        <content type="html"><![CDATA[ 13 550  – 19 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Infrastructure Engineer / Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-infrastructure-engineer-platform-engineer-sentinelone-remote-qbi6wtkd</id>
+        <link href="https://nofluffjobs.com/job/senior-infrastructure-engineer-platform-engineer-sentinelone-remote-qbi6wtkd"/>
+        <updated>2024-01-11T05:33:49.270Z</updated>
+        <content type="html"><![CDATA[ 90k  – 130k  CZK ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior VMWare Engineer - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-vmware-engineer-remote-link-group</id>
+        <link href="https://nofluffjobs.com/job/senior-vmware-engineer-remote-link-group"/>
+        <updated>2024-01-10T17:33:23.746Z</updated>
+        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineer in ML (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/software-engineer-in-ml-respo-vision-warsaw-spzum1yn</id>
+        <link href="https://nofluffjobs.com/job/software-engineer-in-ml-respo-vision-warsaw-spzum1yn"/>
+        <updated>2024-01-11T05:33:49.278Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 17 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc--1</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc--1"/>
+        <updated>2024-01-10T17:33:23.764Z</updated>
+        <content type="html"><![CDATA[ 27 000  – 31 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (Azure / .NET)- Allegro Pay (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-azure-net-allegro-pay-allegro-warszawa"/>
+        <updated>2024-01-10T17:33:23.742Z</updated>
+        <content type="html"><![CDATA[ 16 100  – 23 200  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-link-group-warszawa-2</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-link-group-warszawa-2"/>
+        <updated>2024-01-10T17:33:23.779Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 26 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lead Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/lead-cloud-engineer-ework-group-remote-1</id>
+        <link href="https://nofluffjobs.com/job/lead-cloud-engineer-ework-group-remote-1"/>
+        <updated>2024-01-10T17:33:23.737Z</updated>
+        <content type="html"><![CDATA[ 6 720  – 7 896  EUR ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Network Engineer (NoFluffJobs)]]></title>
@@ -285,18 +327,18 @@
         <content type="html"><![CDATA[ 18 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-site-reliability-engineer-air-space-intelligence-gdansk-0kxlxj6v</id>
-        <link href="https://nofluffjobs.com/job/senior-site-reliability-engineer-air-space-intelligence-gdansk-0kxlxj6v"/>
-        <updated>2024-01-10T17:33:23.762Z</updated>
-        <content type="html"><![CDATA[ 35 100  PLN ]]></content>
+        <title type="html"><![CDATA[Container Platform Engineer/Kubernetes Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/container-platform-engineer-kubernetes-engineer-c-h-robinson-warszawa</id>
+        <link href="https://nofluffjobs.com/job/container-platform-engineer-kubernetes-engineer-c-h-robinson-warszawa"/>
+        <updated>2024-01-11T05:33:49.283Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc--1</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-devops-engineer-kingfisher-plc--1"/>
-        <updated>2024-01-10T17:33:23.764Z</updated>
-        <content type="html"><![CDATA[ 27 000  – 31 000  PLN ]]></content>
+        <title type="html"><![CDATA[Software Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/software-engineer-avenga-remote-2pxehob5</id>
+        <link href="https://nofluffjobs.com/job/software-engineer-avenga-remote-2pxehob5"/>
+        <updated>2024-01-10T17:33:23.777Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Azure DevOps Engineer (NoFluffJobs)]]></title>
@@ -311,47 +353,5 @@
         <link href="https://nofluffjobs.com/job/ibm-cloud-platform-architect-nordcloud-remote-pkkgntas"/>
         <updated>2024-01-10T17:33:23.771Z</updated>
         <content type="html"><![CDATA[ 28 560  – 36 120  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-unit8-krakow-5tx492yc</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-unit8-krakow-5tx492yc"/>
-        <updated>2024-01-10T17:33:23.773Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 28 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle administrator (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/oracle-administrator-actyc-remote-1</id>
-        <link href="https://nofluffjobs.com/job/oracle-administrator-actyc-remote-1"/>
-        <updated>2024-01-10T17:33:23.774Z</updated>
-        <content type="html"><![CDATA[ 3 360  – 6 720  USD ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Production Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1</id>
-        <link href="https://nofluffjobs.com/job/senior-production-engineer-hsbc-technology-poland-krakow-1"/>
-        <updated>2024-01-10T17:33:23.775Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 17 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/software-engineer-avenga-remote-2pxehob5</id>
-        <link href="https://nofluffjobs.com/job/software-engineer-avenga-remote-2pxehob5"/>
-        <updated>2024-01-10T17:33:23.777Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps (Observability) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-observability-grape-up-krakow-evo0dj39</id>
-        <link href="https://nofluffjobs.com/job/devops-observability-grape-up-krakow-evo0dj39"/>
-        <updated>2024-01-10T17:33:23.778Z</updated>
-        <content type="html"><![CDATA[ 19 824  – 37 800  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-link-group-warszawa-2</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-link-group-warszawa-2"/>
-        <updated>2024-01-10T17:33:23.779Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 26 000  PLN ]]></content>
     </entry>
 </feed>
