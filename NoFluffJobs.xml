@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-02-04T05:33:03.416Z</updated>
+    <updated>2024-02-04T17:33:27.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw]]></title>
-        <id>https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo</id>
-        <link href="https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo"/>
-        <updated>2024-01-29T17:33:41.227Z</updated>
-        <content type="html"><![CDATA[ 16 000  – 23 000  PLN ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Security Architect ( AWS )]]></title>
         <id>https://nofluffjobs.com/job/cloud-security-architect-aws-softserve-remote</id>
         <link href="https://nofluffjobs.com/job/cloud-security-architect-aws-softserve-remote"/>
         <updated>2024-01-11T17:32:57.016Z</updated>
         <content type="html"><![CDATA[ 30 000  – 32 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DevOps Mid Engineer- Remote/Wroclaw]]></title>
+        <id>https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo</id>
+        <link href="https://nofluffjobs.com/job/aws-devops-mid-engineer-remote-wroclaw-sofomo"/>
+        <updated>2024-01-29T17:33:41.227Z</updated>
+        <content type="html"><![CDATA[ 16 000  – 23 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (with Azure)]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[ 12 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps (Tech Lead)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-tech-lead-squareone-remote-3wn7pwqp</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-tech-lead-squareone-remote-3wn7pwqp"/>
-        <updated>2024-01-25T17:33:22.383Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 31 920  PLN ]]></content>
+        <title type="html"><![CDATA[Senior MLOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/senior-mlops-engineer-avenga-remote-4nk0phpc</id>
+        <link href="https://nofluffjobs.com/job/senior-mlops-engineer-avenga-remote-4nk0phpc"/>
+        <updated>2024-02-04T17:33:17.109Z</updated>
+        <content type="html"><![CDATA[ 27 720  – 31 080  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Developer Patterns]]></title>
@@ -132,11 +132,11 @@
         <content type="html"><![CDATA[ 27 300  – 32 550  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devops Engineer]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-solwit-remote-wp0cp4jm</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-solwit-remote-wp0cp4jm"/>
-        <updated>2024-02-03T17:33:38.650Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 16 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps (Tech Lead)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-tech-lead-squareone-remote-3wn7pwqp</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-tech-lead-squareone-remote-3wn7pwqp"/>
+        <updated>2024-01-25T17:33:22.383Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 31 920  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Infrastructure (DevOps) Engineer]]></title>
