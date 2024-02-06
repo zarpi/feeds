@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-02-06T05:33:39.363Z</updated>
+    <updated>2024-02-06T17:33:15.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[ 14 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-sollers-consulting-warszawa-3</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-sollers-consulting-warszawa-3"/>
-        <updated>2024-01-08T17:33:06.402Z</updated>
+        <title type="html"><![CDATA[Cloud Developer]]></title>
+        <id>https://nofluffjobs.com/job/cloud-developer-sollers-consulting-warszawa</id>
+        <link href="https://nofluffjobs.com/job/cloud-developer-sollers-consulting-warszawa"/>
+        <updated>2024-02-06T17:33:02.742Z</updated>
         <content type="html"><![CDATA[ 13 700  – 20 000  PLN ]]></content>
     </entry>
     <entry>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Infrastructure (DevOps) Engineer]]></title>
-        <id>https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto</id>
-        <link href="https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto"/>
-        <updated>2024-01-08T17:33:06.408Z</updated>
-        <content type="html"><![CDATA[ 25 500  – 30 000  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineers]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri</id>
+        <link href="https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri"/>
+        <updated>2024-01-31T17:33:37.147Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Software Engineer]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Architect]]></title>
-        <id>https://nofluffjobs.com/job/software-architect-crif-remote-b7bwfcez</id>
-        <link href="https://nofluffjobs.com/job/software-architect-crif-remote-b7bwfcez"/>
-        <updated>2024-02-05T17:34:07.980Z</updated>
-        <content type="html"><![CDATA[ Check Salary Match ]]></content>
+        <title type="html"><![CDATA[Senior Cloud Migration Architect]]></title>
+        <id>https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc</id>
+        <link href="https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc"/>
+        <updated>2024-02-06T17:33:02.757Z</updated>
+        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Platform Engineer (Azure)]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ 26 880  – 31 920  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineers]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri</id>
-        <link href="https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri"/>
-        <updated>2024-01-31T17:33:37.147Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior Infrastructure (DevOps) Engineer]]></title>
+        <id>https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto</id>
+        <link href="https://nofluffjobs.com/job/senior-infrastructure-devops-engineer-volt-io-open-banking-payments-warszawa-e7vtayto"/>
+        <updated>2024-01-08T17:33:06.408Z</updated>
+        <content type="html"><![CDATA[ 25 500  – 30 000  PLN ]]></content>
     </entry>
 </feed>
