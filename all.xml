@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-28T17:13:11.640Z</updated>
+    <updated>2024-02-28T17:32:54.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 180KM F-Vat 23% (Otomoto)]]></title>
@@ -495,13 +495,6 @@
         <content type="html"><![CDATA[ 84 766 km Benzyna Automatyczna 2019 Poznań (Wielkopolskie) ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V90 T4 Geartronic R Design1 969 cm3 • 190 KM • R DESIGN* + panorama*kamera*akt.tempomat*WYJĄTKOWE*PIĘKNE (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-panoramakameraakt-tempomatwyjatkowepiekne-ID6GdXYM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-panoramakameraakt-tempomatwyjatkowepiekne-ID6GdXYM.html"/>
-        <updated>2024-02-28T17:12:55.552Z</updated>
-        <content type="html"><![CDATA[ 111 000 km Benzyna Automatyczna 2020 Góra Kalwaria (Mazowieckie) ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo V60 B5 B Geartronic Inscription1 969 cm3 • 250 KM • B5 250KM! Hybryda! 23 tys km! OKAZJA! (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html"/>
@@ -675,6 +668,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-autoryzowany-dealer-volvo-pl-salon-serwis-aso-momentum-core-t3-163k-ID6Gc8n9.html"/>
         <updated>2024-02-28T17:12:55.597Z</updated>
         <content type="html"><![CDATA[ 79 676 km Benzyna Manualna 2021 Bydgoszcz (Kujawsko-pomorskie) ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum1 969 cm3 • 247 KM • XC40 2019 T5 250 KM Momentum, 2 komplety kół (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-2019-t5-250-km-momentum-2-komplety-kol-ID6Gc5Eg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-2019-t5-250-km-momentum-2-komplety-kol-ID6Gc5Eg.html"/>
+        <updated>2024-02-28T17:32:37.710Z</updated>
+        <content type="html"><![CDATA[ 50 500 km Benzyna Automatyczna 2019 Ostrowiec Świętokrzyski (Świętokrzyskie) ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
