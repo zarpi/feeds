@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-02T17:34:14.700Z</updated>
+    <updated>2024-03-03T05:33:37.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • 1,6 PureTech 181 KM GT-Line Automat GWARANCJA Zamiana Zarejestrowany (Otomoto)]]></title>
@@ -383,13 +383,6 @@
         <content type="html"><![CDATA[2 076 km Benzyna Automatyczna 2021 99 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V90 T4 Geartronic R Design1 969 cm3 • 190 KM • R DESIGN* + panorama*kamera*akt.tempomat*WYJĄTKOWE*PIĘKNE (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-panoramakameraakt-tempomatwyjatkowepiekne-ID6GdXYM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-panoramakameraakt-tempomatwyjatkowepiekne-ID6GdXYM.html"/>
-        <updated>2024-03-02T05:33:08.898Z</updated>
-        <content type="html"><![CDATA[111 000 km Benzyna Automatyczna 2020 119 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo V60 B5 B Geartronic Inscription1 969 cm3 • 250 KM • B5 250KM! Hybryda! 23 tys km! OKAZJA! (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html"/>
@@ -556,6 +549,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t4-ID6GaEPQ.html"/>
         <updated>2024-02-28T22:01:47.419Z</updated>
         <content type="html"><![CDATA[30 000 km Benzyna Automatyczna 2022 119 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • VOLVO XC40 T3 MOMENTUM PRO biały Idealny bezwypadkowy benzyna manual (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-pro-bialy-idealny-bezwypadkowy-benzyna-manual-ID6GaBHd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-pro-bialy-idealny-bezwypadkowy-benzyna-manual-ID6GaBHd.html"/>
+        <updated>2024-03-03T05:33:21.695Z</updated>
+        <content type="html"><![CDATA[99 100 km Benzyna Manualna 2020 130 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
