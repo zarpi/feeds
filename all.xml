@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-06T17:33:44.521Z</updated>
+    <updated>2024-03-07T05:33:36.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • zarejestrowany mały przebieg (Otomoto)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[4 006 km Benzyna Automatyczna 2022 124 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark1 969 cm3 • 250 KM • Wersja POLESTAR!! 2023r !! mały przebieg 4x4 skóra bogata wersja (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wersja-polestar-2023r-maly-przebieg-4x4-skora-bogata-wersja-ID6GfQvP.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wersja-polestar-2023r-maly-przebieg-4x4-skora-bogata-wersja-ID6GfQvP.html"/>
+        <updated>2024-03-07T05:33:19.162Z</updated>
+        <content type="html"><![CDATA[1 499 km Benzyna Automatyczna 2023 102 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 197 KM • MOMENTUM, 2020r. *4x4*Automat*Bezwypadkowy*Faktura Vat23%* (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-2020r-4x4automatbezwypadkowyfaktura-vat23-ID6GfMxS.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-2020r-4x4automatbezwypadkowyfaktura-vat23-ID6GfMxS.html"/>
@@ -493,13 +500,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-benzyna-t5-awd-garazowany-bardzo-zadbany-bogate-wyposazenie-ID6GcG8s.html"/>
         <updated>2024-02-28T17:12:55.586Z</updated>
         <content type="html"><![CDATA[64 800 km Benzyna Automatyczna 2020 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum1 969 cm3 • 250 KM • 4x4, 250 KM, 19600 km przebiegu (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-250-km-19600-km-przebiegu-ID6GcFRO.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-250-km-19600-km-przebiegu-ID6GcFRO.html"/>
-        <updated>2024-03-01T17:39:51.025Z</updated>
-        <content type="html"><![CDATA[19 900 km Benzyna Automatyczna 2021 109 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 Geartronic R-Design1 969 cm3 • 190 KM • T4 FV23% R-Design Automat Kamera Blis El.Klapa Panorama Navi LED Skóra (Otomoto)]]></title>
