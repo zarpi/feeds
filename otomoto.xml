@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-03-08T05:33:38.548Z</updated>
+    <updated>2024-03-08T17:33:15.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[34 000 km Benzyna Automatyczna 2020 119 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic1 984 cm3 • 245 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-ID6Gg3UN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-ID6Gg3UN.html"/>
-        <updated>2024-03-08T05:33:15.906Z</updated>
-        <content type="html"><![CDATA[49 999 km Benzyna Automatyczna 2020 95 000]]></content>
+        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Audi Q5 Prestige 45 2023]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-45-2023-ID6Gggv3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-45-2023-ID6Gggv3.html"/>
+        <updated>2024-03-08T17:32:54.711Z</updated>
+        <content type="html"><![CDATA[7 565 km Benzyna Automatyczna 2023 124 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic1 984 cm3 • 245 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-ID6Gg2Yo.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-ID6Gg2Yo.html"/>
-        <updated>2024-03-08T05:33:15.907Z</updated>
-        <content type="html"><![CDATA[49 800 km Benzyna Automatyczna 2020 100 000]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2023-benzyna-4x4-automat-ID6GgfMg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2023-benzyna-4x4-automat-ID6GgfMg.html"/>
+        <updated>2024-03-08T17:32:54.712Z</updated>
+        <content type="html"><![CDATA[223 km Benzyna Automatyczna 2023 86 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 190 KM • Audi A4 40 Tfsi S Tronic Virtual Cockpit Ogrz Fotele Salonpl Vat23]]></title>
@@ -130,6 +130,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-40-tfsi-s-tronic-virtual-cockpit-ogrz-fotele-salonpl-vat23-ID6GfOeT.html"/>
         <updated>2024-03-06T17:33:24.127Z</updated>
         <content type="html"><![CDATA[91 571 km Benzyna Automatyczna 2020 122 799]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • quattro 2.0 TFSI mały przebieg]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2-0-tfsi-maly-przebieg-ID6GfO2u.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2-0-tfsi-maly-przebieg-ID6GfO2u.html"/>
+        <updated>2024-03-08T17:32:54.715Z</updated>
+        <content type="html"><![CDATA[40 846 km Benzyna Automatyczna 2020 80 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM]]></title>
@@ -185,7 +192,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html"/>
         <updated>2024-03-05T05:32:51.393Z</updated>
-        <content type="html"><![CDATA[19 000 km Benzyna Automatyczna 2023 100 900]]></content>
+        <content type="html"><![CDATA[19 000 km Benzyna Automatyczna 2023 90 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Pełen S line miękka hybryda]]></title>
@@ -328,13 +335,6 @@
         <content type="html"><![CDATA[25 000 km Benzyna Automatyczna 2021 108 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 248 KM • Titanium Prestige, 2020r., 4x4, 2.0L]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html"/>
-        <updated>2024-03-05T05:32:51.421Z</updated>
-        <content type="html"><![CDATA[42 613 km Benzyna Automatyczna 2020 115 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 60 T4 Inscription1 969 cm3 • 190 KM • Volvo Xc 60 2020 rok polska, salon, bezwypadkowy, fv 23 %]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-2020-rok-polska-salon-bezwypadkowy-fv-23-ID6Gg04y.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-2020-rok-polska-salon-bezwypadkowy-fv-23-ID6Gg04y.html"/>
@@ -419,6 +419,13 @@
         <content type="html"><![CDATA[46 730 km Benzyna Automatyczna 2020 119 899]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-super-sztuka-ID6Gfg5A.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-super-sztuka-ID6Gfg5A.html"/>
+        <updated>2024-03-08T17:32:58.680Z</updated>
+        <content type="html"><![CDATA[31 935 km Benzyna Automatyczna 2022 125 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Pierwszy właściciel, bogata wersja, panorama, harman-kaordon]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-bogata-wersja-panorama-harman-kaordon-ID6GeZFZ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-bogata-wersja-panorama-harman-kaordon-ID6GeZFZ.html"/>
@@ -482,6 +489,13 @@
         <content type="html"><![CDATA[2 076 km Benzyna Automatyczna 2021 99 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • T3 Momentum Core 1 Właściciel]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-core-1-wlasciciel-ID6Ge3qs.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-core-1-wlasciciel-ID6Ge3qs.html"/>
+        <updated>2024-03-08T17:32:58.699Z</updated>
+        <content type="html"><![CDATA[49 323 km Benzyna Automatyczna 2022 129 999]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 B5 B Geartronic Inscription1 969 cm3 • 250 KM • B5 250KM! Hybryda! 23 tys km! OKAZJA!]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-b5-250km-hybryda-23-tys-km-okazja-ID6GdWXD.html"/>
@@ -543,19 +557,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-vat-ID6GcTT2.html"/>
         <updated>2024-02-28T17:12:55.579Z</updated>
         <content type="html"><![CDATA[64 000 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V601 969 cm3 • 190 KM • V60 T4 2.0 Benzyna 190 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-t4-2-0-benzyna-190-km-ID6GcJPJ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-t4-2-0-benzyna-190-km-ID6GcJPJ.html"/>
-        <updated>2024-02-28T17:12:55.582Z</updated>
-        <content type="html"><![CDATA[114 701 km Benzyna Automatyczna 2020 109 800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 Cross Country T5 AWD Geartronic1 969 cm3 • 250 KM • Benzyna T5 AWD Garażowany Bardzo Zadbany Bogate Wyposażenie]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-benzyna-t5-awd-garazowany-bardzo-zadbany-bogate-wyposazenie-ID6GcG8s.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-benzyna-t5-awd-garazowany-bardzo-zadbany-bogate-wyposazenie-ID6GcG8s.html"/>
-        <updated>2024-02-28T17:12:55.586Z</updated>
-        <content type="html"><![CDATA[64 800 km Benzyna Automatyczna 2020 119 900]]></content>
     </entry>
 </feed>
