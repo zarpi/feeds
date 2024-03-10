@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-10T05:33:15.855Z</updated>
+    <updated>2024-03-10T17:33:56.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 GT1 598 cm3 • 180 KM • 180KM #GT # SW # Kamera 360# NightVis# Ele klapa i-Cocpit 2021 (Otomoto)]]></title>
@@ -23,7 +23,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-zarejestrowany-maly-przebieg-ID6GfHf3.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-zarejestrowany-maly-przebieg-ID6GfHf3.html"/>
         <updated>2024-03-06T17:33:20.579Z</updated>
-        <content type="html"><![CDATA[40 000 km Benzyna Automatyczna 2020 86 999]]></content>
+        <content type="html"><![CDATA[40 000 km Benzyna Automatyczna 2020 85 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • 1.6 Benzyna 180KM GT Masaż Full Led Kamera Navi Serwis (Otomoto)]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[102 000 km Benzyna Automatyczna 2020 99 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack1 598 cm3 • 181 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
+        <updated>2024-03-10T17:33:31.573Z</updated>
+        <content type="html"><![CDATA[30 200 km Benzyna Automatyczna 2021 105 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 Allure Pack1 598 cm3 • 180 KM • Peugeot 508 II SW 1.6 PureTech 16V 225 Hybrid EAT8 S&S 180KM AUTOMAT (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-ii-sw-1-6-puretech-16v-225-hybrid-eat8-s-s-180km-automat-ID6G7kXw.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-ii-sw-1-6-puretech-16v-225-hybrid-eat8-s-s-180km-automat-ID6G7kXw.html"/>
@@ -108,230 +115,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html"/>
         <updated>2024-02-28T22:01:39.322Z</updated>
         <content type="html"><![CDATA[34 000 km Benzyna Automatyczna 2020 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Polift! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-polift-ID6Ggivw.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-polift-ID6Ggivw.html"/>
-        <updated>2024-03-09T05:33:02.329Z</updated>
-        <content type="html"><![CDATA[17 380 km Benzyna Automatyczna 2022 99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Audi Q5 Prestige 45 2023 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-45-2023-ID6Gggv3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-45-2023-ID6Gggv3.html"/>
-        <updated>2024-03-08T17:32:54.711Z</updated>
-        <content type="html"><![CDATA[7 565 km Benzyna Automatyczna 2023 124 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2023-benzyna-4x4-automat-ID6GgfMg.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2023-benzyna-4x4-automat-ID6GgfMg.html"/>
-        <updated>2024-03-08T17:32:54.712Z</updated>
-        <content type="html"><![CDATA[223 km Benzyna Automatyczna 2023 86 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 190 KM • Audi A4 40 Tfsi S Tronic Virtual Cockpit Ogrz Fotele Salonpl Vat23 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-40-tfsi-s-tronic-virtual-cockpit-ogrz-fotele-salonpl-vat23-ID6GfOeT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-40-tfsi-s-tronic-virtual-cockpit-ogrz-fotele-salonpl-vat23-ID6GfOeT.html"/>
-        <updated>2024-03-06T17:33:24.127Z</updated>
-        <content type="html"><![CDATA[91 571 km Benzyna Automatyczna 2020 122 799]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Gfdpp.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Gfdpp.html"/>
-        <updated>2024-03-06T05:33:52.316Z</updated>
-        <content type="html"><![CDATA[5 655 km Benzyna Automatyczna 2023 98 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • 2.0B-252PS,Automat,4x4,skóra,nawi+kamera,xenon,idealny (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
-        <updated>2024-03-05T05:32:51.386Z</updated>
-        <content type="html"><![CDATA[38 000 km Benzyna Automatyczna 2020 129 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 4x4, AWD, Quattro, benzyna 2.0L, Automat, Prestige (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-4x4-awd-quattro-benzyna-2-0l-automat-prestige-ID6GeNyw.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-4x4-awd-quattro-benzyna-2-0l-automat-prestige-ID6GeNyw.html"/>
-        <updated>2024-03-05T05:32:51.387Z</updated>
-        <content type="html"><![CDATA[4 701 km Benzyna Automatyczna 2023 129 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • PREMIUM PLUS 45, 2.0L, 4x4, od ubezpieczalni. (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-45-2-0l-4x4-od-ubezpieczalni-ID6GeBh2.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-45-2-0l-4x4-od-ubezpieczalni-ID6GeBh2.html"/>
-        <updated>2024-03-05T05:32:51.389Z</updated>
-        <content type="html"><![CDATA[53 000 km Benzyna Automatyczna 2022 98 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ge7UT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ge7UT.html"/>
-        <updated>2024-03-05T05:32:51.390Z</updated>
-        <content type="html"><![CDATA[63 725 km Benzyna Automatyczna 2020 80 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Auto z bardzo niskim przebiegiem! S-Line! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-auto-z-bardzo-niskim-przebiegiem-s-line-ID6GdSIT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-auto-z-bardzo-niskim-przebiegiem-s-line-ID6GdSIT.html"/>
-        <updated>2024-03-05T05:32:51.391Z</updated>
-        <content type="html"><![CDATA[5 014 km Benzyna Automatyczna 2022 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-190-koni-kamera-navi-1wl-salon-pl-fv-23-we395yn-ID6GdAJn.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-190-koni-kamera-navi-1wl-salon-pl-fv-23-we395yn-ID6GdAJn.html"/>
-        <updated>2024-03-05T05:32:51.392Z</updated>
-        <content type="html"><![CDATA[136 000 km Benzyna Automatyczna 2020 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 40 TFSI mHEV S Line S tronic1 984 cm3 • 204 KM • Audi A4 S line 40TFSI 204km Okazja Tanio (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html"/>
-        <updated>2024-03-05T05:32:51.393Z</updated>
-        <content type="html"><![CDATA[19 000 km Benzyna Automatyczna 2023 90 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Pełen S line miękka hybryda (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-pelen-s-line-miekka-hybryda-ID6GddOz.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-pelen-s-line-miekka-hybryda-ID6GddOz.html"/>
-        <updated>2024-03-05T05:32:51.394Z</updated>
-        <content type="html"><![CDATA[30 000 km Benzyna Automatyczna 2022 109 990]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line1 984 cm3 • 265 KM • WYGRANA! Audi Q5 80A 2.0T 2022 S-Line Lift AUTO W DRODZE! #Americar (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-wygrana-audi-q5-80a-2-0t-2022-s-line-lift-auto-w-drodze-americar-ID6Gd6y3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-wygrana-audi-q5-80a-2-0t-2022-s-line-lift-auto-w-drodze-americar-ID6Gd6y3.html"/>
-        <updated>2024-03-05T05:32:51.396Z</updated>
-        <content type="html"><![CDATA[5 545 km Benzyna Automatyczna 2022 98 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-s-line-black-1-wlasciciel-okazja-ID6Gd1Ss.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-s-line-black-1-wlasciciel-okazja-ID6Gd1Ss.html"/>
-        <updated>2024-03-08T05:33:15.926Z</updated>
-        <content type="html"><![CDATA[8 800 km Benzyna Automatyczna 2022 119 650]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 2.0L Quattro 45 Premium Plus (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-45-premium-plus-ID6GcZ9x.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-45-premium-plus-ID6GcZ9x.html"/>
-        <updated>2024-03-05T05:32:51.397Z</updated>
-        <content type="html"><![CDATA[38 550 km Benzyna Automatyczna 2021 103 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Audi Q5 Prestige 2020 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-2020-ID6GcXAt.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-2020-ID6GcXAt.html"/>
-        <updated>2024-03-05T05:32:51.398Z</updated>
-        <content type="html"><![CDATA[41 662 km Benzyna Automatyczna 2020 118 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 362 KM • 2022r., 4x4, 2.0L (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2022r-4x4-2-0l-ID6Gcg9h.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2022r-4x4-2-0l-ID6Gcg9h.html"/>
-        <updated>2024-03-05T05:32:51.399Z</updated>
-        <content type="html"><![CDATA[45 690 km Benzyna Automatyczna 2022 124 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • 2022, 2.0L, 4x4, PREMIUM S-LINE, od ubezpieczalni (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-2-0l-4x4-premium-s-line-od-ubezpieczalni-ID6Gc817.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-2-0l-4x4-premium-s-line-od-ubezpieczalni-ID6Gc817.html"/>
-        <updated>2024-03-05T05:32:51.400Z</updated>
-        <content type="html"><![CDATA[36 440 km Benzyna Automatyczna 2022 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 252 KM • Q5 Prestige 45 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-prestige-45-ID6GbXb7.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-prestige-45-ID6GbXb7.html"/>
-        <updated>2024-03-05T05:32:51.401Z</updated>
-        <content type="html"><![CDATA[48 874 km Benzyna Automatyczna 2021 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-150-km-led-asystenci-skora-elektryka-foteli-ID6GbGpi.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-150-km-led-asystenci-skora-elektryka-foteli-ID6GbGpi.html"/>
-        <updated>2024-03-05T05:32:51.402Z</updated>
-        <content type="html"><![CDATA[50 922 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 2021, 2.0L, 4x4, PREMIUM PLUS, od ubezpieczalni (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2021-2-0l-4x4-premium-plus-od-ubezpieczalni-ID6GbA0Z.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2021-2-0l-4x4-premium-plus-od-ubezpieczalni-ID6GbA0Z.html"/>
-        <updated>2024-03-05T05:32:51.408Z</updated>
-        <content type="html"><![CDATA[78 241 km Benzyna Automatyczna 2021 115 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic1 984 cm3 • 265 KM • Q5 2021 45 TFSi Quattro 265 KM Lift LED (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-2021-45-tfsi-quattro-265-km-lift-led-ID6GbyIH.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-2021-45-tfsi-quattro-265-km-lift-led-ID6GbyIH.html"/>
-        <updated>2024-03-05T05:32:51.409Z</updated>
-        <content type="html"><![CDATA[126 200 km Benzyna Automatyczna 2021 91 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 2.0 TFSI Benzyna 4x4 Quattro LIFT 2023r (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-4x4-quattro-lift-2023r-ID6GbyEG.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-4x4-quattro-lift-2023r-ID6GbyEG.html"/>
-        <updated>2024-03-05T05:32:51.410Z</updated>
-        <content type="html"><![CDATA[7 620 km Benzyna Automatyczna 2023 107 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • Salon PL, gwarancja producenta (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-pl-gwarancja-producenta-ID6GbxSO.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-pl-gwarancja-producenta-ID6GbxSO.html"/>
-        <updated>2024-03-05T05:32:51.411Z</updated>
-        <content type="html"><![CDATA[56 000 km Benzyna Automatyczna 2021 119 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • 35 TSI mHEV, 2021r. Avant Facelifting || S-Tronic || FV23% || Salon PL (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tsi-mhev-2021r-avant-facelifting-s-tronic-fv23-salon-pl-ID6GbnPj.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tsi-mhev-2021r-avant-facelifting-s-tronic-fv23-salon-pl-ID6GbnPj.html"/>
-        <updated>2024-03-05T05:32:51.413Z</updated>
-        <content type="html"><![CDATA[104 263 km Benzyna Automatyczna 2021 118 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • LICYTACJE w usa i kanadzie (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-licytacje-w-usa-i-kanadzie-ID6GaqQW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-licytacje-w-usa-i-kanadzie-ID6GaqQW.html"/>
-        <updated>2024-03-05T05:32:51.414Z</updated>
-        <content type="html"><![CDATA[49 428 km Benzyna Automatyczna 2021 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Premium Plus, 2021r., 4x4, 2.0L (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-2021r-4x4-2-0l-ID6G95c9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-2021r-4x4-2-0l-ID6G95c9.html"/>
-        <updated>2024-03-05T05:32:51.417Z</updated>
-        <content type="html"><![CDATA[44 229 km Benzyna Automatyczna 2021 125 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 204 KM • Audi Q5 Premium Plus 45 TFSI 2023 Quatro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-45-tfsi-2023-quatro-ID6G8OVg.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-45-tfsi-2023-quatro-ID6G8OVg.html"/>
-        <updated>2024-03-05T05:32:51.418Z</updated>
-        <content type="html"><![CDATA[22 209 km Benzyna Automatyczna 2022 88 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 2.0 TFSI Benzyna Quattro 4x4 2021r LIFT (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-4x4-2021r-lift-ID6G73K9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-4x4-2021r-lift-ID6G73K9.html"/>
-        <updated>2024-03-09T17:33:07.976Z</updated>
-        <content type="html"><![CDATA[25 000 km Benzyna Automatyczna 2021 108 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 248 KM • Titanium Prestige, 2020r., 4x4, 2.0L (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html"/>
-        <updated>2024-03-10T05:32:56.704Z</updated>
-        <content type="html"><![CDATA[42 613 km Benzyna Automatyczna 2020 115 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 201 KM • 2023, 2.0L, Quattro, od ubezpieczalni (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-2-0l-quattro-od-ubezpieczalni-ID6G6tbi.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-2-0l-quattro-od-ubezpieczalni-ID6G6tbi.html"/>
-        <updated>2024-03-10T05:32:56.706Z</updated>
-        <content type="html"><![CDATA[5 700 km Benzyna Automatyczna 2023 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • Momentu Kamera Carplay Bezwypadkowy 1 właściciel Salon Polska VAT23% (Otomoto)]]></title>
@@ -415,7 +198,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-cesja-mleasingu-warszawa-ID6GfvUn.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-cesja-mleasingu-warszawa-ID6GfvUn.html"/>
         <updated>2024-03-05T17:33:12.584Z</updated>
-        <content type="html"><![CDATA[8 600 km Benzyna Automatyczna 2023 125 001]]></content>
+        <content type="html"><![CDATA[8 600 km Benzyna Automatyczna 2023 120 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • SALON POLSKA/ FV23%/Gwarancja Serwisowa/ TOPOWA OPCJA/ 97 479 NETTO (Otomoto)]]></title>
@@ -635,39 +418,11 @@
         <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer - 100% remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-100-remote-avenga-l67dn5be</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-100-remote-avenga-l67dn5be"/>
-        <updated>2024-03-01T17:39:56.420Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 31 920  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Senior GCP DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-gcp-devops-engineer-weshape-ctifrdj1</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-gcp-devops-engineer-weshape-ctifrdj1"/>
-        <updated>2024-03-09T05:33:13.771Z</updated>
-        <content type="html"><![CDATA[ 6 300  – 7 980  GBP ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-devops-engineer-devire-warszawa-lic2ophd</id>
-        <link href="https://nofluffjobs.com/job/cloud-devops-engineer-devire-warszawa-lic2ophd"/>
-        <updated>2024-02-28T17:13:00.805Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 29 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Engineers (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri</id>
         <link href="https://nofluffjobs.com/job/devops-engineers-appfire-remote-kfey5nri"/>
         <updated>2024-02-23T17:33:02.823Z</updated>
         <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-finture-remote-eiifqnhz</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-finture-remote-eiifqnhz"/>
-        <updated>2024-03-01T17:39:56.412Z</updated>
-        <content type="html"><![CDATA[ 19 000  – 27 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -677,6 +432,34 @@
         <content type="html"><![CDATA[ 15 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/cloud-devops-engineer-devire-warszawa-lic2ophd</id>
+        <link href="https://nofluffjobs.com/job/cloud-devops-engineer-devire-warszawa-lic2ophd"/>
+        <updated>2024-02-28T17:13:00.805Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 29 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (Fully Remote) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-fully-remote-tryg-forsikring-rs5zuknm</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-fully-remote-tryg-forsikring-rs5zuknm"/>
+        <updated>2024-03-10T17:33:44.376Z</updated>
+        <content type="html"><![CDATA[ 5 712  – 6 552  EUR ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer - 100% remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-100-remote-avenga-l67dn5be</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-100-remote-avenga-l67dn5be"/>
+        <updated>2024-03-01T17:39:56.420Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 31 920  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-finture-remote-eiifqnhz</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-finture-remote-eiifqnhz"/>
+        <updated>2024-03-01T17:39:56.412Z</updated>
+        <content type="html"><![CDATA[ 19 000  – 27 000  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/junior-cloud-engineer-reply-polska-katowice-k90mvpva</id>
         <link href="https://nofluffjobs.com/job/junior-cloud-engineer-reply-polska-katowice-k90mvpva"/>
@@ -684,17 +467,17 @@
         <content type="html"><![CDATA[ 5 000  – 9 000  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Automation Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/automation-engineer-mindbox-krakow-8njsobco</id>
+        <link href="https://nofluffjobs.com/job/automation-engineer-mindbox-krakow-8njsobco"/>
+        <updated>2024-03-10T17:33:44.384Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 30 450  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/senior-devops-engineer-avenga-remote-dmc0bo4e</id>
         <link href="https://nofluffjobs.com/job/senior-devops-engineer-avenga-remote-dmc0bo4e"/>
         <updated>2024-03-08T17:33:04.109Z</updated>
         <content type="html"><![CDATA[ 22 680  – 30 240  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-eversis-remote-yzmdupf2</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-eversis-remote-yzmdupf2"/>
-        <updated>2024-03-05T17:33:17.986Z</updated>
-        <content type="html"><![CDATA[ 15 000  – 18 000  PLN ]]></content>
     </entry>
 </feed>
