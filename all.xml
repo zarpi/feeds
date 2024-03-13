@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-12T17:33:37.971Z</updated>
+    <updated>2024-03-13T05:33:34.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • 2020r. 1.6 Puretech Allure EAT8 Led Salon Polska DW3JW90 (Otomoto)]]></title>
@@ -488,6 +488,13 @@
         <content type="html"><![CDATA[23 000 km Benzyna Automatyczna 2021 89 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Inscription1 477 cm3 • 163 KM • Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ID6GeXgS.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ID6GeXgS.html"/>
+        <updated>2024-03-13T05:33:14.263Z</updated>
+        <content type="html"><![CDATA[120 000 km Benzyna Automatyczna 2020 129 150]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 R-Design1 477 cm3 • 163 KM • 1.5 163KM R-DESIGN, Martwe Pole,Asyst.Pasa,Kamera,Navi,FV23% (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-163km-r-design-martwe-pole-asyst-pasa-kamera-navi-fv23-ID6GeNI1.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-163km-r-design-martwe-pole-asyst-pasa-kamera-navi-fv23-ID6GeNI1.html"/>
@@ -570,13 +577,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-pierwszy-wlasciciel-stan-idealny-bezwypadkowy-garazowany-ID6GdL96.html"/>
         <updated>2024-02-28T17:12:55.559Z</updated>
         <content type="html"><![CDATA[34 900 km Benzyna Automatyczna 2021 120 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 T41 969 cm3 • 190 KM • Volvo V60 Salon Polska, bezwypadkowy (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-salon-polska-bezwypadkowy-ID6Gdsg6.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-salon-polska-bezwypadkowy-ID6Gdsg6.html"/>
-        <updated>2024-02-28T17:12:55.568Z</updated>
-        <content type="html"><![CDATA[19 000 km Benzyna Automatyczna 2020 126 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
