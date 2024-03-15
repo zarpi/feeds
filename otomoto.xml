@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-03-15T05:33:35.582Z</updated>
+    <updated>2024-03-15T17:33:28.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[50 510 km Benzyna Automatyczna 2021 121 800]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • mały przebieg]]></title>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • mały przebieg]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html"/>
         <updated>2024-03-12T05:32:34.674Z</updated>
-        <content type="html"><![CDATA[40 000 km Benzyna Automatyczna 2020 86 999]]></content>
+        <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 85 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • 1,6 PureTech 181 KM GT-Line Automat GWARANCJA Zamiana Zarejestrowany]]></title>
@@ -116,6 +116,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-hybryda-automat-navi-kamera-full-led-ID6G5L8p.html"/>
         <updated>2024-02-28T17:12:47.681Z</updated>
         <content type="html"><![CDATA[93 000 km Benzyna Automatyczna 2020 102 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • Cesja leasingu operacyjnego/wynajmu długoterminowego]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-cesja-leasingu-operacyjnego-wynajmu-dlugoterminowego-ID6G2Gtd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-cesja-leasingu-operacyjnego-wynajmu-dlugoterminowego-ID6G2Gtd.html"/>
+        <updated>2024-03-15T17:33:05.084Z</updated>
+        <content type="html"><![CDATA[13 500 km Benzyna Automatyczna 2022 127 720]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 600 cm3 • 225 KM • ZAMIANA+GT Line+Fot z Masażami+Nawigacja+Panorama+Kamera+Zarej. w PL]]></title>
@@ -223,6 +230,13 @@
         <content type="html"><![CDATA[53 000 km Benzyna Automatyczna 2022 98 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic1 984 cm3 • 150 KM • Polski salon/bezwypadkowy/ASO/ Automat/el. klapa]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-polski-salon-bezwypadkowy-aso-automat-el-klapa-ID6GdTzh.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-polski-salon-bezwypadkowy-aso-automat-el-klapa-ID6GdTzh.html"/>
+        <updated>2024-03-15T17:33:09.035Z</updated>
+        <content type="html"><![CDATA[81 000 km Benzyna Automatyczna 2022 129 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Auto z bardzo niskim przebiegiem! S-Line!]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-auto-z-bardzo-niskim-przebiegiem-s-line-ID6GdSIT.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-auto-z-bardzo-niskim-przebiegiem-s-line-ID6GdSIT.html"/>
@@ -235,13 +249,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-190-koni-kamera-navi-1wl-salon-pl-fv-23-we395yn-ID6GdAJn.html"/>
         <updated>2024-03-11T05:33:07.920Z</updated>
         <content type="html"><![CDATA[136 000 km Benzyna Automatyczna 2020 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 40 TFSI mHEV S Line S tronic1 984 cm3 • 204 KM • Audi A4 S line 40TFSI 204km Okazja Tanio]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-s-line-40tfsi-204km-okazja-tanio-ID6Gdu8y.html"/>
-        <updated>2024-03-11T05:33:07.921Z</updated>
-        <content type="html"><![CDATA[19 000 km Benzyna Automatyczna 2023 103 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Pełen S line miękka hybryda]]></title>
@@ -284,13 +291,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2022r-4x4-2-0l-ID6Gcg9h.html"/>
         <updated>2024-03-11T05:33:07.929Z</updated>
         <content type="html"><![CDATA[45 690 km Benzyna Automatyczna 2022 124 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • 2022, 2.0L, 4x4, PREMIUM S-LINE, od ubezpieczalni]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-2-0l-4x4-premium-s-line-od-ubezpieczalni-ID6Gc817.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-2-0l-4x4-premium-s-line-od-ubezpieczalni-ID6Gc817.html"/>
-        <updated>2024-03-11T05:33:07.930Z</updated>
-        <content type="html"><![CDATA[36 440 km Benzyna Automatyczna 2022 99 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 252 KM • Q5 Prestige 45]]></title>
@@ -347,6 +347,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-4x4-2021r-lift-ID6G73K9.html"/>
         <updated>2024-03-11T05:33:07.954Z</updated>
         <content type="html"><![CDATA[25 000 km Benzyna Automatyczna 2021 108 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q52 000 cm3 • 248 KM • Titanium Prestige, 2020r., 4x4, 2.0L]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html"/>
+        <updated>2024-03-15T17:33:09.069Z</updated>
+        <content type="html"><![CDATA[42 613 km Benzyna Automatyczna 2020 115 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • * KRAJ * Bogate wyposażenie * BEZSZKODOWY * JAK NOWY *]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-bogate-wyposazenie-bezszkodowy-jak-nowy-ID6GhCBj.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-bogate-wyposazenie-bezszkodowy-jak-nowy-ID6GhCBj.html"/>
+        <updated>2024-03-15T17:33:12.630Z</updated>
+        <content type="html"><![CDATA[39 400 km Benzyna Automatyczna 2021 123 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T31 477 cm3 • 163 KM • FV23%,Tempomat,Kamera,Akcesoria Gratis,Gwarancja,Drywa Gdynia]]></title>
@@ -564,12 +578,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b5-plus-dark-theme-mhev-w-transporcie-do-kraju-ID6Gelkj.html"/>
         <updated>2024-03-14T17:32:57.991Z</updated>
         <content type="html"><![CDATA[2 076 km Benzyna Automatyczna 2021 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • T3 Momentum Core 1 Właściciel]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-core-1-wlasciciel-ID6Ge3qs.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-core-1-wlasciciel-ID6Ge3qs.html"/>
-        <updated>2024-03-14T17:32:58.021Z</updated>
-        <content type="html"><![CDATA[49 323 km Benzyna Automatyczna 2022 129 999]]></content>
     </entry>
 </feed>
