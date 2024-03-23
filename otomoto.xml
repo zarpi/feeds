@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-03-22T17:33:16.159Z</updated>
+    <updated>2024-03-23T05:33:26.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -130,6 +130,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-zamiana-gt-line-fot-z-masazami-nawigacja-panorama-kamera-zarej-w-pl-ID6FJH7I.html"/>
         <updated>2024-02-28T22:01:39.322Z</updated>
         <content type="html"><![CDATA[34 000 km Benzyna Automatyczna 2020 119 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro Edition One S tronic1 984 cm3 • 265 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GiMGw.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GiMGw.html"/>
+        <updated>2024-03-23T05:33:04.255Z</updated>
+        <content type="html"><![CDATA[25 818 km Benzyna Automatyczna 2022 81 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • HAK|Bang&Olufsen|Matrix|HUD]]></title>
@@ -347,13 +354,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-benzyna-quattro-4x4-2021r-lift-ID6G73K9.html"/>
         <updated>2024-03-18T17:34:28.770Z</updated>
         <content type="html"><![CDATA[25 000 km Benzyna Automatyczna 2021 108 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 248 KM • Titanium Prestige, 2020r., 4x4, 2.0L]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-titanium-prestige-2020r-4x4-2-0l-ID6G6wJF.html"/>
-        <updated>2024-03-22T17:32:55.027Z</updated>
-        <content type="html"><![CDATA[42 613 km Benzyna Automatyczna 2020 115 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 163KM Momentum Core,Kamera,Czujniki,PolskiSalon,Gwarancja,FV23%]]></title>
