@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-03-25T17:33:18.962Z</updated>
+    <updated>2024-03-26T05:33:06.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-benzyna-hybryda-elektryk-ID6Gj0DM.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-benzyna-hybryda-elektryk-ID6Gj0DM.html"/>
         <updated>2024-03-25T17:32:54.865Z</updated>
-        <content type="html"><![CDATA[30 000 km Benzyna Automatyczna 2021 119 900]]></content>
+        <content type="html"><![CDATA[29 000 km Benzyna Automatyczna 2021 119 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • SW #88# 1.6 PureTech 225 KM HYbrid PHEV GT Automat / I wł. / GWARANCJA]]></title>
@@ -25,13 +25,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-sw-maly-przebieg-ID6GiYwQ.html"/>
         <updated>2024-03-24T17:34:20.594Z</updated>
         <content type="html"><![CDATA[31 000 km Benzyna Automatyczna 2020 93 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • PEUGEOT GT 3008 1.6i-180KM PureTech Hybrid Full Opcja Gwarancja.]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-gt-3008-1-6i-180km-puretech-hybrid-full-opcja-gwarancja-ID6GiRTa.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-gt-3008-1-6i-180km-puretech-hybrid-full-opcja-gwarancja-ID6GiRTa.html"/>
-        <updated>2024-03-23T17:32:49.690Z</updated>
-        <content type="html"><![CDATA[89 279 km Benzyna Automatyczna 2020 97 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • GT focal SKORA nawi FUL LED kamery masaze sam parkuje ACC blis FOCAL]]></title>
@@ -363,6 +356,13 @@
         <content type="html"><![CDATA[25 000 km Benzyna Automatyczna 2021 108 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo V90 T4 Geartronic R Design1 969 cm3 • 190 KM • R DESIGN* + super stan*blis*akt.tempomat*WYJĄTKOWE*PIĘKNE]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-super-stanblisakt-tempomatwyjatkowepiekne-ID6GjmwE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-r-design-super-stanblisakt-tempomatwyjatkowepiekne-ID6GjmwE.html"/>
+        <updated>2024-03-26T05:32:50.383Z</updated>
+        <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 123 800]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • Volvo Xc40 T3 Momentum Pro Kamera Navi Salonpl Vat23]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-pro-kamera-navi-salonpl-vat23-ID6Gj5Dd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-pro-kamera-navi-salonpl-vat23-ID6Gj5Dd.html"/>
@@ -374,7 +374,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-hybryda-ID6GiUrW.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-hybryda-ID6GiUrW.html"/>
         <updated>2024-03-23T17:32:56.898Z</updated>
-        <content type="html"><![CDATA[50 000 km Benzyna Automatyczna 2022 109 900]]></content>
+        <content type="html"><![CDATA[50 000 km Benzyna Automatyczna 2022 107 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • pierwszy właściciel ,krajowy, bezwypadkowy, użytkowany prywatnie]]></title>
@@ -578,12 +578,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-cesja-leasingu-volvo-xc40-ID6GfCPW.html"/>
         <updated>2024-03-19T17:32:56.792Z</updated>
         <content type="html"><![CDATA[87 000 km Benzyna Manualna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 250 KM • T5 R-DESIGN Benzyna, Automat, 2.0L, 250 KM, AWD All-Wheel Drive 4x4]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t5-r-design-benzyna-automat-2-0l-250-km-awd-all-wheel-drive-4x4-ID6GfyuU.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t5-r-design-benzyna-automat-2-0l-250-km-awd-all-wheel-drive-4x4-ID6GfyuU.html"/>
-        <updated>2024-03-19T17:32:56.799Z</updated>
-        <content type="html"><![CDATA[24 176 km Benzyna Automatyczna 2022 89 000]]></content>
     </entry>
 </feed>
