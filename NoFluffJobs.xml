@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-03-30T05:34:19.488Z</updated>
+    <updated>2024-03-30T17:33:22.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-angry-nerds-remote-1</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-angry-nerds-remote-1"/>
-        <updated>2024-03-06T17:33:32.971Z</updated>
-        <content type="html"><![CDATA[ 15 000  – 20 000  PLN ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Managed Cloud Engineer]]></title>
         <id>https://nofluffjobs.com/job/managed-cloud-engineer-nordcloud-remote-2</id>
         <link href="https://nofluffjobs.com/job/managed-cloud-engineer-nordcloud-remote-2"/>
         <updated>2024-03-18T17:34:38.389Z</updated>
         <content type="html"><![CDATA[ 14 000  – 20 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-angry-nerds-remote-1</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-angry-nerds-remote-1"/>
+        <updated>2024-03-06T17:33:32.971Z</updated>
+        <content type="html"><![CDATA[ 15 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Site Reliability Engineer]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[ 21 000  – 24 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Engineer]]></title>
-        <id>https://nofluffjobs.com/job/software-engineer-reply-polska-katowice-doexbpnq</id>
-        <link href="https://nofluffjobs.com/job/software-engineer-reply-polska-katowice-doexbpnq"/>
-        <updated>2024-03-29T17:33:28.865Z</updated>
-        <content type="html"><![CDATA[ 9 000  – 16 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer-Tribe Aplikacji Biznesowych]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-tribe-aplikacji-biznesowych-ing-bank-slaski-spolka-akcyjna-remote-jxtjlwqk</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-tribe-aplikacji-biznesowych-ing-bank-slaski-spolka-akcyjna-remote-jxtjlwqk"/>
+        <updated>2024-03-30T17:33:11.005Z</updated>
+        <content type="html"><![CDATA[ 11 000  – 22 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (AWS)]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure Deployment Engineer]]></title>
+        <id>https://nofluffjobs.com/job/azure-deployment-engineer-idemia-poland-r-d-remote-zkmgajlj</id>
+        <link href="https://nofluffjobs.com/job/azure-deployment-engineer-idemia-poland-r-d-remote-zkmgajlj"/>
+        <updated>2024-03-30T17:33:11.009Z</updated>
+        <content type="html"><![CDATA[ 20 160  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Developer]]></title>
         <id>https://nofluffjobs.com/job/cloud-developer-sollers-consulting-warszawa-fkggcrnm</id>
         <link href="https://nofluffjobs.com/job/cloud-developer-sollers-consulting-warszawa-fkggcrnm"/>
         <updated>2024-03-11T17:33:13.818Z</updated>
         <content type="html"><![CDATA[ 13 700  – 20 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud DevOps Engineer - Alcon Vision Site]]></title>
-        <id>https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote-padz6awx</id>
-        <link href="https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote-padz6awx"/>
-        <updated>2024-03-29T17:33:28.872Z</updated>
-        <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
