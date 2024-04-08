@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-07T17:33:14.485Z</updated>
+    <updated>2024-04-08T05:33:09.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud DevOps Engineer - Alcon Vision Site]]></title>
+        <id>https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote</id>
+        <link href="https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote"/>
+        <updated>2024-04-08T05:32:58.555Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senior Site Reliability Engineer]]></title>
         <id>https://nofluffjobs.com/job/senior-site-reliability-engineer-valtech-remote</id>
@@ -137,12 +144,5 @@
         <link href="https://nofluffjobs.com/job/lead-google-cloud-platform-squareone-remote"/>
         <updated>2024-04-06T17:33:02.946Z</updated>
         <content type="html"><![CDATA[ 28 560  – 33 600  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (Azure)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-azure-1dea-remote</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-azure-1dea-remote"/>
-        <updated>2024-04-06T17:33:02.948Z</updated>
-        <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
     </entry>
 </feed>
