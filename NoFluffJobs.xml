@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-09T17:33:26.415Z</updated>
+    <updated>2024-04-10T05:33:39.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote"/>
         <updated>2024-04-08T05:32:58.555Z</updated>
         <content type="html"><![CDATA[ Check Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (AWS Specialist)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-aws-specialist-acceleroid-remote</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-aws-specialist-acceleroid-remote"/>
+        <updated>2024-04-10T05:33:26.489Z</updated>
+        <content type="html"><![CDATA[ 10 000  – 15 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Engineer]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[ 11 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lead Google Cloud Platform]]></title>
-        <id>https://nofluffjobs.com/job/lead-google-cloud-platform-squareone-remote</id>
-        <link href="https://nofluffjobs.com/job/lead-google-cloud-platform-squareone-remote"/>
-        <updated>2024-04-09T17:33:15.429Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 33 600  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevSecOps Engineer]]></title>
         <id>https://nofluffjobs.com/job/devsecops-engineer-alcon-remote</id>
         <link href="https://nofluffjobs.com/job/devsecops-engineer-alcon-remote"/>
         <updated>2024-04-06T17:33:02.935Z</updated>
         <content type="html"><![CDATA[ Check Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lead Google Cloud Platform]]></title>
+        <id>https://nofluffjobs.com/job/lead-google-cloud-platform-squareone-remote</id>
+        <link href="https://nofluffjobs.com/job/lead-google-cloud-platform-squareone-remote"/>
+        <updated>2024-04-09T17:33:15.429Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 33 600  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
@@ -137,12 +144,5 @@
         <link href="https://nofluffjobs.com/job/azure-devops-engineer-c-f-remote"/>
         <updated>2024-04-06T17:33:02.932Z</updated>
         <content type="html"><![CDATA[ Check Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platforms Engineer]]></title>
-        <id>https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-3</id>
-        <link href="https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-3"/>
-        <updated>2024-04-07T17:33:00.055Z</updated>
-        <content type="html"><![CDATA[ 28 392  – 53 235  PLN ]]></content>
     </entry>
 </feed>
