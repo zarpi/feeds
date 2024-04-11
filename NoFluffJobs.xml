@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-10T17:33:45.432Z</updated>
+    <updated>2024-04-11T05:33:11.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud DevOps Engineer - Alcon Vision Site]]></title>
-        <id>https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote</id>
-        <link href="https://nofluffjobs.com/job/senior-cloud-devops-engineer-alcon-vision-site-alcon-remote"/>
-        <updated>2024-04-08T05:32:58.555Z</updated>
-        <content type="html"><![CDATA[ Check Salary Match ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Tech Lead - 100 % remote]]></title>
         <id>https://nofluffjobs.com/job/devops-tech-lead-100-remote-power-media</id>
@@ -144,5 +137,12 @@
         <link href="https://nofluffjobs.com/job/devops-engineer-appfire-remote"/>
         <updated>2024-04-09T17:33:15.433Z</updated>
         <content type="html"><![CDATA[ 13 000  – 20 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-kyp-ai-remote-2</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-kyp-ai-remote-2"/>
+        <updated>2024-04-11T05:32:59.192Z</updated>
+        <content type="html"><![CDATA[ 15 120  – 21 000  PLN ]]></content>
     </entry>
 </feed>
