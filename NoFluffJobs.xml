@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-13T05:33:04.538Z</updated>
+    <updated>2024-04-13T17:33:35.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (Java / Angular)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote"/>
+        <updated>2024-04-12T05:34:36.727Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
         <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
@@ -18,13 +25,6 @@
         <link href="https://nofluffjobs.com/job/site-reliability-engineer-inhabit-polska-remote"/>
         <updated>2024-04-12T05:34:36.726Z</updated>
         <content type="html"><![CDATA[ 18 000  – 21 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (Java / Angular)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote"/>
-        <updated>2024-04-12T05:34:36.727Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remote Mid SysOps Engineer]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[ 30 240  – 38 640  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Site Reliability Engineer]]></title>
-        <id>https://nofluffjobs.com/job/senior-site-reliability-engineer-valtech-remote-snpoepof</id>
-        <link href="https://nofluffjobs.com/job/senior-site-reliability-engineer-valtech-remote-snpoepof"/>
-        <updated>2024-04-12T05:34:36.738Z</updated>
-        <content type="html"><![CDATA[ 4 800  – 6 500  EUR ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer]]></title>
+        <id>https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko</id>
+        <link href="https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko"/>
+        <updated>2024-04-12T05:34:36.746Z</updated>
+        <content type="html"><![CDATA[ 20 664  – 22 680  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Network Support Engineer - hybrid (Warsaw)]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Team Leader - AWS - Remote]]></title>
-        <id>https://nofluffjobs.com/job/devops-team-leader-aws-remote-link-group-n9g5wloq</id>
-        <link href="https://nofluffjobs.com/job/devops-team-leader-aws-remote-link-group-n9g5wloq"/>
-        <updated>2024-04-13T05:32:54.930Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 32 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer z Java]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
+        <updated>2024-04-13T17:33:24.992Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer]]></title>
-        <id>https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko</id>
-        <link href="https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko"/>
-        <updated>2024-04-12T05:34:36.746Z</updated>
-        <content type="html"><![CDATA[ 20 664  – 22 680  PLN ]]></content>
+        <title type="html"><![CDATA[Junior Site Reliability Engineer]]></title>
+        <id>https://nofluffjobs.com/job/junior-site-reliability-engineer-air-space-intelligence-gdansk-ttey9gmo</id>
+        <link href="https://nofluffjobs.com/job/junior-site-reliability-engineer-air-space-intelligence-gdansk-ttey9gmo"/>
+        <updated>2024-04-13T17:33:24.993Z</updated>
+        <content type="html"><![CDATA[ 16 400  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Network Engineer (FortiGate) - Remote]]></title>

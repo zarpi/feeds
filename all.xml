@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-13T05:33:04.533Z</updated>
+    <updated>2024-04-13T17:33:35.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • GT Line, automat, panorama, szyberdach, serwisowany, gwarancja FV. (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-automat-panorama-szyberdach-serwisowany-gwarancja-fv-ID6GlRAt.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-automat-panorama-szyberdach-serwisowany-gwarancja-fv-ID6GlRAt.html"/>
+        <updated>2024-04-13T17:33:09.391Z</updated>
+        <content type="html"><![CDATA[101 116 km Benzyna Automatyczna 2020 103 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 GT1 598 cm3 • 180 KM • 180KM #GT # SW # Kamera 360# Czarna Podsufitk# Ele klapa i-Cocpit 2021 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-gt-sw-kamera-360-czarna-podsufitk-ele-klapa-i-cocpit-2021-ID6GlaS0.html</id>
@@ -93,7 +100,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html"/>
         <updated>2024-04-08T17:33:13.325Z</updated>
-        <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 83 999]]></content>
+        <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 85 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • 1.6 benzyna 180KM wersja GT line Faktura VAT 23% (Otomoto)]]></title>
@@ -101,6 +108,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-benzyna-180km-wersja-gt-line-faktura-vat-23-ID6GcUWn.html"/>
         <updated>2024-04-04T05:32:53.893Z</updated>
         <content type="html"><![CDATA[103 000 km Benzyna Automatyczna 2020 92 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • 1.6/180Km 2021r 22Tyś Km Gt-Line Automat Kamera AppleCarPlay (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
+        <updated>2024-04-13T17:33:09.449Z</updated>
+        <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • Cesja leasingu operacyjnego/wynajmu długoterminowego (Otomoto)]]></title>
@@ -320,13 +334,6 @@
         <content type="html"><![CDATA[46 863 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Quattro * napęd na wszystkie koła * keyless * skóra * kamera * (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-naped-na-wszystkie-kola-keyless-skora-kamera-ID6GhjT4.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-naped-na-wszystkie-kola-keyless-skora-kamera-ID6GhjT4.html"/>
-        <updated>2024-04-11T05:32:49.799Z</updated>
-        <content type="html"><![CDATA[39 800 km Benzyna Automatyczna 2020 129 800]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic1 984 cm3 • 150 KM • 35TFSi mHEV S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-mhev-s-tronic-ID6Ghj2f.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-mhev-s-tronic-ID6Ghj2f.html"/>
@@ -339,6 +346,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-prestige-45-2023-ID6Gggv3.html"/>
         <updated>2024-04-13T05:32:45.352Z</updated>
         <content type="html"><![CDATA[7 565 km Benzyna Automatyczna 2023 124 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • 2.0B-252PS,Automat,4x4,skóra,nawi+kamera,xenon,idealny (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
+        <updated>2024-04-13T17:33:15.499Z</updated>
+        <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 128 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 602 000 cm3 • 250 KM • 2021, 2.0L, 4x4, T5 INSCRIPTION, od ubezpieczalni (Otomoto)]]></title>
@@ -437,13 +451,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-inscription-xc40-t5-recharge-180km-gwarancja-volvo-ID6GkVry.html"/>
         <updated>2024-04-07T17:32:54.507Z</updated>
         <content type="html"><![CDATA[82 503 km Benzyna Automatyczna 2020 105 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 R-Design1 477 cm3 • 163 KM • VOLVO R-Design XC40 1.5 T3-163KM Bogate Wyposażenie Gwarancja VOLVO (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-r-design-xc40-1-5-t3-163km-bogate-wyposazenie-gwarancja-volvo-ID6GkVp9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-r-design-xc40-1-5-t3-163km-bogate-wyposazenie-gwarancja-volvo-ID6GkVp9.html"/>
-        <updated>2024-04-07T17:32:54.508Z</updated>
-        <content type="html"><![CDATA[49 972 km Benzyna Automatyczna 2020 109 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 250 KM • Volvo XC40 Plus 2023 (Otomoto)]]></title>
@@ -565,6 +572,20 @@
         <content type="html"><![CDATA[28 837 km Benzyna Automatyczna 2020 125 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 163KM Momentum Core,Kamera,Czujniki,PolskiSalon,Gwarancja,FV23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-core-kamera-czujniki-polskisalon-gwarancja-fv23-ID6GiExS.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-core-kamera-czujniki-polskisalon-gwarancja-fv23-ID6GiExS.html"/>
+        <updated>2024-04-13T17:33:19.283Z</updated>
+        <content type="html"><![CDATA[33 526 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (Java / Angular) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote"/>
+        <updated>2024-04-12T05:34:36.727Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
@@ -577,13 +598,6 @@
         <link href="https://nofluffjobs.com/job/site-reliability-engineer-inhabit-polska-remote"/>
         <updated>2024-04-12T05:34:36.726Z</updated>
         <content type="html"><![CDATA[ 18 000  – 21 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (Java / Angular) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-java-angular-talent-hills-remote"/>
-        <updated>2024-04-12T05:34:36.727Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 25 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remote Mid SysOps Engineer (NoFluffJobs)]]></title>
@@ -628,11 +642,11 @@
         <content type="html"><![CDATA[ 30 240  – 38 640  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-site-reliability-engineer-valtech-remote-snpoepof</id>
-        <link href="https://nofluffjobs.com/job/senior-site-reliability-engineer-valtech-remote-snpoepof"/>
-        <updated>2024-04-12T05:34:36.738Z</updated>
-        <content type="html"><![CDATA[ 4 800  – 6 500  EUR ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko</id>
+        <link href="https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko"/>
+        <updated>2024-04-12T05:34:36.746Z</updated>
+        <content type="html"><![CDATA[ 20 664  – 22 680  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Network Support Engineer - hybrid (Warsaw) (NoFluffJobs)]]></title>
@@ -663,18 +677,18 @@
         <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Team Leader - AWS - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-team-leader-aws-remote-link-group-n9g5wloq</id>
-        <link href="https://nofluffjobs.com/job/devops-team-leader-aws-remote-link-group-n9g5wloq"/>
-        <updated>2024-04-13T05:32:54.930Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 32 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer z Java (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
+        <updated>2024-04-13T17:33:24.992Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko</id>
-        <link href="https://nofluffjobs.com/job/site-reliability-engineer-openx-krakow-jkkjgdko"/>
-        <updated>2024-04-12T05:34:36.746Z</updated>
-        <content type="html"><![CDATA[ 20 664  – 22 680  PLN ]]></content>
+        <title type="html"><![CDATA[Junior Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/junior-site-reliability-engineer-air-space-intelligence-gdansk-ttey9gmo</id>
+        <link href="https://nofluffjobs.com/job/junior-site-reliability-engineer-air-space-intelligence-gdansk-ttey9gmo"/>
+        <updated>2024-04-13T17:33:24.993Z</updated>
+        <content type="html"><![CDATA[ 16 400  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Network Engineer (FortiGate) - Remote (NoFluffJobs)]]></title>
