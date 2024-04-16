@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T17:33:24.713Z</updated>
+    <updated>2024-04-16T05:33:31.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • GT Line, automat, panorama, szyberdach, serwisowany, gwarancja FV. (Otomoto)]]></title>
@@ -93,7 +93,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-maly-przebieg-ID6GfHf3.html"/>
         <updated>2024-04-08T17:33:13.325Z</updated>
-        <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 85 999]]></content>
+        <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 83 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • 1.6 benzyna 180KM wersja GT line Faktura VAT 23% (Otomoto)]]></title>
@@ -299,13 +299,6 @@
         <content type="html"><![CDATA[94 168 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 40 TFSI Sport S tronic1 984 cm3 • 190 KM • S-Line, Quantum Grey, Nawigacja, Pakiet Czerń,Audi Select Plus Gdynia (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-s-line-quantum-grey-nawigacja-pakiet-czern-audi-select-plus-gdynia-ID6Gimqv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-s-line-quantum-grey-nawigacja-pakiet-czern-audi-select-plus-gdynia-ID6Gimqv.html"/>
-        <updated>2024-04-11T05:32:49.793Z</updated>
-        <content type="html"><![CDATA[105 303 km Benzyna Automatyczna 2020 119 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 252 KM • Audi Q5 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-ID6Gi0Y7.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-ID6Gi0Y7.html"/>
@@ -339,6 +332,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
         <updated>2024-04-15T17:33:04.367Z</updated>
         <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 128 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-190-koni-kamera-navi-1wl-salon-pl-fv-23-we395yn-ID6GdAJn.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-190-koni-kamera-navi-1wl-salon-pl-fv-23-we395yn-ID6GdAJn.html"/>
+        <updated>2024-04-16T05:33:10.982Z</updated>
+        <content type="html"><![CDATA[136 000 km Benzyna Automatyczna 2020 109 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Stan idealny (Otomoto)]]></title>
@@ -709,6 +709,6 @@
         <id>https://justjoin.it/offers/eo-networks-administrator-linux-devops-93f3b7d3-2112-46a5-b45a-c93f3e79c60b</id>
         <link href="https://justjoin.it/offers/eo-networks-administrator-linux-devops-93f3b7d3-2112-46a5-b45a-c93f3e79c60b"/>
         <updated>2024-04-15T17:33:21.140Z</updated>
-        <content type="html"><![CDATA[   LinuxAnsible]]></content>
+        <content type="html"><![CDATA[   Linux]]></content>
     </entry>
 </feed>
