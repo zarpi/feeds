@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-04-16T17:33:14.304Z</updated>
+    <updated>2024-04-17T05:33:22.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -321,13 +321,6 @@
         <content type="html"><![CDATA[40 085 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • Audi A4 Avant]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-ID6GhSo6.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-ID6GhSo6.html"/>
-        <updated>2024-04-11T05:32:49.797Z</updated>
-        <content type="html"><![CDATA[46 863 km Benzyna Automatyczna 2020 125 500]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic1 984 cm3 • 150 KM • 35TFSi mHEV S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-mhev-s-tronic-ID6Ghj2f.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-mhev-s-tronic-ID6Ghj2f.html"/>
@@ -340,6 +333,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-serwisowany-aso-bezwypadkowy-wirtualny-kokpit-ID6Ggyf6.html"/>
         <updated>2024-04-16T17:32:53.610Z</updated>
         <content type="html"><![CDATA[121 000 km Benzyna Automatyczna 2020 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • 2.0B-252PS,Automat,4x4,skóra,nawi+kamera,xenon,idealny]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
+        <updated>2024-04-17T05:33:02.261Z</updated>
+        <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 128 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B4 B DKG Momentum Pro1 969 cm3 • 197 KM • B4 Hybrid AWD 4x4 Automat Full Led Navi Skóra]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-hybrid-awd-4x4-automat-full-led-navi-skora-ID6Gmv7P.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-hybrid-awd-4x4-automat-full-led-navi-skora-ID6Gmv7P.html"/>
+        <updated>2024-04-17T05:33:06.077Z</updated>
+        <content type="html"><![CDATA[11 000 km Benzyna Automatyczna 2022 126 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • Gwarancja do 2 lat ( Volvo Selekt )]]></title>
@@ -557,12 +564,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-r-disagne-t3-ID6GjFsU.html"/>
         <updated>2024-03-30T17:33:05.304Z</updated>
         <content type="html"><![CDATA[122 000 km Benzyna Automatyczna 2020 119 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro1 969 cm3 • 190 KM • FV23%,Tempomat,BLIS,Kamera,Akcesoria,Gwarancja,Drywa Gdańsk]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-tempomat-blis-kamera-akcesoria-gwarancja-drywa-gdansk-ID6GjzSb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-tempomat-blis-kamera-akcesoria-gwarancja-drywa-gdansk-ID6GjzSb.html"/>
-        <updated>2024-03-30T17:33:05.306Z</updated>
-        <content type="html"><![CDATA[52 730 km Benzyna Automatyczna 2020 129 555]]></content>
     </entry>
 </feed>
