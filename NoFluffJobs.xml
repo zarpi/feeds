@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-25T17:33:31.813Z</updated>
+    <updated>2024-04-26T05:34:48.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AWS DevOps/Linux Engineer]]></title>
-        <id>https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote</id>
-        <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
-        <updated>2024-04-24T05:32:59.185Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
         <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
         <updated>2024-04-04T17:33:03.521Z</updated>
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DevOps/Linux Engineer]]></title>
+        <id>https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote</id>
+        <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
+        <updated>2024-04-24T05:32:59.185Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remote Mid SysOps Engineer]]></title>
