@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-04-26T05:34:48.927Z</updated>
+    <updated>2024-04-26T17:33:40.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -20,25 +20,11 @@
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Mid SysOps Engineer]]></title>
-        <id>https://nofluffjobs.com/job/remote-mid-sysops-engineer-xopero-software</id>
-        <link href="https://nofluffjobs.com/job/remote-mid-sysops-engineer-xopero-software"/>
-        <updated>2024-04-10T17:33:32.683Z</updated>
-        <content type="html"><![CDATA[ 10 000  – 16 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Infrastructure Engineer]]></title>
         <id>https://nofluffjobs.com/job/devops-infrastructure-engineer-adaptiq-remote-q5dk1pvx</id>
         <link href="https://nofluffjobs.com/job/devops-infrastructure-engineer-adaptiq-remote-q5dk1pvx"/>
         <updated>2024-04-19T05:33:00.590Z</updated>
         <content type="html"><![CDATA[ 6 500  – 6 800  USD ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-0no90thz</id>
-        <link href="https://nofluffjobs.com/job/azure-devops-engineer-avanade-poland-remote-0no90thz"/>
-        <updated>2024-04-21T17:32:53.387Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 28 560  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Team Leader - AWS - Remote]]></title>
@@ -55,13 +41,6 @@
         <content type="html"><![CDATA[ 20 664  – 22 680  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Platform Developer]]></title>
-        <id>https://nofluffjobs.com/job/software-platform-developer-ework-group-remote-nwakjsig</id>
-        <link href="https://nofluffjobs.com/job/software-platform-developer-ework-group-remote-nwakjsig"/>
-        <updated>2024-04-20T17:33:20.023Z</updated>
-        <content type="html"><![CDATA[ 6 720  – 7 392  EUR ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Engineer (AWS Specialist)]]></title>
         <id>https://nofluffjobs.com/job/devops-engineer-aws-specialist-acceleroid-remote-nvctzm4g</id>
         <link href="https://nofluffjobs.com/job/devops-engineer-aws-specialist-acceleroid-remote-nvctzm4g"/>
@@ -74,13 +53,6 @@
         <link href="https://nofluffjobs.com/job/terraform-software-developer-infogain-technologies-remote-ruazbho6"/>
         <updated>2024-04-20T17:33:20.026Z</updated>
         <content type="html"><![CDATA[ 16 800  – 22 680  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer z Java]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
-        <updated>2024-04-25T17:33:20.961Z</updated>
-        <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer - AWS - Remote]]></title>
@@ -97,13 +69,6 @@
         <content type="html"><![CDATA[ 13 550  – 19 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platforms Engineer]]></title>
-        <id>https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
-        <link href="https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
-        <updated>2024-04-25T17:33:20.965Z</updated>
-        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux administrator]]></title>
         <id>https://nofluffjobs.com/job/linux-administrator-osrodek-przetwarzania-informacji-pib-warszawa-ltx31r4m</id>
         <link href="https://nofluffjobs.com/job/linux-administrator-osrodek-przetwarzania-informacji-pib-warszawa-ltx31r4m"/>
@@ -118,31 +83,66 @@
         <content type="html"><![CDATA[ 18 500  – 33 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devops/SRE- 100% remote]]></title>
-        <id>https://nofluffjobs.com/job/devops-sre-100-remote-avenga-htjouco2</id>
-        <link href="https://nofluffjobs.com/job/devops-sre-100-remote-avenga-htjouco2"/>
-        <updated>2024-04-20T17:33:20.003Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 28 560  PLN ]]></content>
+        <title type="html"><![CDATA[Senior Linux Engineer (SRE)]]></title>
+        <id>https://nofluffjobs.com/job/senior-linux-engineer-sre-akamai-remote-fbnazjxi</id>
+        <link href="https://nofluffjobs.com/job/senior-linux-engineer-sre-akamai-remote-fbnazjxi"/>
+        <updated>2024-04-26T17:33:29.149Z</updated>
+        <content type="html"><![CDATA[ 19 000  – 20 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Technical Lead AWS]]></title>
-        <id>https://nofluffjobs.com/job/devops-technical-lead-aws-gft-poland-poznan-dzjsgnap</id>
-        <link href="https://nofluffjobs.com/job/devops-technical-lead-aws-gft-poland-poznan-dzjsgnap"/>
-        <updated>2024-04-24T05:32:59.220Z</updated>
-        <content type="html"><![CDATA[ 30 240  – 35 280  PLN ]]></content>
+        <title type="html"><![CDATA[Azure DevOps]]></title>
+        <id>https://nofluffjobs.com/job/azure-devops-omada-warszawa-wzmjvyno</id>
+        <link href="https://nofluffjobs.com/job/azure-devops-omada-warszawa-wzmjvyno"/>
+        <updated>2024-04-26T17:33:29.150Z</updated>
+        <content type="html"><![CDATA[ 19 320  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Developer/ Devops Engineer]]></title>
-        <id>https://nofluffjobs.com/job/java-developer-devops-engineer-connectis-remote-rli5aomc</id>
-        <link href="https://nofluffjobs.com/job/java-developer-devops-engineer-connectis-remote-rli5aomc"/>
-        <updated>2024-04-12T05:34:36.749Z</updated>
-        <content type="html"><![CDATA[ 21 000  – 24 000  PLN ]]></content>
+        <title type="html"><![CDATA[Junior DevOps Engineer z chmurą Azure/AWS/GCP]]></title>
+        <id>https://nofluffjobs.com/job/junior-devops-engineer-z-chmura-azure-aws-gcp-slickcloud-remote-2hptp8t6</id>
+        <link href="https://nofluffjobs.com/job/junior-devops-engineer-z-chmura-azure-aws-gcp-slickcloud-remote-2hptp8t6"/>
+        <updated>2024-04-26T17:33:29.151Z</updated>
+        <content type="html"><![CDATA[ 8 000  – 12 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System Engineer]]></title>
-        <id>https://nofluffjobs.com/job/system-engineer-knowit-remote-rfsbs9my</id>
-        <link href="https://nofluffjobs.com/job/system-engineer-knowit-remote-rfsbs9my"/>
-        <updated>2024-04-23T17:33:51.859Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Digital Solution Architect]]></title>
+        <id>https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz</id>
+        <link href="https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz"/>
+        <updated>2024-04-26T17:33:29.153Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 33 600  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf"/>
+        <updated>2024-04-26T17:33:29.154Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 22 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Azure Engineer]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu"/>
+        <updated>2024-04-26T17:33:29.156Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Senior Engineer]]></title>
+        <id>https://nofluffjobs.com/job/devops-senior-engineer-capgemini-polska-katowice-v4yglc9p</id>
+        <link href="https://nofluffjobs.com/job/devops-senior-engineer-capgemini-polska-katowice-v4yglc9p"/>
+        <updated>2024-04-26T17:33:29.157Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior DevOps Engineer z Java]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
+        <updated>2024-04-25T17:33:20.961Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Migration Architect]]></title>
+        <id>https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc</id>
+        <link href="https://nofluffjobs.com/job/senior-cloud-migration-architect-nordcloud-remote-prewpvtc"/>
+        <updated>2024-04-26T17:33:29.160Z</updated>
+        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
     </entry>
 </feed>
