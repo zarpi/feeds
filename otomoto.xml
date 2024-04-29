@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-04-28T17:33:50.087Z</updated>
+    <updated>2024-04-29T05:35:52.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 Allroad 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • quattro. bardzo dobry stan, zarejestrowany, audio bang&olufsen]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-quattro-bardzo-dobry-stan-zarejestrowany-audio-bang-olufsen-ID6GoAOa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-quattro-bardzo-dobry-stan-zarejestrowany-audio-bang-olufsen-ID6GoAOa.html"/>
+        <updated>2024-04-29T05:35:29.240Z</updated>
+        <content type="html"><![CDATA[106 700 km Benzyna Automatyczna 2020 109 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro Advanced S tronic1 984 cm3 • 265 KM • Możliwe Finansowanie! 2.0 TFSI 265KM Quattro - Kamera, Panorama, Skóra]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-mozliwe-finansowanie-2-0-tfsi-265km-quattro-kamera-panorama-skora-ID6GosKS.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-mozliwe-finansowanie-2-0-tfsi-265km-quattro-kamera-panorama-skora-ID6GosKS.html"/>
@@ -221,13 +228,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Gm3xx.html"/>
         <updated>2024-04-27T17:33:04.838Z</updated>
         <content type="html"><![CDATA[36 000 km Benzyna Automatyczna 2021 130 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Bezwypadek, niski przebieg!]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-bezwypadek-niski-przebieg-ID6GlIDy.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-bezwypadek-niski-przebieg-ID6GlIDy.html"/>
-        <updated>2024-04-23T17:33:39.586Z</updated>
-        <content type="html"><![CDATA[52 416 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 252 KM • Q5 Premium Plus 2022 S-Line]]></title>

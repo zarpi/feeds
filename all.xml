@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-28T17:33:50.090Z</updated>
+    <updated>2024-04-29T05:35:52.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Kombi, niski przebieg (Otomoto)]]></title>
@@ -131,6 +131,13 @@
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 Allroad 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • quattro. bardzo dobry stan, zarejestrowany, audio bang&olufsen (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-quattro-bardzo-dobry-stan-zarejestrowany-audio-bang-olufsen-ID6GoAOa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-quattro-bardzo-dobry-stan-zarejestrowany-audio-bang-olufsen-ID6GoAOa.html"/>
+        <updated>2024-04-29T05:35:29.240Z</updated>
+        <content type="html"><![CDATA[106 700 km Benzyna Automatyczna 2020 109 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro Advanced S tronic1 984 cm3 • 265 KM • Możliwe Finansowanie! 2.0 TFSI 265KM Quattro - Kamera, Panorama, Skóra (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-mozliwe-finansowanie-2-0-tfsi-265km-quattro-kamera-panorama-skora-ID6GosKS.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-mozliwe-finansowanie-2-0-tfsi-265km-quattro-kamera-panorama-skora-ID6GosKS.html"/>
@@ -220,13 +227,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Gm3xx.html"/>
         <updated>2024-04-27T17:33:04.838Z</updated>
         <content type="html"><![CDATA[36 000 km Benzyna Automatyczna 2021 130 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Bezwypadek, niski przebieg! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-bezwypadek-niski-przebieg-ID6GlIDy.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-bezwypadek-niski-przebieg-ID6GlIDy.html"/>
-        <updated>2024-04-23T17:33:39.586Z</updated>
-        <content type="html"><![CDATA[52 416 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 252 KM • Q5 Premium Plus 2022 S-Line (Otomoto)]]></title>
@@ -579,18 +579,18 @@
         <content type="html"><![CDATA[15 000 km Benzyna Automatyczna 2022 121 155]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
-        <updated>2024-04-04T17:33:03.521Z</updated>
-        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS DevOps/Linux Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote</id>
         <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
         <updated>2024-04-24T05:32:59.185Z</updated>
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
+        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
+        <updated>2024-04-04T17:33:03.521Z</updated>
+        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Infrastructure Engineer (NoFluffJobs)]]></title>
@@ -663,25 +663,11 @@
         <content type="html"><![CDATA[ 8 000  – 12 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Azure Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu</id>
-        <link href="https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu"/>
-        <updated>2024-04-28T17:33:38.693Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf</id>
-        <link href="https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf"/>
-        <updated>2024-04-26T17:33:29.154Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 22 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Solution Architect (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz</id>
-        <link href="https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz"/>
-        <updated>2024-04-26T17:33:29.153Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 33 600  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer z Java (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
+        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
+        <updated>2024-04-25T17:33:20.961Z</updated>
+        <content type="html"><![CDATA[ Check Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Migration Architect (NoFluffJobs)]]></title>
@@ -691,11 +677,25 @@
         <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer z Java (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje</id>
-        <link href="https://nofluffjobs.com/job/senior-devops-engineer-z-java-leroy-merlin-polska-remote-nxsnodje"/>
-        <updated>2024-04-25T17:33:20.961Z</updated>
-        <content type="html"><![CDATA[ Check Salary Match ]]></content>
+        <title type="html"><![CDATA[Digital Solution Architect (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz</id>
+        <link href="https://nofluffjobs.com/job/digital-solution-architect-avenga-warszawa-m4decwlz"/>
+        <updated>2024-04-26T17:33:29.153Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 33 600  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf</id>
+        <link href="https://nofluffjobs.com/job/devops-engineer-networkedassets-wroclaw-lbqwq9uf"/>
+        <updated>2024-04-26T17:33:29.154Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 22 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Azure Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu</id>
+        <link href="https://nofluffjobs.com/job/remote-senior-devops-azure-engineer-antal-1khmi6mu"/>
+        <updated>2024-04-28T17:33:38.693Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -705,17 +705,17 @@
         <content type="html"><![CDATA[ 13 000  – 18 300  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/platform-engineer-avenga-warszawa-j20l0d7u</id>
-        <link href="https://nofluffjobs.com/job/platform-engineer-avenga-warszawa-j20l0d7u"/>
-        <updated>2024-04-28T17:33:38.702Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 33 600  PLN ]]></content>
+        <title type="html"><![CDATA[Mid DevOps Java Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/mid-devops-java-engineer-navifleet-pisarzowa-jggyj8k3</id>
+        <link href="https://nofluffjobs.com/job/mid-devops-java-engineer-navifleet-pisarzowa-jggyj8k3"/>
+        <updated>2024-04-29T05:35:40.488Z</updated>
+        <content type="html"><![CDATA[ 18 000  – 23 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platforms Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
-        <link href="https://nofluffjobs.com/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
-        <updated>2024-04-28T17:33:38.704Z</updated>
-        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
+        <title type="html"><![CDATA[System Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/system-engineer-knowit-remote-rfsbs9my</id>
+        <link href="https://nofluffjobs.com/job/system-engineer-knowit-remote-rfsbs9my"/>
+        <updated>2024-04-29T05:35:40.490Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 30 240  PLN ]]></content>
     </entry>
 </feed>
