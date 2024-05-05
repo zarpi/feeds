@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-04T17:35:33.544Z</updated>
+    <updated>2024-05-05T05:33:35.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 180KM F-Vat 23% (Otomoto)]]></title>
@@ -136,6 +136,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
         <updated>2024-04-13T17:33:09.449Z</updated>
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Audi Q5 Premium Plus 2021 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-2021-ID6Gp6RL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-2021-ID6Gp6RL.html"/>
+        <updated>2024-05-05T05:33:13.883Z</updated>
+        <content type="html"><![CDATA[35 431 km Benzyna Automatyczna 2021 114 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • 2023 PREMIUM PLUS 45, 4x4, od ubezpieczalni (Otomoto)]]></title>
@@ -318,13 +325,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-4x4-awd-quattro-premium-plus-2-0-l-ID6GkJ1a.html"/>
         <updated>2024-04-23T17:33:39.596Z</updated>
         <content type="html"><![CDATA[47 201 km Benzyna Automatyczna 2020 89 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 45 TFSI Quattro Prestige FV23% Okazja! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-quattro-prestige-fv23-okazja-ID6Gkqyg.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-quattro-prestige-fv23-okazja-ID6Gkqyg.html"/>
-        <updated>2024-04-23T17:33:39.600Z</updated>
-        <content type="html"><![CDATA[10 704 km Benzyna Automatyczna 2023 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic advanced1 984 cm3 • 150 KM • Automatic Skóra (Otomoto)]]></title>
