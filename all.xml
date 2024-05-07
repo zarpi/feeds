@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-06T17:33:23.959Z</updated>
+    <updated>2024-05-07T05:34:05.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 180KM F-Vat 23% (Otomoto)]]></title>
@@ -348,6 +348,13 @@
         <content type="html"><![CDATA[50 925 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Momentum1 969 cm3 • 310 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html"/>
+        <updated>2024-05-07T05:33:47.673Z</updated>
+        <content type="html"><![CDATA[57 370 km Benzyna Automatyczna 2021 86 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • T3 Momentum ! Z Polskiego Salonu ! Faktura VAT ! (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-z-polskiego-salonu-faktura-vat-ID6Gpdp4.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-z-polskiego-salonu-faktura-vat-ID6Gpdp4.html"/>
@@ -565,11 +572,11 @@
         <content type="html"><![CDATA[18 000 km Benzyna Automatyczna 2022 95 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T4 R-Design1 969 cm3 • 190 KM • T4 FV23% R-Design Automat Kamera Blis El.Klapa Panorama Navi LED Skóra (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t4-fv23-r-design-automat-kamera-blis-el-klapa-panorama-navi-led-skora-ID6GmNIb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t4-fv23-r-design-automat-kamera-blis-el-klapa-panorama-navi-led-skora-ID6GmNIb.html"/>
-        <updated>2024-05-04T17:35:17.035Z</updated>
-        <content type="html"><![CDATA[45 000 km Benzyna Automatyczna 2020 124 900]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
+        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
+        <updated>2024-05-06T17:33:11.106Z</updated>
+        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS DevOps/Linux Engineer (NoFluffJobs)]]></title>
@@ -577,13 +584,6 @@
         <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
         <updated>2024-04-24T05:32:59.185Z</updated>
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
-        <updated>2024-05-06T17:33:11.106Z</updated>
-        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mid Devops Engineer with Terraform (NoFluffJobs)]]></title>

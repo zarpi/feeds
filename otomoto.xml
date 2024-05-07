@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-05-06T17:33:23.944Z</updated>
+    <updated>2024-05-07T05:34:05.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -349,6 +349,13 @@
         <content type="html"><![CDATA[50 925 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Momentum1 969 cm3 • 310 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html"/>
+        <updated>2024-05-07T05:33:47.673Z</updated>
+        <content type="html"><![CDATA[57 370 km Benzyna Automatyczna 2021 86 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • T3 Momentum ! Z Polskiego Salonu ! Faktura VAT !]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-z-polskiego-salonu-faktura-vat-ID6Gpdp4.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-z-polskiego-salonu-faktura-vat-ID6Gpdp4.html"/>
@@ -564,12 +571,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-t5-r-design-ID6GmX80.html"/>
         <updated>2024-05-04T17:35:17.034Z</updated>
         <content type="html"><![CDATA[18 000 km Benzyna Automatyczna 2022 95 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T4 R-Design1 969 cm3 • 190 KM • T4 FV23% R-Design Automat Kamera Blis El.Klapa Panorama Navi LED Skóra]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t4-fv23-r-design-automat-kamera-blis-el-klapa-panorama-navi-led-skora-ID6GmNIb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t4-fv23-r-design-automat-kamera-blis-el-klapa-panorama-navi-led-skora-ID6GmNIb.html"/>
-        <updated>2024-05-04T17:35:17.035Z</updated>
-        <content type="html"><![CDATA[45 000 km Benzyna Automatyczna 2020 124 900]]></content>
     </entry>
 </feed>
