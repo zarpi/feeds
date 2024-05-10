@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-09T17:33:18.951Z</updated>
+    <updated>2024-05-10T05:33:35.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • 1.6 PureTech 180km GT-line Super Stan! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-puretech-180km-gt-line-super-stan-ID6GpT8c.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-puretech-180km-gt-line-super-stan-ID6GpT8c.html"/>
+        <updated>2024-05-10T05:33:10.680Z</updated>
+        <content type="html"><![CDATA[103 000 km Benzyna Automatyczna 2020 89 500]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 GT1 598 cm3 • 180 KM • 180KM #GT # SW # Kamera 360# Czarna Podsufitk# Ele klapa i-Cocpit 2021 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-180km-gt-sw-kamera-360-czarna-podsufitk-ele-klapa-i-cocpit-2021-ID6GpJzm.html</id>
@@ -115,6 +122,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
         <updated>2024-04-13T17:33:09.449Z</updated>
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV Advanced S tronic1 984 cm3 • 150 KM • Salon Polska (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html"/>
+        <updated>2024-05-10T05:33:15.596Z</updated>
+        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2020 118 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 998 cm3 • 261 KM • Quattro S-line 2.0TFSI (Otomoto)]]></title>
@@ -332,13 +346,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html"/>
         <updated>2024-05-06T17:33:01.899Z</updated>
         <content type="html"><![CDATA[80 292 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Audi Q5 45 Premium/Titanium Quattro TFSI Prywatnie (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html"/>
-        <updated>2024-05-06T17:33:01.900Z</updated>
-        <content type="html"><![CDATA[47 000 km Benzyna Automatyczna 2020 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V901 969 cm3 • 190 KM • jak nowy malutki przebieg inscription (Otomoto)]]></title>
@@ -565,18 +572,18 @@
         <content type="html"><![CDATA[28 900 km Benzyna Automatyczna 2020 122 800]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
-        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
-        <updated>2024-05-06T17:33:11.106Z</updated>
-        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS DevOps/Linux Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote</id>
         <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
         <updated>2024-04-24T05:32:59.185Z</updated>
         <content type="html"><![CDATA[ 12 000  – 18 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
+        <link href="https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
+        <updated>2024-05-06T17:33:11.106Z</updated>
+        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mid Devops Engineer with Terraform (NoFluffJobs)]]></title>
@@ -709,6 +716,6 @@
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-08T17:33:25.942Z</updated>
-        <content type="html"><![CDATA[   AzureDocker]]></content>
+        <content type="html"><![CDATA[   DockerAzure]]></content>
     </entry>
 </feed>
