@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-12T17:33:16.764Z</updated>
+    <updated>2024-05-13T05:35:36.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT1 598 cm3 • 181 KM • Kamera 360* Blis* Masaże* Ambiente* KeyFree* El. klapa. ZADBANY (Otomoto)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[17 200 km Benzyna Automatyczna 2022 86 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic1 477 cm3 • 163 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GqgfW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GqgfW.html"/>
+        <updated>2024-05-13T05:35:16.476Z</updated>
+        <content type="html"><![CDATA[127 000 km Benzyna Automatyczna 2020 115 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 B4 B Geartronic Momentum Pro1 969 cm3 • 197 KM • Volvo XC60 2.0 B4 Skóra 15.000km Fvat 23% Lift (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-2-0-b4-skora-15-000km-fvat-23-lift-ID6Gqe8r.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-2-0-b4-skora-15-000km-fvat-23-lift-ID6Gqe8r.html"/>
@@ -409,13 +416,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-z-polskiego-salonu-faktura-vat-ID6Gpdp4.html"/>
         <updated>2024-05-06T17:33:05.726Z</updated>
         <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum1 969 cm3 • 250 KM • Volvo xc40 t5 250ps 4x4 automat (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-250ps-4x4-automat-ID6Gp3Y9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-250ps-4x4-automat-ID6Gp3Y9.html"/>
-        <updated>2024-05-04T17:35:16.982Z</updated>
-        <content type="html"><![CDATA[53 700 km Benzyna Automatyczna 2021 122 600]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B Geartronic Momentum1 969 cm3 • 163 KM • 2020 ! FULL LED ! BRĄZ ! Panorama ! Haman ! Alus17 ! Kamera (Otomoto)]]></title>
@@ -709,6 +709,6 @@
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   AzureTerraform]]></content>
+        <content type="html"><![CDATA[   AzureDocker]]></content>
     </entry>
 </feed>
