@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://justjoin.it/all-locations/admin/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time</id>
     <title>JustJoinIT</title>
-    <updated>2024-05-13T05:35:36.426Z</updated>
+    <updated>2024-05-13T17:33:07.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://justjoin.it/_next/static/media/favicon_jjit_16x16.17c0797f.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
+        <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops</id>
+        <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops"/>
+        <updated>2024-05-13T17:33:06.725Z</updated>
+        <content type="html"><![CDATA[   CloudCI/CD]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   AzureDocker]]></content>
+        <content type="html"><![CDATA[   TerraformAzure]]></content>
     </entry>
 </feed>
