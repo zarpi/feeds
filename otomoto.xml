@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-05-13T17:33:07.341Z</updated>
+    <updated>2024-05-14T05:33:50.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -150,7 +150,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html"/>
         <updated>2024-05-11T05:33:03.617Z</updated>
-        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2020 118 500]]></content>
+        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2020 116 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 998 cm3 • 261 KM • Quattro S-line 2.0TFSI]]></title>
@@ -328,18 +328,18 @@
         <content type="html"><![CDATA[115 000 km Benzyna Automatyczna 2020 111 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 45 TFSI mHEV Quattro Advanced S tronic1 984 cm3 • 265 KM • AUDI A4 45TFSI Sport EUROPA Automat Roletki ACC Navi+ VAT23% BRT]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-sport-europa-automat-roletki-acc-navi-vat23-brt-ID6Glsqg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-sport-europa-automat-roletki-acc-navi-vat23-brt-ID6Glsqg.html"/>
+        <updated>2024-05-14T05:33:19.993Z</updated>
+        <content type="html"><![CDATA[39 999 km Benzyna Automatyczna 2020 116 850]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html"/>
         <updated>2024-05-11T05:33:03.678Z</updated>
         <content type="html"><![CDATA[80 292 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Audi Q5 45 Premium/Titanium Quattro TFSI Prywatnie]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html"/>
-        <updated>2024-05-11T05:33:03.680Z</updated>
-        <content type="html"><![CDATA[47 000 km Benzyna Automatyczna 2020 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T5 AWD Momentum1 969 cm3 • 254 KM • XC60 T5 AWD Momentum Harman & Kardon Panorama 74.000km - WARTO !!!]]></title>

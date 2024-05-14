@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-13T17:33:07.336Z</updated>
+    <updated>2024-05-14T05:33:50.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT1 598 cm3 • 181 KM • Kamera 360* Blis* Masaże* Ambiente* KeyFree* El. klapa. ZADBANY (Otomoto)]]></title>
@@ -149,7 +149,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-ID6GpSIP.html"/>
         <updated>2024-05-11T05:33:03.617Z</updated>
-        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2020 118 500]]></content>
+        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2020 116 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 998 cm3 • 261 KM • Quattro S-line 2.0TFSI (Otomoto)]]></title>
@@ -327,18 +327,18 @@
         <content type="html"><![CDATA[115 000 km Benzyna Automatyczna 2020 111 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 45 TFSI mHEV Quattro Advanced S tronic1 984 cm3 • 265 KM • AUDI A4 45TFSI Sport EUROPA Automat Roletki ACC Navi+ VAT23% BRT (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-sport-europa-automat-roletki-acc-navi-vat23-brt-ID6Glsqg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-sport-europa-automat-roletki-acc-navi-vat23-brt-ID6Glsqg.html"/>
+        <updated>2024-05-14T05:33:19.993Z</updated>
+        <content type="html"><![CDATA[39 999 km Benzyna Automatyczna 2020 116 850]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html"/>
         <updated>2024-05-11T05:33:03.678Z</updated>
         <content type="html"><![CDATA[80 292 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Audi Q5 45 Premium/Titanium Quattro TFSI Prywatnie (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-45-premium-titanium-quattro-tfsi-prywatnie-ID6GkXnW.html"/>
-        <updated>2024-05-11T05:33:03.680Z</updated>
-        <content type="html"><![CDATA[47 000 km Benzyna Automatyczna 2020 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T5 AWD Momentum1 969 cm3 • 254 KM • XC60 T5 AWD Momentum Harman & Kardon Panorama 74.000km - WARTO !!! (Otomoto)]]></title>
@@ -709,13 +709,13 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops"/>
         <updated>2024-05-13T17:33:06.725Z</updated>
-        <content type="html"><![CDATA[   CloudCI/CD]]></content>
+        <content type="html"><![CDATA[   TerraformIaCCI/CD]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   TerraformAzure]]></content>
+        <content type="html"><![CDATA[   DockerKubernetes]]></content>
     </entry>
 </feed>
