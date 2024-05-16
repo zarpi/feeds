@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-15T17:34:12.093Z</updated>
+    <updated>2024-05-16T05:33:13.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • 1.6 PureTech 180km GT-line Super Stan! (Otomoto)]]></title>
@@ -334,6 +334,13 @@
         <content type="html"><![CDATA[86 000 km Benzyna Automatyczna 2020 128 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo V60 T6 AWD Inscription1 969 cm3 • 310 KM • V60 HYBRYDA Plug-in tylko 80tys km, skóra, BEZYPADKOWY faktura VAT 23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-hybryda-plug-in-tylko-80tys-km-skora-bezypadkowy-faktura-vat-23-ID6GqRMy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-hybryda-plug-in-tylko-80tys-km-skora-bezypadkowy-faktura-vat-23-ID6GqRMy.html"/>
+        <updated>2024-05-16T05:32:57.626Z</updated>
+        <content type="html"><![CDATA[80 120 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro1 969 cm3 • 190 KM • Salon Polska 1 Właściciel Serwis ASO Bezwypadkowy FV-23% (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-1-wlasciciel-serwis-aso-bezwypadkowy-fv-23-ID6GqQp1.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-1-wlasciciel-serwis-aso-bezwypadkowy-fv-23-ID6GqQp1.html"/>
@@ -551,13 +558,6 @@
         <content type="html"><![CDATA[54 000 km Benzyna Automatyczna 2021 129 899]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-biala-perla-niski-przebieg-1-wlasciciel-ID6Goher.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-biala-perla-niski-przebieg-1-wlasciciel-ID6Goher.html"/>
-        <updated>2024-05-04T17:35:17.008Z</updated>
-        <content type="html"><![CDATA[76 800 km Benzyna Automatyczna 2020 98 760]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS DevOps/Linux Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote</id>
         <link href="https://nofluffjobs.com/job/aws-devops-linux-engineer-comscore-via-cc-remote"/>
@@ -702,13 +702,13 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-wroc-aw-devops"/>
         <updated>2024-05-13T17:33:06.725Z</updated>
-        <content type="html"><![CDATA[   IaCDockerCI/CD]]></content>
+        <content type="html"><![CDATA[   IaCCloudDocker]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   TerraformDocker]]></content>
+        <content type="html"><![CDATA[   AzureDocker]]></content>
     </entry>
 </feed>

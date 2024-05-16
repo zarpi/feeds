@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-05-15T17:34:12.096Z</updated>
+    <updated>2024-05-16T05:33:13.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -335,6 +335,13 @@
         <content type="html"><![CDATA[86 000 km Benzyna Automatyczna 2020 128 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo V60 T6 AWD Inscription1 969 cm3 • 310 KM • V60 HYBRYDA Plug-in tylko 80tys km, skóra, BEZYPADKOWY faktura VAT 23%]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-hybryda-plug-in-tylko-80tys-km-skora-bezypadkowy-faktura-vat-23-ID6GqRMy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-hybryda-plug-in-tylko-80tys-km-skora-bezypadkowy-faktura-vat-23-ID6GqRMy.html"/>
+        <updated>2024-05-16T05:32:57.626Z</updated>
+        <content type="html"><![CDATA[80 120 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro1 969 cm3 • 190 KM • Salon Polska 1 Właściciel Serwis ASO Bezwypadkowy FV-23%]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-1-wlasciciel-serwis-aso-bezwypadkowy-fv-23-ID6GqQp1.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-1-wlasciciel-serwis-aso-bezwypadkowy-fv-23-ID6GqQp1.html"/>
@@ -550,12 +557,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-163-km-t3-salon-pl-f-vat-23-ID6GoiAy.html"/>
         <updated>2024-05-14T17:33:12.145Z</updated>
         <content type="html"><![CDATA[54 000 km Benzyna Automatyczna 2021 129 899]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-biala-perla-niski-przebieg-1-wlasciciel-ID6Goher.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-biala-perla-niski-przebieg-1-wlasciciel-ID6Goher.html"/>
-        <updated>2024-05-04T17:35:17.008Z</updated>
-        <content type="html"><![CDATA[76 800 km Benzyna Automatyczna 2020 98 760]]></content>
     </entry>
 </feed>
