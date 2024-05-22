@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T17:33:08.756Z</updated>
+    <updated>2024-05-22T05:35:25.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • Salon Polska , 1.6 180 km ;GT (Otomoto)]]></title>
@@ -327,6 +327,20 @@
         <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 128 999]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Volvo XC40, pierwszy właściciel, nieuszkodzony, garażowany (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wlasciciel-nieuszkodzony-garazowany-ID6Gs7j6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wlasciciel-nieuszkodzony-garazowany-ID6Gs7j6.html"/>
+        <updated>2024-05-22T05:35:06.323Z</updated>
+        <content type="html"><![CDATA[106 000 km Benzyna Automatyczna 2020 123 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B5 B AWD Plus Dark1 969 cm3 • 250 KM • VOLVO V60 PLUS DARK B5 AWD 4x4 Salon Polska 1 Właściciel Gwarancja (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-plus-dark-b5-awd-4x4-salon-polska-1-wlasciciel-gwarancja-ID6Gs7fd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-plus-dark-b5-awd-4x4-salon-polska-1-wlasciciel-gwarancja-ID6Gs7fd.html"/>
+        <updated>2024-05-22T05:35:06.324Z</updated>
+        <content type="html"><![CDATA[18 500 km Benzyna Automatyczna 2023 111 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 190 KM • Momentum Pro, 2020r. (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-momentum-pro-2020r-ID6Gs4zW.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-momentum-pro-2020r-ID6Gs4zW.html"/>
@@ -423,13 +437,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-tempomat-blis-kamera-akcesoria-gwarancja-drywa-gdansk-ID6Gr8QK.html"/>
         <updated>2024-05-21T17:32:53.280Z</updated>
         <content type="html"><![CDATA[52 730 km Benzyna Automatyczna 2020 125 555]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • Volvo Xc40 T3 Momentum Kamera Salonpl Vat23 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-kamera-salonpl-vat23-ID6Gr5IL.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-kamera-salonpl-vat23-ID6Gr5IL.html"/>
-        <updated>2024-05-21T17:32:53.281Z</updated>
-        <content type="html"><![CDATA[53 167 km Benzyna Manualna 2020 109 899]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Geartronic R-Design1 969 cm3 • 190 KM • 190KM, Faktura Vat 23%, ACC, Harman Kardon, R-design, Skóra (Otomoto)]]></title>
@@ -542,13 +549,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-pro-2020r-fv-23-ID6GpttA.html"/>
         <updated>2024-05-21T17:32:53.308Z</updated>
         <content type="html"><![CDATA[91 924 km Benzyna Automatyczna 2020 114 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Momentum1 969 cm3 • 310 KM (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gpmuo.html"/>
-        <updated>2024-05-21T17:32:53.310Z</updated>
-        <content type="html"><![CDATA[57 370 km Benzyna Automatyczna 2021 86 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS DevOps/Linux Engineer (NoFluffJobs)]]></title>
@@ -695,13 +695,13 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   DockerTerraform]]></content>
+        <content type="html"><![CDATA[   K8SCloudTerraform]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   KubernetesTerraform]]></content>
+        <content type="html"><![CDATA[   DockerKubernetes]]></content>
     </entry>
 </feed>
