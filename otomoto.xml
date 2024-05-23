@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-05-23T05:35:02.595Z</updated>
+    <updated>2024-05-23T17:34:29.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -123,6 +123,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-audi-a4-allroad-2023-benzyna-4x4-automat-ID6Gsh12.html"/>
         <updated>2024-05-22T17:32:55.331Z</updated>
         <content type="html"><![CDATA[5 302 km Benzyna Automatyczna 2023 96 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro Advanced S tronic1 984 cm3 • 265 KM • 2.0L Quattro Automat wer.Premium Plus]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-automat-wer-premium-plus-ID6Gs4gZ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-automat-wer-premium-plus-ID6Gs4gZ.html"/>
+        <updated>2024-05-23T17:34:04.993Z</updated>
+        <content type="html"><![CDATA[20 921 km Benzyna Automatyczna 2022 105 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line1 984 cm3 • 204 KM • Quattro-S-tronic-S Line-Black Edition.]]></title>
@@ -258,20 +265,6 @@
         <content type="html"><![CDATA[65 221 km Benzyna Automatyczna 2021 126 800]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S Line S tronic1 984 cm3 • 265 KM • 45 TFSI / 265 KM / 2021/ Quattro/ PREMIUM PLUS/ Serwis A.S.O./ WARTA !]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-265-km-2021-quattro-premium-plus-serwis-a-s-o-warta-ID6Gnz0k.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-265-km-2021-quattro-premium-plus-serwis-a-s-o-warta-ID6Gnz0k.html"/>
-        <updated>2024-05-11T05:33:03.641Z</updated>
-        <content type="html"><![CDATA[56 538 km Benzyna Automatyczna 2021 127 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM • 2.0L Quattro Automat wer.Premium Plus]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-automat-wer-premium-plus-ID6Gn4vu.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-automat-wer-premium-plus-ID6Gn4vu.html"/>
-        <updated>2024-05-11T05:33:03.665Z</updated>
-        <content type="html"><![CDATA[20 921 km Benzyna Automatyczna 2023 110 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Piękne Matrix S-line Virtual Cockpit radary]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html"/>
@@ -335,11 +328,11 @@
         <content type="html"><![CDATA[79 980 km Benzyna Automatyczna 2021 116 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V60 B4 B R-Design1 969 cm3 • 197 KM • SALON/ FV23%/ Gwarancja Serwisowa/ R-Design/ 77 154 NETTO]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-fv23-gwarancja-serwisowa-r-design-77154-netto-ID6Gsx4q.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-fv23-gwarancja-serwisowa-r-design-77154-netto-ID6Gsx4q.html"/>
-        <updated>2024-05-23T05:34:45.325Z</updated>
-        <content type="html"><![CDATA[49 068 km Benzyna Automatyczna 2021 129 900]]></content>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • 2.0B-252PS,Automat,4x4,skóra,nawi+kamera,xenon,idealny]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
+        <updated>2024-05-23T17:34:05.044Z</updated>
+        <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 128 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 R-Design1 477 cm3 • 163 KM • VOLVO XC40 R-DESIGN T3 I właściciel, gwarancja 06.25, VAT23%]]></title>
@@ -557,5 +550,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-vat-23-pierwszy-wlasciciel-serwis-aso-bezwypadkowy-ID6GqC6r.html"/>
         <updated>2024-05-21T17:32:53.292Z</updated>
         <content type="html"><![CDATA[68 000 km Benzyna Automatyczna 2021 127 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic1 477 cm3 • 163 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GqgfW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GqgfW.html"/>
+        <updated>2024-05-23T17:34:09.532Z</updated>
+        <content type="html"><![CDATA[127 000 km Benzyna Automatyczna 2020 110 000]]></content>
     </entry>
 </feed>
