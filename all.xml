@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-24T17:34:22.513Z</updated>
+    <updated>2024-05-25T05:33:16.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • GT_GT_2021_SalonPL_F-VAT23_Załatwiamy Leasing_Okazja (Otomoto)]]></title>
@@ -65,7 +65,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-allure-pack-s-s-eat8-ID6Gotsd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-allure-pack-s-s-eat8-ID6Gotsd.html"/>
         <updated>2024-04-27T17:32:59.647Z</updated>
-        <content type="html"><![CDATA[107 184 km Benzyna Automatyczna 2020 88 900]]></content>
+        <content type="html"><![CDATA[107 184 km Benzyna Automatyczna 2020 85 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT81 598 cm3 • 180 KM • Masaże* Kamera 360* Night vision* Blis* KeyFree* Tryby jazdy (Otomoto)]]></title>
@@ -334,6 +334,13 @@
         <content type="html"><![CDATA[40 085 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B4 B DKG Momentum Pro1 969 cm3 • 197 KM • Bezwypadkowy kamera fv23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwypadkowy-kamera-fv23-ID6Gt3tg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwypadkowy-kamera-fv23-ID6Gt3tg.html"/>
+        <updated>2024-05-25T05:32:56.987Z</updated>
+        <content type="html"><![CDATA[75 708 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GsYiW.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GsYiW.html"/>
@@ -551,13 +558,6 @@
         <content type="html"><![CDATA[136 300 km Benzyna Automatyczna 2021 109 999]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-core-parkassist-led-carplay-androidauto-fakturavat23-ID6GqGsk.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-core-parkassist-led-carplay-androidauto-fakturavat23-ID6GqGsk.html"/>
-        <updated>2024-05-21T17:32:53.291Z</updated>
-        <content type="html"><![CDATA[69 790 km Benzyna Automatyczna 2021 124 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mid Devops Engineer with Terraform (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/mid-devops-engineer-with-terraform-codilime-remote</id>
         <link href="https://nofluffjobs.com/pl/job/mid-devops-engineer-with-terraform-codilime-remote"/>
@@ -702,13 +702,13 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   IaCCloudTerraform]]></content>
+        <content type="html"><![CDATA[   K8SCI/CDDocker]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   AzureKubernetes]]></content>
+        <content type="html"><![CDATA[   TerraformDocker]]></content>
     </entry>
 </feed>
