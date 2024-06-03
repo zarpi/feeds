@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-03T05:35:08.631Z</updated>
+    <updated>2024-06-03T17:33:19.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Allure Pack S&S 1.6 PureTech 180KM EAT8 FV23% Serwis ASO I wł (Otomoto)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[67 000 km Benzyna Automatyczna 2021 123 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • GT, Salon Polska, bezwypadkowy, FV23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-salon-polska-bezwypadkowy-fv23-ID6GoJH3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-salon-polska-bezwypadkowy-fv23-ID6GoJH3.html"/>
+        <updated>2024-06-03T17:32:54.783Z</updated>
+        <content type="html"><![CDATA[89 380 km Benzyna Automatyczna 2021 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • 1.6 PureTech Allure Pack S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-allure-pack-s-s-eat8-ID6Gotsd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-allure-pack-s-s-eat8-ID6Gotsd.html"/>
@@ -145,13 +152,6 @@
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack1 598 cm3 • 181 KM (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
-        <updated>2024-05-19T17:32:55.932Z</updated>
-        <content type="html"><![CDATA[31 200 km Benzyna Automatyczna 2021 115 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • 2021, 2.0L, 4x4, PREMIUM PLUS, od ubezpieczalni (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2021-2-0l-4x4-premium-plus-od-ubezpieczalni-ID6Guj43.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2021-2-0l-4x4-premium-plus-od-ubezpieczalni-ID6Guj43.html"/>
@@ -180,10 +180,10 @@
         <content type="html"><![CDATA[61 200 km Benzyna Automatyczna 2021 88 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic1 984 cm3 • 150 KM • Audi A4 Avant 20/21r 35TFSI 150KM S-Tronic SalonPL Serwis ASO F-Vat23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-20-21r-35tfsi-150km-s-tronic-salonpl-serwis-aso-f-vat23-ID6GtdWw.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-20-21r-35tfsi-150km-s-tronic-salonpl-serwis-aso-f-vat23-ID6GtdWw.html"/>
-        <updated>2024-05-26T17:33:17.334Z</updated>
+        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic1 984 cm3 • 150 KM • Avant 20/21r 35TFSI 2.0BENZ 150KM S-Tronic SalonPL Serwis ASO F-Vat23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-20-21r-35tfsi-2-0benz-150km-s-tronic-salonpl-serwis-aso-f-vat23-ID6GtdWw.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-20-21r-35tfsi-2-0benz-150km-s-tronic-salonpl-serwis-aso-f-vat23-ID6GtdWw.html"/>
+        <updated>2024-06-03T17:32:58.938Z</updated>
         <content type="html"><![CDATA[131 200 km Benzyna Automatyczna 2020 106 900]]></content>
     </entry>
     <entry>
@@ -376,6 +376,20 @@
         <content type="html"><![CDATA[80 292 km Benzyna Automatyczna 2021 119 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc-40-t3-momentum-163km-pakiety-park-assist-climate-kamera-parkowania-ID6GuryQ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc-40-t3-momentum-163km-pakiety-park-assist-climate-kamera-parkowania-ID6GuryQ.html"/>
+        <updated>2024-06-03T17:33:02.804Z</updated>
+        <content type="html"><![CDATA[53 951 km Benzyna Automatyczna 2021 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 197 KM • FV23%,Tempomat,PL Salon,Gwarancja,Akcesoria Gratis,Drywa Gdynia (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-tempomat-pl-salon-gwarancja-akcesoria-gratis-drywa-gdynia-ID6Gurbo.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-tempomat-pl-salon-gwarancja-akcesoria-gratis-drywa-gdynia-ID6Gurbo.html"/>
+        <updated>2024-06-03T17:33:02.805Z</updated>
+        <content type="html"><![CDATA[95 500 km Benzyna Automatyczna 2020 119 999]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Inscription1 969 cm3 • 190 KM • Volvo V60 T4 Inscription STAN SALON (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-inscription-stan-salon-ID6GujTi.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-inscription-stan-salon-ID6GujTi.html"/>
@@ -401,7 +415,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-core-t3-ID6GtPVb.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-core-t3-ID6GtPVb.html"/>
         <updated>2024-05-29T17:34:23.075Z</updated>
-        <content type="html"><![CDATA[28 900 km Benzyna Automatyczna 2021 130 000]]></content>
+        <content type="html"><![CDATA[28 900 km Benzyna Automatyczna 2021 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Inscription1 477 cm3 • 163 KM • Volvo xc40 pierwszy właściciel, serwisowany, faktura VAT (Otomoto)]]></title>
@@ -499,7 +513,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-momentum-gwarancja-selekt-faktura-vat-23-ID6GsbuK.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-momentum-gwarancja-selekt-faktura-vat-23-ID6GsbuK.html"/>
         <updated>2024-05-22T17:33:01.873Z</updated>
-        <content type="html"><![CDATA[96 454 km Benzyna Automatyczna 2020 124 777]]></content>
+        <content type="html"><![CDATA[96 454 km Benzyna Automatyczna 2020 119 777]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Volvo XC40, pierwszy właściciel, nieuszkodzony, garażowany (Otomoto)]]></title>
@@ -530,13 +544,6 @@
         <content type="html"><![CDATA[54 745 km Benzyna Automatyczna 2021 92 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 250 KM • B5 B AWD Ultimate FV23% Leasing! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-b-awd-ultimate-fv23-leasing-ID6Gs0HI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-b-awd-ultimate-fv23-leasing-ID6Gs0HI.html"/>
-        <updated>2024-05-21T17:32:53.249Z</updated>
-        <content type="html"><![CDATA[31 733 km Benzyna Automatyczna 2023 99 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Bright1 969 cm3 • 250 KM • B5 PLUS, bogate wyposażenia, biała skóra (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-plus-bogate-wyposazenia-biala-skora-ID6GrPbC.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b5-plus-bogate-wyposazenia-biala-skora-ID6GrPbC.html"/>
@@ -549,13 +556,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-l-benzyna-turbo-250-km-maly-przebieg-ID6GrAeS.html"/>
         <updated>2024-05-21T17:32:53.252Z</updated>
         <content type="html"><![CDATA[7 700 km Benzyna Automatyczna 2022 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V90 T5 Geartronic Inscription1 969 cm3 • 250 KM • Volvo V90 T5 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-volvo-v90-t5-ID6Grg8z.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-volvo-v90-t5-ID6Grg8z.html"/>
-        <updated>2024-05-21T17:32:53.253Z</updated>
-        <content type="html"><![CDATA[36 000 km Benzyna Automatyczna 2020 117 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T5 Geartronic Inscription1 969 cm3 • 250 KM • Inscrpition AWD Najbogatsza wersja (Otomoto)]]></title>
@@ -579,13 +579,6 @@
         <content type="html"><![CDATA[35 000 km Benzyna Automatyczna 2021 119 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B4 B AWD Momentum1 969 cm3 • 197 KM • FV23%,Tempomat,PL Salon,Gwarancja,Akcesoria Gratis,Drywa Gdynia (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-tempomat-pl-salon-gwarancja-akcesoria-gratis-drywa-gdynia-ID6Gr98X.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-fv23-tempomat-pl-salon-gwarancja-akcesoria-gratis-drywa-gdynia-ID6Gr98X.html"/>
-        <updated>2024-05-21T17:32:53.279Z</updated>
-        <content type="html"><![CDATA[95 500 km Benzyna Automatyczna 2020 121 888]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro1 969 cm3 • 190 KM • FV23%,Tempomat,BLIS,Kamera,Akcesoria,Gwarancja,Drywa Gdańsk (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-tempomat-blis-kamera-akcesoria-gwarancja-drywa-gdansk-ID6Gr8QK.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-tempomat-blis-kamera-akcesoria-gwarancja-drywa-gdansk-ID6Gr8QK.html"/>
@@ -600,6 +593,13 @@
         <content type="html"><![CDATA[98 400 km Benzyna Automatyczna 2020 128 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Kraj 1 Właściciel Bezwypadkowy Serwisowany Kamera Androidauto (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-1-wlasciciel-bezwypadkowy-serwisowany-kamera-androidauto-ID6GqYfL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-1-wlasciciel-bezwypadkowy-serwisowany-kamera-androidauto-ID6GqYfL.html"/>
+        <updated>2024-06-03T17:33:02.863Z</updated>
+        <content type="html"><![CDATA[63 000 km Benzyna Manualna 2020 126 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
@@ -607,18 +607,18 @@
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote"/>
-        <updated>2024-05-28T17:34:10.181Z</updated>
-        <content type="html"><![CDATA[ 15 120  – 23 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mid/Senior DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/mid-senior-devops-engineer-codilime-remote-1</id>
         <link href="https://nofluffjobs.com/pl/job/mid-senior-devops-engineer-codilime-remote-1"/>
         <updated>2024-05-23T05:34:51.327Z</updated>
         <content type="html"><![CDATA[ 18 000  – 25 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote"/>
+        <updated>2024-05-28T17:34:10.181Z</updated>
+        <content type="html"><![CDATA[ 15 120  – 23 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infrastructure Programmer (NoFluffJobs)]]></title>
@@ -635,11 +635,11 @@
         <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-boradevi</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-boradevi"/>
-        <updated>2024-05-23T05:34:51.333Z</updated>
-        <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps/ AWS Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-aws-engineer-shift4-remote-q4pyrucd</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-aws-engineer-shift4-remote-q4pyrucd"/>
+        <updated>2024-05-23T05:34:51.330Z</updated>
+        <content type="html"><![CDATA[ 30 000  – 35 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Infrastructure Engineer (NoFluffJobs)]]></title>
@@ -647,6 +647,27 @@
         <link href="https://nofluffjobs.com/pl/job/devops-infrastructure-engineer-adaptiq-remote-q5dk1pvx"/>
         <updated>2024-05-23T05:34:51.329Z</updated>
         <content type="html"><![CDATA[ 6 500  – 6 800  USD ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n"/>
+        <updated>2024-05-28T17:34:10.199Z</updated>
+        <content type="html"><![CDATA[ 28 500  – 37 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-boradevi</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-boradevi"/>
+        <updated>2024-05-23T05:34:51.333Z</updated>
+        <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
+        <updated>2024-05-31T17:34:01.216Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Integration Services Expert Engineer (NoFluffJobs)]]></title>
@@ -663,31 +684,31 @@
         <content type="html"><![CDATA[ 26 000  – 33 600  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
-        <updated>2024-05-31T17:34:01.216Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n"/>
-        <updated>2024-05-28T17:34:10.199Z</updated>
-        <content type="html"><![CDATA[ 28 500  – 37 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-crystal-equation-warsaw-ovnmb4xw</id>
-        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-crystal-equation-warsaw-ovnmb4xw"/>
-        <updated>2024-05-31T05:35:26.277Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 14 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Infrastructure and DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i</id>
         <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i"/>
         <updated>2024-05-23T05:34:51.346Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Solution Architect (GCP) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo"/>
+        <updated>2024-06-03T17:33:08.691Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 25 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea"/>
+        <updated>2024-06-03T17:33:08.692Z</updated>
+        <content type="html"><![CDATA[ 15 750  – 25 200  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrastructure and DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod</id>
+        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod"/>
+        <updated>2024-05-23T05:34:51.351Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
@@ -698,32 +719,11 @@
         <content type="html"><![CDATA[ 21 840  – 25 200  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps/ AWS Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-aws-engineer-shift4-remote-q4pyrucd</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-aws-engineer-shift4-remote-q4pyrucd"/>
-        <updated>2024-05-23T05:34:51.330Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 35 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructure and DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod</id>
-        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod"/>
-        <updated>2024-05-23T05:34:51.351Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391"/>
-        <updated>2024-06-02T17:33:06.444Z</updated>
-        <content type="html"><![CDATA[ 30 240  – 35 280  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-avenga-warszawa-j20l0d7u</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-avenga-warszawa-j20l0d7u"/>
-        <updated>2024-06-02T17:33:06.444Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 33 600  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-crystal-equation-warsaw-ovnmb4xw</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-crystal-equation-warsaw-ovnmb4xw"/>
+        <updated>2024-05-31T05:35:26.277Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 14 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Junior Cloud Engineer (NoFluffJobs)]]></title>
@@ -733,24 +733,24 @@
         <content type="html"><![CDATA[ 5 000  – 9 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior SRE Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-sre-engineer-kingfisher-plc-remote-jpp9q7qq</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-sre-engineer-kingfisher-plc-remote-jpp9q7qq"/>
-        <updated>2024-05-30T17:33:37.141Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 28 000  PLN ]]></content>
+        <title type="html"><![CDATA[Observability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/observability-engineer-econsulting-remote-abmbclgw</id>
+        <link href="https://nofluffjobs.com/pl/job/observability-engineer-econsulting-remote-abmbclgw"/>
+        <updated>2024-06-03T17:33:08.700Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   DockerIaCCI/CD]]></content>
+        <content type="html"><![CDATA[   K8STerraformCloud]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   KubernetesAzure]]></content>
+        <content type="html"><![CDATA[   AzureKubernetes]]></content>
     </entry>
 </feed>
