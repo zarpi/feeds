@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-02T17:33:18.389Z</updated>
+    <updated>2024-06-03T05:35:08.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Allure Pack S&S 1.6 PureTech 180KM EAT8 FV23% Serwis ASO I wł (Otomoto)]]></title>
@@ -464,7 +464,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-r-design-t3-i-wlasciciel-gwarancja-06-25-vat23-ID6GsvGn.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-r-design-t3-i-wlasciciel-gwarancja-06-25-vat23-ID6GsvGn.html"/>
         <updated>2024-05-23T05:34:45.325Z</updated>
-        <content type="html"><![CDATA[77 000 km Benzyna Automatyczna 2020 130 000]]></content>
+        <content type="html"><![CDATA[77 000 km Benzyna Automatyczna 2020 123 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 Geartronic Momentum1 969 cm3 • 190 KM • Momentum T4 190KM Automat Kamera Blis El.Klapa LED Skóra CarPlay (Otomoto)]]></title>
@@ -744,13 +744,13 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   K8SCI/CDDocker]]></content>
+        <content type="html"><![CDATA[   DockerIaCCI/CD]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (JustJoinIT)]]></title>
         <id>https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops</id>
         <link href="https://justjoin.it/offers/hero-dot-azure-devops-part-time--krakow-devops"/>
         <updated>2024-05-11T05:33:22.824Z</updated>
-        <content type="html"><![CDATA[   DockerKubernetes]]></content>
+        <content type="html"><![CDATA[   KubernetesAzure]]></content>
     </entry>
 </feed>
