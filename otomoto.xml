@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-04T17:33:15.463Z</updated>
+    <updated>2024-06-05T05:35:30.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -87,7 +87,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-automatbezwypadkowysalon-polskaallure67000kmvat23-ID6GrcgJ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-automatbezwypadkowysalon-polskaallure67000kmvat23-ID6GrcgJ.html"/>
         <updated>2024-05-18T17:32:43.032Z</updated>
-        <content type="html"><![CDATA[67 000 km Benzyna Automatyczna 2021 123 900]]></content>
+        <content type="html"><![CDATA[67 000 km Benzyna Automatyczna 2021 121 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • GT, Salon Polska, bezwypadkowy, FV23%]]></title>
@@ -151,6 +151,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
         <updated>2024-05-14T17:33:04.406Z</updated>
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack1 598 cm3 • 181 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
+        <updated>2024-06-05T05:34:56.283Z</updated>
+        <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 115 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM • Audi Q5 Premium 45 2021]]></title>

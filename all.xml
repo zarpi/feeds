@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T17:33:15.483Z</updated>
+    <updated>2024-06-05T05:35:30.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Allure Pack S&S 1.6 PureTech 180KM EAT8 FV23% Serwis ASO I wł (Otomoto)]]></title>
@@ -86,7 +86,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-automatbezwypadkowysalon-polskaallure67000kmvat23-ID6GrcgJ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-automatbezwypadkowysalon-polskaallure67000kmvat23-ID6GrcgJ.html"/>
         <updated>2024-05-18T17:32:43.032Z</updated>
-        <content type="html"><![CDATA[67 000 km Benzyna Automatyczna 2021 123 900]]></content>
+        <content type="html"><![CDATA[67 000 km Benzyna Automatyczna 2021 121 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • GT, Salon Polska, bezwypadkowy, FV23% (Otomoto)]]></title>
@@ -150,6 +150,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
         <updated>2024-05-14T17:33:04.406Z</updated>
         <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack1 598 cm3 • 181 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
+        <updated>2024-06-05T05:34:56.283Z</updated>
+        <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 115 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM • Audi Q5 Premium 45 2021 (Otomoto)]]></title>
@@ -744,6 +751,6 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   K8SCI/CDDocker]]></content>
+        <content type="html"><![CDATA[   CloudIaCCI/CD]]></content>
     </entry>
 </feed>
