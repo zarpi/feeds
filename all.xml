@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-05T17:33:33.897Z</updated>
+    <updated>2024-06-06T05:34:52.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Allure Pack S&S 1.6 PureTech 180KM EAT8 FV23% Serwis ASO I wł (Otomoto)]]></title>
@@ -464,7 +464,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wlasciciel-serwisowany-faktura-vat-ID6GtvVZ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wlasciciel-serwisowany-faktura-vat-ID6GtvVZ.html"/>
         <updated>2024-05-28T05:33:08.363Z</updated>
-        <content type="html"><![CDATA[128 000 km Benzyna Manualna 2020 97 000]]></content>
+        <content type="html"><![CDATA[128 000 km Benzyna Manualna 2020 93 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 190 KM • FV23 2.0 T4 Automat Momentum Klima Tempomat Navi Asystenci Kamera LED (Otomoto)]]></title>
@@ -758,6 +758,6 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   CI/CDK8SIaC]]></content>
+        <content type="html"><![CDATA[   TerraformK8S]]></content>
     </entry>
 </feed>
