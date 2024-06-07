@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-06-07T05:35:02.326Z</updated>
+    <updated>2024-06-07T17:33:47.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[FinOps Cloud Specialist]]></title>
-        <id>https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote"/>
-        <updated>2024-06-06T17:34:08.355Z</updated>
-        <content type="html"><![CDATA[ 24 500  – 30 000  PLN ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
         <updated>2024-05-23T05:34:51.324Z</updated>
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinOps Cloud Specialist]]></title>
+        <id>https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote"/>
+        <updated>2024-06-06T17:34:08.355Z</updated>
+        <content type="html"><![CDATA[ 24 500  – 30 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
@@ -41,6 +41,34 @@
         <content type="html"><![CDATA[ 23 520  – 31 920  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevOps Azure Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-azure-engineer-avenga-remote-phbz1qfm</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-azure-engineer-avenga-remote-phbz1qfm"/>
+        <updated>2024-05-28T17:34:10.198Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte"/>
+        <updated>2024-06-06T17:34:08.407Z</updated>
+        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Solution Architect (GCP)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo"/>
+        <updated>2024-06-06T17:34:08.402Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 25 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
+        <updated>2024-05-31T17:34:01.216Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Senior MLOps Engineer]]></title>
         <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n</id>
         <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-hubquest-remote-cem1wl0n"/>
@@ -62,11 +90,11 @@
         <content type="html"><![CDATA[ 7 500  – 8 000  USD ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
-        <updated>2024-05-31T17:34:01.216Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+        <title type="html"><![CDATA[Infrastructure and DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod</id>
+        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod"/>
+        <updated>2024-05-23T05:34:51.351Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Integration Services Expert Engineer]]></title>
@@ -83,39 +111,18 @@
         <content type="html"><![CDATA[ 26 040  – 29 400  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Solution Architect (GCP)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-solution-architect-gcp-link-group-gdynia-undb6izo"/>
-        <updated>2024-06-06T17:34:08.402Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 25 000  PLN ]]></content>
+        <title type="html"><![CDATA[Platform Engineer - Remote]]></title>
+        <id>https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391</id>
+        <link href="https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391"/>
+        <updated>2024-06-06T17:34:08.411Z</updated>
+        <content type="html"><![CDATA[ 30 240  – 35 280  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infrastructure and DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod</id>
-        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod"/>
-        <updated>2024-05-23T05:34:51.351Z</updated>
+        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i</id>
+        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i"/>
+        <updated>2024-06-07T17:33:34.037Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Azure Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-azure-engineer-avenga-remote-phbz1qfm</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-azure-engineer-avenga-remote-phbz1qfm"/>
-        <updated>2024-05-28T17:34:10.198Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte"/>
-        <updated>2024-06-06T17:34:08.407Z</updated>
-        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior SRE Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-sre-engineer-kingfisher-plc-remote-jpp9q7qq</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-sre-engineer-kingfisher-plc-remote-jpp9q7qq"/>
-        <updated>2024-06-04T17:33:04.369Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infrastructure and DevOps Engineer]]></title>
@@ -123,13 +130,6 @@
         <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-shswk7nm"/>
         <updated>2024-06-05T17:33:21.073Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer - Remote]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-remote-7n-j6rab391"/>
-        <updated>2024-06-06T17:34:08.411Z</updated>
-        <content type="html"><![CDATA[ 30 240  – 35 280  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Site Reliability Engineer]]></title>
