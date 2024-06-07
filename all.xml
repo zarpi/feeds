@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-06T17:34:23.360Z</updated>
+    <updated>2024-06-07T05:35:02.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Allure Pack S&S 1.6 PureTech 180KM EAT8 FV23% Serwis ASO I wł (Otomoto)]]></title>
@@ -362,13 +362,6 @@
         <content type="html"><![CDATA[15 536 km Benzyna Automatyczna 2022 109 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic1 984 cm3 • 204 KM • Premium Plus, auto w drodze (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-auto-w-drodze-ID6GpxsE.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-auto-w-drodze-ID6GpxsE.html"/>
-        <updated>2024-05-11T05:33:03.623Z</updated>
-        <content type="html"><![CDATA[61 778 km Benzyna Automatyczna 2021 89 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic1 984 cm3 • 265 KM • Samochód w Polsce! Premium Plus / Quattro / Wysokie wyposażenie (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-samochod-w-polsce-premium-plus-quattro-wysokie-wyposazenie-ID6Gpt3U.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-samochod-w-polsce-premium-plus-quattro-wysokie-wyposazenie-ID6Gpt3U.html"/>
@@ -381,6 +374,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GoDo3.html"/>
         <updated>2024-05-11T05:33:03.635Z</updated>
         <content type="html"><![CDATA[54 783 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Piękne Matrix S-line Virtual Cockpit radary (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html"/>
+        <updated>2024-06-07T05:34:40.583Z</updated>
+        <content type="html"><![CDATA[118 000 km Benzyna Automatyczna 2020 119 925]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • 2021r. XC40 T3 163KM MOMENTUM Salon Polska DW9MK77 (Otomoto)]]></title>
@@ -751,6 +751,6 @@
         <id>https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops</id>
         <link href="https://justjoin.it/offers/in-team-cloud-developer-consultant-warszawa-devops"/>
         <updated>2024-05-17T17:33:25.205Z</updated>
-        <content type="html"><![CDATA[   DockerCloudIaC]]></content>
+        <content type="html"><![CDATA[   CI/CDTerraform]]></content>
     </entry>
 </feed>

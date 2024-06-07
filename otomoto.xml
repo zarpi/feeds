@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-06T17:34:23.355Z</updated>
+    <updated>2024-06-07T05:35:02.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -363,13 +363,6 @@
         <content type="html"><![CDATA[15 536 km Benzyna Automatyczna 2022 109 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic1 984 cm3 • 204 KM • Premium Plus, auto w drodze]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-auto-w-drodze-ID6GpxsE.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-premium-plus-auto-w-drodze-ID6GpxsE.html"/>
-        <updated>2024-05-11T05:33:03.623Z</updated>
-        <content type="html"><![CDATA[61 778 km Benzyna Automatyczna 2021 89 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic1 984 cm3 • 265 KM • Samochód w Polsce! Premium Plus / Quattro / Wysokie wyposażenie]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-samochod-w-polsce-premium-plus-quattro-wysokie-wyposazenie-ID6Gpt3U.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-samochod-w-polsce-premium-plus-quattro-wysokie-wyposazenie-ID6Gpt3U.html"/>
@@ -382,6 +375,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GoDo3.html"/>
         <updated>2024-05-11T05:33:03.635Z</updated>
         <content type="html"><![CDATA[54 783 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Piękne Matrix S-line Virtual Cockpit radary]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html"/>
+        <updated>2024-06-07T05:34:40.583Z</updated>
+        <content type="html"><![CDATA[118 000 km Benzyna Automatyczna 2020 119 925]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • 2021r. XC40 T3 163KM MOMENTUM Salon Polska DW9MK77]]></title>
