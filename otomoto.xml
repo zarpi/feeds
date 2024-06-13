@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-13T05:35:13.971Z</updated>
+    <updated>2024-06-13T17:33:37.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • Peugeot 3008GT]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008gt-ID6Gv0Ot.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008gt-ID6Gv0Ot.html"/>
+        <updated>2024-06-13T17:33:14.121Z</updated>
+        <content type="html"><![CDATA[33 000 km Benzyna Automatyczna 2020 127 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • Nowy model GT LINE Automat Puretech 180 KM]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-nowy-model-gt-line-automat-puretech-180-km-ID6GwPm1.html</id>
@@ -66,7 +73,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-1-6-puretech-gt-line-s-s-eat8-ID6GtBTW.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-1-6-puretech-gt-line-s-s-eat8-ID6GtBTW.html"/>
         <updated>2024-05-28T17:33:54.837Z</updated>
-        <content type="html"><![CDATA[91 268 km Benzyna Automatyczna 2020 121 900]]></content>
+        <content type="html"><![CDATA[91 268 km Benzyna Automatyczna 2020 110 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • Gwarancja Peugeot Krajowy Serwis ASO]]></title>
@@ -139,18 +146,25 @@
         <content type="html"><![CDATA[42 000 km Benzyna Automatyczna 2020 82 999]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • 1.6/180Km 2021r 22Tyś Km Gt-Line Automat Kamera AppleCarPlay]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-180km-2021r-22tys-km-gt-line-automat-kamera-applecarplay-ID6G9zZj.html"/>
-        <updated>2024-05-14T17:33:04.406Z</updated>
-        <content type="html"><![CDATA[22 702 km Benzyna Automatyczna 2021 104 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack1 598 cm3 • 181 KM]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
         <updated>2024-06-05T05:34:56.283Z</updated>
         <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 115 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • Audi Q5 Premium 45 TFSI quattro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-45-tfsi-quattro-ID6Gv2bp.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-45-tfsi-quattro-ID6Gv2bp.html"/>
+        <updated>2024-06-13T17:33:18.188Z</updated>
+        <content type="html"><![CDATA[51 192 km Benzyna Automatyczna 2021 105 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line1 984 cm3 • 265 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GwXQ5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GwXQ5.html"/>
+        <updated>2024-06-13T17:33:18.190Z</updated>
+        <content type="html"><![CDATA[21 232 km Benzyna Automatyczna 2023 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • AUDI Q5 2.0 TFSI 252KM Quattro Aut. Premium Plus Virtual Cokpit KAM360]]></title>
@@ -165,6 +179,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GwQKb.html"/>
         <updated>2024-06-12T17:33:25.404Z</updated>
         <content type="html"><![CDATA[77 524 km Benzyna Automatyczna 2021 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 245 KM • quattro 2022 Lift! 252 km]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2022-lift-252-km-ID6GwH9b.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2022-lift-252-km-ID6GwH9b.html"/>
+        <updated>2024-06-13T17:33:18.190Z</updated>
+        <content type="html"><![CDATA[58 670 km Benzyna Automatyczna 2022 124 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM • 45 2.0 TFSI 2022 Sportback]]></title>
@@ -300,11 +321,11 @@
         <content type="html"><![CDATA[113 200 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S Line S tronic1 984 cm3 • 265 KM • Piękny Środek,Niski Przebieg,Bogata wersja s-line]]></title>
+        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Piękny Środek,Niski Przebieg,Bogata wersja s-line]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-piekny-srodek-niski-przebieg-bogata-wersja-s-line-ID6GqWY0.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-piekny-srodek-niski-przebieg-bogata-wersja-s-line-ID6GqWY0.html"/>
         <updated>2024-06-10T17:33:27.510Z</updated>
-        <content type="html"><![CDATA[16 632 km Benzyna Automatyczna 2023 99 500]]></content>
+        <content type="html"><![CDATA[16 632 km Benzyna Automatyczna 2023 86 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • Audi A4 Avant I właściel, jak nowe, cesja, fVAT, gwarancja do 01.2026]]></title>
@@ -339,7 +360,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-mhev-s-tronic-faktura-vat-23-40tys-km-ID6GmqLn.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-mhev-s-tronic-faktura-vat-23-40tys-km-ID6GmqLn.html"/>
         <updated>2024-06-10T17:33:27.523Z</updated>
-        <content type="html"><![CDATA[41 800 km Benzyna Automatyczna 2020 126 567]]></content>
+        <content type="html"><![CDATA[41 800 km Benzyna Automatyczna 2020 116 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM]]></title>
@@ -349,32 +370,11 @@
         <content type="html"><![CDATA[36 000 km Benzyna Automatyczna 2021 130 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-kombi-avant-80tys-przebiegu-s-tronic-i-wlasciciel-fv23-ID6Glmmc.html"/>
-        <updated>2024-06-10T17:33:27.531Z</updated>
-        <content type="html"><![CDATA[80 292 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic1 984 cm3 • 252 KM • 2.0B-252PS,Automat,4x4,skóra,nawi+kamera,xenon,idealny]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0b-252ps-automat-4x4-skora-nawi-kamera-xenon-idealny-ID6GeYNW.html"/>
-        <updated>2024-06-10T17:33:27.533Z</updated>
-        <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2020 124 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • matrix, 300KM, bogate wyposażenie]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-matrix-300km-bogate-wyposazenie-ID6GdvPK.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-matrix-300km-bogate-wyposazenie-ID6GdvPK.html"/>
-        <updated>2024-06-11T17:34:47.130Z</updated>
-        <content type="html"><![CDATA[53 000 km Benzyna Automatyczna 2020 122 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 204 KM • AUDI Q5 40 TFSI mHEV Quatro S-Tronic 204KM Salon Polska 23% VAT]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-40-tfsi-mhev-quatro-s-tronic-204km-salon-polska-23-vat-ID6Gd8KR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-40-tfsi-mhev-quatro-s-tronic-204km-salon-polska-23-vat-ID6Gd8KR.html"/>
-        <updated>2024-06-12T05:34:37.132Z</updated>
-        <content type="html"><![CDATA[4 000 km Benzyna Automatyczna 2023 105 000]]></content>
+        <title type="html"><![CDATA[Audi A41 984 cm3 • 204 KM • Salon PL, Bezwypadkowy, Serwis ASO, F-VAT, Gwarancja]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-pl-bezwypadkowy-serwis-aso-f-vat-gwarancja-ID6GlygJ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-pl-bezwypadkowy-serwis-aso-f-vat-gwarancja-ID6GlygJ.html"/>
+        <updated>2024-06-13T17:33:18.244Z</updated>
+        <content type="html"><![CDATA[90 392 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 163 KM • Momentum Pro B3 Keyless*Lightning*Kamera*VolvoSelekt]]></title>
@@ -444,7 +444,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-panorama-vat-23-ID6Gwepd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-panorama-vat-23-ID6Gwepd.html"/>
         <updated>2024-06-10T17:33:31.414Z</updated>
-        <content type="html"><![CDATA[109 100 km Benzyna Automatyczna 2020 129 800]]></content>
+        <content type="html"><![CDATA[109 100 km Benzyna Automatyczna 2020 126 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design1 969 cm3 • 247 KM • T5 248KM 4x4 r-design super wersja niski przebieg]]></title>
