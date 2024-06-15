@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-15T05:34:38.271Z</updated>
+    <updated>2024-06-15T17:33:28.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 SW PureTech 225 EAT8 GT1 598 cm3 • 225 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6Gvj4w.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6Gvj4w.html"/>
+        <updated>2024-06-15T17:33:00.964Z</updated>
+        <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2020 118 080]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • Pakiet BLACK, Salon Polska, 1 właściciel, bezwypadkowy, ASO 2024, oryg]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-pakiet-black-salon-polska-1-wlasciciel-bezwypadkowy-aso-2024-oryg-ID6Gvgoj.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-pakiet-black-salon-polska-1-wlasciciel-bezwypadkowy-aso-2024-oryg-ID6Gvgoj.html"/>
         <updated>2024-06-14T17:36:06.020Z</updated>
-        <content type="html"><![CDATA[119 900 km Benzyna Automatyczna 2021 107 899]]></content>
+        <content type="html"><![CDATA[119 900 km Benzyna Automatyczna 2021 104 899]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • Peugeot 3008GT]]></title>
@@ -153,6 +160,13 @@
         <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 115 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • LICYTACJE w usa i kanadzie]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-licytacje-w-usa-i-kanadzie-ID6Gvj4s.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-licytacje-w-usa-i-kanadzie-ID6Gvj4s.html"/>
+        <updated>2024-06-15T17:33:05.685Z</updated>
+        <content type="html"><![CDATA[9 082 km Benzyna Automatyczna 2023 109 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q51 998 cm3 • 261 KM • Quattro S-line Virtual Prestige]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-s-line-virtual-prestige-ID6GvgKL.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-s-line-virtual-prestige-ID6GvgKL.html"/>
@@ -165,6 +179,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-premium-plus-2022-s-line-ID6GvbPD.html"/>
         <updated>2024-06-14T17:36:10.367Z</updated>
         <content type="html"><![CDATA[14 392 km Benzyna Automatyczna 2023 114 860]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 40 TFSI S tronic1 984 cm3 • 190 KM • Audi A4 avant]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-ID6Gv45a.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-avant-ID6Gv45a.html"/>
+        <updated>2024-06-15T17:33:05.699Z</updated>
+        <content type="html"><![CDATA[38 500 km Benzyna Automatyczna 2020 129 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • Audi Q5 Premium 45 TFSI quattro]]></title>
@@ -335,11 +356,11 @@
         <content type="html"><![CDATA[113 200 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Piękny Środek,Niski Przebieg,Bogata wersja s-line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-piekny-srodek-niski-przebieg-bogata-wersja-s-line-ID6GqWY0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-piekny-srodek-niski-przebieg-bogata-wersja-s-line-ID6GqWY0.html"/>
-        <updated>2024-06-10T17:33:27.510Z</updated>
-        <content type="html"><![CDATA[16 632 km Benzyna Automatyczna 2023 86 500]]></content>
+        <title type="html"><![CDATA[Audi A4 45 TFSI Quattro Sport S tronic1 984 cm3 • 245 KM • S-LINE QUATTRO 245ps matrix oled virtual kamera skóra navi FV23%]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-s-line-quattro-245ps-matrix-oled-virtual-kamera-skora-navi-fv23-ID6GqdB6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-s-line-quattro-245ps-matrix-oled-virtual-kamera-skora-navi-fv23-ID6GqdB6.html"/>
+        <updated>2024-06-15T17:33:05.745Z</updated>
+        <content type="html"><![CDATA[129 000 km Benzyna Automatyczna 2020 119 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI S tronic1 984 cm3 • 150 KM • Salon Polska]]></title>
@@ -363,18 +384,18 @@
         <content type="html"><![CDATA[54 783 km Benzyna Automatyczna 2021 124 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S Line S tronic1 984 cm3 • 150 KM • Piękne Matrix S-line Virtual Cockpit radary]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-piekne-matrix-s-line-virtual-cockpit-radary-ID6GmLj3.html"/>
-        <updated>2024-06-10T17:33:27.521Z</updated>
-        <content type="html"><![CDATA[118 000 km Benzyna Automatyczna 2020 119 925]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-t3-163km-salon-polska-aso-1wl-fv23-ID6Gvjs2.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-t3-163km-salon-polska-aso-1wl-fv23-ID6Gvjs2.html"/>
+        <updated>2024-06-15T17:33:10.182Z</updated>
+        <content type="html"><![CDATA[40 824 km Benzyna Manualna 2021 109 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI mHEV S tronic1 984 cm3 • 150 KM • 35 TFSI mHEV S TRONIC, faktura VAT 23%, 40tyś km]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-mhev-s-tronic-faktura-vat-23-40tys-km-ID6GmqLn.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-mhev-s-tronic-faktura-vat-23-40tys-km-ID6GmqLn.html"/>
-        <updated>2024-06-10T17:33:27.523Z</updated>
-        <content type="html"><![CDATA[41 800 km Benzyna Automatyczna 2020 116 850]]></content>
+        <title type="html"><![CDATA[Volvo V601 969 cm3 • 163 KM • Volvo V60 B3 B Momentum Core aut Kamera Salonpl Vat23]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-b3-b-momentum-core-aut-kamera-salonpl-vat23-ID6GviBv.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-b3-b-momentum-core-aut-kamera-salonpl-vat23-ID6GviBv.html"/>
+        <updated>2024-06-15T17:33:10.183Z</updated>
+        <content type="html"><![CDATA[50 527 km Benzyna Automatyczna 2021 115 899]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • XC40 Momentum Core, tempomat, kamera, FV23%,]]></title>
@@ -585,19 +606,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwypadkowy-kamera-fv23-ID6Gt3tg.html"/>
         <updated>2024-06-10T17:33:31.440Z</updated>
         <content type="html"><![CDATA[75 708 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GsYiW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GsYiW.html"/>
-        <updated>2024-06-10T17:33:31.441Z</updated>
-        <content type="html"><![CDATA[43 500 km Benzyna Automatyczna 2021 128 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 247 KM • XC40 B5 AWD Ultimate Bright Theme 4x4 automat benzyna]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-b5-awd-ultimate-bright-theme-4x4-automat-benzyna-ID6GsVwQ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-b5-awd-ultimate-bright-theme-4x4-automat-benzyna-ID6GsVwQ.html"/>
-        <updated>2024-06-10T17:33:31.442Z</updated>
-        <content type="html"><![CDATA[10 406 km Benzyna Automatyczna 2023 86 000]]></content>
     </entry>
 </feed>
