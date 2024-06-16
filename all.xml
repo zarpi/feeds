@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-16T05:35:29.422Z</updated>
+    <updated>2024-06-16T17:33:34.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 225 EAT8 GT1 598 cm3 • 225 KM (Otomoto)]]></title>
@@ -205,7 +205,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2-0-tfsi-252km-quattro-aut-premium-plus-virtual-cokpit-kam360-ID6GwV3q.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2-0-tfsi-252km-quattro-aut-premium-plus-virtual-cokpit-kam360-ID6GwV3q.html"/>
         <updated>2024-06-13T05:34:49.287Z</updated>
-        <content type="html"><![CDATA[55 450 km Benzyna Automatyczna 2020 129 900]]></content>
+        <content type="html"><![CDATA[55 450 km Benzyna Automatyczna 2020 127 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 204 KM (Otomoto)]]></title>
@@ -381,6 +381,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GoDo3.html"/>
         <updated>2024-06-10T17:33:27.520Z</updated>
         <content type="html"><![CDATA[54 783 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum Pro1 969 cm3 • 197 KM • Lift 21r V90 B4 benzyna mild hybrid 197KM 48tys km panorama kam 360 HK (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-lift-21r-v90-b4-benzyna-mild-hybrid-197km-48tys-km-panorama-kam-360-hk-ID6GvmmB.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-lift-21r-v90-b4-benzyna-mild-hybrid-197km-48tys-km-panorama-kam-360-hk-ID6GvmmB.html"/>
+        <updated>2024-06-16T17:33:15.165Z</updated>
+        <content type="html"><![CDATA[48 500 km Benzyna Automatyczna 2021 93 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
@@ -600,13 +607,6 @@
         <content type="html"><![CDATA[112 000 km Benzyna Automatyczna 2021 109 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B4 B DKG Momentum Pro1 969 cm3 • 197 KM • Bezwypadkowy kamera fv23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwypadkowy-kamera-fv23-ID6Gt3tg.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwypadkowy-kamera-fv23-ID6Gt3tg.html"/>
-        <updated>2024-06-10T17:33:31.440Z</updated>
-        <content type="html"><![CDATA[75 708 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-stretto-remote-1</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-stretto-remote-1"/>
@@ -628,18 +628,18 @@
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mid/Senior Python Engineer with Ansible (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/mid-senior-python-engineer-with-ansible-codilime-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/mid-senior-python-engineer-with-ansible-codilime-remote"/>
-        <updated>2024-06-10T17:33:39.076Z</updated>
-        <content type="html"><![CDATA[ 16 500  – 25 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atlassian System Administrator (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote</id>
         <link href="https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote"/>
         <updated>2024-06-13T17:33:28.807Z</updated>
         <content type="html"><![CDATA[ 11 000  – 18 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid/Senior Python Engineer with Ansible (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/mid-senior-python-engineer-with-ansible-codilime-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/mid-senior-python-engineer-with-ansible-codilime-remote"/>
+        <updated>2024-06-10T17:33:39.076Z</updated>
+        <content type="html"><![CDATA[ 16 500  – 25 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -691,11 +691,11 @@
         <content type="html"><![CDATA[ 20 160  – 22 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (Golang + Kubernetes) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-golang-kubernetes-itds-warszawa-7zuafcpv</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-golang-kubernetes-itds-warszawa-7zuafcpv"/>
-        <updated>2024-06-14T17:36:21.749Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 33 600  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte"/>
+        <updated>2024-06-15T17:33:16.541Z</updated>
+        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
@@ -720,10 +720,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-codify-remote-slafkgky</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-codify-remote-slafkgky"/>
-        <updated>2024-06-15T17:33:16.538Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-sni-remote-qbbslltx</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-sni-remote-qbbslltx"/>
+        <updated>2024-06-16T17:33:21.030Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 36 960  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT Team Leader (NoFluffJobs)]]></title>
@@ -733,17 +733,17 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-boldare-remote-tnj0ktte"/>
-        <updated>2024-06-15T17:33:16.541Z</updated>
-        <content type="html"><![CDATA[ 18 000  – 26 000  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea"/>
+        <updated>2024-06-16T17:33:21.032Z</updated>
+        <content type="html"><![CDATA[ 15 750  – 25 200  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infrastructure and DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod</id>
-        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-yykvmgod"/>
-        <updated>2024-06-15T17:33:16.543Z</updated>
+        <id>https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i</id>
+        <link href="https://nofluffjobs.com/pl/job/infrastructure-and-devops-engineer-intel-corporation-gdansk-vjkkdj4i"/>
+        <updated>2024-06-16T17:33:21.034Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
 </feed>
