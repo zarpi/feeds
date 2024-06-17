@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-16T17:33:34.918Z</updated>
+    <updated>2024-06-17T05:37:50.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 225 EAT8 GT1 598 cm3 • 225 KM (Otomoto)]]></title>
@@ -383,6 +383,13 @@
         <content type="html"><![CDATA[54 783 km Benzyna Automatyczna 2021 124 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • SALON/ FV23%/ Gwarancja Serwisowa/ 94 227 NETTO (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-fv23-gwarancja-serwisowa-94227-netto-ID6GvoON.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-fv23-gwarancja-serwisowa-94227-netto-ID6GvoON.html"/>
+        <updated>2024-06-17T05:37:33.529Z</updated>
+        <content type="html"><![CDATA[89 068 km Benzyna Automatyczna 2020 115 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum Pro1 969 cm3 • 197 KM • Lift 21r V90 B4 benzyna mild hybrid 197KM 48tys km panorama kam 360 HK (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-lift-21r-v90-b4-benzyna-mild-hybrid-197km-48tys-km-panorama-kam-360-hk-ID6GvmmB.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-lift-21r-v90-b4-benzyna-mild-hybrid-197km-48tys-km-panorama-kam-360-hk-ID6GvmmB.html"/>
@@ -591,13 +598,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-2-0-t4-automat-momentum-klima-tempomat-navi-asystenci-kamera-led-ID6Gtn7l.html"/>
         <updated>2024-06-10T17:33:31.431Z</updated>
         <content type="html"><![CDATA[81 431 km Benzyna Automatyczna 2020 116 600]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 197 KM • Sprowadzone##52.oookm##4x4## (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprowadzone-52-oookm-4x4-ID6GthkF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprowadzone-52-oookm-4x4-ID6GthkF.html"/>
-        <updated>2024-06-10T17:33:31.438Z</updated>
-        <content type="html"><![CDATA[52 000 km Benzyna Automatyczna 2020 80 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • T3 Momentum aut ! Z Polskiego Salonu ! Faktura Vat ! (Otomoto)]]></title>
