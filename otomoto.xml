@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-23T05:33:25.676Z</updated>
+    <updated>2024-06-23T17:33:24.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -377,11 +377,18 @@
         <content type="html"><![CDATA[56 538 km Benzyna Automatyczna 2021 127 700]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q52 000 cm3 • 261 KM • 2022 AUDI Q5 PREMIUM PLUS, silnik 2.0, 4*4, od ubezpieczyciela]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-audi-q5-premium-plus-silnik-2-0-44-od-ubezpieczyciela-ID6GsTmR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2022-audi-q5-premium-plus-silnik-2-0-44-od-ubezpieczyciela-ID6GsTmR.html"/>
-        <updated>2024-06-10T17:33:27.500Z</updated>
-        <content type="html"><![CDATA[15 236 km Benzyna Automatyczna 2022 119 000]]></content>
+        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic1 984 cm3 • 150 KM • Avant 35 TFSI S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-s-tronic-ID6GsQAA.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-35-tfsi-s-tronic-ID6GsQAA.html"/>
+        <updated>2024-06-23T17:33:00.735Z</updated>
+        <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2020 120 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V601 969 cm3 • 250 KM • 2.0 L / AWD / Zaufany importer aut z USA!]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-2-0-l-awd-zaufany-importer-aut-z-usa-ID6GxluU.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-2-0-l-awd-zaufany-importer-aut-z-usa-ID6GxluU.html"/>
+        <updated>2024-06-23T17:33:04.664Z</updated>
+        <content type="html"><![CDATA[19 066 km Benzyna Automatyczna 2021 86 960]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T4 Inscription1 969 cm3 • 190 KM • Salon Polska Volvo XC60 ASO Navi ALU 210KM Polestar]]></title>
@@ -599,12 +606,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-rdesign-kamery360-skora-navi-hud-keyless-el-klapa-alu18-led-full-ID6Gwmeq.html"/>
         <updated>2024-06-20T05:33:27.968Z</updated>
         <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 108 800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design1 969 cm3 • 247 KM • T5 248KM 4x4 r-design super wersja niski przebieg]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t5-248km-4x4-r-design-super-wersja-niskiprzebieg-ID6Gw7IN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t5-248km-4x4-r-design-super-wersja-niskiprzebieg-ID6Gw7IN.html"/>
-        <updated>2024-06-20T05:33:27.977Z</updated>
-        <content type="html"><![CDATA[35 803 km Benzyna Automatyczna 2022 85 000]]></content>
     </entry>
 </feed>
