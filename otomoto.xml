@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-06-23T17:33:24.413Z</updated>
+    <updated>2024-06-24T05:34:31.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-panorama-2021r-automat-fv23-martwe-pole-kamera-360-gwa-ID6Gx6aC.html"/>
         <updated>2024-06-21T17:34:17.324Z</updated>
         <content type="html"><![CDATA[86 236 km Benzyna Automatyczna 2021 109 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Rezerwacja]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-rezerwacja-ID6GvNmm.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-rezerwacja-ID6GvNmm.html"/>
+        <updated>2024-06-24T05:34:03.967Z</updated>
+        <content type="html"><![CDATA[103 300 km Benzyna Automatyczna 2020 89 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • GT focal SKORA nawi FUL LED kamery masaze sam parkuje ACC blis FOCAL]]></title>
@@ -384,6 +391,13 @@
         <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2020 120 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • Śliczne, bezpieczne i łagodnie używane Volvo XC40 T3 Momentum]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sliczne-bezpieczne-i-lagodnie-uzywane-volvo-xc40-t3-momentum-ID6Gxmcl.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sliczne-bezpieczne-i-lagodnie-uzywane-volvo-xc40-t3-momentum-ID6Gxmcl.html"/>
+        <updated>2024-06-24T05:34:13.742Z</updated>
+        <content type="html"><![CDATA[48 500 km Benzyna Manualna 2020 119 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 250 KM • 2.0 L / AWD / Zaufany importer aut z USA!]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-2-0-l-awd-zaufany-importer-aut-z-usa-ID6GxluU.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-2-0-l-awd-zaufany-importer-aut-z-usa-ID6GxluU.html"/>
@@ -599,12 +613,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-benzyna-vat23-100-oryginal-ID6Gws8X.html"/>
         <updated>2024-06-20T05:33:27.966Z</updated>
         <content type="html"><![CDATA[122 000 km Benzyna Automatyczna 2020 92 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 T4 Geartronic R-Design1 969 cm3 • 190 KM • RDESIGN Kamery360 Skóra Navi HUD KeyLess EL.Klapa Alu18 Led FULL]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-rdesign-kamery360-skora-navi-hud-keyless-el-klapa-alu18-led-full-ID6Gwmeq.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-rdesign-kamery360-skora-navi-hud-keyless-el-klapa-alu18-led-full-ID6Gwmeq.html"/>
-        <updated>2024-06-20T05:33:27.968Z</updated>
-        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 108 800]]></content>
     </entry>
 </feed>
