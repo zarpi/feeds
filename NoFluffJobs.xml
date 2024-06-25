@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-06-24T17:33:50.675Z</updated>
+    <updated>2024-06-25T05:34:09.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote"/>
+        <updated>2024-06-24T17:33:37.215Z</updated>
+        <content type="html"><![CDATA[ 15 120  – 23 000  PLN ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FinOps Cloud Specialist]]></title>
         <id>https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote</id>
@@ -25,13 +32,6 @@
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-stretto-remote-1"/>
         <updated>2024-06-11T17:34:56.831Z</updated>
         <content type="html"><![CDATA[ 17 136  – 21 504  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote"/>
-        <updated>2024-06-24T17:33:37.215Z</updated>
-        <content type="html"><![CDATA[ 15 120  – 23 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mid/Senior Python Engineer with Ansible]]></title>
