@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-07-05T05:34:29.412Z</updated>
+    <updated>2024-07-05T17:34:36.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
+        <updated>2024-05-23T05:34:51.324Z</updated>
+        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-stretto-remote-1</id>
@@ -18,13 +25,6 @@
         <link href="https://nofluffjobs.com/pl/job/finops-cloud-specialist-prime-engineering-remote"/>
         <updated>2024-06-06T17:34:08.355Z</updated>
         <content type="html"><![CDATA[ 24 500  – 30 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
-        <updated>2024-05-23T05:34:51.324Z</updated>
-        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mid/Senior Python Engineer with Ansible]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lead MLOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/lead-mlops-engineer-hubquest-remote-cj4xlzmm</id>
-        <link href="https://nofluffjobs.com/pl/job/lead-mlops-engineer-hubquest-remote-cj4xlzmm"/>
-        <updated>2024-06-24T17:33:37.223Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 37 000  PLN ]]></content>
+        <title type="html"><![CDATA[T Hub - Mobile Connect DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/t-hub-mobile-connect-devops-engineer-t-mobile-polska-remote-nyqc8uku</id>
+        <link href="https://nofluffjobs.com/pl/job/t-hub-mobile-connect-devops-engineer-t-mobile-polska-remote-nyqc8uku"/>
+        <updated>2024-06-28T17:33:37.772Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior SRE/DevOps Engineer - Remote]]></title>
@@ -97,25 +97,25 @@
         <content type="html"><![CDATA[ 25 200  – 28 560  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-xfjrramz</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-xfjrramz"/>
+        <updated>2024-06-25T17:33:11.265Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lead MLOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/lead-mlops-engineer-hubquest-remote-cj4xlzmm</id>
+        <link href="https://nofluffjobs.com/pl/job/lead-mlops-engineer-hubquest-remote-cj4xlzmm"/>
+        <updated>2024-06-24T17:33:37.223Z</updated>
+        <content type="html"><![CDATA[ 30 000  – 37 000  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Dev Engineer - IT Department]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-dev-engineer-it-department-t-mobile-polska-remote-qboytxml</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-dev-engineer-it-department-t-mobile-polska-remote-qboytxml"/>
         <updated>2024-07-01T05:34:49.936Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T Hub - Mobile Connect DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/t-hub-mobile-connect-devops-engineer-t-mobile-polska-remote-nyqc8uku</id>
-        <link href="https://nofluffjobs.com/pl/job/t-hub-mobile-connect-devops-engineer-t-mobile-polska-remote-nyqc8uku"/>
-        <updated>2024-06-28T17:33:37.772Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-proxet-remote-mf4nyau8</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-proxet-remote-mf4nyau8"/>
-        <updated>2024-07-05T05:34:13.566Z</updated>
-        <content type="html"><![CDATA[ 7 000  – 9 000  USD ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Network Development Engineer - Remote]]></title>
@@ -125,11 +125,11 @@
         <content type="html"><![CDATA[ 20 160  – 22 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o"/>
-        <updated>2024-07-05T05:34:13.568Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea"/>
+        <updated>2024-07-05T17:34:25.728Z</updated>
+        <content type="html"><![CDATA[ 21 000  – 31 500  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-xfjrramz</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-xfjrramz"/>
-        <updated>2024-06-25T17:33:11.265Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer (SRE)]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-sre-b2b-soft-remote-1bd30y9y</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-sre-b2b-soft-remote-1bd30y9y"/>
+        <updated>2024-07-05T17:34:25.732Z</updated>
+        <content type="html"><![CDATA[ 3 500  – 4 000  USD ]]></content>
     </entry>
 </feed>
