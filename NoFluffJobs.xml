@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-07-07T05:35:44.409Z</updated>
+    <updated>2024-07-07T17:33:35.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[ 17 136  – 21 504  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Atlassian System Administrator]]></title>
+        <id>https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote"/>
+        <updated>2024-06-13T17:33:28.807Z</updated>
+        <content type="html"><![CDATA[ 11 000  – 18 000  PLN ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-aspire-systems-poland-remote"/>
@@ -32,13 +39,6 @@
         <link href="https://nofluffjobs.com/pl/job/mid-senior-python-engineer-with-ansible-codilime-remote"/>
         <updated>2024-06-10T17:33:39.076Z</updated>
         <content type="html"><![CDATA[ 16 500  – 25 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian System Administrator]]></title>
-        <id>https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/atlassian-system-administrator-deviniti-remote"/>
-        <updated>2024-06-13T17:33:28.807Z</updated>
-        <content type="html"><![CDATA[ 11 000  – 18 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud DevOps - Remote]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior SRE/DevOps Engineer - Remote]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-sre-devops-engineer-remote-7n-npyinshf</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-sre-devops-engineer-remote-7n-npyinshf"/>
-        <updated>2024-06-21T17:34:32.962Z</updated>
-        <content type="html"><![CDATA[ 28 560  – 31 920  PLN ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o"/>
+        <updated>2024-07-06T17:33:31.453Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[ 20 160  – 22 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-link-group-warszawa-nyx2be3o"/>
-        <updated>2024-07-06T17:33:31.453Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea"/>
+        <updated>2024-07-05T17:34:25.728Z</updated>
+        <content type="html"><![CDATA[ 21 000  – 31 500  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Release Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-release-engineer-alvaria-remote-vsib5kxw</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-release-engineer-alvaria-remote-vsib5kxw"/>
-        <updated>2024-06-13T17:33:28.822Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[Senior SRE/DevOps Engineer - Remote]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-sre-devops-engineer-remote-7n-npyinshf</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-sre-devops-engineer-remote-7n-npyinshf"/>
+        <updated>2024-06-21T17:34:32.962Z</updated>
+        <content type="html"><![CDATA[ 28 560  – 31 920  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[ 13 550  – 19 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Administrator systemów i aplikacji]]></title>
-        <id>https://nofluffjobs.com/pl/job/administrator-systemow-i-aplikacji-finkorp-warszawa-agjrnwbw</id>
-        <link href="https://nofluffjobs.com/pl/job/administrator-systemow-i-aplikacji-finkorp-warszawa-agjrnwbw"/>
-        <updated>2024-07-06T17:33:31.459Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[Linux Administrator]]></title>
+        <id>https://nofluffjobs.com/pl/job/linux-administrator-osrodek-przetwarzania-informacji-panstwowy-instytut-badawczy-warszawa-wswcz1aj</id>
+        <link href="https://nofluffjobs.com/pl/job/linux-administrator-osrodek-przetwarzania-informacji-panstwowy-instytut-badawczy-warszawa-wswcz1aj"/>
+        <updated>2024-07-07T17:33:23.330Z</updated>
+        <content type="html"><![CDATA[ 10 000  – 15 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea</id>
-        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-wipro-it-services-poland-warszawa-wmpolhea"/>
-        <updated>2024-07-05T17:34:25.728Z</updated>
-        <content type="html"><![CDATA[ 21 000  – 31 500  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer w Tribie Aplikacji Biznesowych]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-w-tribie-aplikacji-biznesowych-ing-bank-slaski-spolka-akcyjna-warszawa-kxz4uur7</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-w-tribie-aplikacji-biznesowych-ing-bank-slaski-spolka-akcyjna-warszawa-kxz4uur7"/>
+        <updated>2024-07-07T17:33:23.332Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 19 000  PLN ]]></content>
     </entry>
 </feed>
