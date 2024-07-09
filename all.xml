@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T17:33:37.273Z</updated>
+    <updated>2024-07-09T05:35:07.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • Peugeot 508SW Exclusive Line cc4165 Badlands green (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-exclusive-line-cc4165-badlands-green-ID6GzWGE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-exclusive-line-cc4165-badlands-green-ID6GzWGE.html"/>
+        <updated>2024-07-09T05:34:41.185Z</updated>
+        <content type="html"><![CDATA[60 000 km Benzyna Automatyczna 2021 119 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • GT full led skóra masaze ACC kamera EL.KLAPA nawi blis PANORAMA MAX OP (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-full-led-skora-masaze-acc-kamera-el-klapa-nawi-blis-panorama-max-op-ID6GzTcX.html</id>
@@ -52,13 +59,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-allure-2021r-kamera-przod-tyl-czujniki-asystent-jazdy-ID6GyONX.html"/>
         <updated>2024-07-04T05:34:56.400Z</updated>
         <content type="html"><![CDATA[89 581 km Benzyna Automatyczna 2021 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT Pack S&S EAT81 598 cm3 • 180 KM • Najbogatsza wersja wyposażenia (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-najbogatsza-wersja-wyposazenia-ID6GyJYS.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-najbogatsza-wersja-wyposazenia-ID6GyJYS.html"/>
-        <updated>2024-07-06T17:33:03.018Z</updated>
-        <content type="html"><![CDATA[44 200 km Benzyna Automatyczna 2021 115 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • 1.6 PT HYbrid Allure EAT8 PHEV 225KM, salonPL, ASO, I wł, panorama, FV (Otomoto)]]></title>
