@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-07-12T05:34:19.091Z</updated>
+    <updated>2024-07-12T17:34:05.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Line S&S EAT81 598 cm3 • 180 KM • 1.6 PureTech 180KM GT LINE AUTOMAT Full LED Kamera PDC 7os. PEŁNY 20r.]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1-6-puretech-180km-gt-line-automat-full-led-kamera-pdc-7os-pelny-20r-ID6GAq6v.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-1-6-puretech-180km-gt-line-automat-full-led-kamera-pdc-7os-pelny-20r-ID6GAq6v.html"/>
-        <updated>2024-07-12T05:33:48.307Z</updated>
-        <content type="html"><![CDATA[119 000 km Benzyna Automatyczna 2020 94 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • 1.6 Benzyna 180KM Serwis FULL LED El. Klapa Serwis]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-benzyna-180km-serwis-full-led-el-klapa-serwis-ID6GAe5X.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-benzyna-180km-serwis-full-led-el-klapa-serwis-ID6GAe5X.html"/>
-        <updated>2024-07-10T17:33:02.916Z</updated>
-        <content type="html"><![CDATA[106 000 km Benzyna Automatyczna 2021 99 999]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • Peugeot 508SW Exclusive Line cc4165 Badlands green]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-exclusive-line-cc4165-badlands-green-ID6GzWGE.html</id>
@@ -90,11 +76,11 @@
         <content type="html"><![CDATA[108 762 km Benzyna Automatyczna 2020 84 700]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% |]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6Gx6aC.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6Gx6aC.html"/>
-        <updated>2024-07-11T17:33:55.437Z</updated>
-        <content type="html"><![CDATA[86 236 km Benzyna Automatyczna 2021 114 900]]></content>
+        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+Panorama, 2021r. | Automat | FV23% | Martwe pole | Kamera 360 | Gwa]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-panorama-2021r-automat-fv23-martwe-pole-kamera-360-gwa-ID6Gx6aC.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-panorama-2021r-automat-fv23-martwe-pole-kamera-360-gwa-ID6Gx6aC.html"/>
+        <updated>2024-07-12T17:33:35.923Z</updated>
+        <content type="html"><![CDATA[86 236 km Benzyna Automatyczna 2021 109 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • Rezerwacja]]></title>
@@ -130,6 +116,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-pakiet-black-salon-polska-1-wlasciciel-bezwypadkowy-aso-2024-oryg-ID6Gvgoj.html"/>
         <updated>2024-07-04T05:34:56.427Z</updated>
         <content type="html"><![CDATA[119 900 km Benzyna Automatyczna 2021 102 899]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • Nowy model GT LINE Automat Puretech 180 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-nowy-model-gt-line-automat-puretech-180-km-ID6GwPm1.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-nowy-model-gt-line-automat-puretech-180-km-ID6GwPm1.html"/>
+        <updated>2024-07-12T17:33:35.933Z</updated>
+        <content type="html"><![CDATA[126 800 km Benzyna Automatyczna 2021 110 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • Peugeot 508 180KM GT; właściciel od nowości; super stan; bezwypadkowy;]]></title>
@@ -174,13 +167,6 @@
         <content type="html"><![CDATA[99 000 km Benzyna Automatyczna 2020 96 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 Active1 598 cm3 • 180 KM • Peugeot 508, mały przebieg]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-maly-przebieg-ID6GiYwQ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-maly-przebieg-ID6GiYwQ.html"/>
-        <updated>2024-07-11T17:33:55.459Z</updated>
-        <content type="html"><![CDATA[31 000 km Benzyna Automatyczna 2020 89 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT81 598 cm3 • 180 KM • 2020r. 1.6 Puretech Allure EAT8 Led Salon Polska DW3JW90]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html"/>
@@ -200,6 +186,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
         <updated>2024-07-04T05:34:56.441Z</updated>
         <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 105 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic1 984 cm3 • 204 KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GAycx.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GAycx.html"/>
+        <updated>2024-07-12T17:33:43.821Z</updated>
+        <content type="html"><![CDATA[47 452 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • Avant 35 TFSI Stronic Salon Pl Bezwypadkowy FV23% Pierwszy właścicel]]></title>
@@ -353,7 +346,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-hak-pakiet-czern-acc-ambiente-ID6GvPMd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-hak-pakiet-czern-acc-ambiente-ID6GvPMd.html"/>
         <updated>2024-07-10T17:33:08.331Z</updated>
-        <content type="html"><![CDATA[104 406 km Benzyna Automatyczna 2021 119 000]]></content>
+        <content type="html"><![CDATA[104 406 km Benzyna Automatyczna 2021 113 999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Virtual cocpit panorama full led raty raty]]></title>
@@ -419,11 +412,32 @@
         <content type="html"><![CDATA[51 192 km Benzyna Automatyczna 2021 105 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line1 984 cm3 • 265 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GwXQ5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GwXQ5.html"/>
-        <updated>2024-07-10T17:33:08.352Z</updated>
-        <content type="html"><![CDATA[21 232 km Benzyna Automatyczna 2023 99 900]]></content>
+        <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro1 969 cm3 • 190 KM • Salon Polska Serwis ASO # Miękka Hybryda # LED, Virtual Kamera FVAT 23]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-serwis-aso-miekka-hybryda-led-virtual-kamera-fvat-23-ID6GAunp.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-serwis-aso-miekka-hybryda-led-virtual-kamera-fvat-23-ID6GAunp.html"/>
+        <updated>2024-07-12T17:33:48.906Z</updated>
+        <content type="html"><![CDATA[61 000 km Benzyna Automatyczna 2021 102 800]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Inscription1 477 cm3 • 163 KM • Salon Polska !! 1WŁ. 36tyś. Jak Nowe !! 1.5 163KM]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-1wl-36tys-jak-nowe-1-5-163km-ID6GAuly.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-1wl-36tys-jak-nowe-1-5-163km-ID6GAuly.html"/>
+        <updated>2024-07-12T17:33:48.910Z</updated>
+        <content type="html"><![CDATA[36 000 km Benzyna Manualna 2021 126 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B3 B Geartronic RDesign1 969 cm3 • 163 KM • LED skóry kamery 360]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-led-skory-kamery-360-ID6GAu1Y.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-led-skory-kamery-360-ID6GAu1Y.html"/>
+        <updated>2024-07-12T17:33:48.911Z</updated>
+        <content type="html"><![CDATA[60 384 km Benzyna Automatyczna 2021 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 163 KM Momentum Pro aut FV23%]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163-km-momentum-pro-aut-fv23-ID6GAsTf.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163-km-momentum-pro-aut-fv23-ID6GAsTf.html"/>
+        <updated>2024-07-12T17:33:48.912Z</updated>
+        <content type="html"><![CDATA[92 000 km Benzyna Manualna 2021 129 777]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
@@ -465,7 +479,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-2-0-t4-automat-momentum-klima-tempomat-navi-asystenci-kamera-led-ID6GzYOJ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-2-0-t4-automat-momentum-klima-tempomat-navi-asystenci-kamera-led-ID6GzYOJ.html"/>
         <updated>2024-07-10T17:33:13.364Z</updated>
-        <content type="html"><![CDATA[81 431 km Benzyna Automatyczna 2020 114 300]]></content>
+        <content type="html"><![CDATA[81 431 km Benzyna Automatyczna 2020 111 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • Momentum Pro T3, 2020r. | FV-23% | Salon PL |]]></title>
@@ -620,33 +634,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0l-r-design-auto-sprawdzone-ID6GydIa.html"/>
         <updated>2024-07-10T17:33:13.404Z</updated>
         <content type="html"><![CDATA[45 615 km Benzyna Automatyczna 2021 92 400]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Inscription1 969 cm3 • 310 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gy8He.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Gy8He.html"/>
-        <updated>2024-07-10T17:33:13.406Z</updated>
-        <content type="html"><![CDATA[82 895 km Benzyna Automatyczna 2020 97 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GxT4c.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-1-5-t3-163km-automat-2021-r-salon-pl-i-wl-f-a-vat-ID6GxT4c.html"/>
-        <updated>2024-07-10T17:33:13.407Z</updated>
-        <content type="html"><![CDATA[43 500 km Benzyna Automatyczna 2021 124 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Geartronic Momentum1 969 cm3 • 310 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6GxOUQ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6GxOUQ.html"/>
-        <updated>2024-07-11T05:35:08.583Z</updated>
-        <content type="html"><![CDATA[65 427 km Benzyna Automatyczna 2020 84 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • Akt.Tempomat,Harman,BLIS,Full LED,Kamera,Gwarancja,Drywa Gdańsk]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-akt-tempomat-harman-blis-full-led-kamera-gwarancja-drywa-gdansk-ID6GxNMd.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-akt-tempomat-harman-blis-full-led-kamera-gwarancja-drywa-gdansk-ID6GxNMd.html"/>
-        <updated>2024-07-11T17:34:04.793Z</updated>
-        <content type="html"><![CDATA[123 740 km Benzyna Automatyczna 2020 114 444]]></content>
     </entry>
 </feed>
