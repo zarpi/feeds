@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-20T17:33:44.715Z</updated>
+    <updated>2024-07-21T05:34:59.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 181 KM • Automat*Bezwypadkowy*Salon Polska*Allure*67000km*Vat23% (Otomoto)]]></title>
@@ -397,6 +397,13 @@
         <content type="html"><![CDATA[56 538 km Benzyna Automatyczna 2021 127 700]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • Volvo xc40 Pierwszy wł. Salon Pl Bezwypadkowy F-VAT 23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wl-salon-pl-bezwypadkowy-f-vat-23-ID6GBwUB.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wl-salon-pl-bezwypadkowy-f-vat-23-ID6GBwUB.html"/>
+        <updated>2024-07-21T05:34:41.605Z</updated>
+        <content type="html"><![CDATA[55 284 km Benzyna Automatyczna 2021 128 700]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Geartronic R-Design1 969 cm3 • 190 KM • T4 190KM R-design, Kamera, Harman, ACC, Bezwypadkowy, Fakrura VAT 23% (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-r-design-kamera-harman-acc-bezwypadkowy-fakrura-vat-23-ID6GBuoR.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-r-design-kamera-harman-acc-bezwypadkowy-fakrura-vat-23-ID6GBuoR.html"/>
@@ -612,13 +619,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polska-pierwszy-wlasciciel-pelen-serwis-aso-faktura-vat-23-ID6GzhPh.html"/>
         <updated>2024-07-14T17:45:47.542Z</updated>
         <content type="html"><![CDATA[84 000 km Benzyna Automatyczna 2020 99 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design1 969 cm3 • 247 KM • Volvo XC40 T5 R-Design 2021 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-r-design-2021-ID6GzcXi.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-r-design-2021-ID6GzcXi.html"/>
-        <updated>2024-07-14T17:45:47.543Z</updated>
-        <content type="html"><![CDATA[93 641 km Benzyna Automatyczna 2021 91 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
