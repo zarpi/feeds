@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T17:33:55.081Z</updated>
+    <updated>2024-07-25T05:35:04.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% | (Otomoto)]]></title>
@@ -397,6 +397,13 @@
         <content type="html"><![CDATA[34 670 km Benzyna Automatyczna 2022 129 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 602 000 cm3 • 197 KM • Salon Polska B4 B Plus Bright aut (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-salon-polska-b4-b-plus-bright-aut-ID6GCoRb.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-salon-polska-b4-b-plus-bright-aut-ID6GCoRb.html"/>
+        <updated>2024-07-25T05:34:45.622Z</updated>
+        <content type="html"><![CDATA[53 400 km Benzyna Automatyczna 2023 97 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 163 KM • B3 163 KM Inscription aut FV23% (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-b3-163-km-inscription-aut-fv23-ID6GCj6b.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-b3-163-km-inscription-aut-fv23-ID6GCj6b.html"/>
@@ -612,13 +619,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-pl-vat-23-automat-led-i-wlasciciel-ID6GA0cj.html"/>
         <updated>2024-07-24T05:35:10.175Z</updated>
         <content type="html"><![CDATA[68 834 km Benzyna Automatyczna 2021 119 800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 250 KM • Volvo XC60 cesja leasingu. (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-cesja-leasingu-ID6GzZOT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-cesja-leasingu-ID6GzZOT.html"/>
-        <updated>2024-07-24T05:35:10.175Z</updated>
-        <content type="html"><![CDATA[38 374 km Benzyna Automatyczna 2023 98 400]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
