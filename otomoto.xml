@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-08-01T17:34:01.449Z</updated>
+    <updated>2024-08-02T05:36:15.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -195,13 +195,6 @@
         <content type="html"><![CDATA[45 993 km Benzyna Automatyczna 2020 85 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic advanced1 984 cm3 • 204 KM • 1 właściciel fv23% bezwypadkowa śliczna Gwarancja !]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-1-wlasciciel-fv23-bezwypadkowa-sliczna-gwarancja-ID6GCyHo.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-1-wlasciciel-fv23-bezwypadkowa-sliczna-gwarancja-ID6GCyHo.html"/>
-        <updated>2024-07-28T05:35:07.167Z</updated>
-        <content type="html"><![CDATA[112 000 km Benzyna Automatyczna 2021 125 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 45 TFSI / 265 KM / 2021/ Quattro/ PREMIUM PLUS/ Serwis A.S.O./ WARTA !]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-265-km-2021-quattro-premium-plus-serwis-a-s-o-warta-ID6GCryA.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-265-km-2021-quattro-premium-plus-serwis-a-s-o-warta-ID6GCryA.html"/>
@@ -375,6 +368,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-z-polskiego-salonu-bezwypadkowy-faktura-vat-ID6GzCSF.html"/>
         <updated>2024-07-28T05:35:07.216Z</updated>
         <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 128 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • LED|Elekt. klapa bagażnika|Ambient 30 kolor]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-led-elekt-klapa-bagaznika-ambient-30-kolor-ID6GzyJM.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-led-elekt-klapa-bagaznika-ambient-30-kolor-ID6GzyJM.html"/>
+        <updated>2024-08-02T05:35:39.958Z</updated>
+        <content type="html"><![CDATA[111 080 km Benzyna Automatyczna 2020 99 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 602 000 cm3 • 295 KM • Ultimate 2023 2.0l]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ultimate-2023-2-0l-ID6GDMIG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ultimate-2023-2-0l-ID6GDMIG.html"/>
+        <updated>2024-08-02T05:35:52.424Z</updated>
+        <content type="html"><![CDATA[12 705 km Benzyna Automatyczna 2023 125 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B Geartronic Momentum Pro1 969 cm3 • 163 KM • 2.0 B3 163KM TFT FULL LED Kamera Navi Serwis El Klapa]]></title>
@@ -592,12 +599,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-oryginalny-lakier-salon-polska-1-wlasciciel-bezwypadkowy-aso-2023-ID6GB6Nu.html"/>
         <updated>2024-07-24T05:35:10.148Z</updated>
         <content type="html"><![CDATA[49 999 km Benzyna Manualna 2020 104 899]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Bright1 969 cm3 • 250 KM • W Trakcie Importu do Polski B5 AWD 2023]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-w-trakcie-importu-do-polski-b5-awd-2023-ID6GB0W9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-w-trakcie-importu-do-polski-b5-awd-2023-ID6GB0W9.html"/>
-        <updated>2024-07-24T05:35:10.157Z</updated>
-        <content type="html"><![CDATA[23 100 km Benzyna Automatyczna 2023 88 000]]></content>
     </entry>
 </feed>
