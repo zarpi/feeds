@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-02T17:33:56.751Z</updated>
+    <updated>2024-08-03T05:33:58.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • Dealer, VAT 23%, GT Pack, EAT8, 1,6 benzyna 224KM, Kombi, Salon PL (Otomoto)]]></title>
@@ -157,6 +157,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html"/>
         <updated>2024-07-16T17:33:07.412Z</updated>
         <content type="html"><![CDATA[69 914 km Benzyna Automatyczna 2020 97 700]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • 2020 R, 2.0 TFSI, MATRIX, Panorama, Stan Celujący, ZAMIANA (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-r-2-0-tfsi-matrix-panorama-stan-celujacy-zamiana-ID6GDTV4.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2020-r-2-0-tfsi-matrix-panorama-stan-celujacy-zamiana-ID6GDTV4.html"/>
+        <updated>2024-08-03T05:33:28.718Z</updated>
+        <content type="html"><![CDATA[78 000 km Benzyna Automatyczna 2020 124 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 50TFsiE !! Europa !! 4x4 !!Faktura VAT 23% !! (Otomoto)]]></title>
@@ -374,13 +381,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-z-polskiego-salonu-bezwypadkowy-faktura-vat-ID6GzCSF.html"/>
         <updated>2024-07-28T05:35:07.216Z</updated>
         <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 128 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM • LED|Elekt. klapa bagażnika|Ambient 30 kolor (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-led-elekt-klapa-bagaznika-ambient-30-kolor-ID6GzyJM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-led-elekt-klapa-bagaznika-ambient-30-kolor-ID6GzyJM.html"/>
-        <updated>2024-08-02T05:35:39.958Z</updated>
-        <content type="html"><![CDATA[111 080 km Benzyna Automatyczna 2020 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark1 969 cm3 • 250 KM • Volvo XC40 B5 Sport Ultimate Dark 2022 (Otomoto)]]></title>
@@ -671,17 +671,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-pansa-polska-agencja-zeglugi-powietrznej-remote-uq9qt145</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-pansa-polska-agencja-zeglugi-powietrznej-remote-uq9qt145"/>
-        <updated>2024-07-11T17:34:10.654Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
+        <updated>2024-08-01T17:33:47.836Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Azure Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-azure-cloud-engineer-ework-group-remote-5vygvpiz</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-azure-cloud-engineer-ework-group-remote-5vygvpiz"/>
-        <updated>2024-08-02T17:33:45.609Z</updated>
-        <content type="html"><![CDATA[ 7 224  – 7 560  EUR ]]></content>
+        <title type="html"><![CDATA[Programista Infrastruktury IT (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/programista-infrastruktury-it-avenga-remote-qvoubht8</id>
+        <link href="https://nofluffjobs.com/pl/job/programista-infrastruktury-it-avenga-remote-qvoubht8"/>
+        <updated>2024-08-03T05:33:45.242Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 24 360  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer (Mid/Senior) (NoFluffJobs)]]></title>
@@ -705,11 +705,11 @@
         <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
-        <updated>2024-08-01T17:33:47.836Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
+        <updated>2024-07-22T17:35:59.888Z</updated>
+        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Test Automation Engineer (NoFluffJobs)]]></title>
@@ -733,11 +733,11 @@
         <content type="html"><![CDATA[ 21 000  – 27 720  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
-        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
-        <updated>2024-07-22T17:35:59.888Z</updated>
-        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-pansa-polska-agencja-zeglugi-powietrznej-remote-uq9qt145</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-pansa-polska-agencja-zeglugi-powietrznej-remote-uq9qt145"/>
+        <updated>2024-07-11T17:34:10.654Z</updated>
+        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
