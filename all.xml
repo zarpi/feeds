@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-04T05:33:25.291Z</updated>
+    <updated>2024-08-04T17:33:37.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • Allure, 2021r. | Kamera Przód/ Tył | Czujniki | Asystent Jazdy | (Otomoto)]]></title>
@@ -101,13 +101,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-7-osobowyfaktura-vat23polski-salonbogata-wersja-ID6GzKle.html"/>
         <updated>2024-08-02T17:33:28.562Z</updated>
         <content type="html"><![CDATA[62 000 km Benzyna Automatyczna 2021 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT Line 180KM, 2020r. * FullLED * Nawi * Kamera * Automat * Martwe po (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-180km-2020r-fullled-nawi-kamera-automat-martwe-po-ID6GzBvp.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-180km-2020r-fullled-nawi-kamera-automat-martwe-po-ID6GzBvp.html"/>
-        <updated>2024-07-16T17:33:07.367Z</updated>
-        <content type="html"><![CDATA[87 861 km Benzyna Automatyczna 2020 104 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • Salon PL | ASO | FV23% | 68 tyś km | Automat | Panorama | AppleCarPlay (Otomoto)]]></title>
@@ -390,11 +383,18 @@
         <content type="html"><![CDATA[50 500 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • * KRAJ * Kamera * Grzana kierownica i fotele * SERWIS ASO VOLVO (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-kamera-grzana-kierownica-i-fotele-serwis-aso-volvo-ID6GE3du.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-kraj-kamera-grzana-kierownica-i-fotele-serwis-aso-volvo-ID6GE3du.html"/>
+        <updated>2024-08-04T17:33:18.912Z</updated>
+        <content type="html"><![CDATA[53 800 km Benzyna Automatyczna 2021 119 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T31 477 cm3 • 163 KM • Jak Nowy Gwarancja Mechaniczna Śliczny! (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html"/>
         <updated>2024-08-04T05:33:07.618Z</updated>
-        <content type="html"><![CDATA[26 280 km Benzyna Manualna 2020 121 900]]></content>
+        <content type="html"><![CDATA[26 280 km Benzyna Manualna 2021 121 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
@@ -607,13 +607,6 @@
         <content type="html"><![CDATA[102 213 km Benzyna Automatyczna 2020 119 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • Volvo xc40 Pierwszy wł. Salon Pl Bezwypadkowy F-VAT 23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wl-salon-pl-bezwypadkowy-f-vat-23-ID6GBwUB.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-pierwszy-wl-salon-pl-bezwypadkowy-f-vat-23-ID6GBwUB.html"/>
-        <updated>2024-07-24T05:35:10.127Z</updated>
-        <content type="html"><![CDATA[55 284 km Benzyna Automatyczna 2021 125 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-inter-cars-remote-3</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-inter-cars-remote-3"/>
@@ -626,6 +619,13 @@
         <link href="https://nofluffjobs.com/pl/job/google-cloud-architect-nordcloud-remote"/>
         <updated>2024-07-26T17:34:03.103Z</updated>
         <content type="html"><![CDATA[ 15 000  – 22 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
+        <updated>2024-05-23T05:34:51.324Z</updated>
+        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -649,13 +649,6 @@
         <content type="html"><![CDATA[ 17 136  – 21 504  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
-        <updated>2024-05-23T05:34:51.324Z</updated>
-        <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Azure Infrastructure Specialist (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/azure-infrastructure-specialist-intergraph-polska-remote</id>
         <link href="https://nofluffjobs.com/pl/job/azure-infrastructure-specialist-intergraph-polska-remote"/>
@@ -677,32 +670,18 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
-        <updated>2024-08-01T17:33:47.836Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
+        <updated>2024-07-22T17:35:59.888Z</updated>
+        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MLOps (pharma) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/mlops-pharma-7n-remote-6bmjdhok</id>
-        <link href="https://nofluffjobs.com/pl/job/mlops-pharma-7n-remote-6bmjdhok"/>
-        <updated>2024-08-04T05:33:13.513Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 29 400  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud DevOps Engineer (Mid/Senior) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-mid-senior-reply-polska-krakow-es9eqqdk</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-mid-senior-reply-polska-krakow-es9eqqdk"/>
-        <updated>2024-07-10T17:33:19.163Z</updated>
-        <content type="html"><![CDATA[ 16 800  – 31 920  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure DevOps (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/azure-devops-avenga-remote-xrojl9tq</id>
-        <link href="https://nofluffjobs.com/pl/job/azure-devops-avenga-remote-xrojl9tq"/>
-        <updated>2024-07-16T17:33:20.410Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv"/>
+        <updated>2024-08-04T05:33:13.532Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
@@ -712,11 +691,25 @@
         <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
-        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
-        <updated>2024-07-22T17:35:59.888Z</updated>
-        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
+        <title type="html"><![CDATA[Azure DevOps (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/azure-devops-avenga-remote-xrojl9tq</id>
+        <link href="https://nofluffjobs.com/pl/job/azure-devops-avenga-remote-xrojl9tq"/>
+        <updated>2024-07-16T17:33:20.410Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
+        <updated>2024-08-02T17:33:45.613Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
+        <updated>2024-08-01T17:33:47.836Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Test Automation Engineer (NoFluffJobs)]]></title>
@@ -734,10 +727,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-jpabmic5"/>
-        <updated>2024-08-02T17:33:45.613Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-l967fzsf</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-l967fzsf"/>
+        <updated>2024-08-04T17:33:24.758Z</updated>
+        <content type="html"><![CDATA[ 21 000  – 27 720  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -747,10 +740,10 @@
         <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv"/>
-        <updated>2024-08-04T05:33:13.532Z</updated>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
+        <updated>2024-08-04T17:33:24.760Z</updated>
         <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
 </feed>
