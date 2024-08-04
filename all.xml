@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-03T17:33:18.718Z</updated>
+    <updated>2024-08-04T05:33:25.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • Allure, 2021r. | Kamera Przód/ Tył | Czujniki | Asystent Jazdy | (Otomoto)]]></title>
@@ -390,10 +390,17 @@
         <content type="html"><![CDATA[50 500 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T31 477 cm3 • 163 KM • Jak Nowy Gwarancja Mechaniczna Śliczny! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html"/>
+        <updated>2024-08-04T05:33:07.618Z</updated>
+        <content type="html"><![CDATA[26 280 km Benzyna Manualna 2020 121 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-mega-inspriction-t4-190ps-kamera-360-skora-panorama-bliss-elekr-kl-max-ID6GDYJl.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-mega-inspriction-t4-190ps-kamera-360-skora-panorama-bliss-elekr-kl-max-ID6GDYJl.html"/>
-        <updated>2024-08-03T17:33:01.515Z</updated>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-mega-inspriction-t4-190ps-kamera-360-skora-panorama-bliss-elekr-kl-max-ID6GDYJl.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-mega-inspriction-t4-190ps-kamera-360-skora-panorama-bliss-elekr-kl-max-ID6GDYJl.html"/>
+        <updated>2024-08-04T05:33:07.624Z</updated>
         <content type="html"><![CDATA[107 323 km Benzyna Automatyczna 2020 118 900]]></content>
     </entry>
     <entry>
@@ -607,13 +614,6 @@
         <content type="html"><![CDATA[55 284 km Benzyna Automatyczna 2021 125 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V60 T4 Geartronic R-Design1 969 cm3 • 190 KM • T4 190KM R-design, Kamera, Harman, ACC, Bezwypadkowy, Fakrura VAT 23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-r-design-kamera-harman-acc-bezwypadkowy-fakrura-vat-23-ID6GBuoR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-r-design-kamera-harman-acc-bezwypadkowy-fakrura-vat-23-ID6GBuoR.html"/>
-        <updated>2024-07-24T05:35:10.135Z</updated>
-        <content type="html"><![CDATA[98 749 km Benzyna Automatyczna 2020 128 300]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-inter-cars-remote-3</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-inter-cars-remote-3"/>
@@ -677,18 +677,18 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
-        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
-        <updated>2024-07-22T17:35:59.888Z</updated>
-        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
+        <updated>2024-08-01T17:33:47.836Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Systems Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-systems-engineer-pwrteams-remote-0iyjqhls</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-systems-engineer-pwrteams-remote-0iyjqhls"/>
-        <updated>2024-08-03T17:33:07.208Z</updated>
-        <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
+        <title type="html"><![CDATA[MLOps (pharma) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/mlops-pharma-7n-remote-6bmjdhok</id>
+        <link href="https://nofluffjobs.com/pl/job/mlops-pharma-7n-remote-6bmjdhok"/>
+        <updated>2024-08-04T05:33:13.513Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 29 400  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer (Mid/Senior) (NoFluffJobs)]]></title>
@@ -705,18 +705,18 @@
         <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-l967fzsf</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-reply-polska-katowice-l967fzsf"/>
-        <updated>2024-08-02T05:35:58.780Z</updated>
-        <content type="html"><![CDATA[ 21 000  – 27 720  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
+        <updated>2024-08-04T05:33:13.517Z</updated>
+        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
-        <updated>2024-08-01T17:33:47.836Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Remote DevOps Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-devops-cloud-engineer-sq3-partners-45xefuua"/>
+        <updated>2024-07-22T17:35:59.888Z</updated>
+        <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Test Automation Engineer (NoFluffJobs)]]></title>
@@ -747,10 +747,10 @@
         <content type="html"><![CDATA[ 25 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Developer (pharma) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/python-developer-pharma-7n-remote-lssau3vp</id>
-        <link href="https://nofluffjobs.com/pl/job/python-developer-pharma-7n-remote-lssau3vp"/>
-        <updated>2024-08-03T17:33:07.216Z</updated>
-        <content type="html"><![CDATA[ 24 360  – 27 720  PLN ]]></content>
+        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-avenga-remote-degcutdv"/>
+        <updated>2024-08-04T05:33:13.532Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
 </feed>
