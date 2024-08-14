@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-13T17:35:38.655Z</updated>
+    <updated>2024-08-14T05:36:38.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • Salon Polska Faktura VAT23% Najbogatsza Wersja GT-LINE Automat Hak (Otomoto)]]></title>
@@ -208,6 +208,13 @@
         <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 124 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI Sport S tronic1 984 cm3 • 150 KM • Bezwypadkowy ! Serwisowany ! Sport Lain ! Alkantar ! Matrix led ! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-bezwypadkowy-serwisowany-sport-lain-alkantar-matrix-led-ID6GFakA.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-bezwypadkowy-serwisowany-sport-lain-alkantar-matrix-led-ID6GFakA.html"/>
+        <updated>2024-08-14T05:36:10.857Z</updated>
+        <content type="html"><![CDATA[137 000 km Benzyna Automatyczna 2020 93 480]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic S line1 984 cm3 • 150 KM • 35TFSI Piękny kolor! (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-piekny-kolor-ID6GF9RA.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-piekny-kolor-ID6GF9RA.html"/>
@@ -411,13 +418,6 @@
         <content type="html"><![CDATA[113 200 km Benzyna Automatyczna 2021 127 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • 45 TFSI Lift! S-line max serwisowane (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-lift-s-line-max-serwisowane-ID6GAUjf.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-lift-s-line-max-serwisowane-ID6GAUjf.html"/>
-        <updated>2024-08-08T05:35:41.762Z</updated>
-        <content type="html"><![CDATA[70 300 km Benzyna Automatyczna 2021 109 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Geartronic RDesign1 969 cm3 • 250 KM • XC40 B5 AWD R-Design 2021 Harman Kardon (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-b5-awd-r-design-2021-harman-kardon-ID6GFcoI.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-b5-awd-r-design-2021-harman-kardon-ID6GFcoI.html"/>
@@ -576,7 +576,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html"/>
         <updated>2024-08-07T17:34:51.349Z</updated>
-        <content type="html"><![CDATA[26 280 km Benzyna Manualna 2021 121 900]]></content>
+        <content type="html"><![CDATA[26 280 km Benzyna Automatyczna 2021 123 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Otomoto)]]></title>
@@ -726,11 +726,11 @@
         <content type="html"><![CDATA[ 5 300  – 5 900  USD ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-gr8-tech-remote-uyew6rag</id>
-        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-gr8-tech-remote-uyew6rag"/>
-        <updated>2024-08-13T17:35:26.214Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
+        <updated>2024-08-01T17:33:47.836Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
@@ -754,11 +754,11 @@
         <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-avenga-remote-zc122pgy"/>
-        <updated>2024-08-01T17:33:47.836Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 21 840  PLN ]]></content>
+        <title type="html"><![CDATA[Site Reliability Engineer with AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/site-reliability-engineer-with-aws-idemia-poland-r-d-remote-mublnfb7</id>
+        <link href="https://nofluffjobs.com/pl/job/site-reliability-engineer-with-aws-idemia-poland-r-d-remote-mublnfb7"/>
+        <updated>2024-08-14T05:36:25.310Z</updated>
+        <content type="html"><![CDATA[ 17 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Network Automation Engineer (NoFluffJobs)]]></title>
