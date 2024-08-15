@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-08-14T17:33:37.018Z</updated>
+    <updated>2024-08-15T05:35:37.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -272,13 +272,6 @@
         <content type="html"><![CDATA[65 000 km Benzyna Automatyczna 2020 117 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic1 984 cm3 • 245 KM • Quattro 245KM Salon PL. Serwis ASO I-Właś. F-VAT]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-quattro-245km-salon-pl-serwis-aso-i-wlas-f-vat-ID6GEUqf.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-quattro-245km-salon-pl-serwis-aso-i-wlas-f-vat-ID6GEUqf.html"/>
-        <updated>2024-08-10T17:33:08.272Z</updated>
-        <content type="html"><![CDATA[81 000 km Benzyna Automatyczna 2020 126 800]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic S line1 984 cm3 • 204 KM • 2.0L/S Line Premium Plus/Auto Sprawdzone]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-s-line-premium-plus-auto-sprawdzone-ID6GEDhg.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-s-line-premium-plus-auto-sprawdzone-ID6GEDhg.html"/>
@@ -417,6 +410,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6GBi4o.html"/>
         <updated>2024-08-08T05:35:41.758Z</updated>
         <content type="html"><![CDATA[91 938 km Benzyna Automatyczna 2020 115 001]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line1 984 cm3 • 204 KM • Quattro-S-Tronic-S Line-Black Edition.]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-quattro-s-tronic-s-line-black-edition-ID6GAXro.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-quattro-s-tronic-s-line-black-edition-ID6GAXro.html"/>
+        <updated>2024-08-15T05:35:16.616Z</updated>
+        <content type="html"><![CDATA[113 200 km Benzyna Automatyczna 2021 127 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
