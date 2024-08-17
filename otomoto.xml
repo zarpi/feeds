@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-08-16T17:34:23.982Z</updated>
+    <updated>2024-08-17T05:35:30.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -193,6 +193,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-masaze-kamera-360-night-vision-blis-keyfree-tryby-jazdy-ID6GjLwr.html"/>
         <updated>2024-08-08T05:35:37.030Z</updated>
         <content type="html"><![CDATA[99 000 km Benzyna Automatyczna 2020 93 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • 2021r 1,5 163KM Virtualne zegary Klimatronik Hak Kamera]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-1-5-163km-virtualne-zegary-klimatronik-hak-kamera-ID6GFFO3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-1-5-163km-virtualne-zegary-klimatronik-hak-kamera-ID6GFFO3.html"/>
+        <updated>2024-08-17T05:35:10.894Z</updated>
+        <content type="html"><![CDATA[55 000 km Benzyna Automatyczna 2021 99 777]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic Momentum1 969 cm3 • 247 KM • Momentum !! Bogata wersja wyposażenia ! Niski przebieg ! Serwis ASO !]]></title>
@@ -410,12 +417,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-bogate-wyposazenie-odpala-i-jezdzi-ID6GE31w.html"/>
         <updated>2024-08-07T17:34:51.343Z</updated>
         <content type="html"><![CDATA[23 000 km Benzyna Automatyczna 2022 125 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T31 477 cm3 • 163 KM • Jak Nowy Gwarancja Mechaniczna Śliczny!]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-jak-nowy-gwarancja-mechaniczna-sliczny-ID6GDZDD.html"/>
-        <updated>2024-08-07T17:34:51.349Z</updated>
-        <content type="html"><![CDATA[26 280 km Benzyna Automatyczna 2021 123 900]]></content>
     </entry>
 </feed>
