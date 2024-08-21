@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-20T17:34:13.737Z</updated>
+    <updated>2024-08-21T05:35:49.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT81 598 cm3 • 180 KM • GT Line (Otomoto)]]></title>
@@ -411,6 +411,13 @@
         <content type="html"><![CDATA[109 756 km Benzyna Automatyczna 2020 89 700]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 190 KM • 2.0 140KM Automat Salon Polska FAK. VAT23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-140km-automat-salon-polska-fak-vat23-ID6GG4nR.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-140km-automat-salon-polska-fak-vat23-ID6GG4nR.html"/>
+        <updated>2024-08-21T05:35:32.194Z</updated>
+        <content type="html"><![CDATA[60 000 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 602 000 cm3 • 247 KM • Volvo XC60 B5 AWD Momentum, od ubezpieczalni (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b5-awd-momentum-od-ubezpieczalni-ID6GG3mU.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b5-awd-momentum-od-ubezpieczalni-ID6GG3mU.html"/>
@@ -626,13 +633,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-100-serwis-volvo-ID6GEr1V.html"/>
         <updated>2024-08-07T17:34:51.332Z</updated>
         <content type="html"><![CDATA[53 000 km Benzyna Manualna 2020 95 555]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B3 Core1 969 cm3 • 163 KM • Salon Polska! 2.0 ! Automat! 1-wł! Serwis! Mild Hybrid! 08/2022r (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-2-0-automat-1-wl-serwis-mild-hybrid-08-2022r-ID6GEhmK.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-2-0-automat-1-wl-serwis-mild-hybrid-08-2022r-ID6GEhmK.html"/>
-        <updated>2024-08-07T17:34:51.336Z</updated>
-        <content type="html"><![CDATA[33 670 km Benzyna Automatyczna 2022 106 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Middle DevOps Engineer (NoFluffJobs)]]></title>
