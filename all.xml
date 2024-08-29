@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T17:36:24.884Z</updated>
+    <updated>2024-08-29T05:37:07.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • oferta dealera/FV23/GT-Line 1.6 180KM,EAT8,kamera,Focal,dach,el.klapa (Otomoto)]]></title>
@@ -268,7 +268,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6GFJM9.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6GFJM9.html"/>
         <updated>2024-08-24T05:37:41.772Z</updated>
-        <content type="html"><![CDATA[91 938 km Benzyna Automatyczna 2020 113 001]]></content>
+        <content type="html"><![CDATA[91 938 km Benzyna Automatyczna 2020 111 001]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A6 45 TFSI quattro S tronic S line1 984 cm3 • 265 KM • s-line (Otomoto)]]></title>
@@ -409,6 +409,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-sportback-s-line-premium-plus-45-tfsi-quattro-4x4-ID6GE55N.html"/>
         <updated>2024-08-24T05:37:41.800Z</updated>
         <content type="html"><![CDATA[48 000 km Benzyna Automatyczna 2022 89 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T5 GPF Inscription1 969 cm3 • 250 KM • Inscription (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-inscription-ID6GHDKf.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-inscription-ID6GHDKf.html"/>
+        <updated>2024-08-29T05:36:49.523Z</updated>
+        <content type="html"><![CDATA[16 000 km Benzyna Automatyczna 2022 88 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 T5 Geartronic Momentum Pro1 969 cm3 • 250 KM • T5 250ps ! FULL LED ! SKÓRA ! ALUS19! Bogata Wersja ! 2020 (Otomoto)]]></title>
@@ -626,13 +633,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6GFyU4.html"/>
         <updated>2024-08-28T17:36:05.172Z</updated>
         <content type="html"><![CDATA[48 344 km Benzyna Automatyczna 2021 104 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 Momentum Pro! Z Polskiego Salonu ! Faktura 23% ! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GFuKF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GFuKF.html"/>
-        <updated>2024-08-28T17:36:05.174Z</updated>
-        <content type="html"><![CDATA[88 000 km Benzyna Automatyczna 2021 112 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior AWS DevOps + Backend - Remote (NoFluffJobs)]]></title>
