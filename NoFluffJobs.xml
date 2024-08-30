@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-08-30T05:36:51.712Z</updated>
+    <updated>2024-08-30T17:36:01.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[ 20 160  – 25 200  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-coincash-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-coincash-remote"/>
-        <updated>2024-08-29T17:34:44.342Z</updated>
-        <content type="html"><![CDATA[ 8 727  – 13 090  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote"/>
+        <updated>2024-08-06T17:35:32.533Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő) - Távmunka]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote"/>
+        <updated>2024-08-30T17:35:48.673Z</updated>
+        <content type="html"><![CDATA[ 8 720  – 13 081  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mid Infrastructure Administrator-Storage (Remote)]]></title>
@@ -25,13 +32,6 @@
         <link href="https://nofluffjobs.com/pl/job/mid-infrastructure-administrator-storage-remote-hyland"/>
         <updated>2024-08-27T17:34:19.413Z</updated>
         <content type="html"><![CDATA[ 12 000  – 16 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote"/>
-        <updated>2024-08-06T17:35:32.533Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
@@ -70,10 +70,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
-        <updated>2024-08-20T17:34:01.796Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree"/>
+        <updated>2024-08-21T17:34:25.640Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Platforms Engineer]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (remote)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-remote-appfire-0lkcumgc</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-remote-appfire-0lkcumgc"/>
-        <updated>2024-08-25T17:36:42.398Z</updated>
-        <content type="html"><![CDATA[ 14 230  – 18 300  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer - Remote]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-remote-scaleworks-gsplis4s</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-remote-scaleworks-gsplis4s"/>
+        <updated>2024-08-26T17:34:19.147Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 30 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Network Automation Engineer]]></title>
@@ -119,23 +119,23 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree"/>
-        <updated>2024-08-21T17:34:25.640Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
+        <updated>2024-08-20T17:34:01.796Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer - Remote]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-remote-scaleworks-gsplis4s</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-remote-scaleworks-gsplis4s"/>
-        <updated>2024-08-26T17:34:19.147Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 30 000  PLN ]]></content>
+        <title type="html"><![CDATA[SRE Devops (Linux/C++) (6 Months) - Remote]]></title>
+        <id>https://nofluffjobs.com/pl/job/sre-devops-linux-c-6-months-remote-itds-peoidnnm</id>
+        <link href="https://nofluffjobs.com/pl/job/sre-devops-linux-c-6-months-remote-itds-peoidnnm"/>
+        <updated>2024-08-30T17:35:48.693Z</updated>
+        <content type="html"><![CDATA[ 18 900  – 31 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBAW Workflow Solution Developer]]></title>
-        <id>https://nofluffjobs.com/pl/job/ibaw-workflow-solution-developer-seb-skandinaviska-enskilda-banken-warszawa-ameu8laf</id>
-        <link href="https://nofluffjobs.com/pl/job/ibaw-workflow-solution-developer-seb-skandinaviska-enskilda-banken-warszawa-ameu8laf"/>
-        <updated>2024-08-24T17:33:37.330Z</updated>
+        <title type="html"><![CDATA[System Design Validation Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/system-design-validation-engineer-antal-warszawa-ttzbocda</id>
+        <link href="https://nofluffjobs.com/pl/job/system-design-validation-engineer-antal-warszawa-ttzbocda"/>
+        <updated>2024-08-30T17:35:48.695Z</updated>
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
