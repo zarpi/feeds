@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-01T05:36:44.693Z</updated>
+    <updated>2024-09-01T17:33:34.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT Line 180KM, 2020r. FV23% * FullLED * Okno dachowe * Kamera * Autom (Otomoto)]]></title>
@@ -136,13 +136,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-allure-s-s-2020r-czujniki-android-auto-fv-23-ID6GDYkm.html"/>
         <updated>2024-08-28T05:36:09.509Z</updated>
         <content type="html"><![CDATA[107 184 km Benzyna Automatyczna 2020 99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • Dealer, VAT 23%, GT Pack, EAT8, 1,6 benzyna 224KM, Kombi, Salon PL (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-dealer-vat-23-gt-pack-eat8-1-6-benzyna-224km-kombi-salon-pl-ID6GDNK8.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-dealer-vat-23-gt-pack-eat8-1-6-benzyna-224km-kombi-salon-pl-ID6GDNK8.html"/>
-        <updated>2024-08-28T05:36:09.510Z</updated>
-        <content type="html"><![CDATA[89 395 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start Crossway1 598 cm3 • 181 KM • KAMERA 360* Zmienne tryby* Lampy Full Led* Blis* Park Assist ZADBANY (Otomoto)]]></title>
@@ -411,6 +404,13 @@
         <content type="html"><![CDATA[21 090 km Benzyna Automatyczna 2022 116 200]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T5 AWD Momentum1 969 cm3 • 254 KM • Rodzinny SUV, skóra, szyberdach, bogate wyposażenie, t5 momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-rodzinny-suv-skora-szyberdach-bogate-wyposazenie-t5-momentum-ID6GHYje.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-rodzinny-suv-skora-szyberdach-bogate-wyposazenie-t5-momentum-ID6GHYje.html"/>
+        <updated>2024-09-01T17:33:17.428Z</updated>
+        <content type="html"><![CDATA[79 545 km Benzyna Automatyczna 2021 89 999]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 250 KM • T5/Automat/Panorama/Skóra/Led/Android Auto+Apple car play/Kamera cof. (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t5-automat-panorama-skora-led-android-auto-apple-car-play-kamera-cof-ID6GHWg2.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t5-automat-panorama-skora-led-android-auto-apple-car-play-kamera-cof-ID6GHWg2.html"/>
@@ -628,18 +628,18 @@
         <content type="html"><![CDATA[44 822 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V601 969 cm3 • 197 KM • Volvo V60 B4 B R Design aut El Ogrz Fotele Kierownica Kamera Salonpl V (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-b4-b-r-design-aut-el-ogrz-fotele-kierownica-kamera-salonpl-v-ID6GFMsD.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-b4-b-r-design-aut-el-ogrz-fotele-kierownica-kamera-salonpl-v-ID6GFMsD.html"/>
-        <updated>2024-09-01T05:36:27.376Z</updated>
-        <content type="html"><![CDATA[106 276 km Benzyna Automatyczna 2020 124 899]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Senior AWS DevOps + Backend - Remote (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/senior-aws-devops-backend-remote-link-group</id>
         <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-backend-remote-link-group"/>
         <updated>2024-08-26T17:34:19.127Z</updated>
         <content type="html"><![CDATA[ 20 160  – 25 200  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid Infrastructure Administrator-Storage (Remote) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/mid-infrastructure-administrator-storage-remote-hyland</id>
+        <link href="https://nofluffjobs.com/pl/job/mid-infrastructure-administrator-storage-remote-hyland"/>
+        <updated>2024-08-27T17:34:19.413Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 16 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő) - Távmunka (NoFluffJobs)]]></title>
@@ -656,13 +656,6 @@
         <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mid Infrastructure Administrator-Storage (Remote) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/mid-infrastructure-administrator-storage-remote-hyland</id>
-        <link href="https://nofluffjobs.com/pl/job/mid-infrastructure-administrator-storage-remote-hyland"/>
-        <updated>2024-08-27T17:34:19.413Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 16 000  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
@@ -677,11 +670,11 @@
         <content type="html"><![CDATA[ 23 520  – 27 720  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo</id>
-        <link href="https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo"/>
-        <updated>2024-08-21T17:34:25.639Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg"/>
+        <updated>2024-08-17T17:33:24.381Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
@@ -712,18 +705,18 @@
         <content type="html"><![CDATA[ 20 160  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg"/>
-        <updated>2024-08-17T17:33:24.381Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
+        <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo</id>
+        <link href="https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo"/>
+        <updated>2024-08-21T17:34:25.639Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz"/>
-        <updated>2024-08-31T17:33:24.202Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 33 600  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Security Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-security-engineer-mindbox-warszawa-5mkm2q2x</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-security-engineer-mindbox-warszawa-5mkm2q2x"/>
+        <updated>2024-08-31T17:33:24.195Z</updated>
+        <content type="html"><![CDATA[ 26 000  – 36 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remote DevOps / SysAdmin (Junior/Mid) (NoFluffJobs)]]></title>
@@ -747,18 +740,18 @@
         <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Security Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-security-engineer-mindbox-warszawa-5mkm2q2x</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-security-engineer-mindbox-warszawa-5mkm2q2x"/>
-        <updated>2024-08-31T17:33:24.195Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 36 000  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz"/>
+        <updated>2024-08-31T17:33:24.202Z</updated>
+        <content type="html"><![CDATA[ 25 200  – 33 600  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
-        <updated>2024-09-01T05:36:33.476Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q"/>
+        <updated>2024-09-01T17:33:23.340Z</updated>
+        <content type="html"><![CDATA[ 21 840  – 28 560  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System Administrator (Nutanix/Vmware/Azure) (NoFluffJobs)]]></title>
