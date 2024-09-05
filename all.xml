@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-04T17:38:00.278Z</updated>
+    <updated>2024-09-05T05:37:29.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% | (Otomoto)]]></title>
@@ -208,10 +208,10 @@
         <content type="html"><![CDATA[72 298 km Benzyna Automatyczna 2020 124 899]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI quattro S tronic design1 984 cm3 • 252 KM • Audi Q5 | 2.0 TFSI | 252 KM | Quattro | Prestige (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2-0-tfsi-252-km-quattro-prestige-ID6GIcXa.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2-0-tfsi-252-km-quattro-prestige-ID6GIcXa.html"/>
-        <updated>2024-09-04T17:37:36.900Z</updated>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI quattro S tronic design1 984 cm3 • 252 KM • 2.0 TFSI | 252 KM | Quattro | Prestige (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-252-km-quattro-prestige-ID6GIcXa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-tfsi-252-km-quattro-prestige-ID6GIcXa.html"/>
+        <updated>2024-09-05T05:36:58.543Z</updated>
         <content type="html"><![CDATA[47 628 km Benzyna Automatyczna 2021 99 000]]></content>
     </entry>
     <entry>
@@ -297,13 +297,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0l-quattro-automat-wer-premium-plus-ID6GGtlT.html"/>
         <updated>2024-09-04T17:37:37.048Z</updated>
         <content type="html"><![CDATA[44 294 km Benzyna Automatyczna 2021 92 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic1 984 cm3 • 150 KM • SalonPl Serwis ASO2.0TSI 150KM 3 stref. Klima Virtual MMI KEYLESS LED (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-salonpl-serwis-aso2-0tsi-150km-3-stref-klima-virtual-mmi-keyless-led-ID6GFXNc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salonpl-serwis-aso2-0tsi-150km-3-stref-klima-virtual-mmi-keyless-led-ID6GFXNc.html"/>
-        <updated>2024-09-04T17:37:37.050Z</updated>
-        <content type="html"><![CDATA[116 798 km Benzyna Automatyczna 2020 117 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • Virtual cocpit panorama full led raty raty (Otomoto)]]></title>
@@ -402,6 +395,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-265km-s-line-quattro-s-tronic-ID6GF95D.html"/>
         <updated>2024-09-04T17:37:37.074Z</updated>
         <content type="html"><![CDATA[17 500 km Benzyna Automatyczna 2022 89 700]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GF8nj.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GF8nj.html"/>
+        <updated>2024-09-05T05:36:58.581Z</updated>
+        <content type="html"><![CDATA[32 280 km Benzyna Automatyczna 2021 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B3 Core1 969 cm3 • 163 KM • Salon Polska! 2.0 ! Automat! 1-wł! Serwis! Mild Hybrid! 08/2022r (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-2-0-automat-1-wl-serwis-mild-hybrid-08-2022r-ID6GIIQX.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-salon-polska-2-0-automat-1-wl-serwis-mild-hybrid-08-2022r-ID6GIIQX.html"/>
+        <updated>2024-09-05T05:37:02.778Z</updated>
+        <content type="html"><![CDATA[33 670 km Benzyna Automatyczna 2022 102 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 321 KM • Volvo XC60 B6 Ultimate, bezwypadkowy, 1 właściciel, gwarancja 2028r. (Otomoto)]]></title>
@@ -619,13 +626,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-t4-190km-automat-kamera-blis-el-klapa-led-skora-carplay-ID6GGseI.html"/>
         <updated>2024-09-01T05:36:27.355Z</updated>
         <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2022 116 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 Momentum Pro! Z Polskiego Salonu ! Faktura 23% ! (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GGiAe.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GGiAe.html"/>
-        <updated>2024-09-01T05:36:27.358Z</updated>
-        <content type="html"><![CDATA[97 000 km Benzyna Automatyczna 2021 112 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior AWS DevOps + Backend - Remote (NoFluffJobs)]]></title>
