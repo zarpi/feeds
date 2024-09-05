@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-05T05:37:29.106Z</updated>
+    <updated>2024-09-05T17:35:13.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • 1.6 PT HYbrid Allure EAT8 PHEV 225KM, salonPL, ASO, I wł, panorama, FV (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pt-hybrid-allure-eat8-phev-225km-salonpl-aso-i-wl-panorama-fv-ID6GIRQ1.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pt-hybrid-allure-eat8-phev-225km-salonpl-aso-i-wl-panorama-fv-ID6GIRQ1.html"/>
+        <updated>2024-09-05T17:34:41.179Z</updated>
+        <content type="html"><![CDATA[70 009 km Benzyna Automatyczna 2020 122 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% | (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6GIGB3.html</id>
@@ -131,20 +138,6 @@
         <content type="html"><![CDATA[45 091 km Benzyna Automatyczna 2020 89 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • 1.6 PT HYbrid Allure EAT8 PHEV 225KM, salonPL, ASO, I wł, panorama, FV (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pt-hybrid-allure-eat8-phev-225km-salonpl-aso-i-wl-panorama-fv-ID6GEo4S.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pt-hybrid-allure-eat8-phev-225km-salonpl-aso-i-wl-panorama-fv-ID6GEo4S.html"/>
-        <updated>2024-08-28T05:36:09.505Z</updated>
-        <content type="html"><![CDATA[70 009 km Benzyna Automatyczna 2020 125 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 Allure1 598 cm3 • 180 KM • 180KM*FullLed*Nawigacja*Kamera*Pół Skóra*KeyLess*FakturaVAT23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-180kmfulllednawigacjakamerapol-skorakeylessfakturavat23-ID6GDYye.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-180kmfulllednawigacjakamerapol-skorakeylessfakturavat23-ID6GDYye.html"/>
-        <updated>2024-08-28T05:36:09.506Z</updated>
-        <content type="html"><![CDATA[126 000 km Benzyna Automatyczna 2020 97 500]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • Dealer, VAT 23%, GT Pack, EAT8, 1,6 benzyna 224KM, Kombi, Salon PL (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-dealer-vat-23-gt-pack-eat8-1-6-benzyna-224km-kombi-salon-pl-ID6GDNK8.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-dealer-vat-23-gt-pack-eat8-1-6-benzyna-224km-kombi-salon-pl-ID6GDNK8.html"/>
@@ -178,6 +171,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6G7pSd.html"/>
         <updated>2024-08-28T05:36:09.525Z</updated>
         <content type="html"><![CDATA[35 200 km Benzyna Automatyczna 2021 105 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q51 984 cm3 • 204 KM • Audi Q5 Niski przebieg 8870 km (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-niski-przebieg-8870-km-ID6GISeL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-niski-przebieg-8870-km-ID6GISeL.html"/>
+        <updated>2024-09-05T17:34:47.017Z</updated>
+        <content type="html"><![CDATA[8 870 km Benzyna Automatyczna 2022 125 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 35 TFSI Sport S tronic1 984 cm3 • 150 KM • Polski salon, serwisowany w ASO, gwarancja do grudnia 2025r.! (Otomoto)]]></title>
@@ -240,7 +240,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-mild-hybrid-quattro-salon-polska-ID6GHLnj.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-mild-hybrid-quattro-salon-polska-ID6GHLnj.html"/>
         <updated>2024-09-04T17:37:36.906Z</updated>
-        <content type="html"><![CDATA[105 147 km Benzyna Automatyczna 2021 95 000]]></content>
+        <content type="html"><![CDATA[105 147 km Benzyna Automatyczna 2021 91 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM (Otomoto)]]></title>
@@ -269,6 +269,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023r-4x4-2-0l-ID6GHqoW.html"/>
         <updated>2024-09-04T17:37:37.043Z</updated>
         <content type="html"><![CDATA[38 075 km Benzyna Automatyczna 2023 115 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A41 984 cm3 • 265 KM • Audi A4 2.0 45TFSI quattro Advanced 265KM VAT23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-2-0-45tfsi-quattro-advanced-265km-vat23-ID6GHqkw.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-2-0-45tfsi-quattro-advanced-265km-vat23-ID6GHqkw.html"/>
+        <updated>2024-09-05T17:34:47.054Z</updated>
+        <content type="html"><![CDATA[94 271 km Benzyna Automatyczna 2022 129 949]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • 45 TFSI / 265 KM / 2021/ Quattro/ PREMIUM PLUS/ Serwis A.S.O./ WARTA ! (Otomoto)]]></title>
@@ -311,13 +318,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-2020-ID6GFQ5o.html"/>
         <updated>2024-09-04T17:37:37.053Z</updated>
         <content type="html"><![CDATA[62 565 km Benzyna Automatyczna 2020 105 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic1 984 cm3 • 252 KM • 45 TFSI Lift! S-line max serwisowane (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-lift-s-line-max-serwisowane-ID6GFOLg.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-lift-s-line-max-serwisowane-ID6GFOLg.html"/>
-        <updated>2024-09-04T17:37:37.054Z</updated>
-        <content type="html"><![CDATA[70 300 km Benzyna Automatyczna 2021 109 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A41 984 cm3 • 190 KM • 40 TFSI Design , Salon Polska, 1. Właściciel, Serwis ASO, Automat, (Otomoto)]]></title>
@@ -395,13 +395,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-45tfsi-265km-s-line-quattro-s-tronic-ID6GF95D.html"/>
         <updated>2024-09-04T17:37:37.074Z</updated>
         <content type="html"><![CDATA[17 500 km Benzyna Automatyczna 2022 89 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GF8nj.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6GF8nj.html"/>
-        <updated>2024-09-05T05:36:58.581Z</updated>
-        <content type="html"><![CDATA[32 280 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B3 Core1 969 cm3 • 163 KM • Salon Polska! 2.0 ! Automat! 1-wł! Serwis! Mild Hybrid! 08/2022r (Otomoto)]]></title>
@@ -635,13 +628,6 @@
         <content type="html"><![CDATA[ 20 160  – 25 200  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő) - Távmunka (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote"/>
-        <updated>2024-08-30T17:35:48.673Z</updated>
-        <content type="html"><![CDATA[ 8 696  – 13 045  PLN ]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure) (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-engineer-infrastructure-elitmind-remote-5"/>
@@ -649,25 +635,18 @@
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-squareone-remote"/>
-        <updated>2024-08-06T17:35:32.533Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 31 920  PLN ]]></content>
+        <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő) - Távmunka (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote"/>
+        <updated>2024-08-30T17:35:48.673Z</updated>
+        <content type="html"><![CDATA[ 8 698  – 13 047  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo</id>
-        <link href="https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo"/>
-        <updated>2024-08-21T17:34:25.639Z</updated>
-        <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
-        <updated>2024-09-02T17:33:25.992Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg"/>
+        <updated>2024-08-17T17:33:24.381Z</updated>
+        <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Platforms Engineer (NoFluffJobs)]]></title>
@@ -684,18 +663,11 @@
         <content type="html"><![CDATA[ 18 900  – 31 500  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sense-street-spolka-z-ograniczona-odpowiedzialnoscia-krakow-bxvg6xzg"/>
-        <updated>2024-08-17T17:33:24.381Z</updated>
-        <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-jacobs-krakow-6jk4yree"/>
-        <updated>2024-08-21T17:34:25.640Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer DevOps/Admin (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp"/>
+        <updated>2024-09-02T17:33:25.991Z</updated>
+        <content type="html"><![CDATA[ 14 700  – 21 840  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
@@ -705,25 +677,18 @@
         <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/remote-senior-devops-engineer-softwaremill-6uvzv3lh</id>
-        <link href="https://nofluffjobs.com/pl/job/remote-senior-devops-engineer-softwaremill-6uvzv3lh"/>
-        <updated>2024-09-03T17:35:39.245Z</updated>
-        <content type="html"><![CDATA[ 24 150  – 30 450  PLN ]]></content>
+        <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo</id>
+        <link href="https://nofluffjobs.com/pl/job/junior-cloud-devops-engineer-remote-itds-krakow-2yjlnowo"/>
+        <updated>2024-08-21T17:34:25.639Z</updated>
+        <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer DevOps/Admin (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp"/>
-        <updated>2024-09-02T17:33:25.991Z</updated>
-        <content type="html"><![CDATA[ 14 700  – 21 840  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud SRE Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-sre-engineer-t-mobile-polska-warszawa-1prxatoe</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-sre-engineer-t-mobile-polska-warszawa-1prxatoe"/>
-        <updated>2024-09-04T17:37:48.958Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
+        <updated>2024-09-04T17:37:48.967Z</updated>
+        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
@@ -731,6 +696,48 @@
         <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-naviteq-remote-bzhji9gg"/>
         <updated>2024-09-03T17:35:39.252Z</updated>
         <content type="html"><![CDATA[ 6 000  – 7 000  USD ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-senior-devops-engineer-softwaremill-6uvzv3lh</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-senior-devops-engineer-softwaremill-6uvzv3lh"/>
+        <updated>2024-09-03T17:35:39.245Z</updated>
+        <content type="html"><![CDATA[ 24 150  – 30 450  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
+        <updated>2024-09-04T17:37:48.962Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
+        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
+        <updated>2024-09-05T17:34:58.016Z</updated>
+        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh"/>
+        <updated>2024-09-05T17:34:58.017Z</updated>
+        <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2</id>
+        <link href="https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2"/>
+        <updated>2024-09-05T17:34:58.019Z</updated>
+        <content type="html"><![CDATA[ 6 500  – 7 000  USD ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lead Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle</id>
+        <link href="https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle"/>
+        <updated>2024-09-05T17:34:58.020Z</updated>
+        <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend) (NoFluffJobs)]]></title>
@@ -741,30 +748,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
-        <updated>2024-09-04T17:37:48.962Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-nest-bank-remote-cvcvqabz"/>
-        <updated>2024-09-04T17:37:48.964Z</updated>
-        <content type="html"><![CDATA[ 25 200  – 33 600  PLN ]]></content>
+        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-pko-finat-remote-ykqrwojg</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-pko-finat-remote-ykqrwojg"/>
+        <updated>2024-09-05T17:34:58.024Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q</id>
         <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q"/>
         <updated>2024-09-04T17:37:48.965Z</updated>
-        <content type="html"><![CDATA[ 21 840  – 28 560  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
-        <updated>2024-09-04T17:37:48.967Z</updated>
-        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
+        <content type="html"><![CDATA[ 23 000  – 28 000  PLN ]]></content>
     </entry>
 </feed>
