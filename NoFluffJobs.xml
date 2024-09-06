@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-09-06T05:38:32.336Z</updated>
+    <updated>2024-09-06T17:34:08.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote</id>
         <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote"/>
         <updated>2024-08-30T17:35:48.673Z</updated>
-        <content type="html"><![CDATA[ 8 698  – 13 047  PLN ]]></content>
+        <content type="html"><![CDATA[ 8 688  – 13 032  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevSecOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2</id>
-        <link href="https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2"/>
-        <updated>2024-09-05T17:34:58.019Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 7 000  USD ]]></content>
+        <title type="html"><![CDATA[Senior MLOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q"/>
+        <updated>2024-09-04T17:37:48.965Z</updated>
+        <content type="html"><![CDATA[ 23 000  – 28 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lead Cloud Engineer]]></title>
@@ -125,11 +125,11 @@
         <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
-        <updated>2024-09-04T17:37:48.961Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[DevSecOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2</id>
+        <link href="https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2"/>
+        <updated>2024-09-05T17:34:58.019Z</updated>
+        <content type="html"><![CDATA[ 6 500  – 7 000  USD ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior MLOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-iig-remote-adaj885q"/>
-        <updated>2024-09-04T17:37:48.965Z</updated>
-        <content type="html"><![CDATA[ 23 000  – 28 000  PLN ]]></content>
+        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
+        <updated>2024-09-04T17:37:48.961Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
 </feed>
