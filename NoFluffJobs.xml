@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-09-07T05:36:01.309Z</updated>
+    <updated>2024-09-07T17:34:41.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platforms Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
-        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
-        <updated>2024-08-29T17:34:44.361Z</updated>
-        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
+        <updated>2024-09-03T17:35:39.231Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SRE Devops (Linux/C++) (6 Months) - Remote]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[ 14 700  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
-        <updated>2024-09-03T17:35:39.231Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
+        <title type="html"><![CDATA[Platforms Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
+        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
+        <updated>2024-08-29T17:34:44.361Z</updated>
+        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
-        <updated>2024-09-04T17:37:48.967Z</updated>
-        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
+        <updated>2024-09-04T17:37:48.962Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
@@ -90,25 +90,11 @@
         <content type="html"><![CDATA[ 24 150  – 30 450  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
-        <updated>2024-09-04T17:37:48.962Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
-        <updated>2024-09-05T17:34:58.016Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh"/>
-        <updated>2024-09-05T17:34:58.017Z</updated>
-        <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
+        <updated>2024-09-04T17:37:48.967Z</updated>
+        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior MLOps Engineer]]></title>
@@ -125,11 +111,25 @@
         <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevSecOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2</id>
-        <link href="https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2"/>
-        <updated>2024-09-05T17:34:58.019Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 7 000  USD ]]></content>
+        <title type="html"><![CDATA[Platform Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
+        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
+        <updated>2024-09-05T17:34:58.016Z</updated>
+        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh"/>
+        <updated>2024-09-05T17:34:58.017Z</updated>
+        <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
+        <updated>2024-09-04T17:37:48.961Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
-        <updated>2024-09-04T17:37:48.961Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Inżynier ds. DevOps]]></title>
+        <id>https://nofluffjobs.com/pl/job/inzynier-ds-devops-exatel-remote-v5kfmbyk</id>
+        <link href="https://nofluffjobs.com/pl/job/inzynier-ds-devops-exatel-remote-v5kfmbyk"/>
+        <updated>2024-09-07T17:34:28.263Z</updated>
+        <content type="html"><![CDATA[ 14 000  – 17 000  PLN ]]></content>
     </entry>
 </feed>

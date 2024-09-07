@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-07T05:36:01.336Z</updated>
+    <updated>2024-09-07T17:34:41.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • 180KM*FullLed*Nawigacja*Kamera*Pół Skóra*KeyLess*FakturaVAT23% (Otomoto)]]></title>
@@ -136,13 +136,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-salon-polska-1-wlasciciel-serwis-aso-automat-skora-ID6GELam.html"/>
         <updated>2024-08-28T05:36:09.503Z</updated>
         <content type="html"><![CDATA[75 045 km Benzyna Automatyczna 2020 93 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • 1.6/180Km STT 2020r 45Tyś Km Kamera Panorama GripControl (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-180km-stt-2020r-45tys-km-kamera-panorama-gripcontrol-ID6GEG8O.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-180km-stt-2020r-45tys-km-kamera-panorama-gripcontrol-ID6GEG8O.html"/>
-        <updated>2024-08-28T05:36:09.504Z</updated>
-        <content type="html"><![CDATA[45 091 km Benzyna Automatyczna 2020 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 225 KM • Dealer, VAT 23%, GT Pack, EAT8, 1,6 benzyna 224KM, Kombi, Salon PL (Otomoto)]]></title>
@@ -408,7 +401,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-t5-awd-r-design-biala-perla-ID6GJ3VP.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-t5-awd-r-design-biala-perla-ID6GJ3VP.html"/>
         <updated>2024-09-07T05:35:41.708Z</updated>
-        <content type="html"><![CDATA[23 000 km Benzyna Automatyczna 2022 127 000]]></content>
+        <content type="html"><![CDATA[18 000 km Benzyna Automatyczna 2022 127 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic Inscription1 477 cm3 • 163 KM • SPORT 163km FULL skora alu18 Navi Matrix Kamera ACC (Otomoto)]]></title>
@@ -656,11 +649,11 @@
         <content type="html"><![CDATA[ 13 000  – 21 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platforms Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
-        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
-        <updated>2024-08-29T17:34:44.361Z</updated>
-        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
+        <updated>2024-09-03T17:35:39.231Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SRE Devops (Linux/C++) (6 Months) - Remote (NoFluffJobs)]]></title>
@@ -677,11 +670,11 @@
         <content type="html"><![CDATA[ 14 700  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
-        <updated>2024-09-03T17:35:39.231Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
+        <title type="html"><![CDATA[Platforms Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
+        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
+        <updated>2024-08-29T17:34:44.361Z</updated>
+        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Junior Cloud DevOps Engineer - Remote (NoFluffJobs)]]></title>
@@ -691,11 +684,11 @@
         <content type="html"><![CDATA[ 12 000  – 14 700  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
-        <updated>2024-09-04T17:37:48.967Z</updated>
-        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
+        <updated>2024-09-04T17:37:48.962Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
@@ -712,25 +705,11 @@
         <content type="html"><![CDATA[ 24 150  – 30 450  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-devire-warszawa-7d1joqag"/>
-        <updated>2024-09-04T17:37:48.962Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
-        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
-        <updated>2024-09-05T17:34:58.016Z</updated>
-        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh"/>
-        <updated>2024-09-05T17:34:58.017Z</updated>
-        <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-gft-poland-poznan-gq89inrl"/>
+        <updated>2024-09-04T17:37:48.967Z</updated>
+        <content type="html"><![CDATA[ 22 848  – 29 064  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior MLOps Engineer (NoFluffJobs)]]></title>
@@ -747,11 +726,25 @@
         <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevSecOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2</id>
-        <link href="https://nofluffjobs.com/pl/job/devsecops-engineer-adaptiq-remote-3qkebmr2"/>
-        <updated>2024-09-05T17:34:58.019Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 7 000  USD ]]></content>
+        <title type="html"><![CDATA[Platform Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns</id>
+        <link href="https://nofluffjobs.com/pl/job/platform-engineer-raiffeisen-tech-remote-hvuc9rns"/>
+        <updated>2024-09-05T17:34:58.016Z</updated>
+        <content type="html"><![CDATA[ 24 000  – 30 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-cloud-engineer-adform-warszawa-f3aciffh"/>
+        <updated>2024-09-05T17:34:58.017Z</updated>
+        <content type="html"><![CDATA[ 19 930  – 28 360  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
+        <updated>2024-09-04T17:37:48.961Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
@@ -761,10 +754,10 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior AWS DevOps Engineer (+ Python Backend) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-aws-devops-engineer-python-backend-1dea-remote-kg4tdvcd"/>
-        <updated>2024-09-04T17:37:48.961Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[Inżynier ds. DevOps (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/inzynier-ds-devops-exatel-remote-v5kfmbyk</id>
+        <link href="https://nofluffjobs.com/pl/job/inzynier-ds-devops-exatel-remote-v5kfmbyk"/>
+        <updated>2024-09-07T17:34:28.263Z</updated>
+        <content type="html"><![CDATA[ 14 000  – 17 000  PLN ]]></content>
     </entry>
 </feed>
