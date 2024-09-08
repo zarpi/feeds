@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-07T17:34:41.220Z</updated>
+    <updated>2024-09-08T05:36:54.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • 180KM*FullLed*Nawigacja*Kamera*Pół Skóra*KeyLess*FakturaVAT23% (Otomoto)]]></title>
@@ -397,6 +397,13 @@
         <content type="html"><![CDATA[137 000 km Benzyna Automatyczna 2020 93 480]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • Volvo XC40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-ID6GJaJy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-ID6GJaJy.html"/>
+        <updated>2024-09-08T05:36:36.771Z</updated>
+        <content type="html"><![CDATA[56 000 km Benzyna Manualna 2020 119 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design1 969 cm3 • 250 KM • 2.0 T5 AWD R-Design Biała Perła (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-t5-awd-r-design-biala-perla-ID6GJ3VP.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-t5-awd-r-design-biala-perla-ID6GJ3VP.html"/>
@@ -612,13 +619,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0l-awd-automat-t5-inscription-ID6GGKwi.html"/>
         <updated>2024-09-07T05:35:41.742Z</updated>
         <content type="html"><![CDATA[48 344 km Benzyna Automatyczna 2021 85 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • WD7296P#T3 Momentum Pro Podgrz.f I kier K.cofania Salon PL VAT 23% (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wd7296p-t3-momentum-pro-podgrz-f-i-kier-k-cofania-salon-pl-vat-23-ID6GGsiq.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wd7296p-t3-momentum-pro-podgrz-f-i-kier-k-cofania-salon-pl-vat-23-ID6GGsiq.html"/>
-        <updated>2024-09-07T05:35:41.745Z</updated>
-        <content type="html"><![CDATA[94 645 km Benzyna Automatyczna 2021 116 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior AWS DevOps + Backend - Remote (NoFluffJobs)]]></title>
