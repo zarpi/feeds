@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-09-09T17:37:02.228Z</updated>
+    <updated>2024-09-10T05:37:32.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[113 200 km Benzyna Automatyczna 2021 126 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line1 984 cm3 • 265 KM • Audi Q5 2022 PRESTIGE S-LINE 4x4 quattro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2022-prestige-s-line-4x4-quattro-ID6GJ5w8.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-2022-prestige-s-line-4x4-quattro-ID6GJ5w8.html"/>
+        <updated>2024-09-10T05:37:10.317Z</updated>
+        <content type="html"><![CDATA[29 601 km Benzyna Automatyczna 2022 89 999]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic S line1 984 cm3 • 150 KM • 35TFSi 150ps Manual S-Line LED Side Assist Podgrzewane fotele JAK NOWA]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-150ps-manual-s-line-led-side-assist-podgrzewane-fotele-jak-nowa-ID6GIXmC.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35tfsi-150ps-manual-s-line-led-side-assist-podgrzewane-fotele-jak-nowa-ID6GIXmC.html"/>
@@ -276,7 +283,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-ID6GHT6N.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-ID6GHT6N.html"/>
         <updated>2024-09-04T17:37:36.902Z</updated>
-        <content type="html"><![CDATA[86 345 km Benzyna Automatyczna 2020 128 900]]></content>
+        <content type="html"><![CDATA[86 345 km Benzyna Automatyczna 2020 125 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 245 KM • Audi Q5 Premium Plus 45 TFSI quattro, od ubezpieczalni]]></title>
@@ -403,13 +410,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-salon-polska-fv23-gwarancja-serwisowa-73089-netto-ID6GFBBS.html"/>
         <updated>2024-09-04T17:37:37.062Z</updated>
         <content type="html"><![CDATA[119 413 km Benzyna Automatyczna 2020 89 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Q5 Premium Plus S-Line Quattro]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-premium-plus-s-line-quattro-ID6GFzro.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-premium-plus-s-line-quattro-ID6GFzro.html"/>
-        <updated>2024-09-04T17:37:37.067Z</updated>
-        <content type="html"><![CDATA[9 718 km Benzyna Automatyczna 2023 119 770]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 197 KM • FV23%,Tempomat,Kamera,Harman,Gwarancja,Akcesoria,Drywa Gdańsk]]></title>
