@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-09-24T05:39:04.076Z</updated>
+    <updated>2024-09-24T17:38:53.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[DevOps Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4"/>
-        <updated>2024-09-17T17:36:07.771Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 25 200  PLN ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Developer]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote"/>
         <updated>2024-09-16T17:39:15.451Z</updated>
         <content type="html"><![CDATA[ 16 500  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4"/>
+        <updated>2024-09-17T17:36:07.771Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 25 200  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
@@ -38,28 +38,14 @@
         <id>https://nofluffjobs.com/pl/job/devops-engineer-dedicatted-remote-1</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-dedicatted-remote-1"/>
         <updated>2024-09-18T17:35:40.398Z</updated>
-        <content type="html"><![CDATA[ 7 714  – 15 428  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/mlops-engineer-avenga-remote-3</id>
-        <link href="https://nofluffjobs.com/pl/job/mlops-engineer-avenga-remote-3"/>
-        <updated>2024-09-18T17:35:40.399Z</updated>
-        <content type="html"><![CDATA[ 19 320  – 22 680  PLN ]]></content>
+        <content type="html"><![CDATA[ 7 660  – 15 320  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Mérnök (részmunkaidő) - Távmunka]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote</id>
         <link href="https://nofluffjobs.com/pl/job/devops-mernok-reszmunkaido-tavmunka-coincash-remote"/>
         <updated>2024-08-30T17:35:48.673Z</updated>
-        <content type="html"><![CDATA[ 8 677  – 13 016  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systems Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/systems-engineer-onwelo-remote</id>
-        <link href="https://nofluffjobs.com/pl/job/systems-engineer-onwelo-remote"/>
-        <updated>2024-09-19T17:35:46.647Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <content type="html"><![CDATA[ 8 643  – 12 964  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (Infrastructure)]]></title>
@@ -69,6 +55,13 @@
         <content type="html"><![CDATA[ 15 960  – 24 024  PLN ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Systems Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/systems-engineer-onwelo-remote</id>
+        <link href="https://nofluffjobs.com/pl/job/systems-engineer-onwelo-remote"/>
+        <updated>2024-09-19T17:35:46.647Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Engineer DevOps/Admin]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-engineer-devops-admin-itds-warszawa-ybyy6ctp"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[ 14 700  – 21 840  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
-        <updated>2024-09-03T17:35:39.231Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
+        <title type="html"><![CDATA[Platforms Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
+        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
+        <updated>2024-08-29T17:34:44.361Z</updated>
+        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud SRE Engineer]]></title>
@@ -102,13 +95,6 @@
         <link href="https://nofluffjobs.com/pl/job/system-engineer-kubernetes-remote-scalo-2uhtws4m"/>
         <updated>2024-09-11T17:36:55.767Z</updated>
         <content type="html"><![CDATA[ 25 200  – 30 240  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Azure MLOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-azure-mlops-engineer-hubquest-remote-ewsdmdnw</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-azure-mlops-engineer-hubquest-remote-ewsdmdnw"/>
-        <updated>2024-09-22T17:35:37.954Z</updated>
-        <content type="html"><![CDATA[ 30 000  – 37 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer]]></title>
@@ -139,10 +125,24 @@
         <content type="html"><![CDATA[ 23 520  – 26 880  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platforms Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v</id>
-        <link href="https://nofluffjobs.com/pl/job/platforms-engineer-chorus-one-remote-rwphkp1v"/>
-        <updated>2024-08-29T17:34:44.361Z</updated>
-        <content type="html"><![CDATA[ 6 666  – 12 500  EUR ]]></content>
+        <title type="html"><![CDATA[Cloud Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-engineer-sni-remote-nzybub0m"/>
+        <updated>2024-09-03T17:35:39.231Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 25 200  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devops Engineer with Azure - Remote]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo"/>
+        <updated>2024-09-24T17:38:39.387Z</updated>
+        <content type="html"><![CDATA[ 15 000  – 16 500  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junior It System Administrator]]></title>
+        <id>https://nofluffjobs.com/pl/job/junior-it-system-administrator-aptvision-polska-lodz-math6lqs</id>
+        <link href="https://nofluffjobs.com/pl/job/junior-it-system-administrator-aptvision-polska-lodz-math6lqs"/>
+        <updated>2024-09-24T17:38:39.389Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
 </feed>
