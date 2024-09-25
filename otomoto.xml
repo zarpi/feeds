@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-09-24T17:38:53.899Z</updated>
+    <updated>2024-09-25T05:38:52.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -193,6 +193,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sw-puretech-2020-fv23-od-ria-ID6GcSvu.html"/>
         <updated>2024-09-18T17:35:21.985Z</updated>
         <content type="html"><![CDATA[118 934 km Benzyna Automatyczna 2020 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A41 984 cm3 • 190 KM • 40 TFSI Design , Salon Polska, 1. Właściciel, Serwis ASO, Automat,]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6GLHWY.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-40-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6GLHWY.html"/>
+        <updated>2024-09-25T05:38:24.884Z</updated>
+        <content type="html"><![CDATA[91 938 km Benzyna Automatyczna 2020 109 001]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 245 KM • Audi Q5 Premium Plus]]></title>
@@ -412,13 +419,6 @@
         <content type="html"><![CDATA[100 000 km Benzyna Automatyczna 2020 106 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GJhDc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GJhDc.html"/>
-        <updated>2024-09-24T05:38:41.467Z</updated>
-        <content type="html"><![CDATA[22 248 km Benzyna Automatyczna 2022 124 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-salon-polska-ID6GLGgI.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-salon-polska-ID6GLGgI.html"/>
@@ -598,7 +598,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-miekka-hybryda-momentum-4x4-skora-ID6GJMHV.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-miekka-hybryda-momentum-4x4-skora-ID6GJMHV.html"/>
         <updated>2024-09-23T05:38:43.692Z</updated>
-        <content type="html"><![CDATA[116 000 km Benzyna Automatyczna 2020 87 900]]></content>
+        <content type="html"><![CDATA[116 000 km Benzyna Automatyczna 2020 85 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T41 969 cm3 • 190 KM • T4 Benzyna 190KM Automat Skóry]]></title>
