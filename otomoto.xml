@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-09-28T17:34:36.397Z</updated>
+    <updated>2024-09-29T05:37:18.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -447,6 +447,13 @@
         <content type="html"><![CDATA[29 658 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Dark1 969 cm3 • 250 KM • 4X4 B5 Polecam]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-4x4-b5-polecam-ID6GMoLO.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-4x4-b5-polecam-ID6GMoLO.html"/>
+        <updated>2024-09-29T05:37:00.159Z</updated>
+        <content type="html"><![CDATA[62 121 km Benzyna Automatyczna 2022 113 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-1-5-t3-163-km-manual-ID6GMnHL.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-1-5-t3-163-km-manual-ID6GMnHL.html"/>
@@ -662,12 +669,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-fv23-momentum-pro-t4-210km-polestar-aut-kamera-volvo-bydgoszcz-ID6GKIhd.html"/>
         <updated>2024-09-23T05:38:43.659Z</updated>
         <content type="html"><![CDATA[107 847 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core1 477 cm3 • 163 KM • Sprzedam SUV Volvo XC 40 , stan idealny, bezwypadkowy gwarancja]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-suv-volvo-xc-40-stan-idealny-bezwypadkowy-gwarancja-ID6GKERE.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-suv-volvo-xc-40-stan-idealny-bezwypadkowy-gwarancja-ID6GKERE.html"/>
-        <updated>2024-09-26T17:39:55.845Z</updated>
-        <content type="html"><![CDATA[38 250 km Benzyna Automatyczna 2022 129 700]]></content>
     </entry>
 </feed>
