@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2024-10-01T17:37:15.776Z</updated>
+    <updated>2024-10-02T05:39:06.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT1 598 cm3 • 181 KM • 1.6 pb 181ps F-VAT 23% GT Max opcja]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pb-181ps-f-vat-23-gt-max-opcja-ID6GMNb0.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-pb-181ps-f-vat-23-gt-max-opcja-ID6GMNb0.html"/>
+        <updated>2024-10-02T05:38:32.277Z</updated>
+        <content type="html"><![CDATA[51 300 km Benzyna Automatyczna 2021 119 899]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT Line 180KM, 2020r. FV23% * FullLED * Okno dachowe * Kamera * Autom]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-180km-2020r-fv23-fullled-okno-dachowe-kamera-autom-ID6GMGLx.html</id>
@@ -221,13 +228,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html"/>
         <updated>2024-09-27T17:36:47.462Z</updated>
         <content type="html"><![CDATA[69 914 km Benzyna Automatyczna 2020 93 100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • SW PureTech / 2020 / FV23 / Od RiA]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-sw-puretech-2020-fv23-od-ria-ID6GcSvu.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-sw-puretech-2020-fv23-od-ria-ID6GcSvu.html"/>
-        <updated>2024-09-27T17:36:47.463Z</updated>
-        <content type="html"><![CDATA[118 934 km Benzyna Automatyczna 2020 86 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic1 984 cm3 • 245 KM • QUATTRO Panorama MATRIX Faktura VAt]]></title>
@@ -472,7 +472,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t5-awd-ID6GMz5C.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t5-awd-ID6GMz5C.html"/>
         <updated>2024-09-30T17:37:07.089Z</updated>
-        <content type="html"><![CDATA[84 122 km Benzyna Automatyczna 2020 84 900]]></content>
+        <content type="html"><![CDATA[84 122 km Benzyna Automatyczna 2020 83 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 197 KM • B4 D AWD Momentum 197KM Salon PL F-VAT23%]]></title>
@@ -559,25 +559,18 @@
         <content type="html"><![CDATA[79 574 km Benzyna Automatyczna 2022 119 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum1 969 cm3 • 197 KM • 197 KM,Blis, ACC,ASO, 100% bezwyp. skóry, kamery 360, ele.klapa, LIFT!]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html"/>
-        <updated>2024-09-28T05:37:29.357Z</updated>
-        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 115 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 T4 Geartronic Momentum Pro1 969 cm3 • 190 KM • T4 190ps ! FULL LED ! SKÓRA ! ALUS19! Bogata Wersja ! 2020]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190ps-full-led-skora-alus19-bogata-wersja-2020-ID6GLE5R.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190ps-full-led-skora-alus19-bogata-wersja-2020-ID6GLE5R.html"/>
-        <updated>2024-09-27T17:37:08.036Z</updated>
-        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 90 800]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic R-Design1 969 cm3 • 247 KM • Dostępny od ręki w kraju Bardzo ładny]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-dostepny-od-reki-w-kraju-bardzo-ladny-ID6GMjWR.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-dostepny-od-reki-w-kraju-bardzo-ladny-ID6GMjWR.html"/>
         <updated>2024-09-27T17:37:08.004Z</updated>
         <content type="html"><![CDATA[97 000 km Benzyna Automatyczna 2020 81 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum1 969 cm3 • 197 KM • 197 KM,Blis, ACC,ASO, 100% bezwyp. skóry, kamery 360, ele.klapa, LIFT!]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html"/>
+        <updated>2024-09-28T05:37:29.357Z</updated>
+        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 115 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3, Salon Polska, 1. Właściciel, VAT 23%, Klimatronic, Tempomat]]></title>
@@ -650,13 +643,6 @@
         <content type="html"><![CDATA[51 000 km Benzyna Automatyczna 2021 126 800]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 156 KM • R-Design Bezwypadkowy Oryginalny Lakier Gwarancja 1 Rok]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-bezwypadkowy-oryginalny-lakier-gwarancja-1-rok-ID6GLORc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-bezwypadkowy-oryginalny-lakier-gwarancja-1-rok-ID6GLORc.html"/>
-        <updated>2024-09-26T05:38:43.627Z</updated>
-        <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T31 477 cm3 • 163 KM • sprzedam z pierwszej ręki Volvo XC 40]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-z-pierwszej-reki-volvo-xc-40-ID6GLPB4.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-z-pierwszej-reki-volvo-xc-40-ID6GLPB4.html"/>
@@ -664,11 +650,25 @@
         <content type="html"><![CDATA[33 000 km Benzyna Manualna 2021 110 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 156 KM • R-Design Bezwypadkowy Oryginalny Lakier Gwarancja 1 Rok]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-bezwypadkowy-oryginalny-lakier-gwarancja-1-rok-ID6GLORc.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-bezwypadkowy-oryginalny-lakier-gwarancja-1-rok-ID6GLORc.html"/>
+        <updated>2024-09-26T05:38:43.627Z</updated>
+        <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-salon-polska-ID6GLGgI.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-salon-polska-ID6GLGgI.html"/>
         <updated>2024-09-24T17:38:33.314Z</updated>
         <content type="html"><![CDATA[36 600 km Benzyna Automatyczna 2022 95 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 Geartronic Momentum Pro1 969 cm3 • 190 KM • T4 190ps ! FULL LED ! SKÓRA ! ALUS19! Bogata Wersja ! 2020]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190ps-full-led-skora-alus19-bogata-wersja-2020-ID6GLE5R.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190ps-full-led-skora-alus19-bogata-wersja-2020-ID6GLE5R.html"/>
+        <updated>2024-09-27T17:37:08.036Z</updated>
+        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 90 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V601 969 cm3 • 163 KM • V60 B3 B Plus Bright aut]]></title>
