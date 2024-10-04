@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T05:39:32.384Z</updated>
+    <updated>2024-10-04T17:36:36.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT81 598 cm3 • 180 KM • Salon PL / Pełny serwis ASO / FV23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-salon-pl-pelny-serwis-aso-fv23-ID6GNdjj.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-salon-pl-pelny-serwis-aso-fv23-ID6GNdjj.html"/>
+        <updated>2024-10-04T17:36:08.252Z</updated>
+        <content type="html"><![CDATA[38 450 km Benzyna Automatyczna 2020 104 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 30081 598 cm3 • 180 KM • ! GT Line !, 2020r. ! F-vat 23% ! Bezwypadkowy ! Gwarancja Przebiegu i (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-2020r-f-vat-23-bezwypadkowy-gwarancja-przebiegu-i-ID6GN2wl.html</id>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[70 009 km Benzyna Automatyczna 2020 122 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% | (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6GIGB3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6GIGB3.html"/>
-        <updated>2024-09-27T17:36:47.440Z</updated>
-        <content type="html"><![CDATA[86 236 km Benzyna Automatyczna 2021 109 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • Allure, 2021r. | Kamera Przód/ Tył | Czujniki | Asystent Jazdy | (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-allure-2021r-kamera-przod-tyl-czujniki-asystent-jazdy-ID6GIo7b.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-allure-2021r-kamera-przod-tyl-czujniki-asystent-jazdy-ID6GIo7b.html"/>
@@ -201,10 +201,10 @@
         <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 93 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • Peugeot 508SW 2021r, 1.6b 180KM, Salon PL, 1 właściciel, oferta prywat (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-2021r-1-6b-180km-salon-pl-1-wlasciciel-oferta-prywat-ID6GzWGE.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-2021r-1-6b-180km-salon-pl-1-wlasciciel-oferta-prywat-ID6GzWGE.html"/>
-        <updated>2024-10-03T05:38:47.080Z</updated>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • Peugeot 508SW +wyjątkowy prezent Nowy Termomix® TM6 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-wyjatkowy-prezent-nowy-termomix-tm6-ID6GzWGE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508sw-wyjatkowy-prezent-nowy-termomix-tm6-ID6GzWGE.html"/>
+        <updated>2024-10-04T17:36:08.300Z</updated>
         <content type="html"><![CDATA[64 000 km Benzyna Automatyczna 2021 109 900]]></content>
     </entry>
     <entry>
@@ -227,6 +227,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html"/>
         <updated>2024-09-27T17:36:47.462Z</updated>
         <content type="html"><![CDATA[69 914 km Benzyna Automatyczna 2020 93 100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A41 984 cm3 • 150 KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GNfVG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6GNfVG.html"/>
+        <updated>2024-10-04T17:36:13.332Z</updated>
+        <content type="html"><![CDATA[54 785 km Benzyna Automatyczna 2021 104 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic S line1 984 cm3 • 150 KM • MHEV Nawigacja Skórzana Tapicerka Kamera Cofania Elektryczna Klapa (Otomoto)]]></title>
@@ -408,7 +415,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40tfsi-190km-s-tronic-2020-r-salon-pl-i-wl-f-a-vat-ID6GKoxD.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-40tfsi-190km-s-tronic-2020-r-salon-pl-i-wl-f-a-vat-ID6GKoxD.html"/>
         <updated>2024-09-24T05:38:41.430Z</updated>
-        <content type="html"><![CDATA[100 900 km Benzyna Automatyczna 2020 92 900]]></content>
+        <content type="html"><![CDATA[100 900 km Benzyna Automatyczna 2020 92 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • Q5 Premium Plus S-Line Quattro (Otomoto)]]></title>
@@ -446,18 +453,228 @@
         <content type="html"><![CDATA[137 000 km Benzyna Automatyczna 2020 93 480]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q51 984 cm3 • 265 KM • zadbany serwisowany piękny środek niski przebieg (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-zadbany-serwisowany-piekny-srodek-niski-przebieg-ID6GK3DA.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-zadbany-serwisowany-piekny-srodek-niski-przebieg-ID6GK3DA.html"/>
-        <updated>2024-09-24T05:38:41.443Z</updated>
-        <content type="html"><![CDATA[8 780 km Benzyna Automatyczna 2024 89 950]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark1 969 cm3 • 250 KM • Hybrid Mild Mega okazja!!! kosmetycznie uszkodzone (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-hybrid-mild-mega-okazja-kosmetycznie-uszkodzone-ID6GNi5m.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-hybrid-mild-mega-okazja-kosmetycznie-uszkodzone-ID6GNi5m.html"/>
+        <updated>2024-10-04T17:36:17.736Z</updated>
+        <content type="html"><![CDATA[26 000 km Benzyna Automatyczna 2023 128 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4"/>
-        <updated>2024-09-17T17:36:07.771Z</updated>
-        <content type="html"><![CDATA[ 18 480  – 25 200  PLN ]]></content>
+        <title type="html"><![CDATA[ (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GNceo.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6GNceo.html"/>
+        <updated>2024-10-04T17:36:17.737Z</updated>
+        <content type="html"><![CDATA[42 621 km Benzyna Automatyczna 2020 116 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • 2021r. XC40 T3 163KM MOMENTUM Salon Polska DW4PK96 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-xc40-t3-163km-momentum-salon-polska-dw4pk96-ID6GN50P.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-xc40-t3-163km-momentum-salon-polska-dw4pk96-ID6GN50P.html"/>
+        <updated>2024-10-04T17:36:17.738Z</updated>
+        <content type="html"><![CDATA[49 618 km Benzyna Automatyczna 2021 126 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 Geartronic Momentum Pro1 969 cm3 • 190 KM • T4 190KM Momentum Pro Salon DE. FV-23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-momentum-pro-salon-de-fv-23-ID6GN4MF.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-t4-190km-momentum-pro-salon-de-fv-23-ID6GN4MF.html"/>
+        <updated>2024-10-04T17:36:17.739Z</updated>
+        <content type="html"><![CDATA[126 031 km Benzyna Automatyczna 2020 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 Cross Country B5 B AWD Ultimate1 969 cm3 • 250 KM • 2.0 T5 250PS AWD CorssCountry*Harman&Kardon*Virtual*Panorama*Full LED (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-2-0-t5-250ps-awd-corsscountryharman-kardonvirtualpanoramafull-led-ID6GN3Jw.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-2-0-t5-250ps-awd-corsscountryharman-kardonvirtualpanoramafull-led-ID6GN3Jw.html"/>
+        <updated>2024-10-04T17:36:17.740Z</updated>
+        <content type="html"><![CDATA[70 000 km Benzyna Automatyczna 2021 129 200]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 969 cm3 • 190 KM • 2020 Volvo XC40 T5 AWD 2.0l fvat 23% - NISKI PRZEBIEG (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2020-volvo-xc40-t5-awd-2-0l-fvat-23-niski-przebieg-ID6GN3CU.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2020-volvo-xc40-t5-awd-2-0l-fvat-23-niski-przebieg-ID6GN3CU.html"/>
+        <updated>2024-10-04T17:36:17.741Z</updated>
+        <content type="html"><![CDATA[49 000 km Benzyna Automatyczna 2020 121 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-r-design-kamera-360-blis-fv23-volvo-selekt-ID6GN3wL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-r-design-kamera-360-blis-fv23-volvo-selekt-ID6GN3wL.html"/>
+        <updated>2024-10-04T17:36:17.746Z</updated>
+        <content type="html"><![CDATA[84 714 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark1 969 cm3 • 250 KM • 286Km przebiegu 4x4 Polecam (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-286km-przebiegu-4x4-polecam-ID6GMWiL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-286km-przebiegu-4x4-polecam-ID6GMWiL.html"/>
+        <updated>2024-10-04T17:36:17.747Z</updated>
+        <content type="html"><![CDATA[286 km Benzyna Automatyczna 2024 109 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • T3 163km Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-pro-ID6GMWhj.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-163km-momentum-pro-ID6GMWhj.html"/>
+        <updated>2024-10-04T17:36:17.748Z</updated>
+        <content type="html"><![CDATA[71 300 km Benzyna Automatyczna 2020 120 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design1 969 cm3 • 247 KM • 2.0 R-Design AWD (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-r-design-awd-ID6GMUB7.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-r-design-awd-ID6GMUB7.html"/>
+        <updated>2024-10-04T17:36:17.750Z</updated>
+        <content type="html"><![CDATA[50 000 km Benzyna Automatyczna 2021 99 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Ultimate Dark1 969 cm3 • 250 KM • Volvo xc40 miękka hybryda hybrid (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-miekka-hybryda-hybrid-ID6GMSzl.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-miekka-hybryda-hybrid-ID6GMSzl.html"/>
+        <updated>2024-10-04T17:36:17.751Z</updated>
+        <content type="html"><![CDATA[10 000 km Benzyna Automatyczna 2023 83 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • Volvo Xc40 T3 Momentum Core aut Ogrz Fotele Kamera Salonpl Vat23 Właśc (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-core-aut-ogrz-fotele-kamera-salonpl-vat23-wlasc-ID6GMI1Y.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-core-aut-ogrz-fotele-kamera-salonpl-vat23-wlasc-ID6GMI1Y.html"/>
+        <updated>2024-10-04T17:36:17.752Z</updated>
+        <content type="html"><![CDATA[70 033 km Benzyna Automatyczna 2021 119 899]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-1-5-t3-163-km-manual-ID6GMElL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-1-5-t3-163-km-manual-ID6GMElL.html"/>
+        <updated>2024-10-04T17:36:17.754Z</updated>
+        <content type="html"><![CDATA[70 500 km Benzyna Manualna 2020 108 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T5 Geartronic Momentum Pro1 969 cm3 • 250 KM • Volvo XC60 T5 AWD (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t5-awd-ID6GMz5C.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t5-awd-ID6GMz5C.html"/>
+        <updated>2024-10-04T17:36:17.755Z</updated>
+        <content type="html"><![CDATA[84 122 km Benzyna Automatyczna 2020 82 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 197 KM • B4 D AWD Momentum 197KM Salon PL F-VAT23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b4-d-awd-momentum-197km-salon-pl-f-vat23-ID6GMy54.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-b4-d-awd-momentum-197km-salon-pl-f-vat23-ID6GMy54.html"/>
+        <updated>2024-10-04T17:36:17.756Z</updated>
+        <content type="html"><![CDATA[72 485 km Benzyna Automatyczna 2021 121 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 602 000 cm3 • 330 KM • 2021 T6 INSCRIPTION, 330KM, 4x4, od ubezpieczalni (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2021-t6-inscription-330km-4x4-od-ubezpieczalni-ID6GMwi9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2021-t6-inscription-330km-4x4-od-ubezpieczalni-ID6GMwi9.html"/>
+        <updated>2024-10-04T17:36:17.757Z</updated>
+        <content type="html"><![CDATA[93 000 km Benzyna Automatyczna 2021 88 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T5 AWD Geartronic Momentum1 969 cm3 • 250 KM • Volvo v 60 Cross Country T5 + LPG Prins (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v-60-cross-country-t5-lpg-prins-ID6GMuf0.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v-60-cross-country-t5-lpg-prins-ID6GMuf0.html"/>
+        <updated>2024-10-04T17:36:17.759Z</updated>
+        <content type="html"><![CDATA[74 870 km Benzyna Automatyczna 2020 125 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Inscription1 477 cm3 • 163 KM • EUROPA INSCRIPTION asystent kamery 360 skóry pamięć (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-europa-inscription-asystent-kamery-360-skory-pamiec-ID6GMq6w.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-europa-inscription-asystent-kamery-360-skory-pamiec-ID6GMq6w.html"/>
+        <updated>2024-10-04T17:36:17.760Z</updated>
+        <content type="html"><![CDATA[33 072 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Dark1 969 cm3 • 250 KM • 4X4 B5 Polecam (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-4x4-b5-polecam-ID6GMoLO.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-4x4-b5-polecam-ID6GMoLO.html"/>
+        <updated>2024-10-04T17:36:17.761Z</updated>
+        <content type="html"><![CDATA[62 121 km Benzyna Automatyczna 2022 113 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T5 Momentum Pro1 969 cm3 • 254 KM • Pilot Assist, Kamery 360, Asystenci, Bardzo bezpieczny (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-pilot-assist-kamery-360-asystenci-bardzo-bezpieczny-ID6GMnlu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-pilot-assist-kamery-360-asystenci-bardzo-bezpieczny-ID6GMnlu.html"/>
+        <updated>2024-10-04T17:36:17.762Z</updated>
+        <content type="html"><![CDATA[47 800 km Benzyna Automatyczna 2020 124 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 601 969 cm3 • 254 KM • Volvo xc 60 AWD B5 2024r (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-awd-b5-2024r-ID6GMn6V.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-awd-b5-2024r-ID6GMn6V.html"/>
+        <updated>2024-10-04T17:36:17.774Z</updated>
+        <content type="html"><![CDATA[6 000 km Benzyna Automatyczna 2024 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 Momentum1 969 cm3 • 190 KM • Volvo V60 benzyna Salon PL Mega Stan (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-benzyna-salon-pl-mega-stan-ID6GMmBX.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-benzyna-salon-pl-mega-stan-ID6GMmBX.html"/>
+        <updated>2024-10-04T17:36:17.775Z</updated>
+        <content type="html"><![CDATA[65 300 km Benzyna Automatyczna 2020 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B4 B AWD Geartronic Inscription1 969 cm3 • 197 KM • Wyjątkowy Model=Perfekcyjny Stan=Inscription RED=87tys (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wyjatkowy-modelperfekcyjny-staninscription-red87tys-ID6GMlgE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wyjatkowy-modelperfekcyjny-staninscription-red87tys-ID6GMlgE.html"/>
+        <updated>2024-10-04T17:36:17.776Z</updated>
+        <content type="html"><![CDATA[87 000 km Benzyna Automatyczna 2021 127 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B3 B DKG Inscription1 969 cm3 • 163 KM • Hybryda, przbieg 79 000 km ! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-hybryda-przbieg-79-000-km-ID6GMlfy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-hybryda-przbieg-79-000-km-ID6GMlfy.html"/>
+        <updated>2024-10-04T17:36:17.778Z</updated>
+        <content type="html"><![CDATA[79 574 km Benzyna Automatyczna 2022 119 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum1 969 cm3 • 197 KM • 197 KM,Blis, ACC,ASO, 100% bezwyp. skóry, kamery 360, ele.klapa, LIFT! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-197-km-blis-acc-aso-100-bezwyp-skory-kamery-360-ele-klapa-lift-ID6GMhW7.html"/>
+        <updated>2024-10-04T17:36:17.779Z</updated>
+        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2020 115 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3, Salon Polska, 1. Właściciel, VAT 23%, Klimatronic, Tempomat (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-salon-polska-1-wlasciciel-vat-23-klimatronic-tempomat-ID6GM91V.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-salon-polska-1-wlasciciel-vat-23-klimatronic-tempomat-ID6GM91V.html"/>
+        <updated>2024-10-04T17:36:17.780Z</updated>
+        <content type="html"><![CDATA[81 397 km Benzyna Manualna 2020 95 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T4 Momentum Pro1 969 cm3 • 190 KM • Bezwyp.SALON PL.1-właść.HARMAN CARDON.Kamera.VIRTUAL.Pół-Skóra. (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwyp-salon-pl-1-wlasc-harman-cardon-kamera-virtual-pol-skora-ID6GM2it.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-bezwyp-salon-pl-1-wlasc-harman-cardon-kamera-virtual-pol-skora-ID6GM2it.html"/>
+        <updated>2024-10-04T17:36:17.781Z</updated>
+        <content type="html"><![CDATA[59 500 km Benzyna Automatyczna 2020 127 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • VOLVO XC40 T3 Momentum aut (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-aut-ID6GM1EL.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t3-momentum-aut-ID6GM1EL.html"/>
+        <updated>2024-10-04T17:36:17.784Z</updated>
+        <content type="html"><![CDATA[65 410 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Ultimate Bright1 969 cm3 • 250 KM • w Polsce (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-w-polsce-ID6GLXsA.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-w-polsce-ID6GLXsA.html"/>
+        <updated>2024-10-04T17:36:17.785Z</updated>
+        <content type="html"><![CDATA[24 000 km Benzyna Automatyczna 2023 120 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 401 477 cm3 • 163 KM • T3 Momentum Pro! Z Polskiego Salonu ! Faktura 23% ! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GLXk9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-z-polskiego-salonu-faktura-23-ID6GLXk9.html"/>
+        <updated>2024-10-04T17:36:17.788Z</updated>
+        <content type="html"><![CDATA[135 000 km Benzyna Automatyczna 2021 106 850]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 R-Design1 477 cm3 • 163 KM • R-Design Roczna Gwarancja! (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-roczna-gwarancja-ID6GLWYr.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-roczna-gwarancja-ID6GLWYr.html"/>
+        <updated>2024-10-04T17:36:17.789Z</updated>
+        <content type="html"><![CDATA[130 346 km Benzyna Automatyczna 2020 104 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro1 477 cm3 • 163 KM • WD7292P#T3 Momentum Pro Podgrz.f I kier K.cofania Salon PL VAT 23% (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wd7292p-t3-momentum-pro-podgrz-f-i-kier-k-cofania-salon-pl-vat-23-ID6GLWPq.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-wd7292p-t3-momentum-pro-podgrz-f-i-kier-k-cofania-salon-pl-vat-23-ID6GLWPq.html"/>
+        <updated>2024-10-04T17:36:17.791Z</updated>
+        <content type="html"><![CDATA[135 555 km Benzyna Automatyczna 2021 107 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Developer (NoFluffJobs)]]></title>
@@ -465,6 +682,13 @@
         <link href="https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote"/>
         <updated>2024-09-16T17:39:15.451Z</updated>
         <content type="html"><![CDATA[ 16 500  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4"/>
+        <updated>2024-09-17T17:36:07.771Z</updated>
+        <content type="html"><![CDATA[ 18 480  – 25 200  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
@@ -478,7 +702,7 @@
         <id>https://nofluffjobs.com/pl/job/devops-engineer-dedicatted-remote-1</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-dedicatted-remote-1"/>
         <updated>2024-09-18T17:35:40.398Z</updated>
-        <content type="html"><![CDATA[ 7 790  – 15 580  PLN ]]></content>
+        <content type="html"><![CDATA[ 7 823  – 15 647  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web Server Administrator (NoFluffJobs)]]></title>
@@ -495,11 +719,11 @@
         <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud SRE Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-sre-engineer-t-mobile-polska-warszawa-1prxatoe</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-sre-engineer-t-mobile-polska-warszawa-1prxatoe"/>
-        <updated>2024-09-29T05:37:05.649Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[Devops Engineer with Azure - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo"/>
+        <updated>2024-09-24T17:38:39.387Z</updated>
+        <content type="html"><![CDATA[ 15 000  – 16 500  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Cloud Engineer (NoFluffJobs)]]></title>
@@ -530,46 +754,11 @@
         <content type="html"><![CDATA[ 15 000  – 22 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devops Engineer with Azure - Remote (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-with-azure-remote-link-group-tstglixo"/>
-        <updated>2024-09-24T17:38:39.387Z</updated>
-        <content type="html"><![CDATA[ 15 000  – 16 500  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-7n-warszawa-mhuykjfi</id>
-        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-7n-warszawa-mhuykjfi"/>
-        <updated>2024-09-27T17:37:13.993Z</updated>
-        <content type="html"><![CDATA[ 23 520  – 27 384  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lead Cloud Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle</id>
-        <link href="https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle"/>
-        <updated>2024-09-26T17:40:01.812Z</updated>
-        <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👉Senior Azure DevOps Engineer (with .NET) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-azure-devops-engineer-with-net-xebia-remote-bm6eprib</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-azure-devops-engineer-with-net-xebia-remote-bm6eprib"/>
-        <updated>2024-10-03T17:39:31.578Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 31 000  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Senior Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga</id>
-        <link href="https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga"/>
-        <updated>2024-10-02T17:36:51.570Z</updated>
-        <content type="html"><![CDATA[ 27 000  – 30 250  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-ezoxyua1</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-ezoxyua1"/>
-        <updated>2024-10-03T17:39:31.581Z</updated>
-        <content type="html"><![CDATA[ 26 000  – 29 000  PLN ]]></content>
+        <title type="html"><![CDATA[Cloud Platform Developer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-platform-developer-aldi-tech-hub-krakow-8qefvhdq</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-platform-developer-aldi-tech-hub-krakow-8qefvhdq"/>
+        <updated>2024-10-04T17:36:24.160Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Engineer (NoFluffJobs)]]></title>
@@ -579,17 +768,52 @@
         <content type="html"><![CDATA[ 15 960  – 21 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technical Program Manager (AWS, Kubernetes) (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/technical-program-manager-aws-kubernetes-lotusflare-krakow-2q1ptpl9</id>
-        <link href="https://nofluffjobs.com/pl/job/technical-program-manager-aws-kubernetes-lotusflare-krakow-2q1ptpl9"/>
-        <updated>2024-10-03T17:39:31.584Z</updated>
-        <content type="html"><![CDATA[ 6 500  – 9 000  USD ]]></content>
+        <title type="html"><![CDATA[Lead Cloud Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle</id>
+        <link href="https://nofluffjobs.com/pl/job/lead-cloud-engineer-adform-warszawa-huvy5kle"/>
+        <updated>2024-09-26T17:40:01.812Z</updated>
+        <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior Site Reliability Engineer (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof</id>
-        <link href="https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof"/>
-        <updated>2024-10-03T17:39:31.586Z</updated>
-        <content type="html"><![CDATA[ 4 800  – 6 500  EUR ]]></content>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
+        <updated>2024-10-04T17:36:24.171Z</updated>
+        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Scripting Engineer - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f</id>
+        <link href="https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f"/>
+        <updated>2024-10-04T17:36:24.177Z</updated>
+        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devops (Azure) - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-azure-remote-link-group-h1if68as</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-azure-remote-link-group-h1if68as"/>
+        <updated>2024-10-04T17:36:24.179Z</updated>
+        <content type="html"><![CDATA[ 22 000  – 27 000  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/cloud-devops-engineer-7n-warszawa-mhuykjfi</id>
+        <link href="https://nofluffjobs.com/pl/job/cloud-devops-engineer-7n-warszawa-mhuykjfi"/>
+        <updated>2024-09-27T17:37:13.993Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 27 384  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer (Oracle Cloud) - Remote (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-oracle-cloud-remote-kmd-poland-hmg41swf</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-oracle-cloud-remote-kmd-poland-hmg41swf"/>
+        <updated>2024-10-04T17:36:24.182Z</updated>
+        <content type="html"><![CDATA[ 20 160  – 25 200  PLN ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRE Senior Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga</id>
+        <link href="https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga"/>
+        <updated>2024-10-02T17:36:51.570Z</updated>
+        <content type="html"><![CDATA[ 27 000  – 30 250  PLN ]]></content>
     </entry>
 </feed>
