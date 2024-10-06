@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&amp;page=1</id>
     <title>NoFluffJobs</title>
-    <updated>2024-10-05T17:35:57.249Z</updated>
+    <updated>2024-10-06T05:37:13.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nofluffjobs.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-sii-polska-remote-13</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-sii-polska-remote-13"/>
+        <updated>2024-09-13T17:35:25.421Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 26 000  PLN ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Developer]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote</id>
@@ -18,13 +25,6 @@
         <link href="https://nofluffjobs.com/pl/job/devops-cloud-engineer-onwelo-remote-4"/>
         <updated>2024-09-17T17:36:07.771Z</updated>
         <content type="html"><![CDATA[ 18 480  – 25 200  PLN ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-engineer-sii-polska-remote-13</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-engineer-sii-polska-remote-13"/>
-        <updated>2024-09-13T17:35:25.421Z</updated>
-        <content type="html"><![CDATA[ 20 000  – 26 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Engineer]]></title>
@@ -104,25 +104,25 @@
         <content type="html"><![CDATA[ 28 000  – 34 000  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
-        <updated>2024-10-04T17:36:24.171Z</updated>
-        <content type="html"><![CDATA[ 26 880  – 30 240  PLN ]]></content>
+        <title type="html"><![CDATA[SRE Senior Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga</id>
+        <link href="https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga"/>
+        <updated>2024-10-02T17:36:51.570Z</updated>
+        <content type="html"><![CDATA[ 27 000  – 30 250  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Scripting Engineer - Remote]]></title>
-        <id>https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f</id>
-        <link href="https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f"/>
-        <updated>2024-10-04T17:36:24.177Z</updated>
-        <content type="html"><![CDATA[ Sprawdź Salary Match ]]></content>
+        <title type="html"><![CDATA[DevOps Engineer (k8s, Ansible, Linux)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-k8s-ansible-linux-7n-warszawa-vfj9xjgg</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-k8s-ansible-linux-7n-warszawa-vfj9xjgg"/>
+        <updated>2024-10-06T05:36:57.492Z</updated>
+        <content type="html"><![CDATA[ 23 520  – 27 384  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devops (Azure) - Remote]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-azure-remote-link-group-h1if68as</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-azure-remote-link-group-h1if68as"/>
-        <updated>2024-10-04T17:36:24.179Z</updated>
-        <content type="html"><![CDATA[ 22 000  – 27 000  PLN ]]></content>
+        <title type="html"><![CDATA[👉Senior Azure DevOps Engineer (with .NET)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-azure-devops-engineer-with-net-xebia-remote-bm6eprib</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-azure-devops-engineer-with-net-xebia-remote-bm6eprib"/>
+        <updated>2024-10-06T05:36:57.494Z</updated>
+        <content type="html"><![CDATA[ 20 000  – 31 000  PLN ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud DevOps Engineer]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[ 20 160  – 25 200  PLN ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SRE Senior Engineer]]></title>
-        <id>https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga</id>
-        <link href="https://nofluffjobs.com/pl/job/sre-senior-engineer-altimetrik-poland-remote-9nsfpxga"/>
-        <updated>2024-10-02T17:36:51.570Z</updated>
-        <content type="html"><![CDATA[ 27 000  – 30 250  PLN ]]></content>
+        <title type="html"><![CDATA[Remote Senior Site Reliability Engineer]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof"/>
+        <updated>2024-10-06T05:36:57.498Z</updated>
+        <content type="html"><![CDATA[ 4 800  – 6 500  EUR ]]></content>
     </entry>
 </feed>
