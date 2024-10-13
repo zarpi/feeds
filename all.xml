@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-13T05:38:02.716Z</updated>
+    <updated>2024-10-13T17:35:10.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 181 KM • 1.6 PureTech, Salon Polska, 1. Właściciel, Serwis ASO, Automat, Skóra, (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-salon-polska-1-wlasciciel-serwis-aso-automat-skora-ID6GOoDR.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6-puretech-salon-polska-1-wlasciciel-serwis-aso-automat-skora-ID6GOoDR.html"/>
+        <updated>2024-10-13T17:34:39.968Z</updated>
+        <content type="html"><![CDATA[75 045 km Benzyna Automatyczna 2020 92 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5081 598 cm3 • 180 KM • GT+ 8AT, 2021r. | Gwarancja Przebiegu i Serwisu | I-WŁ | ASO | FV23% | (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-8at-2021r-gwarancja-przebiegu-i-serwisu-i-wl-aso-fv23-ID6GOi9Z.html</id>
@@ -206,6 +213,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-2020r-1-6-puretech-allure-eat8-led-salon-polska-dw3jw90-ID6GgGzG.html"/>
         <updated>2024-10-10T05:38:37.453Z</updated>
         <content type="html"><![CDATA[69 914 km Benzyna Automatyczna 2020 93 100]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 Inscription1 969 cm3 • 190 KM • Volvo V60 T4 Inscription Kamery 360 Webasto (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-inscription-kamery-360-webasto-ID6GOqzq.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t4-inscription-kamery-360-webasto-ID6GOqzq.html"/>
+        <updated>2024-10-13T17:34:48.949Z</updated>
+        <content type="html"><![CDATA[109 000 km Benzyna Automatyczna 2020 121 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T4 AWD1 969 cm3 • 190 KM • VOLVO XC 40 2.0B 190KM (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-2-0b-190km-ID6GOpe9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-2-0b-190km-ID6GOpe9.html"/>
+        <updated>2024-10-13T17:34:48.950Z</updated>
+        <content type="html"><![CDATA[24 000 km Benzyna Automatyczna 2020 129 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • SALON POLSKA / FV23%/ Gwarancja Serwisowa/ 89 430 NETTO (Otomoto)]]></title>
@@ -418,20 +439,6 @@
         <content type="html"><![CDATA[42 621 km Benzyna Automatyczna 2020 114 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Ultimate Dark1 969 cm3 • 250 KM • 2.0L/B5/Plus Dark Theme/Auto Sprawdzone (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0l-b5-plus-dark-theme-auto-sprawdzone-ID6GN6K4.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0l-b5-plus-dark-theme-auto-sprawdzone-ID6GN6K4.html"/>
-        <updated>2024-10-13T05:37:46.022Z</updated>
-        <content type="html"><![CDATA[11 144 km Benzyna Automatyczna 2023 92 800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum1 477 cm3 • 163 KM • 2021r. XC40 T3 163KM MOMENTUM Salon Polska DW4PK96 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-xc40-t3-163km-momentum-salon-polska-dw4pk96-ID6GN50P.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-xc40-t3-163km-momentum-salon-polska-dw4pk96-ID6GN50P.html"/>
-        <updated>2024-10-13T05:37:46.024Z</updated>
-        <content type="html"><![CDATA[49 618 km Benzyna Automatyczna 2021 126 500]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloud Developer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote</id>
         <link href="https://nofluffjobs.com/pl/job/cloud-developer-mobica-limited-remote"/>
@@ -509,7 +516,7 @@
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Scripting Engineer - Remote (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Linux Scripting Engineer - Remote  NOWA (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f</id>
         <link href="https://nofluffjobs.com/pl/job/linux-scripting-engineer-remote-nokia-q4wyff8f"/>
         <updated>2024-10-10T17:37:24.214Z</updated>
@@ -565,7 +572,7 @@
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote Senior Site Reliability Engineer (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Remote Senior Site Reliability Engineer   NOWA (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof</id>
         <link href="https://nofluffjobs.com/pl/job/remote-senior-site-reliability-engineer-valtech-snpoepof"/>
         <updated>2024-10-12T05:37:39.098Z</updated>
