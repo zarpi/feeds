@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-23T17:37:46.761Z</updated>
+    <updated>2024-10-24T05:39:11.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT81 598 cm3 • 180 KM • ALLURE ! FULL LED ! 180ps ! SKÓRA ! Śliczny Kolor ! Niski Przebieg (Otomoto)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[89 395 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic1 984 cm3 • 265 KM • Audi Q5 Sportback Premium Plus Lekka Szkoda Tania Naprawa (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-sportback-premium-plus-lekka-szkoda-tania-naprawa-ID6GQn2M.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-sportback-premium-plus-lekka-szkoda-tania-naprawa-ID6GQn2M.html"/>
+        <updated>2024-10-24T05:38:46.993Z</updated>
+        <content type="html"><![CDATA[45 635 km Benzyna Automatyczna 2021 88 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line1 984 cm3 • 204 KM • Śliczne Audi A4 40 TFSI mHev QUATTRO S-Line Black Edition BEZWYPADKOWY (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-sliczne-audi-a4-40-tfsi-mhev-quattro-s-line-black-edition-bezwypadkowy-ID6GQhhK.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-sliczne-audi-a4-40-tfsi-mhev-quattro-s-line-black-edition-bezwypadkowy-ID6GQhhK.html"/>
@@ -318,13 +325,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-premium-plus-s-line-2023r-4x4-2-0l-ID6GOsFN.html"/>
         <updated>2024-10-20T17:36:20.638Z</updated>
         <content type="html"><![CDATA[17 543 km Benzyna Automatyczna 2023 129 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic design1 984 cm3 • 150 KM • 2.0 tfsi 150 km. mild hybryd (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-2-0-tfsi-150-km-mild-hybryd-ID6GOrAp.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-2-0-tfsi-150-km-mild-hybryd-ID6GOrAp.html"/>
-        <updated>2024-10-20T17:36:20.639Z</updated>
-        <content type="html"><![CDATA[34 700 km Benzyna Automatyczna 2021 82 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q51 998 cm3 • 261 KM • S-Line 45 TFSI Virtual Kamery 360 (Otomoto)]]></title>
@@ -698,7 +698,7 @@
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release Engineer (DevOps)  NOWA (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Release Engineer (DevOps) (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/release-engineer-devops-harman-connected-services-remote-ynduffui</id>
         <link href="https://nofluffjobs.com/pl/job/release-engineer-devops-harman-connected-services-remote-ynduffui"/>
         <updated>2024-10-03T17:39:31.573Z</updated>
@@ -747,10 +747,10 @@
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior DevOps Engineer  NOWA (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
-        <updated>2024-10-10T17:37:24.239Z</updated>
+        <title type="html"><![CDATA[Senior MLOps Engineer (pharma; 100% remote) (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-pharma-100-remote-7n-76thbx2v</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-pharma-100-remote-7n-76thbx2v"/>
+        <updated>2024-10-16T17:42:03.071Z</updated>
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
@@ -782,35 +782,35 @@
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps/Platform Engineer  NOWA (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-platform-engineer-emagine-remote-g8senidt</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-platform-engineer-emagine-remote-g8senidt"/>
-        <updated>2024-10-22T17:37:01.663Z</updated>
+        <title type="html"><![CDATA[Remote Platform Engineer & AWS (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/remote-platform-engineer-aws-link-group-5xlpg3fh</id>
+        <link href="https://nofluffjobs.com/pl/job/remote-platform-engineer-aws-link-group-5xlpg3fh"/>
+        <updated>2024-10-24T05:38:58.511Z</updated>
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior MLOps Engineer (pharma; 100% remote)  NOWA (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/senior-mlops-engineer-pharma-100-remote-7n-76thbx2v</id>
-        <link href="https://nofluffjobs.com/pl/job/senior-mlops-engineer-pharma-100-remote-7n-76thbx2v"/>
-        <updated>2024-10-16T17:42:03.071Z</updated>
+        <title type="html"><![CDATA[Senior DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7</id>
+        <link href="https://nofluffjobs.com/pl/job/senior-devops-engineer-avenga-remote-sqxwvjs7"/>
+        <updated>2024-10-10T17:37:24.239Z</updated>
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote DevOps Engineer  NOWA (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[Remote DevOps Engineer (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/remote-devops-engineer-matrix-global-services-a6i05cnp</id>
         <link href="https://nofluffjobs.com/pl/job/remote-devops-engineer-matrix-global-services-a6i05cnp"/>
         <updated>2024-10-18T17:37:22.012Z</updated>
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps (ELK) - Remote Work Type (NoFluffJobs)]]></title>
-        <id>https://nofluffjobs.com/pl/job/devops-elk-remote-work-type-directio-nzgz4s24</id>
-        <link href="https://nofluffjobs.com/pl/job/devops-elk-remote-work-type-directio-nzgz4s24"/>
-        <updated>2024-10-22T17:37:01.666Z</updated>
+        <title type="html"><![CDATA[DevOps Engineer (NoFluffJobs)]]></title>
+        <id>https://nofluffjobs.com/pl/job/devops-engineer-appyourself-remote-u1zznyma</id>
+        <link href="https://nofluffjobs.com/pl/job/devops-engineer-appyourself-remote-u1zznyma"/>
+        <updated>2024-10-24T05:38:58.517Z</updated>
         <content type="html"><![CDATA[  ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevOps Engineer GCP  NOWA (NoFluffJobs)]]></title>
+        <title type="html"><![CDATA[DevOps Engineer GCP (NoFluffJobs)]]></title>
         <id>https://nofluffjobs.com/pl/job/devops-engineer-gcp-emagine-remote-u4pd9yhn</id>
         <link href="https://nofluffjobs.com/pl/job/devops-engineer-gcp-emagine-remote-u4pd9yhn"/>
         <updated>2024-10-22T17:37:01.668Z</updated>
