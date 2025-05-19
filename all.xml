@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-18T17:41:05.404Z</updated>
+    <updated>2025-05-19T05:43:47.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-100-bezwypadkowy-kamera-360-nowe-opony-import-niemcy-fv23-ID6HoHMy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-100-bezwypadkowy-kamera-360-nowe-opony-import-niemcy-fv23-ID6HoHMy.html"/>
+        <updated>2025-05-19T05:43:33.496Z</updated>
+        <content type="html"><![CDATA[67 978 km Benzyna Automatyczna 2021 97 899]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-gt-line-benzyna-z-niskim-przebiegiem-7-miejscowy-ID6HoJho.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-gt-line-benzyna-z-niskim-przebiegiem-7-miejscowy-ID6HoJho.html"/>
+        <updated>2025-05-19T05:43:33.497Z</updated>
+        <content type="html"><![CDATA[77 000 km Benzyna Automatyczna 2020 114 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-gt-black-pack-1-wlasciciel-pelna-opcja-wyposazenia-hak-ID6HoCmJ.html</id>
@@ -101,20 +115,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-2021r-fullled-kamera-martwe-pole-acc-vat23-ID6HmfGQ.html"/>
         <updated>2025-05-17T14:47:23.889Z</updated>
         <content type="html"><![CDATA[73 775 km Benzyna Automatyczna 2021 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-1-6-gt-pack-salon-polska-1-wlasciciel-faktura-vat-ID6HmewR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-peugeot-5008-1-6-gt-pack-salon-polska-1-wlasciciel-faktura-vat-ID6HmewR.html"/>
-        <updated>2025-05-17T14:47:23.890Z</updated>
-        <content type="html"><![CDATA[96 000 km Benzyna Automatyczna 2021 121 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF Allure S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-plug-in-ID6Hm9vN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-plug-in-ID6Hm9vN.html"/>
-        <updated>2025-05-17T14:47:23.891Z</updated>
-        <content type="html"><![CDATA[40 510 km Benzyna Automatyczna 2021 91 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Line S&S EAT8 (Otomoto)]]></title>
