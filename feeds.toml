@@ -5,7 +5,7 @@ url = [
 "https://www.otomoto.pl/osobowe/audi/a4--a4-allroad--a5--a6--a6-allroad--q5/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&search%5Bfilter_float_engine_power%3Afrom%5D=150&search%5Bfilter_float_mileage%3Ato%5D=140000&search%5Bfilter_float_price%3Afrom%5D=80000&search%5Bfilter_float_price%3Ato%5D=130000&search%5Border%5D=created_at_first%3Adesc",
 "https://www.otomoto.pl/osobowe/volvo/v60--v60-cross-country--v70--v90--xc-40--xc-60--xc-70/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&search%5Bfilter_float_engine_power%3Afrom%5D=150&search%5Bfilter_float_mileage%3Ato%5D=140000&search%5Bfilter_float_price%3Afrom%5D=80000&search%5Bfilter_float_price%3Ato%5D=130000&search%5Border%5D=created_at_first%3Adesc"
 ]
-entrySelector = 'div[data-testid="search-results"] > div > article'
+entrySelector = '//article[@data-id]'
 # titleSelector = "section div:nth-child(2)"
 titleSelector = "h2"
 # titleSelector = "h1 > a"
