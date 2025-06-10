@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-09T17:41:20.012Z</updated>
+    <updated>2025-06-10T05:44:49.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -243,13 +243,6 @@
         <content type="html"><![CDATA[70 100 km Benzyna Automatyczna 2020 130 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-unikatowe-mega-s-line-40tfsi-alu18-virtual-kamera-radar-led-matrix-max-ID6Hs312.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-unikatowe-mega-s-line-40tfsi-alu18-virtual-kamera-radar-led-matrix-max-ID6Hs312.html"/>
-        <updated>2025-06-09T05:44:52.096Z</updated>
-        <content type="html"><![CDATA[136 240 km Benzyna Automatyczna 2021 117 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-265km-quattro-ID6HrZ0U.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-265km-quattro-ID6HrZ0U.html"/>
@@ -453,6 +446,13 @@
         <content type="html"><![CDATA[26 278 km Benzyna Automatyczna 2021 98 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-4x4-premium-plus-prestige-s-posiadamy-rowniez-inne-modele-ID6HpxJ1.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-quattro-4x4-premium-plus-prestige-s-posiadamy-rowniez-inne-modele-ID6HpxJ1.html"/>
+        <updated>2025-06-10T05:44:42.717Z</updated>
+        <content type="html"><![CDATA[16 502 km Benzyna Automatyczna 2024 109 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-t3-163km-a8-momentum-pro-salon-pl-fv23-serwis-aso-ID6Hsa6y.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5-t3-163km-a8-momentum-pro-salon-pl-fv23-serwis-aso-ID6Hsa6y.html"/>
@@ -636,13 +636,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Hrg8R.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Hrg8R.html"/>
-        <updated>2025-06-08T10:08:18.690Z</updated>
-        <content type="html"><![CDATA[29 826 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-b3-core-aso-gwarancja-vat-23-pakiet-climate-podgrzewana-szyba-ID6Hrfp8.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-v60-b3-core-aso-gwarancja-vat-23-pakiet-climate-podgrzewana-szyba-ID6Hrfp8.html"/>
         <updated>2025-06-08T10:08:18.692Z</updated>
@@ -675,5 +668,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2-0-benzyna-4x4-awd-przebieg-52000-km-fak-vat-23-ID6Hr7SL.html"/>
         <updated>2025-06-08T10:08:18.698Z</updated>
         <content type="html"><![CDATA[54 000 km Benzyna Automatyczna 2021 129 888]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-stan-idealny-w-cenie-sa-dodatkowe-opon-letnie-17-felgi-alum-ID6Hr7P4.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-stan-idealny-w-cenie-sa-dodatkowe-opon-letnie-17-felgi-alum-ID6Hr7P4.html"/>
+        <updated>2025-06-10T05:44:48.762Z</updated>
+        <content type="html"><![CDATA[78 200 km Benzyna Automatyczna 2020 109 000]]></content>
     </entry>
 </feed>
