@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-06-16T17:42:23.900Z</updated>
+    <updated>2025-06-17T05:44:34.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -325,7 +325,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-polski-salon-fabryczny-lakier-faktura-vat-23-ID6Hs464.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-polski-salon-fabryczny-lakier-faktura-vat-23-ID6Hs464.html"/>
         <updated>2025-06-09T17:41:13.722Z</updated>
-        <content type="html"><![CDATA[70 100 km Benzyna Automatyczna 2020 130 000]]></content>
+        <content type="html"><![CDATA[70 100 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic advanced]]></title>
@@ -454,6 +454,13 @@
         <content type="html"><![CDATA[74 700 km Benzyna Automatyczna 2021 128 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pro-fv23-ID6HspEC.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pro-fv23-ID6HspEC.html"/>
+        <updated>2025-06-17T05:44:34.004Z</updated>
+        <content type="html"><![CDATA[24 490 km Benzyna Automatyczna 2021 127 920]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t5-momentum-ID6Ht8Rl.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t5-momentum-ID6Ht8Rl.html"/>
@@ -536,6 +543,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5b-163km-navigacja-niski-przebieg-jak-nowy-ID6HsHar.html"/>
         <updated>2025-06-13T17:42:44.628Z</updated>
         <content type="html"><![CDATA[14 878 km Benzyna Manualna 2020 88 800]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B4 B Geartronic RDesign]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-designpamiecel-fotelekameraharmanpiekneidealne-ID6HsE4M.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-designpamiecel-fotelekameraharmanpiekneidealne-ID6HsE4M.html"/>
+        <updated>2025-06-17T05:44:34.039Z</updated>
+        <content type="html"><![CDATA[76 000 km Benzyna Automatyczna 2022 129 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core]]></title>
@@ -662,19 +676,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-ID6HrY3K.html"/>
         <updated>2025-06-08T10:08:18.661Z</updated>
         <content type="html"><![CDATA[130 620 km Benzyna Manualna 2020 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-ID6HrWg9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t3-momentum-pro-ID6HrWg9.html"/>
-        <updated>2025-06-08T10:08:18.663Z</updated>
-        <content type="html"><![CDATA[91 097 km Benzyna Automatyczna 2021 120 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-okazja-r-desing-grzana-kierownica-faktura-przebieg-85tys-serwisowany-ID6HrUpR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-okazja-r-desing-grzana-kierownica-faktura-przebieg-85tys-serwisowany-ID6HrUpR.html"/>
-        <updated>2025-06-09T17:41:19.318Z</updated>
-        <content type="html"><![CDATA[85 000 km Benzyna Automatyczna 2021 105 000]]></content>
     </entry>
 </feed>
