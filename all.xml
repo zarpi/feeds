@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-17T17:42:57.705Z</updated>
+    <updated>2025-06-18T05:44:25.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -163,21 +163,21 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-93-1-6-puretech-hybrid4-phev-gt-pack-4x4-automat-i-wl-fv23-ID6HpAGC.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-93-1-6-puretech-hybrid4-phev-gt-pack-4x4-automat-i-wl-fv23-ID6HpAGC.html"/>
         <updated>2025-06-08T10:08:06.344Z</updated>
-        <content type="html"><![CDATA[60 801 km Benzyna Automatyczna 2021 124 990]]></content>
+        <content type="html"><![CDATA[60 801 km Benzyna Automatyczna 2021 119 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-86-1-6-puretech-hybrid-phev-allure-225-km-i-wl-fv23-ID6HpAGt.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-86-1-6-puretech-hybrid-phev-allure-225-km-i-wl-fv23-ID6HpAGt.html"/>
         <updated>2025-06-08T10:08:06.345Z</updated>
-        <content type="html"><![CDATA[48 338 km Benzyna Automatyczna 2021 114 990]]></content>
+        <content type="html"><![CDATA[48 338 km Benzyna Automatyczna 2021 111 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-86-1-6-puretech-hybrid-phev-allure-225-km-i-wl-fv23-ID6HpAGo.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-86-1-6-puretech-hybrid-phev-allure-225-km-i-wl-fv23-ID6HpAGo.html"/>
         <updated>2025-06-08T10:08:06.352Z</updated>
-        <content type="html"><![CDATA[64 175 km Benzyna Automatyczna 2021 112 990]]></content>
+        <content type="html"><![CDATA[64 175 km Benzyna Automatyczna 2021 108 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -453,6 +453,13 @@
         <content type="html"><![CDATA[111 400 km Benzyna Automatyczna 2021 97 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 R-Design (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-1-wlasciciel-bogate-wyposazenie-ID6Htlap.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-r-design-1-wlasciciel-bogate-wyposazenie-ID6Htlap.html"/>
+        <updated>2025-06-18T05:44:24.764Z</updated>
+        <content type="html"><![CDATA[67 841 km Benzyna Automatyczna 2021 127 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 T6 AWD Geartronic Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t6-hybryda-plugin-350-km-nowe-felgi-opony-poznan-ID6Htk5T.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-t6-hybryda-plugin-350-km-nowe-felgi-opony-poznan-ID6Htk5T.html"/>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-przbieg-79-000-km-okazja-jak-nowy-serwis-aso-ID6Hs32V.html"/>
         <updated>2025-06-09T05:44:57.529Z</updated>
         <content type="html"><![CDATA[79 574 km Benzyna Automatyczna 2022 99 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B4 Ultimate Dark (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-ultimate-dark-2-0l-auto-sprawdzone-ID6HrODc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-ultimate-dark-2-0l-auto-sprawdzone-ID6HrODc.html"/>
-        <updated>2025-06-08T10:08:18.656Z</updated>
-        <content type="html"><![CDATA[44 713 km Benzyna Automatyczna 2023 81 000]]></content>
     </entry>
 </feed>
