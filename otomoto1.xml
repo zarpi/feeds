@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-06-29T05:45:58.323Z</updated>
+    <updated>2025-06-29T17:41:55.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -455,6 +455,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t5-awd-r-design-polestar-engineered-sam-parkuje-ID6HuFN2.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t5-awd-r-design-polestar-engineered-sam-parkuje-ID6HuFN2.html"/>
+        <updated>2025-06-29T17:41:54.792Z</updated>
+        <content type="html"><![CDATA[70 000 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-r-design-2-0-t5-ID6HuDVZ.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-4x4-r-design-2-0-t5-ID6HuDVZ.html"/>
         <updated>2025-06-28T17:40:01.720Z</updated>
@@ -508,13 +515,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-163km-salonpl-1wl-fullled-virtualcockpit-kamera-keyless-aso-vat23-ID6HuoxC.html"/>
         <updated>2025-06-27T05:45:52.462Z</updated>
         <content type="html"><![CDATA[66 000 km Benzyna Automatyczna 2022 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T4 Momentum]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-piekne-volvo-xc40-t4-na-kolach-21-thule-gratis-ID6Husn5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-piekne-volvo-xc40-t4-na-kolach-21-thule-gratis-ID6Husn5.html"/>
-        <updated>2025-06-27T05:45:52.468Z</updated>
-        <content type="html"><![CDATA[94 000 km Benzyna Automatyczna 2020 115 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60]]></title>
