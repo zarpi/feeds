@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-30T17:42:44.485Z</updated>
+    <updated>2025-07-01T05:46:47.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack (Otomoto)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[126 800 km Benzyna Automatyczna 2021 95 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic advanced (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HuRQh.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HuRQh.html"/>
+        <updated>2025-07-01T05:46:41.438Z</updated>
+        <content type="html"><![CDATA[36 000 km Benzyna Automatyczna 2020 119 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-s-tronic-led-f-vat-salon-polska-ID6HuPP6.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-s-tronic-led-f-vat-salon-polska-ID6HuPP6.html"/>
@@ -444,13 +451,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-lift-2-0-benz-aut-quattro-4x4-skory-kamera-alu-niski-przebieg-kanada-ID6Hs5Fk.html"/>
         <updated>2025-06-09T17:41:13.711Z</updated>
         <content type="html"><![CDATA[35 000 km Benzyna Automatyczna 2023 130 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-polski-salon-fabryczny-lakier-faktura-vat-23-ID6Hs464.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-polski-salon-fabryczny-lakier-faktura-vat-23-ID6Hs464.html"/>
-        <updated>2025-06-09T17:41:13.722Z</updated>
-        <content type="html"><![CDATA[70 100 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 T6 AWD Momentum (Otomoto)]]></title>
