@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-02T17:43:45.978Z</updated>
+    <updated>2025-07-03T05:47:34.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF Allure S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-1-6-plug-in-hybrid4-allure-pack-s-s-eat8-gt-ID6Hw5Di.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008-1-6-plug-in-hybrid4-allure-pack-s-s-eat8-gt-ID6Hw5Di.html"/>
+        <updated>2025-07-03T05:47:23.610Z</updated>
+        <content type="html"><![CDATA[82 000 km Benzyna Automatyczna 2021 98 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-panorama-masaze-grzane-fot-kam-360-bezwypad-vat23-sal-pl-ID6HuZNG.html</id>
@@ -187,6 +194,13 @@
         <content type="html"><![CDATA[8 100 km Benzyna Automatyczna 2022 121 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-stan-idealny-bez-wkladu-ID6HlzjO.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-gt-line-stan-idealny-bez-wkladu-ID6HlzjO.html"/>
+        <updated>2025-07-03T05:47:23.659Z</updated>
+        <content type="html"><![CDATA[113 551 km Benzyna Automatyczna 2020 89 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Active S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-active-s-s-eat8-ID6HhOsg.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-peugeot-508-1-6-puretech-active-s-s-eat8-ID6HhOsg.html"/>
@@ -215,25 +229,11 @@
         <content type="html"><![CDATA[126 800 km Benzyna Automatyczna 2021 95 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-nr-86-1-6t-180km-navi-klima-kamera-cofania-gwarancja-ID6GFxPb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-nr-86-1-6t-180km-navi-klima-kamera-cofania-gwarancja-ID6GFxPb.html"/>
-        <updated>2025-07-02T17:43:34.111Z</updated>
-        <content type="html"><![CDATA[22 000 km Benzyna Automatyczna 2021 89 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-35-tfsi-s-tronic-ogrz-fotele-salonpl-vat23-ID6Hw3rN.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-35-tfsi-s-tronic-ogrz-fotele-salonpl-vat23-ID6Hw3rN.html"/>
         <updated>2025-07-02T17:43:39.618Z</updated>
         <content type="html"><![CDATA[110 232 km Benzyna Automatyczna 2020 104 899]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6Hw2Up.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6Hw2Up.html"/>
-        <updated>2025-07-02T17:43:39.620Z</updated>
-        <content type="html"><![CDATA[40 763 km Benzyna Automatyczna 2021 125 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
@@ -444,6 +444,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-q5-prestige-45-s-line-ID6Hsvm5.html"/>
         <updated>2025-06-11T17:43:46.333Z</updated>
         <content type="html"><![CDATA[41 309 km Benzyna Automatyczna 2022 110 150]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic advanced (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b9-2-0tfsi-quattro-mhev-gwarancja-ID6HsqgM.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b9-2-0tfsi-quattro-mhev-gwarancja-ID6HsqgM.html"/>
+        <updated>2025-07-03T05:47:28.986Z</updated>
+        <content type="html"><![CDATA[53 140 km Benzyna Automatyczna 2021 108 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-benzyna-4x4-salon-pl-4tys-km-vat-ID6Hw5P5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-benzyna-4x4-salon-pl-4tys-km-vat-ID6Hw5P5.html"/>
+        <updated>2025-07-03T05:47:33.933Z</updated>
+        <content type="html"><![CDATA[4 300 km Benzyna Automatyczna 2025 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 AWD Momentum Pro (Otomoto)]]></title>
@@ -661,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0l-awd-automat-ultimate-ID6HukvF.html"/>
         <updated>2025-06-25T17:43:30.769Z</updated>
         <content type="html"><![CDATA[62 025 km Benzyna Automatyczna 2023 80 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b4-10-2022r-197km-salon-polska-oryginal-fa23-ID6Hu9dI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b4-10-2022r-197km-salon-polska-oryginal-fa23-ID6Hu9dI.html"/>
-        <updated>2025-06-24T17:43:46.645Z</updated>
-        <content type="html"><![CDATA[132 137 km Benzyna Automatyczna 2022 125 500]]></content>
     </entry>
 </feed>
