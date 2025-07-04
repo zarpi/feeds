@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-07-03T17:44:09.589Z</updated>
+    <updated>2025-07-04T05:47:15.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -28,9 +28,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-panorama-masaze-grzane-fot-kam-360-bezwypad-vat23-sal-pl-ID6HuZNG.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-panorama-masaze-grzane-fot-kam-360-bezwypad-vat23-sal-pl-ID6HuZNG.html"/>
-        <updated>2025-07-02T05:46:10.297Z</updated>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-panorama-masaze-podgrz-fot-kam360-bezwypad-vat23-sal-pl-ID6HuZNG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-gt-line-panorama-masaze-podgrz-fot-kam360-bezwypad-vat23-sal-pl-ID6HuZNG.html"/>
+        <updated>2025-07-04T05:47:03.040Z</updated>
         <content type="html"><![CDATA[82 500 km Benzyna Automatyczna 2020 97 900]]></content>
     </entry>
     <entry>
@@ -122,7 +122,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-2020r-automat-180-km-kamera-blis-fv23-ID6Ht5Ka.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-gt-line-2020r-automat-180-km-kamera-blis-fv23-ID6Ht5Ka.html"/>
         <updated>2025-06-16T17:42:12.040Z</updated>
-        <content type="html"><![CDATA[101 935 km Benzyna Automatyczna 2020 94 900]]></content>
+        <content type="html"><![CDATA[101 935 km Benzyna Automatyczna 2020 94 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8]]></title>
@@ -235,13 +235,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-204-km-led-ambilight-el-klapa-virtual-bezwypadkowe-fv23-ID6HwbVj.html"/>
         <updated>2025-07-03T17:44:02.933Z</updated>
         <content type="html"><![CDATA[88 000 km Benzyna Automatyczna 2020 99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6HwbMt.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6HwbMt.html"/>
-        <updated>2025-07-03T17:44:02.935Z</updated>
-        <content type="html"><![CDATA[40 763 km Benzyna Automatyczna 2021 125 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line business]]></title>
@@ -452,6 +445,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-2-0t-265km-lift-w-polsce-po-oplatach-i-akcyzie-ID6HsLVc.html"/>
         <updated>2025-06-13T17:42:38.511Z</updated>
         <content type="html"><![CDATA[48 695 km Benzyna Automatyczna 2023 109 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 40 TFSI quattro S tronic S line]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-quattros-linepanoramablackedition-ID6HsGVz.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-quattros-linepanoramablackedition-ID6HsGVz.html"/>
+        <updated>2025-07-04T05:47:09.827Z</updated>
+        <content type="html"><![CDATA[79 578 km Benzyna Automatyczna 2021 124 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60]]></title>
