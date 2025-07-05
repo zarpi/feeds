@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-07-04T17:41:05.957Z</updated>
+    <updated>2025-07-05T05:42:42.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -230,6 +230,13 @@
         <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2021 94 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI quattro S tronic sport]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Hwoke.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Hwoke.html"/>
+        <updated>2025-07-05T05:42:36.119Z</updated>
+        <content type="html"><![CDATA[47 559 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Avant 40 TFSI S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-2021-rok-2-0-tfsi-hybrid-204-km-martix-radary-klimatronik-oplacona-ID6Hwi0U.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-2021-rok-2-0-tfsi-hybrid-204-km-martix-radary-klimatronik-oplacona-ID6Hwi0U.html"/>
@@ -445,13 +452,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-2-0tsi-204km-mhev-advance-hak-ledy-elektryczna-klapa-ID6HsQAC.html"/>
         <updated>2025-06-13T17:42:38.510Z</updated>
         <content type="html"><![CDATA[49 950 km Benzyna Automatyczna 2020 107 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-2-0t-265km-lift-w-polsce-po-oplatach-i-akcyzie-ID6HsLVc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2023-audi-q5-2-0t-265km-lift-w-polsce-po-oplatach-i-akcyzie-ID6HsLVc.html"/>
-        <updated>2025-06-13T17:42:38.511Z</updated>
-        <content type="html"><![CDATA[48 695 km Benzyna Automatyczna 2023 109 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60]]></title>
