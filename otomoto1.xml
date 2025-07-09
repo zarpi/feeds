@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-07-08T17:44:38.616Z</updated>
+    <updated>2025-07-09T05:47:34.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -230,6 +230,13 @@
         <content type="html"><![CDATA[126 800 km Benzyna Automatyczna 2021 93 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-s-line-salon-polska-1-wlasciciel-serwis-aso-automat-ID6HwMQh.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-s-line-salon-polska-1-wlasciciel-serwis-aso-automat-ID6HwMQh.html"/>
+        <updated>2025-07-09T05:47:28.858Z</updated>
+        <content type="html"><![CDATA[32 673 km Benzyna Automatyczna 2023 121 998]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-niski-przebieg-ID6HwLAM.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-niski-przebieg-ID6HwLAM.html"/>
@@ -256,13 +263,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-mhev-s-tronic-150km-fv23-gwarancja-aso-salon-pl-ID6HwHII.html"/>
         <updated>2025-07-08T17:44:31.011Z</updated>
         <content type="html"><![CDATA[111 594 km Benzyna Automatyczna 2022 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6HwHBV.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-s-line-2-0-tfsi-204-km-s-tronic-salon-polska-1wl-fv23-ID6HwHBV.html"/>
-        <updated>2025-07-08T17:44:31.014Z</updated>
-        <content type="html"><![CDATA[40 763 km Benzyna Automatyczna 2021 125 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4]]></title>
