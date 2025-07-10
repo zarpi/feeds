@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-09T17:43:50.333Z</updated>
+    <updated>2025-07-10T05:47:13.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -453,6 +453,13 @@
         <content type="html"><![CDATA[93 100 km Benzyna Automatyczna 2021 99 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5benzyna163km-automat-salon-pl-1-wlasciciel-100-oryginal-vat-23-ID6HwVs3.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-1-5benzyna163km-automat-salon-pl-1-wlasciciel-100-oryginal-vat-23-ID6HwVs3.html"/>
+        <updated>2025-07-10T05:47:12.633Z</updated>
+        <content type="html"><![CDATA[74 000 km Benzyna Automatyczna 2022 124 168]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-stan-idealny-ID6HwWjk.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-sprzedam-stan-idealny-ID6HwWjk.html"/>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2024-b5-miekka-hybryda-awd-plus-dark-theme-ID6HuYtR.html"/>
         <updated>2025-07-01T17:43:50.248Z</updated>
         <content type="html"><![CDATA[33 150 km Benzyna Automatyczna 2024 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b5-4x4-piekny-szary-kolor-dobrze-wyposazone-ID6HuXAz.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b5-4x4-piekny-szary-kolor-dobrze-wyposazone-ID6HuXAz.html"/>
-        <updated>2025-07-01T17:43:50.259Z</updated>
-        <content type="html"><![CDATA[33 000 km Benzyna Automatyczna 2023 128 888]]></content>
     </entry>
 </feed>
