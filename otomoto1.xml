@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-07-15T17:45:03.060Z</updated>
+    <updated>2025-07-16T05:49:57.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -200,6 +200,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-nr-86-1-6t-180km-navi-klima-kamera-cofania-gwarancja-ID6GFxPb.html"/>
         <updated>2025-07-12T17:43:15.289Z</updated>
         <content type="html"><![CDATA[22 000 km Benzyna Automatyczna 2021 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant 40 TFSI quattro S tronic S line]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-unikatowe-mega-s-line-40tfsi-alu18-virtual-kamera-radar-led-matrix-max-ID6HvFHN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-unikatowe-mega-s-line-40tfsi-alu18-virtual-kamera-radar-led-matrix-max-ID6HvFHN.html"/>
+        <updated>2025-07-16T05:49:50.423Z</updated>
+        <content type="html"><![CDATA[136 240 km Benzyna Automatyczna 2021 116 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4]]></title>
@@ -417,13 +424,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-sportback-s-line-prestige-2-0l-auto-sprawdzone-ID6HuHgk.html"/>
         <updated>2025-06-30T05:46:07.519Z</updated>
         <content type="html"><![CDATA[24 619 km Benzyna Automatyczna 2022 98 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-2-0-tfsi-265-km-ID6HuGLR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-premium-plus-2-0-tfsi-265-km-ID6HuGLR.html"/>
-        <updated>2025-07-07T17:44:25.662Z</updated>
-        <content type="html"><![CDATA[109 000 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40]]></title>
