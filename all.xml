@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-23T17:46:46.362Z</updated>
+    <updated>2025-07-24T05:50:14.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -537,13 +537,6 @@
         <content type="html"><![CDATA[132 000 km Benzyna Automatyczna 2020 92 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-b4-salon-polska-jasna-skora-ID6Hx9XT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-b4-salon-polska-jasna-skora-ID6Hx9XT.html"/>
-        <updated>2025-07-21T17:46:05.214Z</updated>
-        <content type="html"><![CDATA[55 000 km Benzyna Automatyczna 2021 128 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-stan-bardzo-dobry-maly-przebieg-faktura-vat23-panorama-ID6Hx9Sy.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-stan-bardzo-dobry-maly-przebieg-faktura-vat23-panorama-ID6Hx9Sy.html"/>
@@ -626,5 +619,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-t3-czujniki-parkowania-carplay-androiauto-salon-pl-1wl-aso-fv23-ID6HvNru.html"/>
         <updated>2025-07-21T17:46:05.230Z</updated>
         <content type="html"><![CDATA[67 095 km Benzyna Manualna 2020 94 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salonpl-1wl-gwfabryczna-fullled-virtualcockpit-kamera-navi-aso-vat23-ID6HvtsG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salonpl-1wl-gwfabryczna-fullled-virtualcockpit-kamera-navi-aso-vat23-ID6HvtsG.html"/>
+        <updated>2025-07-24T05:50:13.910Z</updated>
+        <content type="html"><![CDATA[50 000 km Benzyna Automatyczna 2023 129 800]]></content>
     </entry>
 </feed>
