@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-07-24T17:45:38.768Z</updated>
+    <updated>2025-07-25T05:52:49.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -179,6 +179,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-cesja-leasingu-samochodu-peugeot-3008-1-6-gt-ID6H5cNX.html"/>
         <updated>2025-07-23T05:52:27.711Z</updated>
         <content type="html"><![CDATA[107 623 km Benzyna Automatyczna 2021 103 712]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-l-quattro-2021-sprowadzony-ID6HxX6h.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-2-0-l-quattro-2021-sprowadzony-ID6HxX6h.html"/>
+        <updated>2025-07-25T05:52:41.644Z</updated>
+        <content type="html"><![CDATA[67 890 km Benzyna Automatyczna 2021 86 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5]]></title>
@@ -398,11 +405,11 @@
         <content type="html"><![CDATA[124 100 km Benzyna Automatyczna 2020 99 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-35-tfsi-s-tronic-ogrz-fotele-salonpl-vat23-ID6Hw3rN.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-35-tfsi-s-tronic-ogrz-fotele-salonpl-vat23-ID6Hw3rN.html"/>
-        <updated>2025-07-02T17:43:39.618Z</updated>
-        <content type="html"><![CDATA[110 232 km Benzyna Automatyczna 2020 99 899]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum (Intro Edition)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-2022-awd-4x4-250-koni-ID6HxVSr.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-2022-awd-4x4-250-koni-ID6HxVSr.html"/>
+        <updated>2025-07-25T05:52:48.417Z</updated>
+        <content type="html"><![CDATA[80 000 km Benzyna Automatyczna 2022 118 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Ultimate Bright]]></title>
@@ -490,9 +497,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T4 Momentum]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-pierwszy-wlasciciel-ID6Hxx6V.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-pierwszy-wlasciciel-ID6Hxx6V.html"/>
-        <updated>2025-07-22T17:46:14.032Z</updated>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-pierwszy-wlasciciel-w-polsce-ID6Hxx6V.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-xc40-pierwszy-wlasciciel-w-polsce-ID6Hxx6V.html"/>
+        <updated>2025-07-25T05:52:48.481Z</updated>
         <content type="html"><![CDATA[129 000 km Benzyna Automatyczna 2020 89 000]]></content>
     </entry>
     <entry>
@@ -620,12 +627,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-t-3-163-km-automat-geartronic-elektryka-bezwypadkowy-100-ID6HvP4P.html"/>
         <updated>2025-07-21T17:46:05.225Z</updated>
         <content type="html"><![CDATA[122 833 km Benzyna Automatyczna 2021 98 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-salon-polska-faktura-vat-ID6HvOFk.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-2021r-salon-polska-faktura-vat-ID6HvOFk.html"/>
-        <updated>2025-07-21T17:46:05.227Z</updated>
-        <content type="html"><![CDATA[120 391 km Benzyna Automatyczna 2021 98 900]]></content>
     </entry>
 </feed>
