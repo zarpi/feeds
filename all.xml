@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-27T17:44:59.562Z</updated>
+    <updated>2025-07-28T05:52:17.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -418,6 +418,13 @@
         <content type="html"><![CDATA[129 074 km Benzyna Automatyczna 2021 129 899]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b4-core-benzyna-ID6HydeQ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-b4-core-benzyna-ID6HydeQ.html"/>
+        <updated>2025-07-28T05:52:17.203Z</updated>
+        <content type="html"><![CDATA[27 325 km Benzyna Automatyczna 2022 92 300]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD R-Design (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-awd-r-design-polestar-jak-nowy-pelne-wyposazenie-ID6HybDN.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc40-t5-awd-r-design-polestar-jak-nowy-pelne-wyposazenie-ID6HybDN.html"/>
@@ -591,13 +598,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-ii-mild-hybryd-ID6Hxjig.html"/>
         <updated>2025-07-21T17:46:05.206Z</updated>
         <content type="html"><![CDATA[9 699 km Benzyna Automatyczna 2023 111 990]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t6-plus-naped-4x4-ID6Hxh1j.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc60-t6-plus-naped-4x4-ID6Hxh1j.html"/>
-        <updated>2025-07-21T17:46:05.208Z</updated>
-        <content type="html"><![CDATA[18 421 km Benzyna Automatyczna 2024 95 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro (Otomoto)]]></title>
