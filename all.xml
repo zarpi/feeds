@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-31T17:45:31.852Z</updated>
+    <updated>2025-08-01T05:55:27.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -173,13 +173,6 @@
         <content type="html"><![CDATA[82 000 km Benzyna Automatyczna 2021 98 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-szklany-dach-masaze-grzane-fot-hak-kam360-bezwypadk-vat23-sal-pl-ID6HuZNG.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-szklany-dach-masaze-grzane-fot-hak-kam360-bezwypadk-vat23-sal-pl-ID6HuZNG.html"/>
-        <updated>2025-07-23T05:52:27.699Z</updated>
-        <content type="html"><![CDATA[82 500 km Benzyna Automatyczna 2020 94 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-salon-polska-gt-line-szklany-dach-automat-ID6HqT5M.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-salon-polska-gt-line-szklany-dach-automat-ID6HqT5M.html"/>
@@ -255,13 +248,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-s-line-4x4-ID6HyrPE.html"/>
         <updated>2025-07-31T17:45:25.914Z</updated>
         <content type="html"><![CDATA[9 731 km Benzyna Automatyczna 2021 89 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-ambiente-klucz-komfortowy-sportowe-fotele-z-elektr-regulacja-carplay-ID6Hyqh9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ambiente-klucz-komfortowy-sportowe-fotele-z-elektr-regulacja-carplay-ID6Hyqh9.html"/>
-        <updated>2025-07-29T17:47:42.523Z</updated>
-        <content type="html"><![CDATA[83 322 km Benzyna Automatyczna 2022 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
@@ -430,6 +416,20 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6HwMQh.html"/>
         <updated>2025-07-31T17:45:25.952Z</updated>
         <content type="html"><![CDATA[32 673 km Benzyna Automatyczna 2023 121 998]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-niski-przebieg-ID6HwLAM.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-45-tfsi-4x4-salon-polska-aso-faktura-vat-23-hybrid-niski-przebieg-ID6HwLAM.html"/>
+        <updated>2025-08-01T05:55:21.095Z</updated>
+        <content type="html"><![CDATA[93 213 km Benzyna Automatyczna 2020 115 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T5 AWD Geartronic Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-awd-4x4-250km-niski-przebieg-po-serwisie-stan-idealny-ID6HyJ5G.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-2-0-awd-4x4-250km-niski-przebieg-po-serwisie-stan-idealny-ID6HyJ5G.html"/>
+        <updated>2025-08-01T05:55:26.426Z</updated>
+        <content type="html"><![CDATA[126 000 km Benzyna Automatyczna 2020 119 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B4 B DKG Momentum (Otomoto)]]></title>
@@ -647,12 +647,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-benzyna-4x4-r-design-rezerwacja-ID6HxHeu.html"/>
         <updated>2025-07-30T17:46:38.822Z</updated>
         <content type="html"><![CDATA[83 000 km Benzyna Automatyczna 2020 111 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T6 AWD Geartronic Inscription (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-t6-awd-inscription-ID6HxGCm.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-volvo-xc-60-t6-awd-inscription-ID6HxGCm.html"/>
-        <updated>2025-07-23T17:46:45.535Z</updated>
-        <content type="html"><![CDATA[42 400 km Benzyna Automatyczna 2020 129 900]]></content>
     </entry>
 </feed>
