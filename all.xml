@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-03T17:45:08.053Z</updated>
+    <updated>2025-08-04T05:58:42.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -213,6 +213,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-cesja-leasingu-samochodu-peugeot-3008-1-6-gt-ID6H5cNX.html"/>
         <updated>2025-07-23T05:52:27.711Z</updated>
         <content type="html"><![CDATA[107 623 km Benzyna Automatyczna 2021 103 712]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-ID6HyV79.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-audi-q5-ID6HyV79.html"/>
+        <updated>2025-08-04T05:58:35.261Z</updated>
+        <content type="html"><![CDATA[86 000 km Benzyna Automatyczna 2020 118 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Sport S tronic (Otomoto)]]></title>
@@ -432,11 +439,11 @@
         <content type="html"><![CDATA[114 000 km Benzyna Automatyczna 2020 124 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6HwMQh.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-design-salon-polska-1-wlasciciel-serwis-aso-automat-ID6HwMQh.html"/>
-        <updated>2025-07-31T17:45:25.952Z</updated>
-        <content type="html"><![CDATA[32 673 km Benzyna Automatyczna 2023 121 998]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pl-skora-ID6HyVl5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pl-skora-ID6HyVl5.html"/>
+        <updated>2025-08-04T05:58:40.914Z</updated>
+        <content type="html"><![CDATA[96 000 km Benzyna Automatyczna 2021 125 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B Geartronic RDesign (Otomoto)]]></title>
@@ -654,12 +661,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-b4-salon-polska-serwis-aso-automat-vat-23-skora-navi-ID6HyagK.html"/>
         <updated>2025-07-27T05:48:58.015Z</updated>
         <content type="html"><![CDATA[121 238 km Benzyna Automatyczna 2020 116 998]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic Momentum (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-bezwypadkowy-ks-serwisowa-ID6Hy98s.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-pierwszy-wlasciciel-bezwypadkowy-ks-serwisowa-ID6Hy98s.html"/>
-        <updated>2025-07-26T17:44:20.221Z</updated>
-        <content type="html"><![CDATA[99 555 km Benzyna Automatyczna 2020 99 900]]></content>
     </entry>
 </feed>
