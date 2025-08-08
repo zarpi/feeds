@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-07T17:51:23.219Z</updated>
+    <updated>2025-08-08T05:53:16.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-puretech-gt-salon-polska-1-wlasciciel-serwis-aso-automat-ID6Hzy9q.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-1-6-puretech-gt-salon-polska-1-wlasciciel-serwis-aso-automat-ID6Hzy9q.html"/>
+        <updated>2025-08-08T05:53:04.595Z</updated>
+        <content type="html"><![CDATA[114 321 km Benzyna Automatyczna 2021 91 997]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-pierwszy-wlasciciel-ID6HyhuY.html</id>
@@ -93,7 +100,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6180kmgt-lineautomatoplaconypolecam-ID6HyOky.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-1-6180kmgt-lineautomatoplaconypolecam-ID6HyOky.html"/>
         <updated>2025-08-02T17:43:45.455Z</updated>
-        <content type="html"><![CDATA[134 000 km Benzyna Automatyczna 2021 84 900]]></content>
+        <content type="html"><![CDATA[134 000 km Benzyna Automatyczna 2021 82 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
@@ -220,13 +227,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-peugeot-3008gt2021r1-6-puretech-181kmpoliftbezwypadekvat-23-ID6Hvptl.html"/>
         <updated>2025-07-23T05:52:27.681Z</updated>
         <content type="html"><![CDATA[121 600 km Benzyna Automatyczna 2021 89 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-puretech-180-gt-pack-totalny-full-ID6HvgdJ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-puretech-180-gt-pack-totalny-full-ID6HvgdJ.html"/>
-        <updated>2025-07-23T05:52:27.683Z</updated>
-        <content type="html"><![CDATA[93 000 km Benzyna Automatyczna 2022 106 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
@@ -573,10 +573,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polski-fv23-bezdotykowy-ID6HyR0x.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polski-fv23-bezdotykowy-ID6HyR0x.html"/>
-        <updated>2025-08-02T17:43:56.396Z</updated>
-        <content type="html"><![CDATA[139 753 km Benzyna Automatyczna 2022 99 700]]></content>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polski-fv23-bezwypadkowy-ID6HyR0x.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salon-polski-fv23-bezwypadkowy-ID6HyR0x.html"/>
+        <updated>2025-08-08T05:53:15.700Z</updated>
+        <content type="html"><![CDATA[139 753 km Benzyna Automatyczna 2022 97 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 (Otomoto)]]></title>
