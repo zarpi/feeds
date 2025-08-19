@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-18T17:43:55.210Z</updated>
+    <updated>2025-08-19T05:41:39.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-idealny-gt-7-osob-ambiente-alkantara-skora-kamera-niski-przebieg-ID6HAIje.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-idealny-gt-7-osob-ambiente-alkantara-skora-kamera-niski-przebieg-ID6HAIje.html"/>
+        <updated>2025-08-19T05:41:27.282Z</updated>
+        <content type="html"><![CDATA[70 000 km Benzyna Automatyczna 2021 109 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 Allure (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-pierwszy-wlasciciel-w-pl-biala-perla-fv23-ID6HAv9D.html</id>
@@ -222,11 +229,11 @@
         <content type="html"><![CDATA[121 600 km Benzyna Automatyczna 2021 88 929]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-salon-pl-1wl-bezwypadkowy-serwisowany-exclusive-automat-full-led-navi-ID6Hupgd.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-salon-pl-1wl-bezwypadkowy-serwisowany-exclusive-automat-full-led-navi-ID6Hupgd.html"/>
-        <updated>2025-08-18T17:43:43.957Z</updated>
-        <content type="html"><![CDATA[78 012 km Benzyna Automatyczna 2020 88 800]]></content>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI quattro S tronic sport (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-pilnie-sprzedam-audi-q5-2020r-2-0-benzyna-ID6HAIXG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-pilnie-sprzedam-audi-q5-2020r-2-0-benzyna-ID6HAIXG.html"/>
+        <updated>2025-08-19T05:41:33.072Z</updated>
+        <content type="html"><![CDATA[94 407 km Benzyna Automatyczna 2020 112 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -446,11 +453,11 @@
         <content type="html"><![CDATA[82 000 km Benzyna Automatyczna 2021 95 899]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-polski-salon-40-tfsi-advanced-s-tronic-dsg-ID6HyhyS.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-polski-salon-40-tfsi-advanced-s-tronic-dsg-ID6HyhyS.html"/>
-        <updated>2025-08-11T17:46:02.715Z</updated>
-        <content type="html"><![CDATA[98 717 km Benzyna Automatyczna 2020 104 900]]></content>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-xc60-hybryda-18-500-km-stan-salonowy-ID6HAJzr.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-xc60-hybryda-18-500-km-stan-salonowy-ID6HAJzr.html"/>
+        <updated>2025-08-19T05:41:38.910Z</updated>
+        <content type="html"><![CDATA[18 500 km Benzyna Automatyczna 2022 129 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Inscription (Otomoto)]]></title>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-momentum-pro-197ps-adw-sliczny-kolor-alus19-harman-ID6Hznxo.html"/>
         <updated>2025-08-08T17:42:58.218Z</updated>
         <content type="html"><![CDATA[110 000 km Benzyna Automatyczna 2021 109 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pl-aso-na-gwarancji-ID6HyUgJ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-momentum-pl-aso-na-gwarancji-ID6HyUgJ.html"/>
-        <updated>2025-08-08T17:42:58.223Z</updated>
-        <content type="html"><![CDATA[71 000 km Benzyna Automatyczna 2021 116 900]]></content>
     </entry>
 </feed>
