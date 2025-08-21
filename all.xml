@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-20T17:41:47.118Z</updated>
+    <updated>2025-08-21T05:42:36.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[110 000 km Benzyna Automatyczna 2023 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A4 35 TFSI S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-automat-35tfsi-alu-18-ID6HATH4.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-automat-35tfsi-alu-18-ID6HATH4.html"/>
+        <updated>2025-08-21T05:42:29.500Z</updated>
+        <content type="html"><![CDATA[25 789 km Benzyna Automatyczna 2023 99 500]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A6 45 TFSI Quattro Sport S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-245km-quattro-bezwypadkowy-salon-pl-i-wlas-serwis-aso-f-vat-ID6HAQMH.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-245km-quattro-bezwypadkowy-salon-pl-i-wlas-serwis-aso-f-vat-ID6HAQMH.html"/>
@@ -443,14 +450,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-salon-polska-1-wlasciciel-serwis-aso-automat-vat-23-ID6HyvSi.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-35-tfsi-salon-polska-1-wlasciciel-serwis-aso-automat-vat-23-ID6HyvSi.html"/>
         <updated>2025-08-11T17:46:02.700Z</updated>
-        <content type="html"><![CDATA[46 899 km Benzyna Automatyczna 2023 129 998]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-w-65-wpr8649k-audi-a4-ID6Hyvfh.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-w-65-wpr8649k-audi-a4-ID6Hyvfh.html"/>
-        <updated>2025-08-11T17:46:02.702Z</updated>
-        <content type="html"><![CDATA[89 882 km Benzyna Automatyczna 2022 112 899]]></content>
+        <content type="html"><![CDATA[46 899 km Benzyna Automatyczna 2023 127 998]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic Momentum Pro (Otomoto)]]></title>
