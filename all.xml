@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-22T05:42:07.129Z</updated>
+    <updated>2025-08-22T17:41:05.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
@@ -453,6 +453,20 @@
         <content type="html"><![CDATA[121 619 km Benzyna Automatyczna 2021 87 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-auta-z-usa-zapytaj-o-wiecej-ofert-ID6HBq3j.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-auta-z-usa-zapytaj-o-wiecej-ofert-ID6HBq3j.html"/>
+        <updated>2025-08-22T17:41:04.801Z</updated>
+        <content type="html"><![CDATA[3 525 km Benzyna Automatyczna 2023 85 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B4 B Geartronic Inscription (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-197ps-inscription-skora-harman-kamera-alus18-ID6HBpSx.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-b4-197ps-inscription-skora-harman-kamera-alus18-ID6HBpSx.html"/>
+        <updated>2025-08-22T17:41:04.802Z</updated>
+        <content type="html"><![CDATA[130 000 km Benzyna Automatyczna 2020 109 800]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B DKG Momentum (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-full-led-virtual-cockpit-skora-carplay-el-klapa-ID6HBibd.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-full-led-virtual-cockpit-skora-carplay-el-klapa-ID6HBibd.html"/>
@@ -618,7 +632,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-163-km-pierwszy-wlasciciel-kupiony-w-salonie-37-tys-ID6HAB2F.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-volvo-xc-40-t3-163-km-pierwszy-wlasciciel-kupiony-w-salonie-37-tys-ID6HAB2F.html"/>
         <updated>2025-08-19T17:40:59.046Z</updated>
-        <content type="html"><![CDATA[37 000 km Benzyna Automatyczna 2022 125 000]]></content>
+        <content type="html"><![CDATA[37 000 km Benzyna Automatyczna 2022 124 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
@@ -661,19 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-volvo-v60-pierwszy-wlasciciel-faktura-vat-ID6HArAy.html"/>
         <updated>2025-08-16T05:41:57.495Z</updated>
         <content type="html"><![CDATA[111 880 km Benzyna Automatyczna 2021 89 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-sal-pl-1wl-bezwypd-oryg-lakier-aso-volvo-b3-pb-163-14km-f-vat-23-ID6HAqu6.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-sal-pl-1wl-bezwypd-oryg-lakier-aso-volvo-b3-pb-163-14km-f-vat-23-ID6HAqu6.html"/>
-        <updated>2025-08-15T17:42:06.963Z</updated>
-        <content type="html"><![CDATA[125 000 km Benzyna Automatyczna 2022 99 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-salonpl-1wl-gwfabryczna-fullled-virtualcockpit-kamera-navi-aso-vat23-ID6HA2Mt.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-salonpl-1wl-gwfabryczna-fullled-virtualcockpit-kamera-navi-aso-vat23-ID6HA2Mt.html"/>
-        <updated>2025-08-15T05:44:28.307Z</updated>
-        <content type="html"><![CDATA[50 000 km Benzyna Automatyczna 2023 129 800]]></content>
     </entry>
 </feed>
