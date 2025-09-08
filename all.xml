@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-07T17:37:51.120Z</updated>
+    <updated>2025-09-08T05:41:39.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -173,13 +173,6 @@
         <content type="html"><![CDATA[125 000 km Benzyna Automatyczna 2020 95 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT Pack (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-puretech-180-gt-pack-totalny-full-ID6HzSq5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-puretech-180-gt-pack-totalny-full-ID6HzSq5.html"/>
-        <updated>2025-08-11T17:45:58.003Z</updated>
-        <content type="html"><![CDATA[93 000 km Benzyna Automatyczna 2022 109 990]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 GT (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-gt-180-km-1wla-full-serwis-okazja-ID6HzLBV.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-f-vat-23-1-6-gt-180-km-1wla-full-serwis-okazja-ID6HzLBV.html"/>
@@ -227,6 +220,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-salon-fv23-gwarancja-serwisowa-allure-69024-netto-ID6Hy1ac.html"/>
         <updated>2025-09-07T05:39:26.208Z</updated>
         <content type="html"><![CDATA[74 240 km Benzyna Automatyczna 2020 84 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-salon-pl-1wl-bezwypadkowy-serwisowany-exclusive-automat-full-led-navi-ID6Hupgd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-salon-pl-1wl-bezwypadkowy-serwisowany-exclusive-automat-full-led-navi-ID6Hupgd.html"/>
+        <updated>2025-09-08T05:41:29.134Z</updated>
+        <content type="html"><![CDATA[78 012 km Benzyna Automatyczna 2020 88 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Sport S tronic (Otomoto)]]></title>
