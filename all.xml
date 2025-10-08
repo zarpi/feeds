@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-07T17:50:29.199Z</updated>
+    <updated>2025-10-08T05:40:20.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -44,7 +44,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HGAvt.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HGAvt.html"/>
         <updated>2025-10-02T17:39:22.037Z</updated>
-        <content type="html"><![CDATA[122 000 km Benzyna Automatyczna 2022 114 990]]></content>
+        <content type="html"><![CDATA[122 000 km Benzyna Automatyczna 2022 112 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
@@ -453,6 +453,13 @@
         <content type="html"><![CDATA[65 534 km Benzyna Automatyczna 2023 98 500]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 B5 AWD Ultimate Dark (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HH3SR.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HH3SR.html"/>
+        <updated>2025-10-08T05:40:19.287Z</updated>
+        <content type="html"><![CDATA[17 268 km Benzyna Automatyczna 2024 106 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Dark (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HH26J.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HH26J.html"/>
@@ -485,7 +492,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HGZuV.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HGZuV.html"/>
         <updated>2025-10-07T17:50:28.405Z</updated>
-        <content type="html"><![CDATA[133 379 km Benzyna Automatyczna 2022 124 850]]></content>
+        <content type="html"><![CDATA[133 379 km Benzyna Automatyczna 2022 119 850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Ultimate Dark (Otomoto)]]></title>
@@ -500,6 +507,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HGWeU.html"/>
         <updated>2025-10-07T17:50:28.408Z</updated>
         <content type="html"><![CDATA[115 000 km Benzyna Automatyczna 2020 95 890]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HGWcy.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HGWcy.html"/>
+        <updated>2025-10-08T05:40:19.337Z</updated>
+        <content type="html"><![CDATA[115 200 km Benzyna Automatyczna 2020 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
@@ -661,19 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HGz0k.html"/>
         <updated>2025-10-02T17:39:32.248Z</updated>
         <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2021 127 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 B4 B Geartronic RDesign (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HGyKM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HGyKM.html"/>
-        <updated>2025-10-02T17:39:32.250Z</updated>
-        <content type="html"><![CDATA[139 422 km Benzyna Automatyczna 2020 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HGyi2.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HGyi2.html"/>
-        <updated>2025-10-02T17:39:32.251Z</updated>
-        <content type="html"><![CDATA[130 877 km Benzyna Automatyczna 2023 119 000]]></content>
     </entry>
 </feed>
