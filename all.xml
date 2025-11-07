@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-07T05:44:08.016Z</updated>
+    <updated>2025-11-07T17:39:52.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -153,17 +153,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HHC2h.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HHC2h.html"/>
-        <updated>2025-10-14T05:40:58.825Z</updated>
-        <content type="html"><![CDATA[101 497 km Benzyna Automatyczna 2021 89 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HHC1L.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HHC1L.html"/>
         <updated>2025-10-13T17:39:10.953Z</updated>
-        <content type="html"><![CDATA[101 961 km Benzyna Automatyczna 2020 86 900]]></content>
+        <content type="html"><![CDATA[101 961 km Benzyna Automatyczna 2020 84 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -185,13 +178,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HHl8a.html"/>
         <updated>2025-10-13T05:42:28.840Z</updated>
         <content type="html"><![CDATA[109 200 km Benzyna Automatyczna 2020 93 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HH8EJ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HH8EJ.html"/>
-        <updated>2025-10-13T05:42:28.849Z</updated>
-        <content type="html"><![CDATA[98 200 km Benzyna Automatyczna 2021 94 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8 (Otomoto)]]></title>
@@ -229,11 +215,25 @@
         <content type="html"><![CDATA[80 000 km Benzyna Automatyczna 2021 94 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HKt44.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HKt44.html"/>
-        <updated>2025-11-06T17:42:35.577Z</updated>
-        <content type="html"><![CDATA[78 880 km Benzyna Automatyczna 2022 112 998]]></content>
+        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HCiHG.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HCiHG.html"/>
+        <updated>2025-11-07T17:39:39.508Z</updated>
+        <content type="html"><![CDATA[135 100 km Benzyna Automatyczna 2021 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HAOOs.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HAOOs.html"/>
+        <updated>2025-11-07T17:39:39.509Z</updated>
+        <content type="html"><![CDATA[113 641 km Benzyna Automatyczna 2020 82 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HKxKR.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HKxKR.html"/>
+        <updated>2025-11-07T17:39:45.141Z</updated>
+        <content type="html"><![CDATA[52 320 km Benzyna Automatyczna 2023 84 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic (Otomoto)]]></title>
@@ -283,13 +283,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HJHzV.html"/>
         <updated>2025-10-29T17:45:57.599Z</updated>
         <content type="html"><![CDATA[60 448 km Benzyna Automatyczna 2020 90 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line business (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HJdq5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HJdq5.html"/>
-        <updated>2025-10-25T17:39:41.103Z</updated>
-        <content type="html"><![CDATA[119 600 km Benzyna Automatyczna 2020 88 068]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -366,7 +359,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HI1P0.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HI1P0.html"/>
         <updated>2025-10-17T17:40:13.915Z</updated>
-        <content type="html"><![CDATA[138 430 km Benzyna Automatyczna 2021 129 900]]></content>
+        <content type="html"><![CDATA[139 020 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic advanced (Otomoto)]]></title>
@@ -453,6 +446,48 @@
         <content type="html"><![CDATA[101 000 km Benzyna Automatyczna 2020 117 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HERBm.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HERBm.html"/>
+        <updated>2025-11-07T17:39:45.183Z</updated>
+        <content type="html"><![CDATA[65 534 km Benzyna Automatyczna 2023 98 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKAZ2.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKAZ2.html"/>
+        <updated>2025-11-07T17:39:51.160Z</updated>
+        <content type="html"><![CDATA[96 166 km Benzyna Automatyczna 2020 98 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKAUc.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKAUc.html"/>
+        <updated>2025-11-07T17:39:51.162Z</updated>
+        <content type="html"><![CDATA[48 400 km Benzyna Automatyczna 2021 103 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HKAJW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HKAJW.html"/>
+        <updated>2025-11-07T17:39:51.163Z</updated>
+        <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2020 108 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 T4 R-Design (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKzCN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HKzCN.html"/>
+        <updated>2025-11-07T17:39:51.164Z</updated>
+        <content type="html"><![CDATA[134 124 km Benzyna Automatyczna 2021 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T4 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HKzhW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HKzhW.html"/>
+        <updated>2025-11-07T17:39:51.165Z</updated>
+        <content type="html"><![CDATA[92 784 km Benzyna Automatyczna 2020 119 899]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HKwJM.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HKwJM.html"/>
@@ -472,6 +507,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HKuFV.html"/>
         <updated>2025-11-06T17:42:41.711Z</updated>
         <content type="html"><![CDATA[90 000 km Benzyna Manualna 2020 83 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B4 B Geartronic Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HKutN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HKutN.html"/>
+        <updated>2025-11-07T17:39:51.170Z</updated>
+        <content type="html"><![CDATA[140 000 km Benzyna Automatyczna 2021 104 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
@@ -607,13 +649,6 @@
         <content type="html"><![CDATA[32 586 km Benzyna Automatyczna 2021 118 899]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T4 R-Design (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJRaI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJRaI.html"/>
-        <updated>2025-10-31T05:41:49.226Z</updated>
-        <content type="html"><![CDATA[91 258 km Benzyna Automatyczna 2021 83 333]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40 B3 B DKG Plus Black Edition (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJR1V.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJR1V.html"/>
@@ -640,40 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJPVj.html"/>
         <updated>2025-10-31T05:41:49.230Z</updated>
         <content type="html"><![CDATA[73 000 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJPWV.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJPWV.html"/>
-        <updated>2025-10-31T05:41:49.231Z</updated>
-        <content type="html"><![CDATA[98 500 km Benzyna Automatyczna 2022 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJPTG.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJPTG.html"/>
-        <updated>2025-10-31T05:41:49.232Z</updated>
-        <content type="html"><![CDATA[66 000 km Benzyna Automatyczna 2022 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic R-Design (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJO8F.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HJO8F.html"/>
-        <updated>2025-10-31T05:41:49.235Z</updated>
-        <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 115 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJNgv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJNgv.html"/>
-        <updated>2025-10-31T05:41:49.236Z</updated>
-        <content type="html"><![CDATA[76 500 km Benzyna Automatyczna 2021 124 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJKeD.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HJKeD.html"/>
-        <updated>2025-10-31T05:41:49.237Z</updated>
-        <content type="html"><![CDATA[132 447 km Benzyna Automatyczna 2020 109 000]]></content>
     </entry>
 </feed>
