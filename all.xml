@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-27T17:40:53.215Z</updated>
+    <updated>2025-11-28T05:44:52.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -229,11 +229,25 @@
         <content type="html"><![CDATA[102 000 km Benzyna Automatyczna 2022 99 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A3 Sportback (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HN1U9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HN1U9.html"/>
+        <updated>2025-11-28T05:44:45.800Z</updated>
+        <content type="html"><![CDATA[6 400 km Benzyna Automatyczna 2023 117 800]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi A4 Limousine 45 TFSI Quattro Sport S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HN0XG.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HN0XG.html"/>
         <updated>2025-11-27T17:40:48.120Z</updated>
         <content type="html"><![CDATA[32 111 km Benzyna Automatyczna 2023 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Limousine 35 TFSI S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HN0FF.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HN0FF.html"/>
+        <updated>2025-11-28T05:44:45.805Z</updated>
+        <content type="html"><![CDATA[113 000 km Benzyna Automatyczna 2020 83 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Limousine (Otomoto)]]></title>
@@ -439,18 +453,11 @@
         <content type="html"><![CDATA[85 350 km Benzyna Automatyczna 2019 102 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi S3 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HMQTA.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HMQTA.html"/>
-        <updated>2025-11-27T05:43:26.895Z</updated>
-        <content type="html"><![CDATA[104 000 km Benzyna Automatyczna 2019 114 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q3 35 TFSI S tronic S line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HMQw1.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HMQw1.html"/>
-        <updated>2025-11-27T05:43:26.897Z</updated>
-        <content type="html"><![CDATA[78 500 km Benzyna Automatyczna 2022 127 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 60 T4 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HN1X1.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HN1X1.html"/>
+        <updated>2025-11-28T05:44:51.290Z</updated>
+        <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2021 118 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B6 B AWD Geartronic RDesign (Otomoto)]]></title>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HM4ms.html"/>
         <updated>2025-11-20T17:39:56.992Z</updated>
         <content type="html"><![CDATA[66 300 km Benzyna Automatyczna 2020 124 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HM1Kj.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HM1Kj.html"/>
-        <updated>2025-11-20T05:42:29.037Z</updated>
-        <content type="html"><![CDATA[139 800 km Benzyna Automatyczna 2021 101 999]]></content>
     </entry>
 </feed>
