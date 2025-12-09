@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-09T05:43:53.051Z</updated>
+    <updated>2025-12-09T17:44:08.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HO6nH.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HO6nH.html"/>
+        <updated>2025-12-09T17:43:55.651Z</updated>
+        <content type="html"><![CDATA[74 352 km Benzyna Automatyczna 2021 109 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HNTYO.html</id>
@@ -128,7 +135,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HKYGe.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HKYGe.html"/>
         <updated>2025-11-12T17:41:29.416Z</updated>
-        <content type="html"><![CDATA[101 961 km Benzyna Automatyczna 2020 82 900]]></content>
+        <content type="html"><![CDATA[101 961 km Benzyna Automatyczna 2020 81 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
@@ -170,7 +177,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HKqwX.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HKqwX.html"/>
         <updated>2025-11-06T05:41:53.884Z</updated>
-        <content type="html"><![CDATA[67 482 km Benzyna Automatyczna 2021 90 900]]></content>
+        <content type="html"><![CDATA[67 482 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -222,11 +229,123 @@
         <content type="html"><![CDATA[135 100 km Benzyna Automatyczna 2021 87 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6Hzm2a.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6Hzm2a.html"/>
-        <updated>2025-12-09T05:43:41.278Z</updated>
-        <content type="html"><![CDATA[61 688 km Benzyna Automatyczna 2021 99 630]]></content>
+        <title type="html"><![CDATA[Audi A4 Limousine (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO89b.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO89b.html"/>
+        <updated>2025-12-09T17:44:01.533Z</updated>
+        <content type="html"><![CDATA[105 100 km Benzyna Automatyczna 2023 88 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Allroad (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO85u.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO85u.html"/>
+        <updated>2025-12-09T17:44:01.536Z</updated>
+        <content type="html"><![CDATA[101 056 km Benzyna Automatyczna 2020 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Limousine (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO7Ck.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO7Ck.html"/>
+        <updated>2025-12-09T17:44:01.545Z</updated>
+        <content type="html"><![CDATA[25 283 km Benzyna Automatyczna 2024 124 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A5 Sportback (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a5-sportback-ID6HO7B9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a5-sportback-ID6HO7B9.html"/>
+        <updated>2025-12-09T17:44:01.546Z</updated>
+        <content type="html"><![CDATA[99 370 km Benzyna Automatyczna 2018 96 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q3 Sportback 35 TFSI S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HO7p6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HO7p6.html"/>
+        <updated>2025-12-09T17:44:01.547Z</updated>
+        <content type="html"><![CDATA[62 500 km Benzyna Automatyczna 2020 108 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A7 Sportback 2.0 TFSI Quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a7-ID6HO7lF.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a7-ID6HO7lF.html"/>
+        <updated>2025-12-09T17:44:01.548Z</updated>
+        <content type="html"><![CDATA[131 688 km Benzyna Automatyczna 2017 95 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic design (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HO7ej.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HO7ej.html"/>
+        <updated>2025-12-09T17:44:01.550Z</updated>
+        <content type="html"><![CDATA[116 942 km Benzyna Automatyczna 2020 115 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A3 Sportback (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO74Z.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO74Z.html"/>
+        <updated>2025-12-09T17:44:01.551Z</updated>
+        <content type="html"><![CDATA[7 134 km Benzyna Automatyczna 2024 129 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant 45 TFSI Quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6HO6U8.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6HO6U8.html"/>
+        <updated>2025-12-09T17:44:01.552Z</updated>
+        <content type="html"><![CDATA[68 223 km Benzyna Automatyczna 2019 128 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A3 Sportback (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO6ND.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO6ND.html"/>
+        <updated>2025-12-09T17:44:01.553Z</updated>
+        <content type="html"><![CDATA[26 144 km Benzyna Automatyczna 2023 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A7 Sportback 2.0 TFSI S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a7-ID6HO6dP.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a7-ID6HO6dP.html"/>
+        <updated>2025-12-09T17:44:01.555Z</updated>
+        <content type="html"><![CDATA[139 000 km Benzyna Automatyczna 2015 84 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HO6bg.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HO6bg.html"/>
+        <updated>2025-12-09T17:44:01.556Z</updated>
+        <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 117 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q3 35 TFSI S line S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HO5XN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HO5XN.html"/>
+        <updated>2025-12-09T17:44:01.557Z</updated>
+        <content type="html"><![CDATA[78 000 km Benzyna Automatyczna 2019 99 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A3 Limousine 2.0 TFSI quattro S tronic design (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-limousine-ID6HO5Mx.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-limousine-ID6HO5Mx.html"/>
+        <updated>2025-12-09T17:44:01.559Z</updated>
+        <content type="html"><![CDATA[99 212 km Benzyna Automatyczna 2019 81 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A3 Limousine (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-limousine-ID6HO5wC.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-limousine-ID6HO5wC.html"/>
+        <updated>2025-12-09T17:44:01.560Z</updated>
+        <content type="html"><![CDATA[29 800 km Benzyna Automatyczna 2023 107 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q3 45 TFSI Quattro S tronic S line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HO5pN.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HO5pN.html"/>
+        <updated>2025-12-09T17:44:01.562Z</updated>
+        <content type="html"><![CDATA[66 723 km Benzyna Automatyczna 2020 100 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi S3 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HO5gz.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HO5gz.html"/>
+        <updated>2025-12-09T17:44:01.563Z</updated>
+        <content type="html"><![CDATA[99 500 km Benzyna Automatyczna 2017 109 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi RS5 Sportback 2.9 TFSI Quattro Tiptronic (Otomoto)]]></title>
@@ -334,123 +453,46 @@
         <content type="html"><![CDATA[58 000 km Benzyna Automatyczna 2017 97 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q2 35 TFSI S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HO1UV.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HO1UV.html"/>
-        <updated>2025-12-08T17:43:43.037Z</updated>
-        <content type="html"><![CDATA[84 824 km Benzyna Automatyczna 2021 83 900]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO7g6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO7g6.html"/>
+        <updated>2025-12-09T17:44:07.466Z</updated>
+        <content type="html"><![CDATA[120 650 km Benzyna Automatyczna 2021 91 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Allroad 2.0 TFSI S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO1Qb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO1Qb.html"/>
-        <updated>2025-12-08T17:43:43.039Z</updated>
-        <content type="html"><![CDATA[79 136 km Benzyna Automatyczna 2020 125 500]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO6Su.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO6Su.html"/>
+        <updated>2025-12-09T17:44:07.470Z</updated>
+        <content type="html"><![CDATA[77 050 km Benzyna Automatyczna 2021 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Allroad 45 TFSI S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO1DW.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HO1DW.html"/>
-        <updated>2025-12-08T17:43:43.043Z</updated>
-        <content type="html"><![CDATA[119 000 km Benzyna Automatyczna 2020 99 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO6yc.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO6yc.html"/>
+        <updated>2025-12-09T17:44:07.471Z</updated>
+        <content type="html"><![CDATA[102 000 km Benzyna Manualna 2020 88 700]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A6 Limousine (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-limousine-ID6HO1uM.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-limousine-ID6HO1uM.html"/>
-        <updated>2025-12-08T17:43:43.044Z</updated>
-        <content type="html"><![CDATA[52 206 km Benzyna Automatyczna 2020 118 500]]></content>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HO5Pa.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HO5Pa.html"/>
+        <updated>2025-12-09T17:44:07.472Z</updated>
+        <content type="html"><![CDATA[118 117 km Benzyna Automatyczna 2020 125 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q2 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HO11X.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HO11X.html"/>
-        <updated>2025-12-08T17:43:43.045Z</updated>
-        <content type="html"><![CDATA[31 665 km Benzyna Automatyczna 2023 117 980]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO5tK.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HO5tK.html"/>
+        <updated>2025-12-09T17:44:07.473Z</updated>
+        <content type="html"><![CDATA[61 843 km Benzyna Automatyczna 2022 124 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q7 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q7-ID6HO0Uv.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q7-ID6HO0Uv.html"/>
-        <updated>2025-12-08T17:43:43.047Z</updated>
-        <content type="html"><![CDATA[92 092 km Benzyna Automatyczna 2017 94 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A3 Sportback (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO0Kj.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO0Kj.html"/>
-        <updated>2025-12-08T17:43:43.048Z</updated>
-        <content type="html"><![CDATA[7 277 km Benzyna Automatyczna 2024 129 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A3 Sportback 35 TFSI S tronic advanced (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO0rQ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a3-sportback-ID6HO0rQ.html"/>
-        <updated>2025-12-08T17:43:43.050Z</updated>
-        <content type="html"><![CDATA[16 700 km Benzyna Automatyczna 2021 96 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Limousine (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO0hY.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO0hY.html"/>
-        <updated>2025-12-08T17:43:43.051Z</updated>
-        <content type="html"><![CDATA[47 558 km Benzyna Automatyczna 2022 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Limousine 35 TFSI S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO0de.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-limousine-ID6HO0de.html"/>
-        <updated>2025-12-08T17:43:43.052Z</updated>
-        <content type="html"><![CDATA[50 840 km Benzyna Automatyczna 2020 88 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q2 35 TFSI Sport S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HNZWm.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q2-ID6HNZWm.html"/>
-        <updated>2025-12-08T17:43:43.053Z</updated>
-        <content type="html"><![CDATA[66 000 km Benzyna Automatyczna 2020 84 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Allroad (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNYV3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNYV3.html"/>
-        <updated>2025-12-08T17:43:43.055Z</updated>
-        <content type="html"><![CDATA[110 000 km Benzyna Automatyczna 2022 95 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic advanced (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6HNYW8.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6HNYW8.html"/>
-        <updated>2025-12-08T17:43:43.057Z</updated>
-        <content type="html"><![CDATA[78 524 km Benzyna Automatyczna 2023 107 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q3 45 TFSI Quattro S tronic S line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HNXWJ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HNXWJ.html"/>
-        <updated>2025-12-08T05:45:42.135Z</updated>
-        <content type="html"><![CDATA[51 500 km Benzyna Automatyczna 2022 128 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi TT Coupé 2.0 TFSI quattro S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6HNXE8.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6HNXE8.html"/>
-        <updated>2025-12-08T05:45:42.137Z</updated>
-        <content type="html"><![CDATA[106 000 km Benzyna Automatyczna 2015 97 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q7 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q7-ID6HNXx9.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q7-ID6HNXx9.html"/>
-        <updated>2025-12-08T05:45:42.143Z</updated>
-        <content type="html"><![CDATA[99 000 km Benzyna Automatyczna 2017 121 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi S3 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HNXt2.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-s3-ID6HNXt2.html"/>
-        <updated>2025-12-08T05:45:42.144Z</updated>
-        <content type="html"><![CDATA[130 000 km Benzyna Automatyczna 2017 91 900]]></content>
+        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HO5lV.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HO5lV.html"/>
+        <updated>2025-12-09T17:44:07.475Z</updated>
+        <content type="html"><![CDATA[37 600 km Benzyna Automatyczna 2020 119 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
@@ -633,47 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNxna.html"/>
         <updated>2025-12-02T17:45:59.483Z</updated>
         <content type="html"><![CDATA[49 393 km Benzyna Automatyczna 2022 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNvDT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNvDT.html"/>
-        <updated>2025-12-02T17:45:59.485Z</updated>
-        <content type="html"><![CDATA[44 484 km Benzyna Automatyczna 2022 109 899]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Geartronic R-Design (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNwHs.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNwHs.html"/>
-        <updated>2025-12-02T17:45:59.486Z</updated>
-        <content type="html"><![CDATA[46 620 km Benzyna Automatyczna 2020 119 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNwfl.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNwfl.html"/>
-        <updated>2025-12-02T17:45:59.487Z</updated>
-        <content type="html"><![CDATA[134 438 km Benzyna Automatyczna 2020 92 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic RDesign (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNw5f.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNw5f.html"/>
-        <updated>2025-12-02T17:45:59.489Z</updated>
-        <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2022 126 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B3 B DKG Plus Black Edition (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNtm6.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNtm6.html"/>
-        <updated>2025-12-02T05:43:25.647Z</updated>
-        <content type="html"><![CDATA[23 449 km Benzyna Automatyczna 2024 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B3 Core (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNpfQ.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HNpfQ.html"/>
-        <updated>2025-12-01T17:48:10.141Z</updated>
-        <content type="html"><![CDATA[88 146 km Benzyna Automatyczna 2022 129 850]]></content>
     </entry>
 </feed>
