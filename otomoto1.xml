@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-12-16T17:47:23.953Z</updated>
+    <updated>2025-12-17T05:47:52.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -230,6 +230,55 @@
         <content type="html"><![CDATA[62 133 km Benzyna Automatyczna 2021 99 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi A6 Limousine 45 TFSI quattro S tronic design]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a6-limousine-ID6HOMRI.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a6-limousine-ID6HOMRI.html"/>
+        <updated>2025-12-17T05:47:42.322Z</updated>
+        <content type="html"><![CDATA[84 000 km Benzyna Automatyczna 2019 119 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q3 Sportback 35 TFSI S tronic S line]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HOMDI.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HOMDI.html"/>
+        <updated>2025-12-17T05:47:42.324Z</updated>
+        <content type="html"><![CDATA[106 000 km Benzyna Automatyczna 2021 119 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A5 Coupé 2.0 TFSI quattro S tronic sport]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a5-coupe-ID6HOMC9.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a5-coupe-ID6HOMC9.html"/>
+        <updated>2025-12-17T05:47:42.325Z</updated>
+        <content type="html"><![CDATA[113 000 km Benzyna Automatyczna 2017 115 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Design S tronic]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOMux.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOMux.html"/>
+        <updated>2025-12-17T05:47:42.327Z</updated>
+        <content type="html"><![CDATA[104 000 km Benzyna Automatyczna 2017 89 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi S4 Limousine]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-s4-ID6HOMpA.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-s4-ID6HOMpA.html"/>
+        <updated>2025-12-17T05:47:42.329Z</updated>
+        <content type="html"><![CDATA[86 000 km Benzyna Automatyczna 2017 130 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A5 Sportback]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a5-sportback-ID6HOMor.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a5-sportback-ID6HOMor.html"/>
+        <updated>2025-12-17T05:47:42.332Z</updated>
+        <content type="html"><![CDATA[97 000 km Benzyna Automatyczna 2020 125 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q3 Sportback]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HOM5J.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-sportback-ID6HOM5J.html"/>
+        <updated>2025-12-17T05:47:42.333Z</updated>
+        <content type="html"><![CDATA[62 200 km Benzyna Automatyczna 2021 124 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOLnq.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOLnq.html"/>
@@ -405,53 +454,11 @@
         <content type="html"><![CDATA[116 000 km Benzyna Automatyczna 2021 92 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q3 45 TFSI Quattro S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGth.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGth.html"/>
-        <updated>2025-12-16T05:46:14.211Z</updated>
-        <content type="html"><![CDATA[89 000 km Benzyna Automatyczna 2022 120 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi S5 Coupé 3.0 TFSI quattro tiptronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-s5-ID6HOGt5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-s5-ID6HOGt5.html"/>
-        <updated>2025-12-16T05:46:14.213Z</updated>
-        <content type="html"><![CDATA[78 000 km Benzyna Automatyczna 2016 90 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q3 35 TFSI Advanced S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGsC.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGsC.html"/>
-        <updated>2025-12-16T05:46:14.214Z</updated>
-        <content type="html"><![CDATA[97 000 km Benzyna Automatyczna 2022 97 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q3 35 TFSI Advanced S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGmA.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOGmA.html"/>
-        <updated>2025-12-16T17:47:16.007Z</updated>
-        <content type="html"><![CDATA[47 000 km Benzyna Automatyczna 2022 109 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q3 45 TFSI Quattro S Line S tronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOFsb.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q3-ID6HOFsb.html"/>
-        <updated>2025-12-16T05:46:14.216Z</updated>
-        <content type="html"><![CDATA[101 800 km Benzyna Automatyczna 2020 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOFr5.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOFr5.html"/>
-        <updated>2025-12-16T05:46:14.219Z</updated>
-        <content type="html"><![CDATA[86 000 km Benzyna Automatyczna 2020 112 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q8-ID6HOFp3.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q8-ID6HOFp3.html"/>
-        <updated>2025-12-16T05:46:14.219Z</updated>
-        <content type="html"><![CDATA[51 696 km Benzyna Automatyczna 2023 109 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Inscription]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HOMK2.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HOMK2.html"/>
+        <updated>2025-12-17T05:47:51.585Z</updated>
+        <content type="html"><![CDATA[80 500 km Benzyna Automatyczna 2021 105 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Geartronic RDesign]]></title>
@@ -669,12 +676,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6HOb3J.html"/>
         <updated>2025-12-10T17:46:21.324Z</updated>
         <content type="html"><![CDATA[63 000 km Benzyna Automatyczna 2022 119 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B3 B DKG Core]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HOaXw.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HOaXw.html"/>
-        <updated>2025-12-10T17:46:21.327Z</updated>
-        <content type="html"><![CDATA[55 873 km Benzyna Automatyczna 2023 128 300]]></content>
     </entry>
 </feed>
