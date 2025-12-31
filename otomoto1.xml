@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2025-12-31T05:50:25.320Z</updated>
+    <updated>2025-12-31T17:41:19.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HPHzM.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HPHzM.html?reason=listing"/>
+        <updated>2025-12-31T17:41:06.855Z</updated>
+        <content type="html"><![CDATA[57 946 km Benzyna Automatyczna 2022 119 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech Allure S&S EAT8]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HPHsi.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HPHsi.html?reason=listing"/>
+        <updated>2025-12-31T17:41:06.861Z</updated>
+        <content type="html"><![CDATA[110 556 km Benzyna Automatyczna 2020 84 999]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HPuys.html?reason=listing</id>
@@ -202,13 +216,6 @@
         <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2021 107 010]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech Allure Pack S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HG9NF.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HG9NF.html?reason=listing"/>
-        <updated>2025-12-19T17:38:23.743Z</updated>
-        <content type="html"><![CDATA[50 405 km Benzyna Automatyczna 2021 94 850]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 508 SW PureTech 180 EAT8 GT]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HFWlg.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HFWlg.html?reason=listing"/>
@@ -223,11 +230,11 @@
         <content type="html"><![CDATA[128 599 km Benzyna Automatyczna 2022 113 899]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT8]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HCiHG.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HCiHG.html?reason=listing"/>
-        <updated>2025-12-29T17:42:38.538Z</updated>
-        <content type="html"><![CDATA[135 100 km Benzyna Automatyczna 2021 87 900]]></content>
+        <title type="html"><![CDATA[Audi A4 Allroad]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HPH9e.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HPH9e.html?reason=listing"/>
+        <updated>2025-12-31T17:41:12.876Z</updated>
+        <content type="html"><![CDATA[103 000 km Benzyna Automatyczna 2022 99 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5]]></title>
@@ -412,13 +419,6 @@
         <content type="html"><![CDATA[47 704 km Benzyna Automatyczna 2021 128 800]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Allroad]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNyhN.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNyhN.html?reason=listing"/>
-        <updated>2025-12-29T17:42:44.121Z</updated>
-        <content type="html"><![CDATA[103 000 km Benzyna Automatyczna 2022 99 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro Sport S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HNvcm.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HNvcm.html?reason=listing"/>
@@ -433,25 +433,25 @@
         <content type="html"><![CDATA[85 000 km Benzyna Automatyczna 2020 120 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Allroad]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNr4B.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6HNr4B.html?reason=listing"/>
-        <updated>2025-12-29T17:42:44.126Z</updated>
-        <content type="html"><![CDATA[105 167 km Benzyna Automatyczna 2020 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HNm6V.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HNm6V.html?reason=listing"/>
-        <updated>2025-12-29T17:42:44.127Z</updated>
-        <content type="html"><![CDATA[77 000 km Benzyna Automatyczna 2020 110 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMmPq.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMmPq.html?reason=listing"/>
         <updated>2025-12-29T17:42:44.128Z</updated>
         <content type="html"><![CDATA[43 109 km Benzyna Automatyczna 2020 111 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMfn6.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMfn6.html?reason=listing"/>
+        <updated>2025-12-31T17:41:12.917Z</updated>
+        <content type="html"><![CDATA[27 127 km Benzyna Automatyczna 2024 103 500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HLgog.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HLgog.html?reason=listing"/>
+        <updated>2025-12-31T17:41:12.919Z</updated>
+        <content type="html"><![CDATA[3 806 km Benzyna Automatyczna 2024 127 920]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60]]></title>
