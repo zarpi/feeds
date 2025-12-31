@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-30T17:45:15.539Z</updated>
+    <updated>2025-12-31T05:50:25.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[105 420 km Benzyna Automatyczna 2021 88 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOdoT.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOdoT.html?reason=listing"/>
+        <updated>2025-12-31T05:50:17.555Z</updated>
+        <content type="html"><![CDATA[60 611 km Benzyna Automatyczna 2024 119 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOcvR.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HOcvR.html?reason=listing"/>
@@ -446,13 +453,6 @@
         <content type="html"><![CDATA[43 109 km Benzyna Automatyczna 2020 111 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMfn6.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HMfn6.html?reason=listing"/>
-        <updated>2025-12-30T17:45:08.854Z</updated>
-        <content type="html"><![CDATA[27 127 km Benzyna Automatyczna 2024 103 500]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HPF2F.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HPF2F.html?reason=listing"/>
@@ -465,13 +465,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HPEVe.html?reason=listing"/>
         <updated>2025-12-30T17:45:14.789Z</updated>
         <content type="html"><![CDATA[65 000 km Benzyna Automatyczna 2021 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HPBvj.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HPBvj.html?reason=listing"/>
-        <updated>2025-12-30T17:45:14.794Z</updated>
-        <content type="html"><![CDATA[129 855 km Benzyna Automatyczna 2021 94 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 (Otomoto)]]></title>
@@ -675,5 +668,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HP9MM.html?reason=listing"/>
         <updated>2025-12-20T17:40:24.150Z</updated>
         <content type="html"><![CDATA[60 000 km Benzyna Manualna 2020 104 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B3 B Geartronic Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HP7Oo.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HP7Oo.html?reason=listing"/>
+        <updated>2025-12-31T05:50:24.567Z</updated>
+        <content type="html"><![CDATA[135 000 km Benzyna Automatyczna 2020 81 900]]></content>
     </entry>
 </feed>
