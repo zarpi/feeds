@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-22T17:53:53.411Z</updated>
+    <updated>2026-01-23T05:50:50.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HRYPV.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HRYPV.html?reason=listing"/>
+        <updated>2026-01-23T05:50:37.739Z</updated>
+        <content type="html"><![CDATA[66 000 km Benzyna Automatyczna 2021 125 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HRVlR.html?reason=listing</id>
@@ -129,13 +136,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HPtYf.html?reason=listing"/>
         <updated>2025-12-28T17:40:47.784Z</updated>
         <content type="html"><![CDATA[122 561 km Benzyna Automatyczna 2022 102 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HPocf.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HPocf.html?reason=listing"/>
-        <updated>2025-12-24T05:46:53.994Z</updated>
-        <content type="html"><![CDATA[62 900 km Benzyna Automatyczna 2021 97 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -439,6 +439,13 @@
         <content type="html"><![CDATA[109 000 km Benzyna Automatyczna 2020 121 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HRYj4.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HRYj4.html?reason=listing"/>
+        <updated>2026-01-23T05:50:48.812Z</updated>
+        <content type="html"><![CDATA[32 500 km Benzyna Automatyczna 2021 105 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B Geartronic Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HRVQU.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HRVQU.html?reason=listing"/>
@@ -632,7 +639,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HRlkB.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HRlkB.html?reason=listing"/>
         <updated>2026-01-15T17:59:00.440Z</updated>
-        <content type="html"><![CDATA[103 500 km Benzyna Automatyczna 2020 95 000]]></content>
+        <content type="html"><![CDATA[103 500 km Benzyna Automatyczna 2020 93 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B Geartronic Inscription (Otomoto)]]></title>
@@ -654,12 +661,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HR9sC.html?reason=listing"/>
         <updated>2026-01-14T17:51:09.439Z</updated>
         <content type="html"><![CDATA[104 643 km Benzyna Automatyczna 2020 114 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T4 Inscription (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HR7nj.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HR7nj.html?reason=listing"/>
-        <updated>2026-01-15T17:59:00.447Z</updated>
-        <content type="html"><![CDATA[130 000 km Benzyna Automatyczna 2020 125 000]]></content>
     </entry>
 </feed>
