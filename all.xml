@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-24T17:41:21.262Z</updated>
+    <updated>2026-01-25T05:51:33.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -453,6 +453,13 @@
         <content type="html"><![CDATA[74 800 km Benzyna Automatyczna 2020 129 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T5 AWD Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HS7no.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HS7no.html?reason=listing"/>
+        <updated>2026-01-25T05:51:32.863Z</updated>
+        <content type="html"><![CDATA[95 000 km Benzyna Automatyczna 2020 120 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 T6 AWD Geartronic Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HS625.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HS625.html?reason=listing"/>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HRsp2.html?reason=listing"/>
         <updated>2026-01-16T17:47:38.749Z</updated>
         <content type="html"><![CDATA[55 873 km Benzyna Automatyczna 2023 120 300]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Core (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HRqPx.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HRqPx.html?reason=listing"/>
-        <updated>2026-01-16T17:47:38.753Z</updated>
-        <content type="html"><![CDATA[66 000 km Benzyna Manualna 2021 110 900]]></content>
     </entry>
 </feed>
