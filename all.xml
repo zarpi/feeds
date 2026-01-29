@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-28T17:56:19.232Z</updated>
+    <updated>2026-01-29T06:05:12.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -432,6 +432,13 @@
         <content type="html"><![CDATA[40 416 km Benzyna Automatyczna 2023 99 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 T4 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HSs3x.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HSs3x.html?reason=listing"/>
+        <updated>2026-01-29T06:05:11.634Z</updated>
+        <content type="html"><![CDATA[77 000 km Benzyna Automatyczna 2020 124 999]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HSrE7.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HSrE7.html?reason=listing"/>
@@ -576,7 +583,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HS47m.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HS47m.html?reason=listing"/>
         <updated>2026-01-24T05:44:22.803Z</updated>
-        <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2021 115 000]]></content>
+        <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2021 112 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B3 Plus Dark (Otomoto)]]></title>
@@ -647,12 +654,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HRM0w.html?reason=listing"/>
         <updated>2026-01-21T18:08:34.997Z</updated>
         <content type="html"><![CDATA[61 230 km Benzyna Automatyczna 2022 129 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Geartronic Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HRLxY.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HRLxY.html?reason=listing"/>
-        <updated>2026-01-21T05:52:29.023Z</updated>
-        <content type="html"><![CDATA[96 572 km Benzyna Automatyczna 2022 90 400]]></content>
     </entry>
 </feed>
