@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-08T17:53:12.241Z</updated>
+    <updated>2026-02-09T06:41:14.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -173,6 +173,13 @@
         <content type="html"><![CDATA[46 000 km Benzyna Automatyczna 2020 87 950]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HK1Xu.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HK1Xu.html?reason=listing"/>
+        <updated>2026-02-09T06:41:00.580Z</updated>
+        <content type="html"><![CDATA[38 187 km Benzyna Automatyczna 2021 83 000]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HJFY6.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HJFY6.html?reason=listing"/>
@@ -219,7 +226,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HSRra.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HSRra.html?reason=listing"/>
         <updated>2026-02-06T18:06:16.451Z</updated>
-        <content type="html"><![CDATA[96 000 km Benzyna Automatyczna 2022 121 000]]></content>
+        <content type="html"><![CDATA[96 000 km Benzyna Automatyczna 2022 120 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
