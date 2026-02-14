@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-13T18:03:06.601Z</updated>
+    <updated>2026-02-14T06:05:40.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -138,13 +138,6 @@
         <content type="html"><![CDATA[74 352 km Benzyna Automatyczna 2021 104 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HRcUa.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HRcUa.html?reason=listing"/>
-        <updated>2026-01-15T17:58:48.425Z</updated>
-        <content type="html"><![CDATA[112 000 km Benzyna Automatyczna 2021 99 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HPQYx.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HPQYx.html?reason=listing"/>
@@ -198,7 +191,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HKRWo.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6HKRWo.html?reason=listing"/>
         <updated>2026-01-29T18:00:44.398Z</updated>
-        <content type="html"><![CDATA[46 000 km Benzyna Automatyczna 2020 87 950]]></content>
+        <content type="html"><![CDATA[46 000 km Benzyna Automatyczna 2020 85 950]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -373,7 +366,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HRE5V.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HRE5V.html?reason=listing"/>
         <updated>2026-01-19T17:47:49.530Z</updated>
-        <content type="html"><![CDATA[73 000 km Benzyna Automatyczna 2021 108 000]]></content>
+        <content type="html"><![CDATA[73 000 km Benzyna Automatyczna 2021 106 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic (Otomoto)]]></title>
@@ -502,6 +495,13 @@
         <content type="html"><![CDATA[79 904 km Benzyna Automatyczna 2022 129 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo V60 B4 B Geartronic Inscription (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HTVP0.html?reason=listing</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6HTVP0.html?reason=listing"/>
+        <updated>2026-02-14T06:05:39.702Z</updated>
+        <content type="html"><![CDATA[123 000 km Benzyna Automatyczna 2022 106 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 T4 Momentum Pro (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HTW60.html?reason=listing</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HTW60.html?reason=listing"/>
@@ -528,13 +528,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HTW1l.html?reason=listing"/>
         <updated>2026-02-12T18:12:59.371Z</updated>
         <content type="html"><![CDATA[40 775 km Benzyna Automatyczna 2022 122 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V90 T6 AWD Inscription (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6HTUPh.html?reason=listing</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6HTUPh.html?reason=listing"/>
-        <updated>2026-02-12T18:12:59.373Z</updated>
-        <content type="html"><![CDATA[111 000 km Benzyna Automatyczna 2022 99 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
