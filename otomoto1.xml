@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2026-03-05T18:57:34.855Z</updated>
+    <updated>2026-03-06T06:05:12.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -482,13 +482,6 @@
         <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2023 121 500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 60]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HVc8K.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HVc8K.html"/>
-        <updated>2026-03-05T18:57:33.999Z</updated>
-        <content type="html"><![CDATA[109 052 km Benzyna Automatyczna 2020 124 998]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo XC 40]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVbG6.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVbG6.html"/>
@@ -676,5 +669,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HWEQ8.html"/>
         <updated>2026-03-02T18:03:56.183Z</updated>
         <content type="html"><![CDATA[100 400 km Benzyna Automatyczna 2021 129 800]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Inscription]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HWz9e.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HWz9e.html"/>
+        <updated>2026-03-06T06:05:11.293Z</updated>
+        <content type="html"><![CDATA[130 000 km Benzyna Automatyczna 2021 97 500]]></content>
     </entry>
 </feed>
