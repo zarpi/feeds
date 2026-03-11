@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-10T18:07:06.726Z</updated>
+    <updated>2026-03-11T06:08:26.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 PureTech 180 Stop & Start GPF EAT8 Allure (Otomoto)]]></title>
@@ -215,18 +215,25 @@
         <content type="html"><![CDATA[113 024 km Benzyna Automatyczna 2021 109 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HK1Xu.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HK1Xu.html"/>
-        <updated>2026-02-21T06:01:59.860Z</updated>
-        <content type="html"><![CDATA[38 187 km Benzyna Automatyczna 2021 83 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HJFY6.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HJFY6.html"/>
         <updated>2026-03-10T06:05:07.334Z</updated>
         <content type="html"><![CDATA[90 507 km Benzyna Automatyczna 2020 94 700]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HHUmi.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HHUmi.html"/>
+        <updated>2026-03-11T06:08:10.775Z</updated>
+        <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2021 103 320]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HVJdK.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HVJdK.html"/>
+        <updated>2026-03-11T06:08:17.267Z</updated>
+        <content type="html"><![CDATA[1 438 km Benzyna Automatyczna 2025 99 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 40 TFSI quattro S tronic advanced (Otomoto)]]></title>
@@ -446,11 +453,11 @@
         <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2021 119 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 2.0 TFSI Quattro S tronic design (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HTySH.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HTySH.html"/>
-        <updated>2026-03-09T06:36:12.297Z</updated>
-        <content type="html"><![CDATA[111 000 km Benzyna Automatyczna 2020 118 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T4 R-Design (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVIBd.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVIBd.html"/>
+        <updated>2026-03-11T06:08:25.486Z</updated>
+        <content type="html"><![CDATA[115 000 km Benzyna Automatyczna 2020 110 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic Momentum (Otomoto)]]></title>
@@ -668,12 +675,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVbG6.html"/>
         <updated>2026-03-05T18:57:34.000Z</updated>
         <content type="html"><![CDATA[56 464 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVa07.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HVa07.html"/>
-        <updated>2026-03-05T18:57:34.002Z</updated>
-        <content type="html"><![CDATA[84 853 km Benzyna Automatyczna 2020 119 000]]></content>
     </entry>
 </feed>
