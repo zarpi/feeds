@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-15T17:53:36.338Z</updated>
+    <updated>2026-03-16T06:51:39.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -432,11 +432,18 @@
         <content type="html"><![CDATA[41 000 km Benzyna Automatyczna 2021 129 799]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HXfrF.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HXfrF.html"/>
-        <updated>2026-03-15T17:53:35.544Z</updated>
-        <content type="html"><![CDATA[10 080 km Benzyna Automatyczna 2026 99 000]]></content>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Geartronic RDesign (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HXhTC.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HXhTC.html"/>
+        <updated>2026-03-16T06:51:37.789Z</updated>
+        <content type="html"><![CDATA[127 500 km Benzyna Automatyczna 2021 96 999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HXhD6.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6HXhD6.html"/>
+        <updated>2026-03-16T06:51:37.790Z</updated>
+        <content type="html"><![CDATA[90 636 km Benzyna Automatyczna 2020 93 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 B4 B DKG Inscription (Otomoto)]]></title>
@@ -647,12 +654,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HVLjk.html"/>
         <updated>2026-03-12T06:10:51.364Z</updated>
         <content type="html"><![CDATA[110 000 km Benzyna Automatyczna 2021 114 500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V90 B4 B Geartronic Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6HVIR0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6HVIR0.html"/>
-        <updated>2026-03-12T06:10:51.365Z</updated>
-        <content type="html"><![CDATA[139 000 km Benzyna Automatyczna 2021 99 900]]></content>
     </entry>
 </feed>
