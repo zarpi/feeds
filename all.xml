@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-18T18:01:23.203Z</updated>
+    <updated>2026-04-19T06:57:39.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GPF GT Line S&S EAT8 (Otomoto)]]></title>
@@ -317,7 +317,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HYGZz.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HYGZz.html"/>
         <updated>2026-03-31T18:12:32.386Z</updated>
-        <content type="html"><![CDATA[37 600 km Benzyna Automatyczna 2023 129 000]]></content>
+        <content type="html"><![CDATA[37 600 km Benzyna Automatyczna 2023 128 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -355,18 +355,18 @@
         <content type="html"><![CDATA[65 573 km Benzyna Automatyczna 2023 129 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HXNb6.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HXNb6.html"/>
-        <updated>2026-03-20T06:14:12.024Z</updated>
-        <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2021 129 900]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HXA0c.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HXA0c.html"/>
         <updated>2026-04-18T18:01:15.345Z</updated>
         <content type="html"><![CDATA[71 845 km Benzyna Automatyczna 2024 115 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HVJ3K.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6HVJ3K.html"/>
+        <updated>2026-04-19T06:57:28.573Z</updated>
+        <content type="html"><![CDATA[31 600 km Benzyna Automatyczna 2023 129 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 40 T3 Inscription (Otomoto)]]></title>
