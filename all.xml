@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-01T18:38:10.135Z</updated>
+    <updated>2026-05-02T07:12:14.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
@@ -171,6 +171,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HFWlg.html"/>
         <updated>2026-04-06T18:11:05.606Z</updated>
         <content type="html"><![CDATA[62 133 km Benzyna Automatyczna 2021 83 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I2DdW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I2DdW.html"/>
+        <updated>2026-05-02T07:12:07.733Z</updated>
+        <content type="html"><![CDATA[111 000 km Benzyna Automatyczna 2020 101 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro Advanced S tronic (Otomoto)]]></title>
@@ -388,13 +395,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I0z9k.html"/>
         <updated>2026-04-12T18:00:19.124Z</updated>
         <content type="html"><![CDATA[61 000 km Benzyna Automatyczna 2021 123 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I0wsm.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I0wsm.html"/>
-        <updated>2026-04-11T17:56:50.006Z</updated>
-        <content type="html"><![CDATA[90 000 km Benzyna Automatyczna 2021 121 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Ultra Dark (Otomoto)]]></title>
