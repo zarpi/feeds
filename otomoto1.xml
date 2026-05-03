@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2026-05-03T07:30:03.543Z</updated>
+    <updated>2026-05-03T18:10:30.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2FtJ.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2FtJ.html"/>
+        <updated>2026-05-03T18:10:16.571Z</updated>
+        <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 111 900]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2DDE.html</id>
@@ -186,6 +193,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6HFWlg.html"/>
         <updated>2026-04-06T18:11:05.606Z</updated>
         <content type="html"><![CDATA[62 133 km Benzyna Automatyczna 2021 83 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line business]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I2GjV.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I2GjV.html"/>
+        <updated>2026-05-03T18:10:22.746Z</updated>
+        <content type="html"><![CDATA[121 619 km Benzyna Automatyczna 2021 85 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic]]></title>
@@ -375,13 +389,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I13lZ.html"/>
         <updated>2026-04-16T18:42:52.613Z</updated>
         <content type="html"><![CDATA[70 000 km Benzyna Automatyczna 2020 99 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I11MR.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I11MR.html"/>
-        <updated>2026-04-15T18:40:20.956Z</updated>
-        <content type="html"><![CDATA[68 321 km Benzyna Automatyczna 2023 99 500]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic]]></title>
