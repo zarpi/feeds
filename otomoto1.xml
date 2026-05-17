@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2026-05-16T18:12:36.677Z</updated>
+    <updated>2026-05-17T07:56:02.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -405,6 +405,13 @@
         <content type="html"><![CDATA[104 000 km Benzyna Automatyczna 2020 99 799]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Inscription]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I4nH5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I4nH5.html"/>
+        <updated>2026-05-17T07:56:01.474Z</updated>
+        <content type="html"><![CDATA[85 000 km Benzyna Automatyczna 2020 86 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 B5 B AWD Ultimate Dark]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I4n0D.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I4n0D.html"/>
@@ -620,12 +627,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6I3DVt.html"/>
         <updated>2026-05-11T19:15:57.224Z</updated>
         <content type="html"><![CDATA[139 000 km Benzyna Automatyczna 2021 96 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 Cross Country T5 AWD Geartronic]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6I3Cm0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6I3Cm0.html"/>
-        <updated>2026-05-11T19:15:57.230Z</updated>
-        <content type="html"><![CDATA[118 554 km Benzyna Automatyczna 2022 123 500]]></content>
     </entry>
 </feed>
