@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-01T10:37:17.481Z</updated>
+    <updated>2026-06-01T21:07:59.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -87,6 +87,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2FtJ.html"/>
         <updated>2026-05-03T18:10:16.571Z</updated>
         <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 111 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT Pack (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2DDE.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I2DDE.html"/>
+        <updated>2026-06-01T21:07:47.121Z</updated>
+        <content type="html"><![CDATA[114 000 km Benzyna Automatyczna 2022 111 700]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
@@ -362,6 +369,20 @@
         <content type="html"><![CDATA[38 500 km Benzyna Automatyczna 2022 128 800]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum Pro (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5Wbr.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5Wbr.html"/>
+        <updated>2026-06-01T21:07:58.709Z</updated>
+        <content type="html"><![CDATA[70 002 km Benzyna Automatyczna 2022 117 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B4 B Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I5Uzu.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I5Uzu.html"/>
+        <updated>2026-06-01T21:07:58.709Z</updated>
+        <content type="html"><![CDATA[78 066 km Benzyna Automatyczna 2022 128 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5TIW.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5TIW.html"/>
@@ -416,13 +437,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I5QdN.html"/>
         <updated>2026-05-31T18:43:28.207Z</updated>
         <content type="html"><![CDATA[61 000 km Benzyna Automatyczna 2020 123 800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 T3 Momentum (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5PrX.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I5PrX.html"/>
-        <updated>2026-05-31T08:25:37.445Z</updated>
-        <content type="html"><![CDATA[63 248 km Benzyna Automatyczna 2021 94 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B Essential (Otomoto)]]></title>
@@ -486,13 +500,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6I5IAY.html"/>
         <updated>2026-05-29T19:52:30.777Z</updated>
         <content type="html"><![CDATA[111 047 km Benzyna Automatyczna 2022 114 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 Cross Country T5 AWD Geartronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6I5HOc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6I5HOc.html"/>
-        <updated>2026-05-29T19:52:30.777Z</updated>
-        <content type="html"><![CDATA[97 566 km Benzyna Automatyczna 2020 89 892]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B DKG RDesign (Otomoto)]]></title>
