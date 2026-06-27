@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-26T19:18:12.061Z</updated>
+    <updated>2026-06-27T08:09:10.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 3008 (Otomoto)]]></title>
@@ -212,7 +212,7 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I7Cxc.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I7Cxc.html"/>
         <updated>2026-06-26T08:38:34.687Z</updated>
-        <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2022 123 900]]></content>
+        <content type="html"><![CDATA[75 000 km Benzyna Automatyczna 2022 120 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
@@ -381,6 +381,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I5TyN.html"/>
         <updated>2026-06-26T08:38:34.726Z</updated>
         <content type="html"><![CDATA[81 007 km Benzyna Automatyczna 2023 114 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo XC 40 T5 AWD Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I8s7y.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I8s7y.html"/>
+        <updated>2026-06-27T08:09:10.217Z</updated>
+        <content type="html"><![CDATA[39 000 km Benzyna Automatyczna 2021 97 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 (Otomoto)]]></title>
@@ -598,12 +605,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I7SSK.html"/>
         <updated>2026-06-23T08:42:07.438Z</updated>
         <content type="html"><![CDATA[92 937 km Benzyna Automatyczna 2021 119 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V90 (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6I7Roc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v90-ID6I7Roc.html"/>
-        <updated>2026-06-23T08:42:07.443Z</updated>
-        <content type="html"><![CDATA[120 000 km Benzyna Automatyczna 2022 127 900]]></content>
     </entry>
 </feed>
