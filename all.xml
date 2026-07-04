@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-03T18:46:43.551Z</updated>
+    <updated>2026-07-04T08:09:55.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Peugeot 3008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6I92sT.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6I92sT.html"/>
+        <updated>2026-07-04T08:09:42.976Z</updated>
+        <content type="html"><![CDATA[84 800 km Benzyna Automatyczna 2020 85 700]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT Pack S&S EAT8 (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I91MA.html</id>
@@ -150,6 +157,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6HHUmi.html"/>
         <updated>2026-06-28T18:43:30.734Z</updated>
         <content type="html"><![CDATA[79 000 km Benzyna Automatyczna 2021 98 400]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Allroad 45 TFSI Quattro S tronic (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6I92dp.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-allroad-ID6I92dp.html"/>
+        <updated>2026-07-04T08:09:49.749Z</updated>
+        <content type="html"><![CDATA[65 200 km Benzyna Automatyczna 2022 115 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
@@ -367,13 +381,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I6l5x.html"/>
         <updated>2026-07-03T08:33:35.363Z</updated>
         <content type="html"><![CDATA[27 000 km Benzyna Automatyczna 2023 124 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic S line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I6eOP.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I6eOP.html"/>
-        <updated>2026-07-03T08:33:35.364Z</updated>
-        <content type="html"><![CDATA[24 174 km Benzyna Automatyczna 2024 95 630]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Dark (Otomoto)]]></title>
