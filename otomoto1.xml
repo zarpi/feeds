@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508--3008--5008/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=150&amp;search%5Bfilter_float_mileage%3Ato%5D=140000&amp;search%5Bfilter_float_price%3Afrom%5D=80000&amp;search%5Bfilter_float_price%3Ato%5D=130000&amp;search%5Border%5D=created_at_first%3Adesc</id>
     <title>Otomoto</title>
-    <updated>2026-07-15T18:37:17.902Z</updated>
+    <updated>2026-07-16T07:36:09.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -391,6 +391,13 @@
         <content type="html"><![CDATA[72 000 km Benzyna Automatyczna 2021 127 800]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo XC 60 B5 B AWD Plus Bright]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I9VUW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I9VUW.html"/>
+        <updated>2026-07-16T07:36:08.925Z</updated>
+        <content type="html"><![CDATA[70 000 km Benzyna Automatyczna 2021 121 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 60 B4 B Inscription]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I9VML.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6I9VML.html"/>
@@ -606,12 +613,5 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6I9H1O.html"/>
         <updated>2026-07-12T18:26:49.499Z</updated>
         <content type="html"><![CDATA[59 700 km Benzyna Automatyczna 2023 129 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 40 B4 B Geartronic Inscription]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I9H0S.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6I9H0S.html"/>
-        <updated>2026-07-12T18:26:49.501Z</updated>
-        <content type="html"><![CDATA[113 000 km Benzyna Automatyczna 2023 114 900]]></content>
     </entry>
 </feed>
