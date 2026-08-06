@@ -16,22 +16,22 @@ dateSelector = "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj"
 waitUntil = "networkidle"
 # waitUntil - domcontentloaded" (default), "load", or "networkidle"
 
-[autoplac]
-title = "Autoplac"
-url = [
-"https://autoplac.pl/oferty/samochody-osobowe/audi/a4/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=45_333,45_357,45_341,45_351",
-"https://autoplac.pl/oferty/samochody-osobowe/ford/mondeo/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=206_2457,206_2428",
-"https://autoplac.pl/oferty/samochody-osobowe/peugeot/408/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=444_4601,444_4599,444_4576",
-"https://autoplac.pl/oferty/samochody-osobowe/volkswagen/arteon/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=582_5468,582_5502,582_5469,582_5500,582_5487",
-"https://autoplac.pl/oferty/samochody-osobowe/kia/ceed/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=303_3250,303_3233",
-"https://autoplac.pl/oferty/samochody-osobowe/volvo/v60/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=583_5569,583_5523,583_5536,583_5526",
-]
-entrySelector = 'nwa-offer-tile'
-titleSelector = "h3 span.tile__text"
-linkSelector = "a.tile"
-contentSelector = [ 'div.parameters__wrapper > div:nth-child(1) span.parameters__value', 'div.parameters__wrapper > div:nth-child(2) span.parameters__value', 'div.parameters__wrapper > div:nth-child(3) span.parameters__value' ]
-dateSelector = 'div.parameters__wrapper > div:nth-child(4) span.parameters__value'
-waitUntil = "networkidle"
+# [autoplac]
+# title = "Autoplac"
+# url = [
+# "https://autoplac.pl/oferty/samochody-osobowe/audi/a4/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=45_333,45_357,45_341,45_351",
+# "https://autoplac.pl/oferty/samochody-osobowe/ford/mondeo/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=206_2457,206_2428",
+# "https://autoplac.pl/oferty/samochody-osobowe/peugeot/408/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=444_4601,444_4599,444_4576",
+# "https://autoplac.pl/oferty/samochody-osobowe/volkswagen/arteon/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=582_5468,582_5502,582_5469,582_5500,582_5487",
+# "https://autoplac.pl/oferty/samochody-osobowe/kia/ceed/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=303_3250,303_3233",
+# "https://autoplac.pl/oferty/samochody-osobowe/volvo/v60/pomin-aukcje/uzywane/cena-do-100-tysiecy/kombi?yearFrom=2021&enginePowerFrom=130&brandNewVehicles=false&orderBy=PRICE&sortOrder=ASC&mileageTo=150000&brandModelIds=583_5569,583_5523,583_5536,583_5526",
+# ]
+# entrySelector = 'nwa-offer-tile'
+# titleSelector = "h3 span.tile__text"
+# linkSelector = "a.tile"
+# contentSelector = [ 'div.parameters__wrapper > div:nth-child(1) span.parameters__value', 'div.parameters__wrapper > div:nth-child(2) span.parameters__value', 'div.parameters__wrapper > div:nth-child(3) span.parameters__value' ]
+# dateSelector = 'div.parameters__wrapper > div:nth-child(4) span.parameters__value'
+# waitUntil = "networkidle"
 
 # [NoFluffJobs]
 # url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
