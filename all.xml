@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-08T17:56:42.248Z</updated>
+    <updated>2026-08-09T06:07:41.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
@@ -134,7 +134,7 @@
         <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6IbVPr.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6IbVPr.html"/>
-        <updated>2026-08-08T17:56:27.523Z</updated>
+        <updated>2026-08-08T17:56:27.485Z</updated>
         <content type="html"><![CDATA[    114 990]]></content>
     </entry>
     <entry>
@@ -213,13 +213,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-3008-ID6I9Jkh.html"/>
         <updated>2026-07-22T18:40:25.253Z</updated>
         <content type="html"><![CDATA[124 452 km Benzyna Automatyczna 2021 89 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peugeot 5008 PureTech 180 EAT8 Stop & Start GT (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I9ut0.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-5008-ID6I9ut0.html"/>
-        <updated>2026-07-22T18:40:25.254Z</updated>
-        <content type="html"><![CDATA[99 900 km Benzyna Automatyczna 2023 116 990]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peugeot 5008 1.6 PureTech GT S&S EAT8 (Otomoto)]]></title>
@@ -488,13 +481,6 @@
         <content type="html"><![CDATA[3 016 km Benzyna Automatyczna 2025 110 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi Q5 45 TFSI mHEV Quattro S tronic (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ia48p.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ia48p.html"/>
-        <updated>2026-08-02T18:28:58.988Z</updated>
-        <content type="html"><![CDATA[124 000 km Benzyna Automatyczna 2020 99 889]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audi Q5 45 TFSI quattro S tronic (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ia2n0.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6Ia2n0.html"/>
@@ -528,6 +514,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I9PcO.html"/>
         <updated>2026-07-23T07:56:10.972Z</updated>
         <content type="html"><![CDATA[46 609 km Benzyna Automatyczna 2024 90 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi Q5 (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I9NWW.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-q5-ID6I9NWW.html"/>
+        <updated>2026-08-09T06:07:29.967Z</updated>
+        <content type="html"><![CDATA[98 000 km Benzyna Automatyczna 2021 89 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo XC 60 B4 B Momentum Pro (Otomoto)]]></title>
@@ -670,6 +663,20 @@
         <content type="html"><![CDATA[    116 900]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volvo V60 B4 B Geartronic RDesign (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Iaqgc.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Iaqgc.html"/>
+        <updated>2026-08-09T06:07:40.915Z</updated>
+        <content type="html"><![CDATA[    105 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B4 B Geartronic Inscription (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Iaqfk.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Iaqfk.html"/>
+        <updated>2026-08-09T06:07:40.916Z</updated>
+        <content type="html"><![CDATA[    104 900]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Volvo XC 40 B3 Plus Dark (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6Ib4lr.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6Ib4lr.html"/>
@@ -689,20 +696,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6Iam0v.html"/>
         <updated>2026-08-08T17:56:41.629Z</updated>
         <content type="html"><![CDATA[    109 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 T4 Momentum (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HYYxK.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6HYYxK.html"/>
-        <updated>2026-08-08T06:05:28.930Z</updated>
-        <content type="html"><![CDATA[    114 999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo XC 60 B4 B Momentum Pro (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6IbP7y.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-xc-60-ID6IbP7y.html"/>
-        <updated>2026-08-07T18:10:32.164Z</updated>
-        <content type="html"><![CDATA[    119 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B Core (Otomoto)]]></title>
