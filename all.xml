@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-28T22:36:57.794Z</updated>
+    <updated>2026-09-29T11:29:20.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/peugeot-508-ID6Igkbe.html"/>
         <updated>2026-09-28T22:36:36.350Z</updated>
         <content type="html"><![CDATA[139 871 km Benzyna Automatyczna 2022 78 700]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Igo70.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Igo70.html"/>
+        <updated>2026-09-29T11:29:05.055Z</updated>
+        <content type="html"><![CDATA[6 500 km Hybryda Automatyczna 2024 65 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic advanced (Otomoto)]]></title>
@@ -132,13 +139,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Iezft.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Iezft.html"/>
-        <updated>2026-09-27T21:03:17.640Z</updated>
-        <content type="html"><![CDATA[137 000 km Benzyna Automatyczna 2023 92 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audi A4 Avant (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Ig5ov.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Ig5ov.html"/>
         <updated>2026-09-27T21:03:17.629Z</updated>
@@ -149,6 +149,13 @@
         <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Ig3IB.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Ig3IB.html"/>
         <updated>2026-09-27T21:03:17.632Z</updated>
+        <content type="html"><![CDATA[    99 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi A4 Avant (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6IfmRC.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6IfmRC.html"/>
+        <updated>2026-09-27T21:03:17.633Z</updated>
         <content type="html"><![CDATA[    99 900]]></content>
     </entry>
     <entry>
@@ -187,11 +194,11 @@
         <content type="html"><![CDATA[    99 999]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audi A4 Avant 35 TFSI S tronic sport (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6IeJJx.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6IeJJx.html"/>
-        <updated>2026-09-27T21:03:17.639Z</updated>
-        <content type="html"><![CDATA[    85 900]]></content>
+        <title type="html"><![CDATA[Audi A4 Avant (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Iezft.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/audi-a4-avant-ID6Iezft.html"/>
+        <updated>2026-09-27T21:03:17.640Z</updated>
+        <content type="html"><![CDATA[137 000 km Benzyna Automatyczna 2023 92 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audi A4 Avant 35 TFSI mHEV S tronic (Otomoto)]]></title>
@@ -283,6 +290,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Ig9Az.html"/>
         <updated>2026-09-27T21:03:21.845Z</updated>
         <content type="html"><![CDATA[140 185 km Benzyna Automatyczna 2023 90 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo V60 B3 B DKG Momentum (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Ig3V5.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Ig3V5.html"/>
+        <updated>2026-09-29T11:29:10.798Z</updated>
+        <content type="html"><![CDATA[134 900 km Benzyna Automatyczna 2022 79 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volvo V60 B3 B DKG RDesign (Otomoto)]]></title>
@@ -433,13 +447,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Iff0K.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Iff0K.html"/>
-        <updated>2026-09-27T21:03:27.591Z</updated>
-        <content type="html"><![CDATA[39 743 km Benzyna Manualna 2024 96 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If6dS.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If6dS.html"/>
         <updated>2026-09-27T21:03:27.592Z</updated>
@@ -458,6 +465,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If5kd.html"/>
         <updated>2026-09-27T21:03:27.593Z</updated>
         <content type="html"><![CDATA[54 477 km Benzyna Automatyczna 2023 99 890]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI GT Line DCT (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If4wI.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If4wI.html"/>
+        <updated>2026-09-27T21:03:27.600Z</updated>
+        <content type="html"><![CDATA[41 900 km Benzyna Automatyczna 2022 96 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI GT Line (Otomoto)]]></title>
@@ -514,13 +528,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeOFr.html"/>
         <updated>2026-09-27T21:03:27.606Z</updated>
         <content type="html"><![CDATA[    89 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI GT Line DCT (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If4wI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If4wI.html"/>
-        <updated>2026-09-27T21:03:27.600Z</updated>
-        <content type="html"><![CDATA[41 900 km Benzyna Automatyczna 2022 97 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI DCT7 OPF GT LINE (Otomoto)]]></title>
@@ -619,5 +626,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IegXU.html"/>
         <updated>2026-09-27T21:03:27.614Z</updated>
         <content type="html"><![CDATA[32 217 km Benzyna Automatyczna 2022 94 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI mHEV GT Line DCT (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Iefck.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Iefck.html"/>
+        <updated>2026-09-29T11:29:17.913Z</updated>
+        <content type="html"><![CDATA[73 000 km Benzyna Automatyczna 2023 96 900]]></content>
     </entry>
 </feed>
