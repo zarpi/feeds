@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508/seg-combi/od-2022?search%5Bfilter_enum_fuel_type%5D%5B0%5D=hybrid&amp;search%5Bfilter_enum_fuel_type%5D%5B1%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=130&amp;search%5Bfilter_float_mileage%3Afrom%5D=70000&amp;search%5Bfilter_float_mileage%3Ato%5D=150000&amp;search%5Bfilter_float_price%3Afrom%5D=60000&amp;search%5Bfilter_float_price%3Ato%5D=100000&amp;search%5Border%5D=filter_float_price%3Aasc&amp;search%5Badvanced_search_expanded%5D=true</id>
     <title>Otomoto</title>
-    <updated>2026-10-01T21:55:30.021Z</updated>
+    <updated>2026-10-02T11:14:39.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -517,11 +517,11 @@
         <content type="html"><![CDATA[131 700 km Benzyna Automatyczna 2022 73 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI OPF GT LINE]]></title>
+        <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI GT Line]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html"/>
         <updated>2026-09-27T21:03:27.594Z</updated>
-        <content type="html"><![CDATA[    73 900]]></content>
+        <content type="html"><![CDATA[    72 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed]]></title>
@@ -657,11 +657,11 @@
         <content type="html"><![CDATA[117 000 km Benzyna Automatyczna 2024 89 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI OPF GT LINE]]></title>
+        <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI GT Line]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html"/>
         <updated>2026-09-27T21:03:27.594Z</updated>
-        <content type="html"><![CDATA[71 300 km Benzyna Manualna 2022 73 900]]></content>
+        <content type="html"><![CDATA[71 300 km Benzyna Manualna 2022 72 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed]]></title>
