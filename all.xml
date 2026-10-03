@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarpi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-03T10:32:05.130Z</updated>
+    <updated>2026-10-03T20:04:18.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Peugeot 508 (Otomoto)]]></title>
@@ -467,13 +467,6 @@
         <content type="html"><![CDATA[56 800 km Benzyna Manualna 2022 88 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI GT Line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IghuI.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IghuI.html"/>
-        <updated>2026-09-27T21:03:27.582Z</updated>
-        <content type="html"><![CDATA[71 000 km Benzyna Manualna 2022 86 800]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kia ProCeed 1.6 T-GDI GT DCT (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Igh7I.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6Igh7I.html"/>
@@ -516,6 +509,13 @@
         <content type="html"><![CDATA[65 091 km Benzyna Automatyczna 2023 100 000]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI GT Line (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IfAlT.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IfAlT.html"/>
+        <updated>2026-09-27T21:03:27.588Z</updated>
+        <content type="html"><![CDATA[89 167 km Benzyna Manualna 2023 92 800]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kia ProCeed 1.0 T-GDI GT Line (Otomoto)]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html"/>
@@ -528,6 +528,13 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IfBRn.html"/>
         <updated>2026-09-27T21:03:27.587Z</updated>
         <content type="html"><![CDATA[    100 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6I9LkD.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6I9LkD.html"/>
+        <updated>2026-10-03T20:04:15.800Z</updated>
+        <content type="html"><![CDATA[    79 900]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
@@ -563,20 +570,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6GBi4F.html"/>
         <updated>2026-09-30T21:30:12.724Z</updated>
         <content type="html"><![CDATA[    99 900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If0uy.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6If0uy.html"/>
-        <updated>2026-09-27T21:03:27.602Z</updated>
-        <content type="html"><![CDATA[    75 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kia ProCeed 1.5 T-GDI GT Line (Otomoto)]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IfAlT.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IfAlT.html"/>
-        <updated>2026-09-27T21:03:27.588Z</updated>
-        <content type="html"><![CDATA[89 167 km Benzyna Manualna 2023 92 800]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
@@ -675,5 +668,12 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IeIPN.html"/>
         <updated>2026-09-27T21:03:27.594Z</updated>
         <content type="html"><![CDATA[71 300 km Benzyna Manualna 2022 72 900]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kia ProCeed (Otomoto)]]></title>
+        <id>https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IenC0.html</id>
+        <link href="https://www.otomoto.pl/osobowe/oferta/kia-pro-ceed-ID6IenC0.html"/>
+        <updated>2026-10-03T20:04:15.831Z</updated>
+        <content type="html"><![CDATA[82 000 km Benzyna Automatyczna 2023 99 000]]></content>
     </entry>
 </feed>
