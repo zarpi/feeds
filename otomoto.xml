@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.otomoto.pl/osobowe/peugeot/508/seg-combi/od-2022?search%5Bfilter_enum_fuel_type%5D%5B0%5D=hybrid&amp;search%5Bfilter_enum_fuel_type%5D%5B1%5D=petrol&amp;search%5Bfilter_float_engine_power%3Afrom%5D=130&amp;search%5Bfilter_float_mileage%3Afrom%5D=70000&amp;search%5Bfilter_float_mileage%3Ato%5D=150000&amp;search%5Bfilter_float_price%3Afrom%5D=60000&amp;search%5Bfilter_float_price%3Ato%5D=100000&amp;search%5Border%5D=filter_float_price%3Aasc&amp;search%5Badvanced_search_expanded%5D=true</id>
     <title>Otomoto</title>
-    <updated>2026-10-04T20:20:12.822Z</updated>
+    <updated>2026-10-05T12:29:30.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://statics.otomoto.pl/optimus-storage/a/otomotopl/images/favicon-32x32.png</icon>
     <entry>
@@ -377,13 +377,6 @@
         <content type="html"><![CDATA[134 716 km Benzyna Automatyczna 2022 84 900]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volvo V60 Cross Country B5 B AWD Plus]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6Ieo1N.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-cross-country-ID6Ieo1N.html"/>
-        <updated>2026-09-27T21:03:21.850Z</updated>
-        <content type="html"><![CDATA[32 043 km Benzyna Automatyczna 2025 79 000]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volvo V60]]></title>
         <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Id9qw.html</id>
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6Id9qw.html"/>
@@ -396,13 +389,6 @@
         <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6IcK72.html"/>
         <updated>2026-09-27T21:03:21.853Z</updated>
         <content type="html"><![CDATA[95 648 km Benzyna Automatyczna 2022 95 899]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo V60 B3 B Essential]]></title>
-        <id>https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6I3sUc.html</id>
-        <link href="https://www.otomoto.pl/osobowe/oferta/volvo-v60-ID6I3sUc.html"/>
-        <updated>2026-09-30T11:17:12.745Z</updated>
-        <content type="html"><![CDATA[30 200 km Benzyna Automatyczna 2023 100 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kia ProCeed 1.6 T-GDI GT DCT]]></title>
